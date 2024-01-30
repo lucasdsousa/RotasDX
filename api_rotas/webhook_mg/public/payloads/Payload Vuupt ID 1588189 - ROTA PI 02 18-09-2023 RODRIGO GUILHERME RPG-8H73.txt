@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG8H73"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91669480372"
+        }
+      ],
+      "rota_descricao": "ROTA PI 02 18/09/2023 RODRIGO GUILHERME RPG-8H73",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Joaquim Manoel, 109, Centro, Valenca do Piaui - PI 64300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.407467",
+          "refe_longitude": "-41.738050"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Getulio Vargas, 358, Centro, Picos - PI 64600-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.079111",
+          "refe_longitude": "-41.467795"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Neco Teixeira, 809, Centro, Agua Branca - PI 64460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.889624",
+          "refe_longitude": "-42.635608"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Antonio Cornelio Siqueira, 33, Centro, Agua Branca - PI 64460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.887911",
+          "refe_longitude": "-42.632633"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Antonio Cornelio Siqueira, 33, Centro, Agua Branca - PI 64460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.887911",
+          "refe_longitude": "-42.632633"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Deputado Raimundo de Sa Urtiga, 783, Bomba, Picos - PI 64601-382, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.076169",
+          "refe_longitude": "-41.472056"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Deputado Raimundo de Sa Urtiga, 783, Bomba, Picos - PI 64601-382, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.076169",
+          "refe_longitude": "-41.472056"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR-316, SN, Altamira, Picos - PI 64600-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.068889",
+          "refe_longitude": "-41.509483"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Getulio Vargas, 358, Centro, Picos - PI 64600-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.079111",
+          "refe_longitude": "-41.467795"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Neco Teixeira, 1570, Centro, Agua Branca - PI 64460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.890808",
+          "refe_longitude": "-42.643184"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "18/09/2023 23:08:57"
+    }
+  ]
+}"

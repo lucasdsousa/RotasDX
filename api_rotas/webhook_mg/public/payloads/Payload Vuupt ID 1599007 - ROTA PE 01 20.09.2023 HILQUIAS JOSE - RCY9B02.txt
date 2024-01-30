@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 20.09.2023 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida General Manoel Rabelo, 18, Sucupira, Jaboatao dos Guararapes - PE 54280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.108305",
+          "refe_longitude": "-34.991750"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia 101, 90, Jardim Sao Paulo, Recife - PE 50910-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.127961",
+          "refe_longitude": "-34.943341"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 5855, Boa Viagem, Recife - PE 51210-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.134980",
+          "refe_longitude": "-34.916332"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Engenheiro Abdias de Carvalho, 90, Prado, Recife - PE 50750-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062206",
+          "refe_longitude": "-34.913811"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Antonio da Costa Azevedo, 90, Peixinhos, Olinda - PE 53220-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.017235",
+          "refe_longitude": "-34.872880"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Doutor Rinaldo de Pinho Alves, 2905, Paratibe, Paulista - PE 53411-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.936836",
+          "refe_longitude": "-34.899888"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "20/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 13:38:57"
+    }
+  ]
+}"

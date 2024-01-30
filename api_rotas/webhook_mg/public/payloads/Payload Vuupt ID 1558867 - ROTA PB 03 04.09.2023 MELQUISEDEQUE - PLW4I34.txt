@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW4I34"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05633177444"
+        }
+      ],
+      "rota_descricao": "ROTA PB 03 04.09.2023 MELQUISEDEQUE - PLW4I34",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "viag_previsao_inicio": "04/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 05:29:43"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002118",
+  "cnpj_embarcador": "05092901002118",
+  "cnpj_transportador": "05092901002118",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1579756,
+  "numero_liberacao": 1579756,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "REINALDO BENEDITO DA SILVA",
+    "cpf": "83095900406",
+    "telefone": "+556999356534"
+  },
+  "veiculos": {
+    "placa": "RPB0C02"
+  },
+  "origem": {
+    "codigo_externo": "05092901002118",
+    "descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+    "latitude": -8.790057,
+    "longitude": -63.851508
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 09:30:00",
+  "data_previsao_fim": "12/09/2023 18:48:53",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03915997000106",
+            "descricao": "COMERCIO DE DERIVADOS DE PETROLEO MRA LTDA",
+            "latitude": "-8.747783",
+            "longitude": "-63.887994",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:43:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3599.7",
+                  "volume": "51",
+                  "peso": "1135.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "63755987000174",
+            "descricao": "J. L. DA COSTA & CIA LTDA",
+            "latitude": "-8.742124",
+            "longitude": "-63.913188",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:17:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "800",
+                  "volume": "10",
+                  "peso": "229"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02393780000293",
+            "descricao": "MIRIAN VILHENA AUTO POSTO C DE COMBUSTIVEIS LUBRIFICANTES G",
+            "latitude": "-9.505562",
+            "longitude": "-64.807274",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:05:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6499",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34770685000258",
+            "descricao": "IRMAOS RUSSI LTDA FILIAL 02",
+            "latitude": "-8.795812",
+            "longitude": "-63.700415",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:14:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9750",
+                  "volume": "150",
+                  "peso": "3435"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,55 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002118",
+  "cnpj_embarcador": "05092901002118",
+  "cnpj_transportador": "05092901002118",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1569336,
+  "numero_liberacao": 1569336,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "REINALDO BENEDITO DA SILVA",
+    "cpf": "83095900406",
+    "telefone": "+556999356534"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB0C02"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901002118",
+    "descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+    "logradouro": "BR364",
+    "numero": " 9370 ",
+    "complemento": "0",
+    "bairro": "Floresta",
+    "cidade": " Porto Velho ",
+    "estado": "RO",
+    "latitude": -8.790057,
+    "longitude": -63.851508,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " 76816800"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 15:30:00",
+  "data_previsao_fim": "06/09/2023 23:20:24",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

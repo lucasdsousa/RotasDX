@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC2H98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "54996333391"
+        }
+      ],
+      "rota_descricao": "Rota MA 03 25/08/2023 Joab Farias Pinho RPC2H98",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Gov. Luiz Rocha, 18, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.521756",
+          "refe_longitude": "-46.048527"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Duque de Caxias, 90 - Centro, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.524685",
+          "refe_longitude": "-46.042914"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Gov. Luiz Rocha, 18, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.521756",
+          "refe_longitude": "-46.048527"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Contorno, 250, Centro, Balsas - MA 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.532129",
+          "refe_longitude": "-46.047139"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Jose Sarney, 785, Area Avancada, Fortaleza dos Nogueiras - MA 65805-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.965674",
+          "refe_longitude": "-46.172672"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-135, S\u00e3o Domingos do Maranh\u00e3o - MA, 65790-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.576695",
+          "refe_longitude": "-44.382405"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Santo Amaro, 1310, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.504489",
+          "refe_longitude": "-46.029466"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Humberto de Campos, 87, Gra\u00e7a Aranha - MA, 65785-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.408023",
+          "refe_longitude": "-44.329407"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Mirador - MA, 65850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.360493",
+          "refe_longitude": "-44.363770"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-135, S\u00e3o Domingos do Maranh\u00e3o - MA, 65790-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.576695",
+          "refe_longitude": "-44.382405"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Domingos Sertao, 2007, Sao Jose, Pastos Bons - MA 65870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.603217",
+          "refe_longitude": "-44.090697"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Gov. Luiz Rocha, 160 - Potosi, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.522181",
+          "refe_longitude": "-46.038945"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Presidente Medici, 1740, Centro, Sao Joao dos Patos - MA 65665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.492924",
+          "refe_longitude": "-43.707473"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Presidente Medici, 1740, Centro, Sao Joao dos Patos - MA 65665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.492924",
+          "refe_longitude": "-43.707473"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "BR-135, S\u00e3o Domingos do Maranh\u00e3o - MA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.659539",
+          "refe_longitude": "-44.358874"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "25/09/2023 08:30:00",
+      "viag_previsao_fim": "29/09/2023 09:58:06"
+    }
+  ]
+}"

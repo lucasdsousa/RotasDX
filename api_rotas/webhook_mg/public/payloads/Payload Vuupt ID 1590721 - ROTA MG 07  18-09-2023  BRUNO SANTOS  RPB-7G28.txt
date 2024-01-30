@@ -1,0 +1,360 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB7G28"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "12312629666"
+        }
+      ],
+      "rota_descricao": "ROTA MG 07  18/09/2023  BRUNO SANTOS  RPB-7G28",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "V\u00e1rzea da Palma, MG, 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.598914",
+          "refe_longitude": "-44.733154"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Dom Pedro I., 980 - A Definir, V\u00e1rzea da Palma - MG, 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.600620",
+          "refe_longitude": "-44.739150"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Tomas Antonio Gonzaga, 99, Pinlar, Varzea da Palma - MG 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.599281",
+          "refe_longitude": "-44.734276"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Bar\u00e3o do Guaicui, 1471 - V\u00e1rzea da Palma, MG, 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.598590",
+          "refe_longitude": "-44.733230"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Salvador Roberto, 1082, centro, Varzea da Palma - MG 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.597838",
+          "refe_longitude": "-44.729986"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Lassance, MG, 39250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.886552",
+          "refe_longitude": "-44.576407"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Tomaz Antonio Gonzaga, 180, Pinlar, Varzea da Palma - MG 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.601872",
+          "refe_longitude": "-44.738368"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 496, SN, Pinlar, Varzea da Palma - MG 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.598157",
+          "refe_longitude": "-44.731908"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Conego Ramiro Leite, 1790, Vila Brasilina, Januaria - MG 39480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.471459",
+          "refe_longitude": "-44.374908"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Mal Deodoro da Fonseca, 370, Centro, Januaria - MG 39480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.490899",
+          "refe_longitude": "-44.365014"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Bernardino Souto, 57, Vila Regina, Montes Claros - MG 39400-208, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.715079",
+          "refe_longitude": "-43.858982"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Marechal Deodoro da Fonseca, 555, Centro, Januaria - MG 39480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.492555",
+          "refe_longitude": "-44.366491"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Montes Claros, 1156, S\u00e3o Francisco - MG, 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.952062",
+          "refe_longitude": "-44.857717"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida dos Andradas, 57, Belo Horizonte, Buritizeiro - MG 39280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.378760",
+          "refe_longitude": "-44.967293"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Mal Deodoro da Fonseca, 370, Centro, Januaria - MG 39480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.490899",
+          "refe_longitude": "-44.365014"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Marechal Deodoro da Fonseca, 555, Centro, Januaria - MG 39480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.492555",
+          "refe_longitude": "-44.366491"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Donato Quintino, 225, Canelas, Montes Claros - MG 39400-546, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.740234",
+          "refe_longitude": "-43.869579"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Herculano Cintra Mour\u00e3o, 2005 - S\u00e3o Jo\u00e3o Batista, Pirapora - MG, 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.343657",
+          "refe_longitude": "-44.919734"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Manoel Joaquim de Melo, 1930, Belo Horizonte, Buritizeiro - MG 39280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.372026",
+          "refe_longitude": "-44.966699"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Das Americas, 644, Joao Alves, Montes Claros - MG 39402-297, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.745174",
+          "refe_longitude": "-43.849192"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Jose Jorge Hatem, 288, Santos Dumont, Pirapora - MG 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.341820",
+          "refe_longitude": "-44.935168"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Antonio Ferreira Oliveira, 555, Monte Carmelo, Montes Claros - MG 39409-999, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.724405",
+          "refe_longitude": "-43.839465"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Otaviano Costa Alkimin, 79, Nova Pirapora, Pirapora - MG 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.335565",
+          "refe_longitude": "-44.925459"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Buritizeiro - MG, 39280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.382610",
+          "refe_longitude": "-44.974960"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rua Ciro Magalhaes Freire, 560, Sao Joao Batista, Pirapora - MG 39272-352, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.344470",
+          "refe_longitude": "-44.920148"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Marciano Simoes, 81, Alto Sao Joao, Montes Claros - MG 39400-319, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.717370",
+          "refe_longitude": "-43.853204"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Das Americas, 125, Joao Alves, Montes Claros - MG 39402-297, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.747943",
+          "refe_longitude": "-43.853466"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. Dep. Pl\u00ednio Ribeiro, 3969 - Jardim Palmeiras, Montes Claros - MG, 39402-194, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.746326",
+          "refe_longitude": "-43.846054"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Bom Jesus, 343, Centro, Mirabela - MG 39373-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.255099",
+          "refe_longitude": "-44.161978"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Coronel Sansao, 601, Centro, Brasilia de Minas - MG 39330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.210345",
+          "refe_longitude": "-44.430548"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Av. Pio XII, 1554 - Santos Dumont, Pirapora - MG, 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.343642",
+          "refe_longitude": "-44.923243"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "R. Bonif\u00e1cio Machado de Miranda, 1645, Pirapora - MG, 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.322130",
+          "refe_longitude": "-44.917631"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Jose Borges Monteiro, 230, Centro, Bonito de Minas - MG 39490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.321892",
+          "refe_longitude": "-44.758986"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "R. Rodolfo Malard, 501 - Buritizeiro, MG, 39280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.358330",
+          "refe_longitude": "-44.960677"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Av. Montes Claros, 1156, S\u00e3o Francisco - MG, 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.952062",
+          "refe_longitude": "-44.857717"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Deputado Plinio Ribeiro, 2362, Cintra, Montes Claros - MG 39400-698, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.729250",
+          "refe_longitude": "-43.845698"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "R. Esmeralda, 1365 - V\u00e1rzea da Palma, MG, 39260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.600918",
+          "refe_longitude": "-44.726794"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Avenida Jefferson Gitirana, 154, Nova Pirapora, Pirapora - MG 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.342547",
+          "refe_longitude": "-44.923100"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Avenida Jefferson Gitirana, 754, Nova Pirapora, Pirapora - MG 39270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.336553",
+          "refe_longitude": "-44.925766"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "R. Filomeno Oliveira, 292 - S\u00c3O FRANCISCO, S\u00e3o Jo\u00e3o da Lagoa - MG, 39355-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.855181",
+          "refe_longitude": "-44.350500"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Rua Joao Celestino da Rocha, 432, Buriti, Coracao de Jesus - MG 39340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.695217",
+          "refe_longitude": "-44.358806"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Av. Montes Claros, 1156, S\u00e3o Francisco - MG, 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.952062",
+          "refe_longitude": "-44.857717"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Avenida Montes Claros, 683, Centro, Sao Francisco - MG 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.950679",
+          "refe_longitude": "-44.861987"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Rua Joao Celestino da Rocha, 432, Buriti, Coracao de Jesus - MG 39340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.695217",
+          "refe_longitude": "-44.358806"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Rua Jose Aguiar, 1125, Jardim Regalito, Sao Francisco - MG 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.956088",
+          "refe_longitude": "-44.862824"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Av. Bras\u00edlia de Minas - S\u00e3o Francisco, MG, 39300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.953460",
+          "refe_longitude": "-44.860102"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 00:40:16"
+    }
+  ]
+}"

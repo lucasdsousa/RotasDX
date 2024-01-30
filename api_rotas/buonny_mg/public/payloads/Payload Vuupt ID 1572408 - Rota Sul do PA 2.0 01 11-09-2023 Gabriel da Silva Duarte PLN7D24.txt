@@ -1,0 +1,68 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001499",
+  "cnpj_embarcador": "05092901001499",
+  "cnpj_transportador": "05092901001499",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572408,
+  "numero_liberacao": 1572408,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "GABRIEL DA SILVA DUARTE",
+    "cpf": "61782540326",
+    "telefone": "+5599991557761"
+  },
+  "veiculos": {
+    "placa": "PLN7D24"
+  },
+  "origem": {
+    "codigo_externo": "05092901001499",
+    "descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+    "latitude": -5.4451,
+    "longitude": -47.47358
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 08:00:00",
+  "data_previsao_fim": "14/09/2023 10:55:08",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "67342",
+            "descricao": "FERMAQUINAS COMERCIO DE MAQUINAS E FERRAMENTAS LTDA FILIAL 3",
+            "latitude": "-6.537339",
+            "longitude": "-49.850021",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 19:31:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "3129.3"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

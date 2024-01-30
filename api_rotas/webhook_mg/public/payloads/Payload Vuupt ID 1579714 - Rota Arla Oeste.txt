@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCR6J24"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "97201286587"
+        }
+      ],
+      "rota_descricao": "Rota Arla Oeste",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "AV. ANT\u00d4NIO CARLOS MAGALHAES, 8192, JARDINS, BARREIRAS - BAHIA 47803-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.138061",
+          "refe_longitude": "-44.920710"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "ROD. BA 242, SN, AREA RURAL DE BARREIRA, BARREIRAS - BAHIA 47819-899, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.147844",
+          "refe_longitude": "-44.995541"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "ROD. BR 242, SN, POVOADO DE LAGOA DO OSCAR, CRIST\u00d3POLIS - BAHIA 47950-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.222782",
+          "refe_longitude": "-44.272542"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "ROD. BR 242, S/N, ZONA RURAL, IBOTIRAMA - BAHIA 47520-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.177961",
+          "refe_longitude": "-43.218459"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "ROD. BR 242, SN, JAVI, MUQU?M DE S?O FRANCISCO - BAHIA 47115-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.212883",
+          "refe_longitude": "-43.565496"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "AV. JUSCELINO KUBITSCHEK, 2734, JARDIM PARA\u00cdSO, LU\u00cdS EDUARDO MAGALH\u00c3ES - BAHIA, 47850-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.082668",
+          "refe_longitude": "-45.789418"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "AV. AHYLON MACEDO, 13013, CENTRO, BARREIRAS - BAHIA 47800-970, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.143907",
+          "refe_longitude": "-45.008930"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "ROD. BR 242/020, SN, AREA RURAL DE BARREIRA, BARREIRAS - BAHIA 47819-899, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.129572",
+          "refe_longitude": "-45.016843"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "DIST. DE RODA VELHA, SN, CENTRO, S\u00c3O DESID\u00c9RIO - BAHIA, 47827-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.782456",
+          "refe_longitude": "-45.951931"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "12/09/2023 11:00:00",
+      "viag_previsao_fim": "15/09/2023 06:12:52"
+    }
+  ]
+}"

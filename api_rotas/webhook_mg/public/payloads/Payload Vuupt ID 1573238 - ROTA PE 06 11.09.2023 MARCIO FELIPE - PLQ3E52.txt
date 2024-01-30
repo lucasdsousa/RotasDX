@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ3E52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09213537409"
+        }
+      ],
+      "rota_descricao": "ROTA PE 06 11.09.2023 MARCIO FELIPE - PLQ3E52",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Campina Grande, 138, Mauricio de Nassau, Caruaru - PE 55014-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.270646",
+          "refe_longitude": "-35.980704"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coronel Jose Pessoa, S/N, Centro, Saire - PE 55695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.327561",
+          "refe_longitude": "-35.709431"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Campina Grande, 1607, Caiuca, Caruaru - PE 55034-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.268392",
+          "refe_longitude": "-35.979122"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Campina Grande, 1607, Caiuca, Caruaru - PE 55034-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.268392",
+          "refe_longitude": "-35.979122"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 232, SN, Alto do Rosario, Sao Caitano - PE 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328654",
+          "refe_longitude": "-36.148746"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Independencia, 1330, Kennedy, Caruaru - PE 55036-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.285672",
+          "refe_longitude": "-35.996227"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Hermes Viegas Rocha, 160, Distrito Industrial, Caruaru - PE 55045-035, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.298968",
+          "refe_longitude": "-36.010813"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Dr Joaquim Nabuco, 85, Centro, Sao Bento do Una - PE 55370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.520939",
+          "refe_longitude": "-36.444211"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Sitio Estreito, SN, Zona Rural, Tacaimbo - PE 55140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.356301",
+          "refe_longitude": "-36.284775"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 232, SN, Alto do Rosario, Sao Caitano - PE 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328654",
+          "refe_longitude": "-36.148746"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia BR 104, SN, Zona Rural, Caruaru - PE 55002-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.535600",
+          "refe_longitude": "-36.006475"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. da Palestina - \u00c1gua Fria, Belo Jardim - PE, 55152-810, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.346720",
+          "refe_longitude": "-36.440000"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Barao de Cimbres, 97, Sao Sebastiao, Pesqueira - PE 55200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.358668",
+          "refe_longitude": "-36.696892"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Cajazeiras, 12406, Vice Pref. Iraldemir Aquino de Freitas, Sanharo - PE 55250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.362320",
+          "refe_longitude": "-36.560448"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Antonio Paes de Lira, 615, Alto da Boa Vista, Pedra - PE 55280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.502237",
+          "refe_longitude": "-36.934404"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "11/09/2023 05:00:00",
+      "viag_previsao_fim": "12/09/2023 18:10:45"
+    }
+  ]
+}"

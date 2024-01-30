@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC1H03"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11291412417"
+        }
+      ],
+      "rota_descricao": "ROTA AL 02 25.09.2023 ALECIO LINS - RPC1H03",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Vereador Venancio Rocha Dos Santos, SN, Colonia Pindorama, Coruripe - AL 57230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.154158",
+          "refe_longitude": "-36.335526"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Alameda 101, 01, Zona Urbana, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.486175",
+          "refe_longitude": "-35.574186"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 101, SN, Cha da Mangueira, Sao Miguel dos Campos - AL 57240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.790901",
+          "refe_longitude": "-36.105656"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia AL 101, 95, Zona Urbana, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.050960",
+          "refe_longitude": "-35.399521"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Pedro Fernandes da Costa, 163, Centro, Sao Miguel dos Campos - AL 57240-056, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.778528",
+          "refe_longitude": "-36.099146"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 101, S/N, Povoado Olho D'agua, Junqueiro - AL 57270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.897042",
+          "refe_longitude": "-36.459092"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Vereador Venancio Rocha Dos Santos, SN, Colonia Pindorama, Coruripe - AL 57230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.154158",
+          "refe_longitude": "-36.335526"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 101, 1997, Centro, Teotonio Vilela - AL 57265-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.894892",
+          "refe_longitude": "-36.373019"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Marechal Deodoro da Fonseca, 611, Brasilia, Arapiraca - AL 57301-185, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.758590",
+          "refe_longitude": "-36.650221"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Governador Antonio Semeao Lamenha Filho, 452, Jardim Tropical, Arapiraca - AL 57316-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.759340",
+          "refe_longitude": "-36.643229"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Sen Ismael Brandao, SN, Centro, Vicosa - AL 57700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.373537",
+          "refe_longitude": "-36.251086"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia AL 210, 01, Faz Alto Conceicao, Vicosa - AL 57700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.369400",
+          "refe_longitude": "-36.242740"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia Dr Geraldo Cavalcante Cajueiro, 05, Boa Vista, Arapiraca - AL 57303-225, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.748865",
+          "refe_longitude": "-36.633341"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "25/09/2023 05:00:00",
+      "viag_previsao_fim": "26/09/2023 19:02:04"
+    }
+  ]
+}"

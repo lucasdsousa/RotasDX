@@ -1,0 +1,255 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG1F22"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03175334520"
+        }
+      ],
+      "rota_descricao": "ROTA BA06 18/09/2023 ANDERSON MENEZES RPG-IF22",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 242, SN, Vila Brasilia, Lajedinho - BA 46825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.468560",
+          "refe_longitude": "-40.947942"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 242, SN, Laranjeiras, Seabra - BA, 46900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.407999",
+          "refe_longitude": "-41.870216"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 242, SN, Vila Brasilia, Lajedinho - BA 46825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.468560",
+          "refe_longitude": "-40.947942"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 242, SN, Zona Rural, Catolandia - BA 47845-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.167998",
+          "refe_longitude": "-44.868688"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 242, SN, Sede, Ibotirama - BA 47520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.177043",
+          "refe_longitude": "-43.217162"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 242, 41, Sede, Itaberaba - BA 46880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.510805",
+          "refe_longitude": "-40.311388"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rafael Jambeiro, BA, 44520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.408370",
+          "refe_longitude": "-39.500980"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 242, S/N, Boa Vista de Cananeia, Seabra - BA 46900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.429042",
+          "refe_longitude": "-41.782690"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Da Estacao, 08, Centro, Itaberaba - BA 46880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.531970",
+          "refe_longitude": "-40.304243"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 242, S/N, Novo Horizonte, Barreiras - BA 47808-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142642",
+          "refe_longitude": "-44.977831"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Benedita Silveira, 78, Centro, Barreiras - BA 47800-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.148918",
+          "refe_longitude": "-44.999109"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua 26 de Maio, 363, Centro, Barreiras - BA 47800-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.149622",
+          "refe_longitude": "-44.998825"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BA 242, SN, Area Rural de Barreira, Barreiras - BA 47819-899, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.147640",
+          "refe_longitude": "-44.995221"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 4818, Jardins, Barreiras - BA 47803-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142009",
+          "refe_longitude": "-44.964827"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua 26 de Maio, 363, Centro, Barreiras - BA 47800-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.149622",
+          "refe_longitude": "-44.998825"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia BA 242, SN, Area Rural de Barreira, Barreiras - BA 47819-899, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.147640",
+          "refe_longitude": "-44.995221"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 2734, Serra do Mimo, Barreiras - BA 47800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142416",
+          "refe_longitude": "-44.971337"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 2734, Serra do Mimo, Barreiras - BA 47800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142416",
+          "refe_longitude": "-44.971337"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Capitao Manoel Miranda, 337, Centro, Barreiras - BA 47800-064, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.150921",
+          "refe_longitude": "-44.999489"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Itacare, 151, Santa Cruz, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.093098",
+          "refe_longitude": "-45.796533"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Capitao Manoel Miranda, 337, Centro, Barreiras - BA 47800-064, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.150921",
+          "refe_longitude": "-44.999489"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Aylton Macedo, 1601, Boa Vista, Barreiras - BA 47806-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.138570",
+          "refe_longitude": "-45.012261"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Ayrton Senna, 560, Cidade Santa Cruz, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.097717",
+          "refe_longitude": "-45.799591"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rodovia BR 242/020, SN, Area Rural de Barreira, Barreiras - BA, 47819-899, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.129579",
+          "refe_longitude": "-45.016840"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rua Itacare, 166, Florais Lea II, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.093345",
+          "refe_longitude": "-45.796857"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Jose Alencar Gomes da Silva, 69, Projeto, Formosa do Rio Preto - BA 47990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.040926",
+          "refe_longitude": "-45.189905"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rodovia BR 135, SN, Zona Rural, Formosa do Rio Preto - BA 47990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.053574",
+          "refe_longitude": "-45.202477"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rua Sao Francisco, 1896, Mimoso do Oeste, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.079373",
+          "refe_longitude": "-45.801026"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rodovia BR 242/020, SN, Area Rural de Barreira, Barreiras - BA, 47819-899, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.129579",
+          "refe_longitude": "-45.016840"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Rondonia, 431, Mimoso do Oeste, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.091690",
+          "refe_longitude": "-45.795085"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rodovia BR 020, SN, Roda Velha, Sao Desiderio - BA, 47827-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.874783",
+          "refe_longitude": "-45.969138"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 04:10:20"
+    }
+  ]
+}"

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 14.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 6120, Jardim Petropolis, Maceio - AL 57080-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.603098",
+          "refe_longitude": "-35.745743"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Comendador Jose Geraldo Da Silva, 149, Jacintinho, Maceio - AL 57040-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.647611",
+          "refe_longitude": "-35.720033"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Bosque das Ac\u00e1cias, 40 - Cruz das Almas, Macei\u00f3 - AL, 57038-014, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.632345",
+          "refe_longitude": "-35.707507"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 11, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.532173",
+          "refe_longitude": "-35.796198"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Lourival Melo Mota, SN, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.537608",
+          "refe_longitude": "-35.793491"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Vereador Dario Marsiglia, 18, Tabuleiro dos Martins, Maceio - AL 57081-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.569263",
+          "refe_longitude": "-35.756381"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Lourival Melo Mota, SN, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.537608",
+          "refe_longitude": "-35.793491"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua T, SN, Cidade Universitaria, Maceio - AL 57073-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.563647",
+          "refe_longitude": "-35.752978"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Vereador Dario Marsiglia, 18, Tabuleiro dos Martins, Maceio - AL 57081-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.569263",
+          "refe_longitude": "-35.756381"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Comendador Jose Geraldo Da Silva, 149, Jacintinho, Maceio - AL 57040-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.647611",
+          "refe_longitude": "-35.720033"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. C-22 - (Cj Benedito Bentes), 119 - Benedito Bentes, Macei\u00f3 - AL, 57085, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.560963",
+          "refe_longitude": "-35.726383"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Menino Marcelo, 134, Tabuleiro dos Martins, Maceio - AL 57081-385, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.562164",
+          "refe_longitude": "-35.768867"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "14/09/2023 13:10:37"
+    }
+  ]
+}"

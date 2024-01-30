@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 28.09.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PE 149, S/N, Centro, Altinho - PE 55490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.489135",
+          "refe_longitude": "-36.059172"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Sitio Barra do Riachao, SN, Sitio Riachao, Agrestina - PE 55495-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.505841",
+          "refe_longitude": "-35.890689"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia PE 177, SN, Centro, Sao Joao - PE 55435-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.870833",
+          "refe_longitude": "-36.372497"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Cel Alfredo Duarte, 257, Sao Sebastiao, Aguas Belas - PE 55340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.118174",
+          "refe_longitude": "-37.112394"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Sitio Estreito, 9902, Zona Rural, Paranatama - PE 55355-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.895723",
+          "refe_longitude": "-36.717288"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Quiteria Alves Vilela, SN, Centro, Capoeiras - PE 55365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.738619",
+          "refe_longitude": "-36.627239"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Bom Pastor, S/N, Boa Vista, Garanhuns - PE 55292-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.905708",
+          "refe_longitude": "-36.495047"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR 423 Km 116 Zona Urbana, Paranatama - PE, 55355-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.902710",
+          "refe_longitude": "-36.653890"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Ananias Alves Costa, 718, Centro, Lagoa do Ouro - PE 55320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.125670",
+          "refe_longitude": "-36.466958"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Povoado - Alto da Serra, Paranatama - PE, 55355-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.918200",
+          "refe_longitude": "-36.710170"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 18:11:50"
+    }
+  ]
+}"

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU2J26"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91810574587"
+        }
+      ],
+      "rota_descricao": "ROTA SE 02 28/09/2023 EDUARDO GAMA RCU-2J26",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Zacarias Alves, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.278176",
+          "refe_longitude": "-37.787345"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rod. Ant\u00f4nio Martins de Menezes, 1338, Lagarto - SE, 49400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.983593",
+          "refe_longitude": "-37.563224"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Zacarias Alves, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.278176",
+          "refe_longitude": "-37.787345"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-235, Frei Paulo - SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.538990",
+          "refe_longitude": "-37.585386"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Benjamin Constant, 146 - Centro, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.277010",
+          "refe_longitude": "-37.785568"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Pres. Vargas, 350 - Pratas, Lagarto - SE, 49400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.919023",
+          "refe_longitude": "-37.674153"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Ant\u00f4nio Dutra, 600 - Centro, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.684231",
+          "refe_longitude": "-37.427319"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Jos\u00e9 Freire de Lima, 314, S\u00e3o Domingos - SE, 49525-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.793494",
+          "refe_longitude": "-37.566669"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Arist\u00f3teles Amarinho, 232, Sim\u00e3o Dias - SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.740039",
+          "refe_longitude": "-37.806475"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Est\u00e2ncia, 1803, Umba\u00faba - SE, 49260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.369753",
+          "refe_longitude": "-37.649318"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "28/09/2023 07:00:00",
+      "viag_previsao_fim": "28/09/2023 21:48:13"
+    }
+  ]
+}"

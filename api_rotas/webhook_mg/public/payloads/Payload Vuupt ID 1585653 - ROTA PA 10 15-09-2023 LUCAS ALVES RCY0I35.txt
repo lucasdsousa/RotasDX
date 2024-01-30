@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 10 15/09/2023 LUCAS ALVES RCY0I35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PA 320, SN, Interior, Igarape-Acu - PA 68725-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.127416",
+          "refe_longitude": "-47.631756"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PA 320, SN, Rural, Igarape-Acu - PA 68725-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.127416",
+          "refe_longitude": "-47.631756"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Capanema - PA, 68702-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.213159",
+          "refe_longitude": "-47.181936"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "BR 316 /Km 151 / N 20 - S\u00e3o Cristovao, Capanema - PA, 68700-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.214329",
+          "refe_longitude": "-47.178154"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Travessa Nossa Senhora do Perpetuo Socorro, 252, Ponto Certo, Sao Domingos do Capim - PA 68635-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.675983",
+          "refe_longitude": "-47.772796"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Quatro, 212, Tom\u00e9-A\u00e7u - PA, 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.417429",
+          "refe_longitude": "-48.255114"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dionisio Bentes, 955, Quatro Bocas, Tome-Acu - PA 68682-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.418973",
+          "refe_longitude": "-48.238463"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rod. PA 140, 12562, Tom\u00e9-A\u00e7u - PA, 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.419802",
+          "refe_longitude": "-48.241726"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 010 KM 12 - Posto Roda Viva - Nova Conquista, Paragominas - PA, 68625-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.985617",
+          "refe_longitude": "-47.454330"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "15/09/2023 07:00:00",
+      "viag_previsao_fim": "16/09/2023 20:22:40"
+    }
+  ]
+}"

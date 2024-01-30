@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ7A41"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67913067691"
+        }
+      ],
+      "rota_descricao": "ROTA MG 14 04/09/2023 LUIZ ROBERTO QTZ-7A41",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "04/09/2023 07:00:00",
+      "viag_previsao_fim": "07/09/2023 19:54:14"
+    }
+  ]
+}

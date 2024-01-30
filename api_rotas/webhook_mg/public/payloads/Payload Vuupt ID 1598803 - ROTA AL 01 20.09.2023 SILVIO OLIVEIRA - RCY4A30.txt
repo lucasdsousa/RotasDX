@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 20.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Ladislau Vieira Sarmento, SN, Cidade Universitaria, Maceio - AL 57072-587, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.659623",
+          "refe_longitude": "-35.716381"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Jose Ferreira Tavares, 5190, Antares, Maceio - AL 57048-153, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.625325",
+          "refe_longitude": "-35.747236"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Ladislau Vieira Sarmento, SN, Cidade Universitaria, Maceio - AL 57072-587, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.659623",
+          "refe_longitude": "-35.716381"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia Edval Lemos, 11, Taperagua, Marechal Deodoro - AL 57160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.736051",
+          "refe_longitude": "-35.891069"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Pedro Paulino, 454, Poco, Maceio - AL 57025-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.661828",
+          "refe_longitude": "-35.728019"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 11, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.532173",
+          "refe_longitude": "-35.796198"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "20/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 10:52:59"
+    }
+  ]
+}"

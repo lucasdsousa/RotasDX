@@ -1,0 +1,143 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE   11/09/2023  JEAN CLAUDIO   RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Vit\u00f3ria Brasil - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.197584",
+          "refe_longitude": "-50.484749"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "rua Ant\u00f4nio Barnab\u00e9, Gen. Salgado - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.645523",
+          "refe_longitude": "-50.363455"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Jos\u00e9 Rodrigues da Silva, 185 - Vila Nova, Ol\u00edmpia - SP, 15400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.746716",
+          "refe_longitude": "-48.909166"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Dezenove, 552, Santa F\u00e9 do Sul - SP, 15775-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.204690",
+          "refe_longitude": "-50.927774"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. dos Expedicion\u00e1rios Brasileiros, 771 - Bairro Coester, Fernand\u00f3polis - SP, 15603-006, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.279441",
+          "refe_longitude": "-50.243801"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Conselheiro Rui Barbosa, 1028, Centro, Potirendaba - SP 15105-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.044205",
+          "refe_longitude": "-49.374360"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. S\u00e3o Sebasti\u00e3o, 450, Bady Bassitt - SP, 15115-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.924857",
+          "refe_longitude": "-49.450338"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Em\u00edlio Arroio Hernandes, 2239 - Pozzobon, Votuporanga - SP, 15503-027, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.402592",
+          "refe_longitude": "-49.978054"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. do Com\u00e9rcio, 157 - Nova Alian\u00e7a, SP, 15210-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.015264",
+          "refe_longitude": "-49.496647"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ademar de Barros, 1073 - Distrito industrial, Jos\u00e9 Bonif\u00e1cio - SP, 15200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.052632",
+          "refe_longitude": "-49.679513"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "rua Ant\u00f4nio Barnab\u00e9, Gen. Salgado - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.645523",
+          "refe_longitude": "-50.363455"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Bar\u00e3o do Rio Branco, 937, Mendon\u00e7a - SP, 15220-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.184572",
+          "refe_longitude": "-49.582335"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Sezinio Raimundo de Brito, 1553, Gast\u00e3o Vidigal - SP, 15330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.793072",
+          "refe_longitude": "-50.196781"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. do Com\u00e9rcio, 515, Ipigu\u00e1 - SP, 15108-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.658925",
+          "refe_longitude": "-49.388552"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Ademar de Barros, 1073 - Distrito industrial, Jos\u00e9 Bonif\u00e1cio - SP, 15200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.052632",
+          "refe_longitude": "-49.679513"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "11/09/2023 07:00:00",
+      "viag_previsao_fim": "11/09/2023 13:11:02"
+    }
+  ]
+}"

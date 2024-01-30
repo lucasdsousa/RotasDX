@@ -1,0 +1,48 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 03 04/09/2023 ANDERSON LEAL",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia uepa - PA-150 - Moju, PA, 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.904394",
+          "refe_longitude": "-48.769210"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Almeida de Moraes, SN, Betania, Barcarena - PA 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.509480",
+          "refe_longitude": "-48.609727"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "04/09/2023 11:00:00",
+      "viag_previsao_fim": "07/09/2023 22:48:54"
+    }
+  ]
+}

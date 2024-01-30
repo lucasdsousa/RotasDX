@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 15.09.2023 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PE 060, 10001, Garapu, Cabo de Santo Agostinho - PE 54518-343, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.287036",
+          "refe_longitude": "-35.028008"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Jos\u00e9 \u00c1lvaro de Melo, 407 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54400-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.151862",
+          "refe_longitude": "-34.916052"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Hercules Florence, 66, Prado, Recife - PE 50751-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062872",
+          "refe_longitude": "-34.914033"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Joaquim Tavora, 49, Encruzilhada, Recife - PE 52041-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.031843",
+          "refe_longitude": "-34.892898"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "PE-009, Ipojuca - PE, 55590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.408201",
+          "refe_longitude": "-35.011823"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Recife, 3012, Ipsep, Recife - PE 51190-730, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.104146",
+          "refe_longitude": "-34.927360"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Barao de Itapissuma, 129, Iputinga, Recife - PE 50800-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.032283",
+          "refe_longitude": "-34.941252"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Da Recuperacao, 3255, Brejo da Guabiraba, Recife - PE 52291-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.988180",
+          "refe_longitude": "-34.933147"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "15/09/2023 05:00:00",
+      "viag_previsao_fim": "15/09/2023 14:01:31"
+    }
+  ]
+}"

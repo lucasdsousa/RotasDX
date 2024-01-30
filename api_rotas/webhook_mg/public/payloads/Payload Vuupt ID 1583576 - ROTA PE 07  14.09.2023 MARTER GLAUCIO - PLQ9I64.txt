@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07  14.09.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-424, 801 - Magano, Garanhuns - PE, 55292-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.860747",
+          "refe_longitude": "-36.511436"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Bom Pastor, S/N, Boa Vista, Garanhuns - PE 55292-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.905708",
+          "refe_longitude": "-36.495047"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Augusto Cesareo, 29, Heliopolis, Garanhuns - PE 55293-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.875401",
+          "refe_longitude": "-36.471146"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 423, 459, Dom Thiago Postma, Garanhuns - PE 55293-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.882019",
+          "refe_longitude": "-36.489357"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Caruaru, 335, Sao Jose, Garanhuns - PE 55295-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.883597",
+          "refe_longitude": "-36.488329"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 104, 33, Zona Rural, Agrestina - PE 55495-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.430553",
+          "refe_longitude": "-35.958522"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Agamenon Magalhaes, 08, Centro, Bom Conselho - PE 55330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.176398",
+          "refe_longitude": "-36.681805"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "\u00c1guas Belas, PE, 55340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.112580",
+          "refe_longitude": "-37.120600"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Cel Alfredo Duarte, 257, Sao Sebastiao, Aguas Belas - PE 55340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.118174",
+          "refe_longitude": "-37.112394"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Ananias Alves Costa, 718, Centro, Lagoa do Ouro - PE 55320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.125670",
+          "refe_longitude": "-36.466958"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "15/09/2023 15:15:03"
+    }
+  ]
+}"

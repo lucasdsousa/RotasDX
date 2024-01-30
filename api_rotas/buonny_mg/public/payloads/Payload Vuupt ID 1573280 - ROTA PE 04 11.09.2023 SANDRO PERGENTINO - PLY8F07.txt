@@ -1,0 +1,236 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002541",
+  "cnpj_embarcador": "05092901002541",
+  "cnpj_transportador": "05092901002541",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573280,
+  "numero_liberacao": 1573280,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "SANDRO PERGENTINO BELMIRO",
+    "cpf": "06106721424",
+    "telefone": "+5585981758639"
+  },
+  "veiculos": {
+    "placa": "PLY8F07"
+  },
+  "origem": {
+    "codigo_externo": "05092901002541",
+    "descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+    "latitude": -7.972634,
+    "longitude": -34.922637
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 05:00:00",
+  "data_previsao_fim": "12/09/2023 20:21:58",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11875770000102",
+            "descricao": "UNAUTO UNA AUTO PECAS LTDA",
+            "latitude": "-8.675090",
+            "longitude": "-35.576962",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7532.34",
+                  "volume": "32",
+                  "peso": "562.387"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "27675480000147",
+            "descricao": "AUTO POSTO AGUA PRETA LTDA",
+            "latitude": "-8.823086",
+            "longitude": "-35.434931",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 14:46:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "957",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07023012000180",
+            "descricao": "RONIVALDO S DE MEDEIROS",
+            "latitude": "-8.579281",
+            "longitude": "-35.385985",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 15:36:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3450",
+                  "volume": "10",
+                  "peso": "227.006"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11268061000150",
+            "descricao": "DOLCHARLY RODRIGUES MESQUITA",
+            "latitude": "-8.713570",
+            "longitude": "-36.138924",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 17:23:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "450",
+                  "volume": "6",
+                  "peso": "137.4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "36417473000136",
+            "descricao": "CLECIO E DIONE COMBUSTIVEIS LTDA",
+            "latitude": "-8.622725",
+            "longitude": "-35.909269",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:48:27",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4780",
+                  "volume": "20",
+                  "peso": "372.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09043064000144",
+            "descricao": "LUCIANO OLIVEIRA DA SILVA AUTO PECAS",
+            "latitude": "-8.595132",
+            "longitude": "-35.112388",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 19:36:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3922",
+                  "volume": "14",
+                  "peso": "278.201"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43214009000108",
+            "descricao": "AUTO POSTO DE COMBUSTIVEIS RIBEIRAO LTDA",
+            "latitude": "-8.500956",
+            "longitude": "-35.388365",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 21:46:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1620",
+                  "volume": "30",
+                  "peso": "687"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "14035914000100",
+            "descricao": "D A DE BARROS SILVA ME",
+            "latitude": "-8.576933",
+            "longitude": "-35.936995",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:36:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1047",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

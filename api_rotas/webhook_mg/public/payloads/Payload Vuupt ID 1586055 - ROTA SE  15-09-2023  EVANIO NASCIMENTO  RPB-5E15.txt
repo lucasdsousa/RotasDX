@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5E15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67286313568"
+        }
+      ],
+      "rota_descricao": "ROTA SE  15/09/2023  EVANIO NASCIMENTO  RPB-5E15",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Sobradinho, 672 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.507471",
+          "refe_longitude": "-37.061609"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 451, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.022536",
+          "refe_longitude": "-37.560074"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 770, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.025647",
+          "refe_longitude": "-37.560543"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.424170",
+          "refe_longitude": "-36.956912"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Frei Paulo, SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.549740",
+          "refe_longitude": "-37.533596"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "SE-339, 13602-13630 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.478758",
+          "refe_longitude": "-36.950365"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "15/09/2023 07:00:00",
+      "viag_previsao_fim": "15/09/2023 23:54:40"
+    }
+  ]
+}"

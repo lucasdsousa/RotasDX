@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ3E52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09213537409"
+        }
+      ],
+      "rota_descricao": "ROTA PE 06 25.09.2023 MARCIO FELIPE - PLQ3E52",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Alcides de Farias Leite, 145, Indianapolis, Caruaru - PE 55024-153, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286750",
+          "refe_longitude": "-35.948211"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Encruzilhada de S\u00e3o Jo\u00e3o, Caruaru - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293310",
+          "refe_longitude": "-35.883890"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Sitio Vasco, 2009, Zona Rural, Caruaru - PE 55002-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.267217",
+          "refe_longitude": "-36.005314"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Da Palestina, 1124, Alto Limpo, Belo Jardim - PE 55152-810, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.345651",
+          "refe_longitude": "-36.434684"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Cachoeirinha, Vit\u00f3ria de Santo Ant\u00e3o - PE",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.225050",
+          "refe_longitude": "-35.276540"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Marieta Lira de Azevedo, 283, Kennedy, Caruaru - PE 55036-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.282212",
+          "refe_longitude": "-35.998809"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Loteamento Sao Francisco, 100, Sao Francisco, Pombos - PE 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.143531",
+          "refe_longitude": "-35.391621"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia PE 180, 350, Centro, Sao Bento do Una - PE 55370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.521698",
+          "refe_longitude": "-36.434911"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "25/09/2023 05:00:00",
+      "viag_previsao_fim": "25/09/2023 20:06:49"
+    }
+  ]
+}"

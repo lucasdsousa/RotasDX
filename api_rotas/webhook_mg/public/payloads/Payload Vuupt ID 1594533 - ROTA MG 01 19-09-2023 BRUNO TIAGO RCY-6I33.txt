@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY6I33"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07861194620"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01 19/09/2023 BRUNO TIAGO RCY-6I33",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Juiz Marco Tulio Isaac, 5460, Jardim das Alterosas I Secao, Betim - MG 32671-048, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.943515",
+          "refe_longitude": "-44.161966"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Americo Vespucio, 1016, Aparecida, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892678",
+          "refe_longitude": "-43.958932"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Rodrigues do Prado, 237, Ermelinda, Belo Horizonte - MG 31250-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.882737",
+          "refe_longitude": "-43.959435"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Niobio, 142, Glalija, Belo Horizonte - MG 30520-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.945133",
+          "refe_longitude": "-44.011053"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Tito Fulgencio, 259, Jardim Industrial, Contagem - MG 32215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.958854",
+          "refe_longitude": "-44.015842"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Maurilio Gomes da Silveira, 15, Milionarios, Belo Horizonte - MG 30620-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.988197",
+          "refe_longitude": "-44.008200"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Tito Fulgencio, 421, Jardim Industrial, Contagem - MG 32215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.960469",
+          "refe_longitude": "-44.016023"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Espinosa, 64 - Santo Andre, Belo Horizonte - MG, 31210-525, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.906710",
+          "refe_longitude": "-43.957720"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Dom Joao VI, 1801, Palmeiras, Belo Horizonte - MG 30575-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.971737",
+          "refe_longitude": "-43.978332"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Sen. Geovane Agnelli, 40 - Distrito Industrial Paulo Camilo Norte, Betim - MG, 32681, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.954083",
+          "refe_longitude": "-44.129895"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia BR 381, 1165, Amazonas, Contagem - MG 32240-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.958361",
+          "refe_longitude": "-44.060299"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "19/09/2023 09:30:00",
+      "viag_previsao_fim": "19/09/2023 15:03:03"
+    }
+  ]
+}"

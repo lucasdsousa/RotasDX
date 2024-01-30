@@ -1,0 +1,164 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573519,
+  "numero_liberacao": 1573519,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "MATHEUS CAMILO DE LELIS",
+    "cpf": "70068136625",
+    "telefone": "+5531995932261"
+  },
+  "veiculos": {
+    "placa": "RPF9B96"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "13/09/2023 03:43:11",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34742",
+            "descricao": "COMERCIAL GUAPIARA EIRELI",
+            "latitude": "-18.472697",
+            "longitude": "-47.201129",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 12:48:59",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1090"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "50237",
+            "descricao": "TRANSPORTADORA AGAL LTDA",
+            "latitude": "-18.938028",
+            "longitude": "-46.994251",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:10:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "4360"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34731",
+            "descricao": "AUTO POSTO ECONOMICO LTDA",
+            "latitude": "-18.932250",
+            "longitude": "-46.970902",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:24:09",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1090"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "54721",
+            "descricao": "GDA TRANSPORTES RODOVIARIOS LTDA",
+            "latitude": "-18.985624",
+            "longitude": "-47.467036",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:56:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1635"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "54102",
+            "descricao": "RENATO JOSE DA SILVA TRANSPORTE CIA LTDA",
+            "latitude": "-18.373901",
+            "longitude": "-46.028214",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 19:28:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1090"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

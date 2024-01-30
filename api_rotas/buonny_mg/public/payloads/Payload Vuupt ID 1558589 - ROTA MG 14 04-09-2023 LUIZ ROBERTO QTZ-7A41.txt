@@ -1,0 +1,63 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": [
+    "05092901001227"
+  ],
+  "cnpj_embarcador": [
+    "05092901001227"
+  ],
+  "cnpj_transportador": [
+    "05092901001227"
+  ],
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1558589,
+  "numero_liberacao": 1558589,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "LUIZ ROBERTO MARTINS SANTOS",
+    "cpf": "67913067691",
+    "telefone": "+5531996006241"
+  },
+  "veiculos": {
+    "placa": [
+      "QTZ7A41"
+    ]
+  },
+  "origem": {
+    "codigo_externo": [
+      "05092901001227"
+    ],
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "logradouro": "Av. Juiz Marco T\u00falio Isaac",
+    "numero": " 4688 ",
+    "complemento": "0",
+    "bairro": "Parque das Industrias",
+    "cidade": " Betim ",
+    "estado": "MG",
+    "latitude": -19.949286,
+    "longitude": -44.165064,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " 32671072"
+  },
+  "monitorar_retorno": true,
+  "data_previsao_inicio": "04/09/2023 07:00:00",
+  "data_previsao_fim": "07/09/2023 19:54:14",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 1 Incompletos&#10;Informe o destino da SM&#10;"]}

@@ -1,0 +1,45 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PND1207"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98160176368"
+        }
+      ],
+      "rota_descricao": "Transfer\u00eancia Itz - Benevides 02/09/2023 Edvaldo Pinto Pereira PND1207",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "29/09/2023 10:20:00",
+      "viag_previsao_fim": "01/10/2023 16:52:55"
+    }
+  ]
+}"

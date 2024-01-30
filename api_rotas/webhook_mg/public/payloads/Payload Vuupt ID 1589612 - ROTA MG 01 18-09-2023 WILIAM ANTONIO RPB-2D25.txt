@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04299289633"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01 18/09/2023 WILIAM ANTONIO RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 040, SN, Vila Paris, Contagem - MG 32150-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.920116",
+          "refe_longitude": "-44.034108"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Flor das Pedras, 622, Jardim Montanhes, Belo Horizonte - MG 30810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.899988",
+          "refe_longitude": "-43.985441"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Americo Vespucio, 1016, Aparecida, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892678",
+          "refe_longitude": "-43.958932"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Americo Vespucio, 1016, Aparecida, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892678",
+          "refe_longitude": "-43.958932"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Palmira, 660, Serra, Belo Horizonte - MG 30220-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.939403",
+          "refe_longitude": "-43.919290"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Nossa Senhora de Fatima, 2239, Carlos Prates, Belo Horizonte - MG 30710-662, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.914577",
+          "refe_longitude": "-43.951900"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Pref. V\u00edtor Fantini, 971 - a - Centro, Sabar\u00e1 - MG, 34505-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.885630",
+          "refe_longitude": "-43.798450"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Silviano Brandao, 1853, Sagrada Familia, Belo Horizonte - MG 31030-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.911357",
+          "refe_longitude": "-43.920464"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Um, 315 - Serra Azul, Vespasiano - MG, 33200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.762905",
+          "refe_longitude": "-43.969429"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Jaguaribe, 991, Nova Floresta, Belo Horizonte - MG 31130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.895756",
+          "refe_longitude": "-43.935401"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Vilarinho, 4050, Venda Nova, Belo Horizonte - MG 31615-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.802910",
+          "refe_longitude": "-43.973508"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Deputado Ultimo de Carvalho, 775, Planalto, Belo Horizonte - MG 31730-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.835366",
+          "refe_longitude": "-43.941332"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. dos Astecas, 2930 - Santa Monica, Belo Horizonte - MG, 31530-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.829831",
+          "refe_longitude": "-43.979411"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Irma Celeste, 12, Conjunto Cristina ( Sao Benedito), Santa Luzia - MG 33105-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.782358",
+          "refe_longitude": "-43.933824"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Santa Terezinha, 734 - Santa Terezinha, Belo Horizonte - MG, 31360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.871090",
+          "refe_longitude": "-44.002400"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Severino Ballesteros Rodrigues, 529, Ressaca, Contagem - MG 32110-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.873323",
+          "refe_longitude": "-44.023376"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Tenente Paulo Afonso de Souza, 108, Arvoredo, Contagem - MG 32113-235, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.877525",
+          "refe_longitude": "-44.025200"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Tenente Paulo Afonso de Souza, 108, Arvoredo, Contagem - MG 32113-235, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.877525",
+          "refe_longitude": "-44.025200"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "18/09/2023 17:32:36"
+    }
+  ]
+}"

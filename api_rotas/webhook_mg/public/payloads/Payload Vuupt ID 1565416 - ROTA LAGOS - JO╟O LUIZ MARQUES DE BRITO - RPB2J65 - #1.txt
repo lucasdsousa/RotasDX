@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2J65"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "ROTA LAGOS - JO\u00c3O LUIZ MARQUES DE BRITO - RPB2J65 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Luiz Gomes, 258, Centro, Silva Jardim - RJ 28820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.648797",
+          "refe_longitude": "-42.393823"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rod. Amaral Peixoto, 240 - Rio da Areia, Saquarema - RJ, 28990-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.448746",
+          "refe_longitude": "-41.876066"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Marcos Alberto Quintela Carvalho Reis, 80, Nova Sao Pedro, Sao Pedro da Aldeia - RJ 28941-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.837625",
+          "refe_longitude": "-42.103254"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Da Assembleia, 08, Rasa, Armacao dos Buzios - RJ 28950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.742664",
+          "refe_longitude": "-41.980257"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "05/09/2023 09:30:00",
+      "viag_previsao_fim": "05/09/2023 20:26:00"
+    }
+  ]
+}"

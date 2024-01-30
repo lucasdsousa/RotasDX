@@ -1,0 +1,234 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC5F92"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "97543810387"
+        }
+      ],
+      "rota_descricao": "Rota MA 04 e 05 25/09/2023 Fernando da Concei\u00e7\u00e3o Brito RPC5F92",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Deputado Raimundo Bogea, 27, Centro, Lago da Pedra - MA 65715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.569326",
+          "refe_longitude": "-45.131583"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Dativo Lacerda, 02, Canoeiro, Grajau - MA 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.828081",
+          "refe_longitude": "-46.159681"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Santo Antonio, 188, Centro, Trizidela do Vale - MA 65727-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.570451",
+          "refe_longitude": "-44.604702"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua 07 de Setembro, 154, Macauba, Lago da Pedra - MA 65715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.571035",
+          "refe_longitude": "-45.131673"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-316, 918, Bacabal - MA, 65700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.224750",
+          "refe_longitude": "-44.800512"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Santo Antonio, 188, Centro, Trizidela do Vale - MA 65727-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.570451",
+          "refe_longitude": "-44.604702"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Rio Amazonas, SN, Tresidela, Barra do Corda - MA 65950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.500530",
+          "refe_longitude": "-45.250701"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Campo Dantas, 226, Pres. Dutra - MA, 65760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.300902",
+          "refe_longitude": "-44.489636"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 226, SN, Trizedela, Barra do Corda - MA 65950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.501909",
+          "refe_longitude": "-45.246491"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Santa B\u00e1rbara, 214 - Bairro Extrema, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.825432",
+          "refe_longitude": "-46.160079"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "BR-226, 2143, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.802893",
+          "refe_longitude": "-46.116218"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Praca Do Panteon, 513, Centro, Caxias - MA 65602-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.863307",
+          "refe_longitude": "-43.363408"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "BR-226, 2143, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.802893",
+          "refe_longitude": "-46.116218"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Campo Dantas, 226, Pres. Dutra - MA, 65760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.300902",
+          "refe_longitude": "-44.489636"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "BR-226, 2143, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.804260",
+          "refe_longitude": "-46.117013"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Praca Do Panteon, 513, Centro, Caxias - MA 65602-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.863307",
+          "refe_longitude": "-43.363408"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Deputado Raimundo Bogea, 27, Centro, Lago da Pedra - MA 65715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.569326",
+          "refe_longitude": "-45.131583"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Nossa Senhora de Fatima, 1487, Centro, Caxias - MA 65600-560, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.857131",
+          "refe_longitude": "-43.357637"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rodovia BR 316, 300, Cohab II, Bacabal - MA 65700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.224959",
+          "refe_longitude": "-44.799247"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Santos Dumont, 3739 - Cod\u00f3, MA, 65400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.471997",
+          "refe_longitude": "-43.890139"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Coronel Epaminondas Pio Correia Lima, 06, Abreu, Sao Bernardo - MA 65550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.360932",
+          "refe_longitude": "-42.419930"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Prof. Ant\u00f4nio Ol\u00edvio Rodrigues, Itapecuru Mirim - MA, 65485-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.407971",
+          "refe_longitude": "-44.350021"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Supermercado Bandeira Verde - Av. S\u00e1bino C\u00e2mara, 30-210, Brejo - MA, 65520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.682301",
+          "refe_longitude": "-42.752019"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Aleorlando Ramos - Centro, Urbano Santos - MA, 65530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.206040",
+          "refe_longitude": "-43.394700"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Av. Santos Dumont, 3739 - Cod\u00f3, MA, 65400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.471997",
+          "refe_longitude": "-43.890139"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Piraja, 1149, Piraja, Caxias - MA 65608-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.869008",
+          "refe_longitude": "-43.388122"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Anapurus, MA, 65525-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.672934",
+          "refe_longitude": "-43.115382"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rua Agenor Monturil, 1330, Sao Sebastiao, Codo - MA 65400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.462240",
+          "refe_longitude": "-43.884032"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "25/09/2023 08:30:00",
+      "viag_previsao_fim": "01/10/2023 10:53:04"
+    }
+  ]
+}"

@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB7G28"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "68558007691"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01 31/08/2023 CLAYTON MARQUES RPB-7G28",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "31/08/2023 12:15:00",
+      "viag_previsao_fim": "31/08/2023 14:08:45"
+    }
+  ]
+}

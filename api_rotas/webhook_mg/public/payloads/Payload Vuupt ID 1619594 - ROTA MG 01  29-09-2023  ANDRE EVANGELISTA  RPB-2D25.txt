@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06186481603"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  29/09/2023  ANDRE EVANGELISTA  RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Monte Libano, 22, Padre Eustaquio, Belo Horizonte - MG 30730-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.913684",
+          "refe_longitude": "-43.988103"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Marques de Lavradio, 41, Alto dos Pinheiros, Belo Horizonte - MG 30530-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.924598",
+          "refe_longitude": "-43.999624"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Dom Pedro II, 5072, Jardim Montanhes, Belo Horizonte - MG 30750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.905190",
+          "refe_longitude": "-43.985600"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Tenente Anastacio de Moura, 437, Santa Efigenia, Belo Horizonte - MG 30240-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923490",
+          "refe_longitude": "-43.916028"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Tenente Anastacio de Moura, 437, Santa Efigenia, Belo Horizonte - MG 30240-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923490",
+          "refe_longitude": "-43.916028"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Silva Lobo, 325, Prado, Belo Horizonte - MG 30411-259, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.926180",
+          "refe_longitude": "-43.971965"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Nossa Senhora de Fatima, 2584, Carlos Prates, Belo Horizonte - MG 30710-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.915411",
+          "refe_longitude": "-43.954761"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Mem de S\u00e1, 1512 - Santa Efig\u00eania, Belo Horizonte - MG, 30260-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.928684",
+          "refe_longitude": "-43.908591"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Agenor Lopes, 121, Vale da Esperanca, Nova Lima - MG 34002-198, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.000185",
+          "refe_longitude": "-43.848840"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Levindo Wanderley, 367, Honorio Bicalho, Nova Lima - MG 34012-642, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.019110",
+          "refe_longitude": "-43.832852"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Paulo Piedade Campos, 262, Estoril, Belo Horizonte - MG 30494-225, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962908",
+          "refe_longitude": "-43.965300"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Medusa, 35 - Santa L\u00facia, Belo Horizonte - MG, 30360-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.961477",
+          "refe_longitude": "-43.945241"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Severiano de Lima, 160, Centro, Nova Lima - MG 34000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.985347",
+          "refe_longitude": "-43.845583"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Ursula Paulino, 357, Cinquentenario, Belo Horizonte - MG 30570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.952754",
+          "refe_longitude": "-43.982147"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "29/09/2023 07:00:00",
+      "viag_previsao_fim": "29/09/2023 15:47:00"
+    }
+  ]
+}"

@@ -1,0 +1,226 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572182,
+  "numero_liberacao": 1572182,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ALAX SOUZA ALVES",
+    "cpf": "11180487680",
+    "telefone": "+5531995719961"
+  },
+  "veiculos": {
+    "placa": "RPB2D25"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 09:00:00",
+  "data_previsao_fim": "08/09/2023 15:25:30",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "66333501000106",
+            "descricao": "POSTO BRUNATA",
+            "logradouro": "Rua Anapurus",
+            "numero": "0",
+            "latitude": "-19.856554",
+            "longitude": "-43.920743",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 12:51:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2116.76",
+                  "volume": "7",
+                  "peso": "158.9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08387584000101",
+            "descricao": "Premium Distribuidora de Auto Pecas LTDA",
+            "logradouro": "Avenida Waldomiro Lobo",
+            "numero": "0",
+            "latitude": "-19.844169",
+            "longitude": "-43.926575",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:08:33",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7965.08",
+                  "volume": "37",
+                  "peso": "594.417"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02488776000128",
+            "descricao": "EXPRESSO ALLURE LTDA",
+            "logradouro": "Rua 3",
+            "numero": "0",
+            "latitude": "-19.774634",
+            "longitude": "-43.960366",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:26:27",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5678",
+                  "volume": "2",
+                  "peso": "375"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10673246000188",
+            "descricao": "POSTO SAO BERNARDO LTDA",
+            "logradouro": "Avenida Cristiano Machado",
+            "numero": "0",
+            "latitude": "-19.847666",
+            "longitude": "-43.933042",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:03:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1388.54",
+                  "volume": "6",
+                  "peso": "90.022"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34391396000167",
+            "descricao": "MOTO PECAS NOSSA LOJA LTDA",
+            "logradouro": "Avenida Vilarinho",
+            "numero": "0",
+            "latitude": "-19.811818",
+            "longitude": "-43.961672",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:47:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2846.29",
+                  "volume": "10",
+                  "peso": "227"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00752598000175",
+            "descricao": "BAMAUTO PECAS E ACESSORIOS LTDA",
+            "logradouro": "Avenida Denise Cristina Rocha",
+            "numero": "0",
+            "latitude": "-19.800277",
+            "longitude": "-44.009943",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 15:10:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "770.86",
+                  "volume": "4",
+                  "peso": "44.846"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38212964000176",
+            "descricao": "SKALDARIA MULT MARCAS PECAS E SERVICOS EIRELI",
+            "logradouro": "Rua Maria Gertrudes Santos",
+            "numero": "0",
+            "latitude": "-19.817714",
+            "longitude": "-44.000021",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 15:25:01",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2158.81",
+                  "volume": "12",
+                  "peso": "134.538"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana gyn turvania- 25/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida JK, SN, Botafogo II, Neropolis - GO 75460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.400703",
+          "refe_longitude": "-49.219958"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, Inhumas - GO, 75400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.373133",
+          "refe_longitude": "-49.491715"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. da Paz - St. Garavelo Res. Park, Aparecida de Goi\u00e2nia - GO, 74930-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.769319",
+          "refe_longitude": "-49.331073"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Pio XII, 616, Cidade Jardim, Goiania - GO 74425-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.677509",
+          "refe_longitude": "-49.307397"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Independ\u00eancia - Jardim Ipiranga, Aparecida de Goi\u00e2nia - GO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.822881",
+          "refe_longitude": "-49.264890"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Das Magnolias, 631, Parque Oeste Industrial, Goiania - GO 74375-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.695371",
+          "refe_longitude": "-49.324695"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Cesar Lattes, 141, Setor Novo Horizonte, Goiania - GO 74363-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.714779",
+          "refe_longitude": "-49.318701"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Um, 12 - Das Pedrinhas, Silv\u00e2nia - GO, 75180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.665100",
+          "refe_longitude": "-48.615947"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. 1\u00aa Radial, 1165 - St. Pedro Ludovico, Goi\u00e2nia - GO, 74820-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.705977",
+          "refe_longitude": "-49.253667"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Nona Avenida, 235, Setor Leste Universitario, Goiania - GO 74603-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.667914",
+          "refe_longitude": "-49.245252"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "25/09/2023 08:00:00",
+      "viag_previsao_fim": "26/09/2023 18:40:05"
+    }
+  ]
+}"

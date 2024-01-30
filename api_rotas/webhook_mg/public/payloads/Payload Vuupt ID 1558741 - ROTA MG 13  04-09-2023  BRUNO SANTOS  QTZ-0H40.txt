@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ0H40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "12312629666"
+        }
+      ],
+      "rota_descricao": "ROTA MG 13  04/09/2023  BRUNO SANTOS  QTZ-0H40",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Inspetor Jonas Pezzo Costa, 1538, Horto Florestal, Itamonte - MG 37466-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.280171",
+          "refe_longitude": "-44.872294"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "04/09/2023 07:00:00",
+      "viag_previsao_fim": "08/09/2023 13:41:59"
+    }
+  ]
+}

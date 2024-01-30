@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 06.09.2023 SILVIO OLIVEIRA RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Menino Marcelo, 134, Tabuleiro dos Martins, Maceio - AL 57081-385, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.562164",
+          "refe_longitude": "-35.768867"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 9230, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.556911",
+          "refe_longitude": "-35.782329"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 101, S/N, Zona Rural, Rio Largo - AL 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.478325",
+          "refe_longitude": "-35.839733"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "06/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 09:38:29"
+    }
+  ]
+}"

@@ -1,0 +1,199 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4F31"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "34764656833"
+        }
+      ],
+      "rota_descricao": "ROTA SP 04 25/09/2023 JOAO DURVAL RPB-4F31",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Jo\u00e3o Perticarrari, 98 - Alvorada, Sert\u00e3ozinho - SP, 14170-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.146085",
+          "refe_longitude": "-47.997607"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Ibirapuera, 1172 - Planalto, Ara\u00e7atuba - SP, 16071-165, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.202147",
+          "refe_longitude": "-50.467043"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Jo\u00e3o Perticarrari, 98 - Alvorada, Sert\u00e3ozinho - SP, 14170-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.146085",
+          "refe_longitude": "-47.997607"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Guararapes - SP, 16700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.290624",
+          "refe_longitude": "-50.637880"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Ararigb\u00f3ia, 915 - Vila Tropical, Pres. Venceslau - SP, 19400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.881686",
+          "refe_longitude": "-51.836983"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Pref. Waldemar Calvo, 2693 - Centro, Tarabai - SP, 19210-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.303634",
+          "refe_longitude": "-51.563843"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Alaide Ferraz de Almeida, 448 - Jardim Alvorada, Pen\u00e1polis - SP, 16300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.424583",
+          "refe_longitude": "-50.083467"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Aguape\u00ed, 2101 - Jardim do Prado, Ara\u00e7atuba - SP, 16025-455, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.211841",
+          "refe_longitude": "-50.464460"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Bolivia, 727, Vila Industrial, Aracatuba - SP 16072-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.203366",
+          "refe_longitude": "-50.456762"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Estr. Mun. Dr. Jos\u00e9 Joaquim de Ara\u00fajo, Estrela do Norte - SP, 19230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.487020",
+          "refe_longitude": "-51.666737"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Sete de Setembro, 632, Tarabai - SP, 19210-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.304445",
+          "refe_longitude": "-51.563568"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Rangel Pestana, 66, Sao Joaquim, Aracatuba - SP 16050-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.204824",
+          "refe_longitude": "-50.441390"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Estr. Mun. Dr. Jos\u00e9 Joaquim de Ara\u00fajo, Estrela do Norte - SP, 19230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.487020",
+          "refe_longitude": "-51.666737"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Tiradentes, 1255 - Jardim S\u00e3o Jorge, Pres. Venceslau - SP, 19400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.887038",
+          "refe_longitude": "-51.840367"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. dos Barrageiros, 344 - Primavera, Rosana - SP, 19274-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.535036",
+          "refe_longitude": "-52.947179"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Tiradentes, 1737 - Novo Umuarama, Ara\u00e7atuba - SP, 16011-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.206155",
+          "refe_longitude": "-50.423842"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Odorindo Perenha, 1074 - Umuarama, Ara\u00e7atuba - SP, 16013-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.217599",
+          "refe_longitude": "-50.414416"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Guanabara, 1944 - Jardim Primavera, Pres. Epit\u00e1cio - SP, 19470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.777356",
+          "refe_longitude": "-52.115221"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Pres. Venceslau, SP, 19400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.874917",
+          "refe_longitude": "-51.844176"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Guararapes, SP, 16700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.255294",
+          "refe_longitude": "-50.644979"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Estr. Mun. Dr. Jos\u00e9 Joaquim de Ara\u00fajo, Estrela do Norte - SP, 19230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.487020",
+          "refe_longitude": "-51.666737"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Paulo Marcondes, 1062, Jardim Eldorado, Presidente Prudente - SP 19025-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.101313",
+          "refe_longitude": "-51.409286"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Ver. Armando Batista, 585, Sagres - SP, 17710-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.880709",
+          "refe_longitude": "-50.952643"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "25/09/2023 07:45:00",
+      "viag_previsao_fim": "29/09/2023 03:47:41"
+    }
+  ]
+}"

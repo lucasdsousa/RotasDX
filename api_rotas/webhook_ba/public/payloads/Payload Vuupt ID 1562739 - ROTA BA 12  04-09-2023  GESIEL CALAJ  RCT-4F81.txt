@@ -1,0 +1,48 @@
+{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCT4F81"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "38509792100"
+        }
+      ],
+      "rota_descricao": "ROTA BA 12  04/09/2023  GESIEL CALAJ  RCT-4F81",
+      "origem": {
+        "vloc_descricao": "N\u00facleo Cis S\u00e3o Gon\u00e7alo dos Campos",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Dr Bertino Passos, 10 - Centro, Amargosa - BA, 45300000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.029958",
+          "refe_longitude": "-39.598953"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Getulio Vargas, S/N - Centro, Nova Itarana - BA, 45390000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.026474",
+          "refe_longitude": "-40.066912"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "N\u00facleo Cis S\u00e3o Gon\u00e7alo dos Campos",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "04/09/2023 10:05:00",
+      "viag_previsao_fim": "06/09/2023 14:41:24"
+    }
+  ]
+}

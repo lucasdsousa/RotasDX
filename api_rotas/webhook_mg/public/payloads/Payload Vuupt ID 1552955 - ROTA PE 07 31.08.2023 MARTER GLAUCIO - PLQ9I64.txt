@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 31.08.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "31/08/2023 05:00:00",
+      "viag_previsao_fim": "01/09/2023 12:53:07"
+    }
+  ]
+}

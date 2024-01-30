@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2B14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07749579567"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 20/09/2023 ODAIR DE ANDRADE RPB-2B14",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. 21, 140, Gua\u00edra - SP, 14790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.324560",
+          "refe_longitude": "-48.310285"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. \u00c1lvaro Rodrigues, 56 - Guar\u00e1, SP, 14580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.449554",
+          "refe_longitude": "-47.836826"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Orlando Dompieri, 1865 - Jardim Barao, Franca - SP, 14409-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.517016",
+          "refe_longitude": "-47.398109"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Hugo Betarello, 5130 - Parque Franville, Franca - SP, 14403-579, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.540475",
+          "refe_longitude": "-47.360751"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Dr. Paulo Borges de Oliveira, 649 - Cidade Universit\u00e1ria, Ituverava - SP, 14500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.339353",
+          "refe_longitude": "-47.797021"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "X629+WQ, Igarapava - SP, 14540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.047687",
+          "refe_longitude": "-47.780562"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Francisco Basileu Barbosa, 177 - Conj. J Alipio F Fonceca, Ituverava - SP, 14500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.336566",
+          "refe_longitude": "-47.801451"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Francisco Ferreira Ramos, 220 - Bela Vista, Pedregulho - SP, 14470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.250977",
+          "refe_longitude": "-47.480148"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "9Q7P+MCF, Itirapu\u00e3 - SP, 14420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.635810",
+          "refe_longitude": "-47.213950"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Dr. Wanderley Ribeiro, 363 - Jardim Nossa Sra. de Fatima, Igarapava - SP, 14540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.041884",
+          "refe_longitude": "-47.754874"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Rui Barbosa, 95, Centro, Jardinopolis - SP 14680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.023502",
+          "refe_longitude": "-47.770442"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Francisco Ant\u00f4nio de Freitas, 892 - Centro, Miguel\u00f3polis - SP, 14530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.180430",
+          "refe_longitude": "-48.029154"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Nossa Sra. Aparecida, 1195 - Vila Irma Antonieta Farani, Bebedouro - SP, 14711-158, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.938402",
+          "refe_longitude": "-48.460863"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Nossa Sra. Aparecida, 1195 - Vila Irma Antonieta Farani, Bebedouro - SP, 14711-158, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.938402",
+          "refe_longitude": "-48.460863"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Dez, 102, Gua\u00edra - SP, 14790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.325891",
+          "refe_longitude": "-48.311822"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Louren\u00e7o Bueno de Camargo Filho, 133 - Ja Calif\u00f3rnia, Morro Agudo - SP, 14640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.724442",
+          "refe_longitude": "-48.048636"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "20/09/2023 14:10:00",
+      "viag_previsao_fim": "22/09/2023 08:23:35"
+    }
+  ]
+}"

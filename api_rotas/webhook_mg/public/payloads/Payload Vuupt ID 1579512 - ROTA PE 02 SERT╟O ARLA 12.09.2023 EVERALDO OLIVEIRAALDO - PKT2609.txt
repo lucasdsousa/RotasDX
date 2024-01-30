@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKT2609"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02006652435"
+        }
+      ],
+      "rota_descricao": "ROTA PE 02 SERT\u00c3O ARLA 12.09.2023 EVERALDO OLIVEIRAALDO - PKT2609",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Mirandiba, Mirandiba - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119633",
+          "refe_longitude": "-38.729291"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Araripina, Araripina - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.576560",
+          "refe_longitude": "-40.497632"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Petrol\u00e2ndia, Petrol\u00e2ndia - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.981622",
+          "refe_longitude": "-38.218716"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Petrolina, Petrolina - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.399460",
+          "refe_longitude": "-40.502357"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "12/09/2023 08:00:00",
+      "viag_previsao_fim": "13/09/2023 20:49:51"
+    }
+  ]
+}"

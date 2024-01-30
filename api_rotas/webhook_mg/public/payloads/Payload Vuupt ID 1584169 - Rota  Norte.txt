@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKT3918"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05558297581"
+        }
+      ],
+      "rota_descricao": "Rota  Norte",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Canudos, BA, 48520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.896420",
+          "refe_longitude": "-39.029460"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "LOTEAMENTO. CENTRO INDUSTRIAL SAO FRANCISCO, SN - JOAO PAULO II, JUAZEIRO - BAHIA, 48908000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.435120",
+          "refe_longitude": "-40.493963"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "ROD. BR 116, SN, SEDE, TUCANO - BAHIA, 48790-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.051255",
+          "refe_longitude": "-38.839364"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "AV. LEONARDO NUNES ARRUDA, 1528, SEDE, TUCANO - BAHIA, 48790-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.962019",
+          "refe_longitude": "-38.791530"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "ROD. LOMANTO JUNIOR, SN, BR 407, JUAZEIRO - BAHIA, 48922-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.431270",
+          "refe_longitude": "-40.507871"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "ROD. BR 407, SN, DISTRITO INDUSTRIAL, JUAZEIRO - BAHIA 48909-725, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.391128",
+          "refe_longitude": "-40.519747"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "ROD. BR 116, S/N, CENTRO, TUCANO - BAHIA, 48790-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.973480",
+          "refe_longitude": "-38.794574"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. HEROINA MARIA CLEIDE, 1, SEDE, ARACI - BAHIA, 48760-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.337339",
+          "refe_longitude": "-38.963193"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "FAZENDA. BOA VISTA BR 116, SN, ZONA RURAL, ARACI - BAHIA, 48760-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.239998",
+          "refe_longitude": "-38.900871"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "ROD. JUAZEIRO CURACA, SN, CAJUEIRO, JUAZEIRO - BAHIA, 48905-350, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.423964",
+          "refe_longitude": "-40.512873"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "ROD. LOMANTO JUNIOR, 1010, ZONA RURAL, CAPIM GROSSO - BAHIA, 44695-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.398743",
+          "refe_longitude": "-39.959592"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "13/09/2023 20:00:00",
+      "viag_previsao_fim": "14/09/2023 18:26:51"
+    }
+  ]
+}"

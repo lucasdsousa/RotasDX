@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "Arla 32 DF goias - 11/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Padre Maximiano, 2605, Centro, Cascavel - CE 62850-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.133888",
+          "refe_longitude": "-38.240466"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Chanceler Edson Queiroz, 1954 - Cascavel, CE, 62850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.134488",
+          "refe_longitude": "-38.236353"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "11/09/2023 08:05:00",
+      "viag_previsao_fim": "11/09/2023 16:33:18"
+    }
+  ]
+}"

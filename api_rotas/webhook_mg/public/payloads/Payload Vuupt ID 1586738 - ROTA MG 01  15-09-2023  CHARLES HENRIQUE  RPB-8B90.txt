@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB8B90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  15/09/2023  CHARLES HENRIQUE  RPB-8B90",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Dom Pedro II, 2310 - Jardim Montanh\u00eas, Belo Horizonte - MG, 30760-462, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.908343",
+          "refe_longitude": "-43.963084"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Itapecerica, 719, Lagoinha, Belo Horizonte - MG 31210-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.907576",
+          "refe_longitude": "-43.945523"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Niquelina, 1301, Paraiso, Belo Horizonte - MG 30270-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.917284",
+          "refe_longitude": "-43.908927"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Niquelina, 1301, Paraiso, Belo Horizonte - MG 30270-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.917284",
+          "refe_longitude": "-43.908927"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Niquelina, 1301, Paraiso, Belo Horizonte - MG 30270-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.917284",
+          "refe_longitude": "-43.908927"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Florestal, 190, Alvorada, Sabara - MG 34700-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.879468",
+          "refe_longitude": "-43.896660"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Paulo Campos Mendes, 36, Ribeiro de Abreu, Belo Horizonte - MG 31872-072, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.826712",
+          "refe_longitude": "-43.898227"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Liberdade, 201, Alvorada, Sabara - MG 34650-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.874432",
+          "refe_longitude": "-43.898338"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Itaituba, 204, Boa Vista, Belo Horizonte - MG 31060-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.897925",
+          "refe_longitude": "-43.903185"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Prefeito Vitor Fantini, 27, Centro, Sabara - MG 34505-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.893999",
+          "refe_longitude": "-43.814224"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. Anel Rodovi\u00e1rio Celso Mello Azevedo, 23978 - Maria Goretti, Belo Horizonte - MG, 31985-203, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.858476",
+          "refe_longitude": "-43.907104"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Expedicionario Romeu Jeronimo Dantas, 1888, Caieira, Sabara - MG 34555-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.889429",
+          "refe_longitude": "-43.830513"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rod. Anel Rodovi\u00e1rio Celso Mello Azevedo, 24700 - Goi\u00e2nia, Belo Horizonte - MG, 31910-585, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.857281",
+          "refe_longitude": "-43.900485"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Elisio de Brito, 649, Boa Vista, Belo Horizonte - MG 31060-535, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.895050",
+          "refe_longitude": "-43.901938"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Minas Gerais, 98, Vila Rica, Sabara - MG 34580-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.885596",
+          "refe_longitude": "-43.852227"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Jacu\u00ed, 3641 - Ipiranga, Belo Horizonte - MG, 31160-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.882182",
+          "refe_longitude": "-43.933746"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "15/09/2023 08:00:00",
+      "viag_previsao_fim": "15/09/2023 16:46:01"
+    }
+  ]
+}"

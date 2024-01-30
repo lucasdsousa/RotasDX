@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY6I33"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06186481603"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01 27/09/2023  ANDRE EVANGELHISTA  RCY-6I33",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Delta, 14, Vila Paris, Contagem - MG 32372-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923454",
+          "refe_longitude": "-44.022426"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Monte Libano, 22, Padre Eustaquio, Belo Horizonte - MG 30730-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.913684",
+          "refe_longitude": "-43.988103"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Presidente Carlos Luz, 456 - Cai\u00e7aras, Belo Horizonte - MG, 31230-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.904930",
+          "refe_longitude": "-43.964467"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Bonfim, 902, Bonfim, Belo Horizonte - MG 31210-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.909174",
+          "refe_longitude": "-43.949361"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua MENDANHA, 225, Padre Eustaquio, Belo Horizonte - MG 30720-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.918910",
+          "refe_longitude": "-43.969470"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua S\u00f3crates, 1005 - Nazare, Belo Horizonte - MG, 31990-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.849373",
+          "refe_longitude": "-43.899419"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Alameda Dos Sabias, 803, Cabral, Contagem - MG 32146-024, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.877304",
+          "refe_longitude": "-44.044978"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Cristiano Machado, 5197, Cidade Nova, Belo Horizonte - MG 31155-555, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.869157",
+          "refe_longitude": "-43.928607"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Belo Oriente, 240 - Provid\u00eancia, Belo Horizonte - MG, 31814-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.855793",
+          "refe_longitude": "-43.923922"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Wilson Tavares Ribeiro, 965, Chacaras Reunidas Santa Terezinha, Contagem - MG 32183-680, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.868800",
+          "refe_longitude": "-44.048561"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Doutor Cristiano Guimaraes, 2695, Planalto, Belo Horizonte - MG 31720-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.841741",
+          "refe_longitude": "-43.949089"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Tenente Paulo Afonso de Souza, 108, Arvoredo, Contagem - MG 32113-235, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.877525",
+          "refe_longitude": "-44.025200"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Esmeraldas - MG, 35740, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.780490",
+          "refe_longitude": "-44.191600"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Americo Vespucio, 667, Nova Cachoeirinha, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.890239",
+          "refe_longitude": "-43.956485"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Da Ponte, SN, Siderurgica, Sabara - MG 34515-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.880358",
+          "refe_longitude": "-43.794323"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Tipuana, 533, Juliana, Belo Horizonte - MG 31744-665, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.811070",
+          "refe_longitude": "-43.944191"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rod. Dep. L\u00facio de Souza Cruz - Esmeraldas, MG, 35740, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.761975",
+          "refe_longitude": "-44.325957"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "27/09/2023 07:00:00",
+      "viag_previsao_fim": "27/09/2023 17:48:55"
+    }
+  ]
+}"

@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9C78"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "86885529249"
+        }
+      ],
+      "rota_descricao": "ROTA RO 12/09/2023 JOSE LUIS RPB-9C78",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "12/09/2023 07:00:00",
+      "viag_previsao_fim": "15/09/2023 00:04:01"
+    }
+  ]
+}"

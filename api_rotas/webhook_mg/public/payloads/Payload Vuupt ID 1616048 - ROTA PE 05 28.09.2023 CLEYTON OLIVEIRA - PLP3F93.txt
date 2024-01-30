@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLP3F93"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02813765490"
+        }
+      ],
+      "rota_descricao": "ROTA PE 05 28.09.2023 CLEYTON OLIVEIRA - PLP3F93",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Joaquim Nabuco, 112, Centro, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.405112",
+          "refe_longitude": "-35.117457"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Joaquim Nabuco, 112, Centro, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.405112",
+          "refe_longitude": "-35.117457"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Vereador Rodolfo Francelino Aragao, 43, Bairro Novo, Santa Cruz do Capibaribe - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.950765",
+          "refe_longitude": "-36.206254"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Luiz Cecilio de Santana, 1, Sao Domingos, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.962012",
+          "refe_longitude": "-36.204589"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Padre Nazareno, SN, Centro, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.592088",
+          "refe_longitude": "-35.483842"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Sao Severino, 187, Guadalajara, Paudalho - PE 55825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.897757",
+          "refe_longitude": "-35.153244"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Antonio Rosendo de Lima, 03, Centro, Riacho das Almas - PE 55120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067290",
+          "refe_longitude": "-35.893414"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Severino Manoel dos Santos, 400, Centro, Taquaritinga do Norte - PE 55790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.955351",
+          "refe_longitude": "-36.132206"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Pref. Braz de L\u00edra, 154 - Nova Palestina, Santa Cruz do Capibaribe - PE, 55190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.955962",
+          "refe_longitude": "-36.194181"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Vila Barra do Farias, SN, Barra do Farias, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.134113",
+          "refe_longitude": "-36.302394"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Jose Inacio Cavalcante, SC, Sao Domingos, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.146334",
+          "refe_longitude": "-36.368283"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Dr Ferreira Lima, 300, Centro, Timbauba - PE 55870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.515943",
+          "refe_longitude": "-35.310941"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Feira Nova - PE, 55715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.935900",
+          "refe_longitude": "-35.391660"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Setor Amarela, SN, Zona Rural, Taquaritinga do Norte - PE 55790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.863202",
+          "refe_longitude": "-36.111080"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 408, 2, Zona Rural, Paudalho - PE 55825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.908952",
+          "refe_longitude": "-35.170521"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 13:26:24"
+    }
+  ]
+}"

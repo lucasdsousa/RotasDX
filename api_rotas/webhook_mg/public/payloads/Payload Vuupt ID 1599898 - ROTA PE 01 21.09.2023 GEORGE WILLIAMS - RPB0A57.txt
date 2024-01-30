@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 21.09.2023 GEORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Empresario Joao Santos Filho, S/N, Marcos Freire, Jaboatao dos Guararapes - PE 54360-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.157315",
+          "refe_longitude": "-34.969960"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 2084, Imbiribeira, Recife - PE 51170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.109443",
+          "refe_longitude": "-34.912282"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Sueli Luana Menelau, 144, Imbiribeira, Recife - PE 51170-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.089670",
+          "refe_longitude": "-34.915125"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dezessete de Agosto, 1209, Poco, Recife - PE 52060-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.037434",
+          "refe_longitude": "-34.919671"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Passos da Patria, 108, Sao Jose, Recife - PE 50020-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.069553",
+          "refe_longitude": "-34.881050"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Senador Nilo de Souza Coelho, 28, Ouro Preto, Olinda - PE 53370-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.982575",
+          "refe_longitude": "-34.857120"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Joao Rufino, 90, Casa Forte, Recife - PE 52061-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.030869",
+          "refe_longitude": "-34.923419"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Engenheiro Abdias de Carvalho, 1420, Prado, Recife - PE 50751-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062354",
+          "refe_longitude": "-34.919175"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Vinte e Quatro, 163, Sao Jose, Recife - PE 50020-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067603",
+          "refe_longitude": "-34.880854"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Jose Osorio, 100, Madalena, Recife - PE 50610-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.052877",
+          "refe_longitude": "-34.905452"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "21/09/2023 14:45:47"
+    }
+  ]
+}"

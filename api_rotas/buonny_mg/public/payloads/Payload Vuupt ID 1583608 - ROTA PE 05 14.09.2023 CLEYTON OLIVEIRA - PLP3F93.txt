@@ -1,0 +1,42 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583608,
+  "numero_liberacao": 1583608,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Cleyton Oliveira",
+    "cpf": "02813765490",
+    "telefone": null,
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "PLP3F93"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0025-41",
+    "descricao": "Dunax Lubrificantes LTDA - PE"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "16/09/2023 05:52:48",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301815","erros":[]}

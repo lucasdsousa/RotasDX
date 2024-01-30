@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5C65"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06846525521"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 20/09/2023 CLEONIS DOS SANTOS RPB-5C65",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Louren\u00e7o Bueno de Camargo Filho, 133 - Ja Calif\u00f3rnia, Morro Agudo - SP, 14640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.724442",
+          "refe_longitude": "-48.048636"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Am\u00e9rico Brasiliense, 472, Ipu\u00e3 - SP, 14610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.442833",
+          "refe_longitude": "-48.014400"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 An\u00edbal Soares de Oliveira, 1463 - Ituverava, SP, 14500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.334412",
+          "refe_longitude": "-47.794013"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jos\u00e9 Salvador da Silva, 90 Miguel\u00f3polis - SP, 14530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.189249",
+          "refe_longitude": "-48.035166"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Maj. Moura Mattos, 1190 - Vila Rezende, Franca - SP, 14406-528, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.527867",
+          "refe_longitude": "-47.431843"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "21/09/2023 13:50:00",
+      "viag_previsao_fim": "22/09/2023 11:19:28"
+    }
+  ]
+}"

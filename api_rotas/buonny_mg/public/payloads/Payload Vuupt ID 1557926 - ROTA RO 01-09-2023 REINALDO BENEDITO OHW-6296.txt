@@ -1,0 +1,70 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": [
+    "05092901001227"
+  ],
+  "cnpj_embarcador": [
+    "05092901001227"
+  ],
+  "cnpj_transportador": [
+    "05092901001227"
+  ],
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1557926,
+  "numero_liberacao": 1557926,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "Nenhuma",
+  "motorista": {
+    "nome": "REINALDO BENEDITO DA SILVA",
+    "cpf": "83095900406",
+    "telefone": "+556999356534"
+  },
+  "veiculos": {
+    "placa": [
+      "OHW6296"
+    ]
+  },
+  "origem": {
+    "codigo_externo": [
+      "05092901001227"
+    ],
+    "descricao": [
+      "BR364",
+      " 9280 ",
+      "Aeroclube",
+      " Porto Velho ",
+      "RO",
+      " Brasil"
+    ],
+    "logradouro": "BR364",
+    "numero": " 9280 ",
+    "complemento": "Nenhum",
+    "bairro": "Aeroclube",
+    "cidade": " Porto Velho ",
+    "estado": "RO",
+    "latitude": -8.787411,
+    "longitude": -63.855378,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": true,
+  "data_previsao_inicio": "01/09/2023 09:20:00",
+  "data_previsao_fim": "02/09/2023 07:32:41",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 1 Incompletos&#10;Informe o destino da SM&#10;"]}

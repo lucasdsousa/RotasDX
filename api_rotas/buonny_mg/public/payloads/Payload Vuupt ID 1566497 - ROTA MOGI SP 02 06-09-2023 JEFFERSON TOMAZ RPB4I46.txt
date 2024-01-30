@@ -1,0 +1,55 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002894",
+  "cnpj_embarcador": "05092901002894",
+  "cnpj_transportador": "05092901002894",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1566497,
+  "numero_liberacao": 1566497,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JEFFERSON TOMAZ PEREIRA DE SOUZA",
+    "cpf": "39666444879",
+    "telefone": "+5511958105457"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB4I46"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901002894",
+    "descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+    "logradouro": "Estr. Mauro Auricchio",
+    "numero": " 1505 ",
+    "complemento": "0",
+    "bairro": "Tabo\u00e3o",
+    "cidade": " Mogi das Cruzes ",
+    "estado": "SP",
+    "latitude": -23.423712,
+    "longitude": -46.206623,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " 08772010"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 07:30:00",
+  "data_previsao_fim": "06/09/2023 19:01:08",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

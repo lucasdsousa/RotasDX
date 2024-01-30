@@ -1,0 +1,79 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ0F99"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09897004610"
+        }
+      ],
+      "rota_descricao": "ROTA MG 09  - ASSIM QUE O MARCUS RETORNAR DE VIAGEM",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Josefina Antunes, 598, Centro, Ibertioga - MG 36225-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.426647",
+          "refe_longitude": "-43.964567"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Antonio Bitencourt de Oliveira, 319, Fabrica, Madre de Deus de Minas - MG 37305-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.482467",
+          "refe_longitude": "-44.330189"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Salomao Batista de Souza, 331, Jardim Paulo Campos, Sao Joao del Rei - MG 36305-044, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.123224",
+          "refe_longitude": "-44.240818"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "S\u00e3o Vicente de Minas, MG, 37370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.701681",
+          "refe_longitude": "-44.440050"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Calliu Jorge, 267, centro, Santa Rita de Jacutinga - MG 36135-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.946736",
+          "refe_longitude": "-44.070624"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 267, SN, Santa Terezinha, Lima Duarte - MG 36140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.859778",
+          "refe_longitude": "-43.865004"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "07/09/2023 15:09:29"
+    }
+  ]
+}

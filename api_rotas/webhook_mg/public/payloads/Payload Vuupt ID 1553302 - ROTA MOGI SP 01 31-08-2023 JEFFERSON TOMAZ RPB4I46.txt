@@ -1,0 +1,69 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4I46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "39666444879"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 31/08/2023 JEFFERSON TOMAZ RPB4I46",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Visc. de Ouro Preto, 56 - Jardim Santa Cruz, Salto - SP, 13323-615, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.225574",
+          "refe_longitude": "-47.267211"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Luiz de Lima, 369 - Centro, Cajati - SP, 11950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.730622",
+          "refe_longitude": "-48.112115"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Pres. Vargas, 1511 - Cidade Nova I, Indaiatuba - SP, 13334-085, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.085411",
+          "refe_longitude": "-47.197201"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Gil Antonio Pereira, 1090, Felipe Claudio de Sales, Pedro Leopoldo - MG 33600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.589516",
+          "refe_longitude": "-44.034717"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Manoel Francisco Venancio, SN, Centro, Bayeux - PB 58306-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.125737",
+          "refe_longitude": "-34.920411"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "31/08/2023 07:00:00",
+      "viag_previsao_fim": "31/08/2023 15:04:52"
+    }
+  ]
+}

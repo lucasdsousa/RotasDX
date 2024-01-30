@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY6I33"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09952737661"
+        }
+      ],
+      "rota_descricao": "ROTA MG 19 08/09/23 RODRIGO PEREIRA",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Raimundo Geraldino Fonseca, 37 - Canad\u00e1, Sete Lagoas - MG, 35701-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.443800",
+          "refe_longitude": "-44.213826"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Moacir Jose da Silva, 244, Sao Jose, Pedro Leopoldo - MG 33600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.629388",
+          "refe_longitude": "-44.034233"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Franco Matos, 939 - Distrito Industrial, Pedro Leopoldo - MG, 33600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.634161",
+          "refe_longitude": "-44.016865"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Brasilia, 22, Centro, Prudente de Morais - MG 35738-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.483178",
+          "refe_longitude": "-44.149711"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Goi\u00e1s, 1672 - Boa Vista, Sete Lagoas - MG, 35700-825, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.450212",
+          "refe_longitude": "-44.243692"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Gil Antonio Pereira, 1090, Felipe Claudio de Sales, Pedro Leopoldo - MG 33600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.589516",
+          "refe_longitude": "-44.034717"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Padre Jo\u00e3o, 958 - Cordisburgo, MG, 35780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.121975",
+          "refe_longitude": "-44.321521"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Carlos Antonio Giordani, 1645, Henrique Nery, Sete Lagoas - MG 35700-750, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.470483",
+          "refe_longitude": "-44.264816"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Praca Coronel Bernardino, 57, Centro, Paraopeba - MG 35774-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.279049",
+          "refe_longitude": "-44.399767"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Margarida Cortona, 1074 - Cana\u00e3, Sete Lagoas - MG, 35700-307, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.469251",
+          "refe_longitude": "-44.258821"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Santana de Pirapama - MG, 35785-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.996790",
+          "refe_longitude": "-44.029590"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "08/09/2023 07:00:00",
+      "viag_previsao_fim": "09/09/2023 18:55:03"
+    }
+  ]
+}"

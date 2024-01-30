@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI CAPITAL  08/09/2023  FRANCIMAR LIMA  RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Barao de Gurgueia, 3950, Tabuleta, Teresina - PI 64018-901, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123883",
+          "refe_longitude": "-42.800436"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Miguel Rosa, 1074, Centro, Teresina - PI 64000-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.081020",
+          "refe_longitude": "-42.820711"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Bar\u00e3o de Castelo Branco, 2041 - Cristo Rei, Teresina - PI, 64016-850, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.096983",
+          "refe_longitude": "-42.789323"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Pres. Get\u00falio Vargas, 1505 - Vermelha, Teresina - PI, 64023-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123384",
+          "refe_longitude": "-42.796881"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "08/09/2023 11:30:00",
+      "viag_previsao_fim": "08/09/2023 13:54:35"
+    }
+  ]
+}"

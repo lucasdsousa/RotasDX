@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLN7D24"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "61782540326"
+        }
+      ],
+      "rota_descricao": "Rota MA 04 Timon 18/09/2023 Gabriel da Silva Duarte PLN7D24",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Dep. Nagibe Haickel, 158, Coroat\u00e1 - MA, 65415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.129713",
+          "refe_longitude": "-44.127539"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Roseana Sarney, Barra do Corda - MA, 65950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.498872",
+          "refe_longitude": "-45.255727"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Santa B\u00e1rbara, 73 - Bairro Extrema, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.825406",
+          "refe_longitude": "-46.160172"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Central, 2150 - Mariol, Coroat\u00e1 - MA, 65415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.112670",
+          "refe_longitude": "-44.118602"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "MA-026, 853a - Cod\u00f3, MA, 65400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.461880",
+          "refe_longitude": "-43.885832"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Roseana Sarney, Barra do Corda - MA, 65950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.498872",
+          "refe_longitude": "-45.255727"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Roseana Sarney - Trezidela, Barra do Corda - MA, 65950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.498759",
+          "refe_longitude": "-45.256216"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Santa B\u00e1rbara, 73 - Bairro Extrema, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.825406",
+          "refe_longitude": "-46.160172"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Antonio Bandeira - Centro, S\u00edtio Novo - MA, 65925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.881124",
+          "refe_longitude": "-46.708091"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-226, 2143, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.802893",
+          "refe_longitude": "-46.116218"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.787105",
+          "refe_longitude": "-46.093277"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Oton Gon\u00e7alves, N\u00b0 4 - Bairro-Campo, Pres. Dutra - MA, 65760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.301385",
+          "refe_longitude": "-44.489250"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "BR-226 - R. Vila Militar, Graja\u00fa - MA, 65940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.820302",
+          "refe_longitude": "-46.135984"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Nereu Bittencurt, 302 - Centro, Caxias - MA, 65608-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.863910",
+          "refe_longitude": "-43.364616"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Nereu Bittencurt - Centro, Caxias - MA, 65608-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.863384",
+          "refe_longitude": "-43.363794"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Piraj\u00e1, 1147 - Piraj\u00e1, Caxias - MA, 65608-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.866860",
+          "refe_longitude": "-43.377587"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "AV. NEREU BITTEMCOURT, 152, CENTRO, CAXIAS - MARANH\u00c3O 65608-180, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.864421",
+          "refe_longitude": "-43.365855"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "18/09/2023 13:00:00",
+      "viag_previsao_fim": "21/09/2023 17:51:28"
+    }
+  ]
+}"

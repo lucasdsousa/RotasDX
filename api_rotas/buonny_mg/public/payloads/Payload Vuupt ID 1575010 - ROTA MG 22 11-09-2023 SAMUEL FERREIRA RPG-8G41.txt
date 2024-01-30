@@ -1,0 +1,140 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1575010,
+  "numero_liberacao": 1575010,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "SAMUEL FERREIRA DE SOUZA",
+    "cpf": "14231118698",
+    "telefone": "+5531997778925"
+  },
+  "veiculos": {
+    "placa": "RPG8G41"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "15/09/2023 13:03:44",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26157425000526",
+            "descricao": "POSTO VITORIA JUNQUEIRA EIRELI",
+            "latitude": "-18.951854",
+            "longitude": "-49.465473",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "11261.21",
+                  "volume": "37",
+                  "peso": "638.683"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04861297000130",
+            "descricao": "EUROMINAS PECAS E SERVICOS LTDA",
+            "latitude": "-18.889324",
+            "longitude": "-48.258082",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1053.35",
+                  "volume": "3",
+                  "peso": "59.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18159194000138",
+            "descricao": "POSTO MARAJA LTDA",
+            "latitude": "-18.736501",
+            "longitude": "-47.499777",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:38:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1300",
+                  "volume": "20",
+                  "peso": "458"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18593087000113",
+            "descricao": "POSTO UAI LTDA",
+            "latitude": "-18.737445",
+            "longitude": "-47.500240",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:48:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3250",
+                  "volume": "50",
+                  "peso": "1145"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

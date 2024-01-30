@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLY8F07"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06106721424"
+        }
+      ],
+      "rota_descricao": "ROTA PE 02 18.09.2023 SANDRO PERGENTINO - PLY8F07",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Vinte e Cinco de Agosto, 850, Planalto, Sao Jose do Egito - PE 56700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.466891",
+          "refe_longitude": "-37.274220"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Joao Gomes de Lucena, 2892, Sao Cristovao, Serra Talhada - PE 56912-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.981839",
+          "refe_longitude": "-38.291874"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Raimundo Ferreira Pires, 11, Joao Cordeiro, Tabira - PE 56780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.594295",
+          "refe_longitude": "-37.540865"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Praca Castelo Branco, 35 A, Centro, Exu - PE 56230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.511799",
+          "refe_longitude": "-39.723754"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "S\u00e3o Jos\u00e9 do Egito, PE, 56700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.472175",
+          "refe_longitude": "-37.276172"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 232, S/N, Zona Rural, Mirandiba - PE 56980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.020848",
+          "refe_longitude": "-38.710574"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia Asa Branca, 431, Centro, Exu - PE 56230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.523257",
+          "refe_longitude": "-39.720880"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 316, SN, Zona Rural, Trindade - PE 56250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.774262",
+          "refe_longitude": "-40.251235"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Raimundo Ferreira Pires, 11, Joao Cordeiro, Tabira - PE 56780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.594295",
+          "refe_longitude": "-37.540865"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia PE-310, SN, Quitimbu, Custodia - PE 56640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.927842",
+          "refe_longitude": "-37.584753"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia 316, SN, Zona Rural, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.578339",
+          "refe_longitude": "-40.513067"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Governador Muniz Falcao, 770, Bomba, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.580970",
+          "refe_longitude": "-40.503971"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Corinto Matos, 580, Serrania, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.442129",
+          "refe_longitude": "-40.665602"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 21:31:50"
+    }
+  ]
+}"

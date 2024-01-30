@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU2J26"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91810574587"
+        }
+      ],
+      "rota_descricao": "ROTA SE 03  01/08/2023  EDUARDO GAMA  RCU-2J26",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "01/09/2023 07:00:00",
+      "viag_previsao_fim": "02/09/2023 06:17:53"
+    }
+  ]
+}

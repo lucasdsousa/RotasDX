@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C89"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00211359246"
+        }
+      ],
+      "rota_descricao": "ROTA 06 REGI\u00c3O METROPOLITANA 28/09/2023 DAYKSON BRUNO RCY4C89",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "RODOVIA BR 316, KM 09, 1839 em Frente ao Assai Atacadista - Centro - Pato Macho, Ananindeua - PA, 67030-007, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366066",
+          "refe_longitude": "-48.368973"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Do Arsenal, 207, Cidade Velha, Belem - PA 66023-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.465275",
+          "refe_longitude": "-48.502588"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Oito de Maio, 520, Agulha, Belem - PA 66811-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.304199",
+          "refe_longitude": "-48.469498"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Tv. Berredos, 1585 - Ponta Grossa (Icoaraci), Bel\u00e9m - PA, 66811-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.305945",
+          "refe_longitude": "-48.474768"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Travessa WE 69, 361, Cidade Nova, Ananindeua - PA 67140-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.352499",
+          "refe_longitude": "-48.402191"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Travessa Angustura, 1428, Pedreira, Belem - PA 66080-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.424650",
+          "refe_longitude": "-48.472186"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Pedro Alvares Cabral, 1751, Castanheira, Belem - PA 66645-974, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.407204",
+          "refe_longitude": "-48.441447"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Travessa Gurupa, 06, Cidade Velha, Belem - PA 66020-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.459960",
+          "refe_longitude": "-48.505546"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Estrada Da Yamada, 02, Bengui, Belem - PA 66630-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.377182",
+          "refe_longitude": "-48.460970"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia Augusto Meira Filho, 09, Centro, Santa Barbara do Para - PA 68798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.278893",
+          "refe_longitude": "-48.254952"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Fernando Guilhon, Ananindeua - PA, 67033-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.380714",
+          "refe_longitude": "-48.374231"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Senador Lemos, 1386, Centro, Santo Antonio do Taua - PA 68786-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.159192",
+          "refe_longitude": "-48.129715"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "28/09/2023 10:30:00",
+      "viag_previsao_fim": "29/09/2023 11:40:07"
+    }
+  ]
+}"

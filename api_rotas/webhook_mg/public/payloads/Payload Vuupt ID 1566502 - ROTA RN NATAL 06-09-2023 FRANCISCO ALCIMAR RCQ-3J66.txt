@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ3J66"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04061219405"
+        }
+      ],
+      "rota_descricao": "ROTA RN NATAL 06/09/2023 FRANCISCO ALCIMAR RCQ-3J66",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Jaguarari, 5000 - Candel\u00e1ria, Natal - RN, 59064-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.836453",
+          "refe_longitude": "-35.225343"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Manoel de Castro, 125 - Candel\u00e1ria, Natal - RN, 59064-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.830354",
+          "refe_longitude": "-35.233028"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Lima e Silva, 227 - Nossa Sra. de Nazar\u00e9, Natal - RN, 59062-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.817553",
+          "refe_longitude": "-35.231058"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Coronel Estevam, 3272 - Nossa Sra. de Nazar\u00e9, Natal - RN, 59062-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.814205",
+          "refe_longitude": "-35.231357"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Maranguape, 1038 - Potengi, Natal - RN, 59112-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.757155",
+          "refe_longitude": "-35.261761"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Dr. Mario Neg\u00f3cio, 2298 - Quintas, Natal - RN, 59040-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.798104",
+          "refe_longitude": "-35.236417"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Paulistana - Potengi, Natal - RN, 59108-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.763847",
+          "refe_longitude": "-35.259962"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Romualdo Galv\u00e3o, 2 - Lagoa Nova, Natal - RN, 59022-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.800303",
+          "refe_longitude": "-35.204014"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Rosa Filomena - Jardins, S\u00e3o Gon\u00e7alo do Amarante - RN, 59290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.751274",
+          "refe_longitude": "-35.302765"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Adriana Faria de Oliveira, 111 - Jardins, S\u00e3o Gon\u00e7alo do Amarante - RN, 59293-855, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.750963",
+          "refe_longitude": "-35.318186"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "06/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 21:05:11"
+    }
+  ]
+}"

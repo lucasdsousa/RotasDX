@@ -1,0 +1,70 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001731",
+  "cnpj_embarcador": "05092901001731",
+  "cnpj_transportador": "05092901001731",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572293,
+  "numero_liberacao": 1572293,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO LUIZ MARQUES DE BRITO",
+    "cpf": "00725768711",
+    "telefone": "+5522996032624"
+  },
+  "veiculos": {
+    "placa": "RPB2J65"
+  },
+  "origem": {
+    "codigo_externo": "05092901001731",
+    "descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+    "latitude": -21.683746,
+    "longitude": -41.311186
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 09:30:00",
+  "data_previsao_fim": "08/09/2023 22:22:12",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34294224000175",
+            "descricao": "ACM LUBRIFICANTES LTDA",
+            "logradouro": "Avenida Gilberto Carvalho",
+            "numero": "0",
+            "latitude": "-22.906447",
+            "longitude": "-42.944182",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 12:41:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2380",
+                  "volume": "7",
+                  "peso": "128.062"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

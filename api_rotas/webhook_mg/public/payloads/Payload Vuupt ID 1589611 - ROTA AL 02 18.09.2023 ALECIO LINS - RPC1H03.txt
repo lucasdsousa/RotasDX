@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC1H03"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11291412417"
+        }
+      ],
+      "rota_descricao": "ROTA AL 02 18.09.2023 ALECIO LINS - RPC1H03",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia AL 101, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.045592",
+          "refe_longitude": "-35.399246"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Juvenal Mendon\u00e7a, 930 - Uni\u00e3o dos Palmares, AL, 57800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.156640",
+          "refe_longitude": "-36.028180"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia AL 435 Norte, SN, Porto da Rua, Sao Miguel dos Milagres - AL 57940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.238902",
+          "refe_longitude": "-35.352554"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 101, S/N, Povoado Olho D'agua, Junqueiro - AL 57270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.897042",
+          "refe_longitude": "-36.459092"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia AL 101, 06, Barra Grande, Maragogi - AL 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.985738",
+          "refe_longitude": "-35.197439"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "19/09/2023 12:31:04"
+    }
+  ]
+}"

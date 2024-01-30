@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLP3F93"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02813765490"
+        }
+      ],
+      "rota_descricao": "ROTA PE 05 14.09.2023 CLEYTON OLIVEIRA - PLP3F93",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PE 75, S/N, Centro, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.404474",
+          "refe_longitude": "-35.121861"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PE 075, 189, Rodovia, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.410578",
+          "refe_longitude": "-35.112148"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Vila Barra do Farias, SN, Barra do Farias, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.134113",
+          "refe_longitude": "-36.302394"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Jose Barros da Silva, 500, Lagoa, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.141945",
+          "refe_longitude": "-36.379744"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Profesora Severina Inez Barbosa Cavalcanti, 3 - Cezar Augusto, Timba\u00faba - PE, 55870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.500456",
+          "refe_longitude": "-35.312944"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Severino Augusto Miranda, 90, Centro, Casinhas - PE 55755-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.744234",
+          "refe_longitude": "-35.724504"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Joaquim Nabuco, 292, Cruz Alta, Santa Cruz do Capibaribe - PE 55195-009, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.950593",
+          "refe_longitude": "-36.211566"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Santa Cruz, S/N, Centro, Jatauba - PE 55180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.990256",
+          "refe_longitude": "-36.495116"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia PE 160, SN, Augusto Melo, Jatauba - PE 55180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.983468",
+          "refe_longitude": "-36.499793"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Olivia Maria da Conceicao, 510, Lagoa do Choro, Surubim - PE 55750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.897515",
+          "refe_longitude": "-35.762524"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Feira Nova - PE, 55715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.935900",
+          "refe_longitude": "-35.391660"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Doutor Paulo Pessoa Cavalcanti de Petribu, 14, Sao Sebastiao, Carpina - PE 55818-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.847906",
+          "refe_longitude": "-35.253504"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Feira Nova - PE, 55715-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.935900",
+          "refe_longitude": "-35.391660"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Jo\u00e3o Soares - Riacho das Almas, PE, 55120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.135566",
+          "refe_longitude": "-35.851727"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia PE 095, SN, Santa Terezinha, Limoeiro - PE 55700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.892487",
+          "refe_longitude": "-35.453547"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Deputado Raimundo Asfora, SN, Tres irmas, Campina Grande - PB 58423-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.275485",
+          "refe_longitude": "-35.902370"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 230, 5665, Distrito de Santa Terezinha, Massaranduba - PB 58120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.261186",
+          "refe_longitude": "-35.711012"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Deputado Raimundo Asfora, 1380, Velame, Campina Grande - PB 58420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.222664",
+          "refe_longitude": "-35.904785"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Antonio Ferreira Leal, 10, Centro, Riachao do Bacamarte - PB 58382-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.247291",
+          "refe_longitude": "-35.663486"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Zefirino de Paula, SN, Centro, Aroeiras - PB 58489-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.546020",
+          "refe_longitude": "-35.711233"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "15/09/2023 11:10:46"
+    }
+  ]
+}"

@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW6E96"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03819079378"
+        }
+      ],
+      "rota_descricao": "ROTA CE  26/09/2023 ANTONIO LINDEBERG  RCW-6E96",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Chanceler Edson Queiroz, 1954 - Cascavel, CE, 62850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.134488",
+          "refe_longitude": "-38.236353"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coronel Alexandrino, 1702, Centro, Aracati - CE 62800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.573156",
+          "refe_longitude": "-37.775516"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Raimundo Nonato Costa, 735, Centro, Pindoretama - CE 62860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.031178",
+          "refe_longitude": "-38.302808"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "CE-040 - Jacund\u00e1, Aquiraz - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.896454",
+          "refe_longitude": "-38.423411"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Vicente Martins Dourado, 721, Centro, Beberibe - CE 62840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.181639",
+          "refe_longitude": "-38.132138"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Padre Maximiano, 2605, Centro, Cascavel - CE 62850-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.133888",
+          "refe_longitude": "-38.240466"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "26/09/2023 08:35:00",
+      "viag_previsao_fim": "26/09/2023 17:25:53"
+    }
+  ]
+}"

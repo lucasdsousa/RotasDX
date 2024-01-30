@@ -1,0 +1,262 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO1D57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03925762523"
+        }
+      ],
+      "rota_descricao": "ROTA BA12 11/09/2023 MURILO FERNANDES  PLO-1D57",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Exuperio Miranda, SN - Mandacaru, Jequie - BA, 45210122, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.874387",
+          "refe_longitude": "-40.084365"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Luiz Sande de Oliveira, 400, Santa Rita, Amargosa - BA 45300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.019705",
+          "refe_longitude": "-39.605348"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Lomanto Junior, 3256, Cansancao, Jequie - BA, 45201-331, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.857159",
+          "refe_longitude": "-40.110669"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Joao Goulart, 65 - Centro, Jequie - BA, 45200070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.861011",
+          "refe_longitude": "-40.082530"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 420, 99, Centro, Mutuipe - BA 45480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.217817",
+          "refe_longitude": "-39.485521"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Cezar Borges, 105 - Centro, Jequie - BA, 45200970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.861082",
+          "refe_longitude": "-40.076449"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 116, SN, Centro, Jequie - BA 45200-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.867705",
+          "refe_longitude": "-40.112771"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Ulisses Coelho Lima, SN - Km 03, Jequie - BA, 45208040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.871580",
+          "refe_longitude": "-40.103089"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Castelo Branco, 07, Jequiezinho, Jequie - BA 45204-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.853669",
+          "refe_longitude": "-40.056713"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Espirito Santo, 10 - Agua Branca, Jequie - BA, 45206681, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.860341",
+          "refe_longitude": "-40.060355"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Higinio Barros, 22, Jequiezinho, Jequie - BA 45205-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.859600",
+          "refe_longitude": "-40.064439"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Brasilia, 585, Centro, Maracas - BA, 45360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.434675",
+          "refe_longitude": "-40.427926"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Vava Lomanto, 39 - Jequiezinho, Jequie - BA, 45208539, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.874535",
+          "refe_longitude": "-40.067805"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Boquira, 149, Centro, Paramirim - BA 46190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.450651",
+          "refe_longitude": "-42.244042"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Lindemberg Cardoso, 667, Taquari, Livramento de Nossa Senhora - BA, 46140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.664073",
+          "refe_longitude": "-41.846103"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Dos Ferreiras, 353, Centro, Tanque Novo - BA 46580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.548303",
+          "refe_longitude": "-42.484936"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Praca Senhor do Bonfim, 55, Centro, Dom Basilio - BA 46165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.763151",
+          "refe_longitude": "-41.767394"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Centenario, 741, Novo Brumado, Brumado - BA, 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.214066",
+          "refe_longitude": "-41.677405"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Ulisses de Sousa Lima, 560 - Barreiro, Boquira - BA, 46530000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.820199",
+          "refe_longitude": "-42.727208"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Joao de Brito Leite, 27, Centro, Boquira - BA 46530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.821155",
+          "refe_longitude": "-42.731212"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Prefeito Joao Neves, 358, Centro, Tanque Novo - BA 46580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.554909",
+          "refe_longitude": "-42.483938"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Prefeito Elson Neves de Oliveira, 534, Centro, Tanque Novo - BA 46580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.548921",
+          "refe_longitude": "-42.481701"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Via de Acesso, S/N, Barreiro, Boquira - BA, 46530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.821155",
+          "refe_longitude": "-42.731212"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Do Rosario, 12, Centro, Piata - BA 46765-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.158709",
+          "refe_longitude": "-41.774157"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida ACM, 506, Centro, Tanque Novo - BA 46580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.552118",
+          "refe_longitude": "-42.489429"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Frei Luiz Maria, S/N, Alto do Cruzeiro, Macaubas - BA 46500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.018102",
+          "refe_longitude": "-42.685534"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Ulisses Lima, SN, Santa Barbara, Boquira - BA, 46530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.813006",
+          "refe_longitude": "-42.719373"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rodovia BA 148, S/N, Centro, Boninal - BA 46740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.847537",
+          "refe_longitude": "-41.826933"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rodovia BA 148, S/N, Centro, Boninal - BA 46740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.847537",
+          "refe_longitude": "-41.826933"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Paratinga, 197 - Centro, Boquira - BA, 46530000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.819499",
+          "refe_longitude": "-42.730834"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rodovia BA 142, S/N, Centro, Mucuge - BA, 46750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.013122",
+          "refe_longitude": "-41.370633"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Nova Reden\u00e7\u00e3o, BA, 46835-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.816490",
+          "refe_longitude": "-41.072010"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "11/09/2023 12:00:00",
+      "viag_previsao_fim": "15/09/2023 12:02:01"
+    }
+  ]
+}"

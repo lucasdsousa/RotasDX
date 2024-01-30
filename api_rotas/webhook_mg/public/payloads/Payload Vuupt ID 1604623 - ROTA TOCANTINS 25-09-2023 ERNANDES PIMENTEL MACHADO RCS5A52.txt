@@ -1,0 +1,269 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG5A52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02138341380"
+        }
+      ],
+      "rota_descricao": "ROTA TOCANTINS 25/09/2023 ERNANDES PIMENTEL MACHADO RCS5A52",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Cruzeiro do Sul (Avenida Central), 126, Tocantin\u00f3polis - TO, 77900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.325736",
+          "refe_longitude": "-47.430119"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Goi\u00e1s, 3177-3201, Augustin\u00f3polis - TO, 77960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.472624",
+          "refe_longitude": "-47.881347"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "TO-201, 670, Esperantina - TO, 77993-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.314373",
+          "refe_longitude": "-48.462905"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Araguaia, 285 - Araguatins, TO, 77950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.645067",
+          "refe_longitude": "-48.115234"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Bartolomeu Bueno da Silva, 850, Centro, Araguatins - TO 77950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.648245",
+          "refe_longitude": "-48.123356"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Pedro Afonso - TO, 77710-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.989293",
+          "refe_longitude": "-48.163223"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Nossa Sra. de F\u00e1tima, 1799, Tocantin\u00f3polis - TO, 77900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.324594",
+          "refe_longitude": "-47.431681"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1270 - Jardim das Bandeiras, Guara\u00ed - TO, 77700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.829556",
+          "refe_longitude": "-48.512809"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Amasilio Correa Camargo Neto Quadra 01, Lote 01, N\u00famero 01 - Res. Camargo, Aragua\u00edna - TO, 77808-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.204407",
+          "refe_longitude": "-48.187130"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. C\u00f4nego Jo\u00e3o Lima, 380 - Parque Sonhos Dourados, Aragua\u00edna - TO, 77818-842, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.182149",
+          "refe_longitude": "-48.220710"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Tocantins, Pres. Kennedy - TO, 77745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.530389",
+          "refe_longitude": "-48.505708"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Jos\u00e9 de Brito, 1101 - St. Anhanguera, Aragua\u00edna - TO, 77818-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.194028",
+          "refe_longitude": "-48.215139"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 11543-11555 - Jardim Brasilia, Guara\u00ed - TO, 77700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.847154",
+          "refe_longitude": "-48.510677"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 820 - Jardin Irany, Guara\u00ed - TO, 77700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.823194",
+          "refe_longitude": "-48.512650"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Ministro Alfredo Nasser, 467, Setor Central, Gurupi - TO 77402-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.723290",
+          "refe_longitude": "-49.073760"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Transbrasiliana, S/N Esq C/ Av B, Quadra 28, Lote 09-14 Setor Milena - Vila Milena, Para\u00edso do Tocantins - TO, 77600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.155286",
+          "refe_longitude": "-48.883819"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Transbrasiliana, SN, ST Milena, Paraiso do Tocantins - TO 77600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.173301",
+          "refe_longitude": "-48.885149"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Vitorino Panta, SN, Suburbano, Lagoa da Confusao - TO 77493-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.789553",
+          "refe_longitude": "-49.620757"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua IPE 13 - TO-080, Marian\u00f3polis do Tocantins - TO, 77675-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.797266",
+          "refe_longitude": "-49.668278"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida JK, SN, Centro, Barrolandia - TO 77665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.849149",
+          "refe_longitude": "-48.722440"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Loteamento Parte Do LT 42, SN, Centro, Marianopolis do Tocantins - TO 77675-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.797181",
+          "refe_longitude": "-49.656497"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Trinta e Um de Mar\u00e7o, 1619 - Centro, Gurupi - TO, 77402-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.727095",
+          "refe_longitude": "-49.077430"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rodovia Anel Viario, SN, Parque do Trevo, Porto Nacional - TO 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.720185",
+          "refe_longitude": "-48.408016"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Loteamento QD 81, SN, Centro, Silvanopolis - TO 77580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.149798",
+          "refe_longitude": "-48.171946"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Av. Araguaia, Dois Irm\u00e3os do Tocantins - TO, 77685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.256525",
+          "refe_longitude": "-49.064505"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Manoel Gomes Da Rocha, 805, Setor Pouso Alegre, Paraiso do Tocantins - TO 77600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.192264",
+          "refe_longitude": "-48.888398"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "R. Tadeu de S\u00e1 Coutinho, Goianorte - TO, 77695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.766772",
+          "refe_longitude": "-48.933003"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. An\u00edsio Alves Costa, 1500 - Centro, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.710608",
+          "refe_longitude": "-48.412970"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Aires Joca, SN, Loteamento Porto Imperial, Porto Nacional - TO 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.725940",
+          "refe_longitude": "-48.410990"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233720",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "R. Tadeu de S\u00e1 Coutinho, Goianorte - TO, 77695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.766772",
+          "refe_longitude": "-48.933003"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Q. 712 Sul Alameda 8, 48 - Arse, Palmas - TO, 77022-438, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.229011",
+          "refe_longitude": "-48.317415"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Colm\u00e9ia - TO, 77725-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.736121",
+          "refe_longitude": "-48.749925"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "25/09/2023 14:50:00",
+      "viag_previsao_fim": "02/10/2023 12:08:18"
+    }
+  ]
+}"

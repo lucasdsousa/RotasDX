@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW0I40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06935746400"
+        }
+      ],
+      "rota_descricao": "ROTA PB 02 31.08.2023 ALEX ARAUJO - PLW0I40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "viag_previsao_inicio": "31/08/2023 05:00:00",
+      "viag_previsao_fim": "31/08/2023 13:52:41"
+    }
+  ]
+}

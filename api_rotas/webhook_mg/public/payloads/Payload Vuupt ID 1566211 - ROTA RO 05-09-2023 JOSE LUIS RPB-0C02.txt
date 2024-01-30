@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "86885529249"
+        }
+      ],
+      "rota_descricao": "ROTA RO 05/09/2023 JOSE LUIS RPB-0C02",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Get\u00falio Vargas, 1679-2099 - Km 1, Porto Velho - RO, 76804-097, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.762828",
+          "refe_longitude": "-63.894894"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.763558",
+          "refe_longitude": "-63.897170"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Na\u00e7\u00f5es Unidas, 1283 - Km 1, Porto Velho - RO, 76804-436, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.768094",
+          "refe_longitude": "-63.886988"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "BR-364, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.505562",
+          "refe_longitude": "-64.807274"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-364, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.832946",
+          "refe_longitude": "-59.628951"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "05/09/2023 14:15:00",
+      "viag_previsao_fim": "07/09/2023 12:59:48"
+    }
+  ]
+}"

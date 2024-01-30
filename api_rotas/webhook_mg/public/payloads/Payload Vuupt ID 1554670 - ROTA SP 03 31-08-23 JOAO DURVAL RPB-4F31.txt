@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4F31"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "34764656833"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 31/08/23 JOAO DURVAL RPB-4F31",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Henrique Cabral de Vasconcelos, 2414 - Jardim Progresso, S\u00e3o Jo\u00e3o da Boa Vista - SP, 13876-312, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.994259",
+          "refe_longitude": "-46.780446"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "31/08/2023 08:30:00",
+      "viag_previsao_fim": "01/09/2023 18:08:57"
+    }
+  ]
+}

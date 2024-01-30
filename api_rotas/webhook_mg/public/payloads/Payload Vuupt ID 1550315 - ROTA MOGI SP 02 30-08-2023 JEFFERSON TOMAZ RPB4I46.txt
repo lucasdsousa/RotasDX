@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4I46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "39666444879"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 02 30/08/2023 JEFFERSON TOMAZ RPB4I46",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "30/08/2023 07:30:00",
+      "viag_previsao_fim": "30/08/2023 14:51:05"
+    }
+  ]
+}

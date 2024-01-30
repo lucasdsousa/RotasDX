@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "45515151836"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 12/09/2023 JOEL APARECIDO RPB5D15",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Pres Arthur da Costa e Silva, 1131 - Centro, Sete Barras - SP, 11910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.391860",
+          "refe_longitude": "-47.927531"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Armando de Salles Oliveira, 206, Porto Feliz - SP, 18540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.205770",
+          "refe_longitude": "-47.525874"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Castelo Branco, 410 - Centro, Registro - SP, 11900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.493492",
+          "refe_longitude": "-47.838271"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jo\u00e3o Francisco da Rosa, 21 - Jardim Paulistano, Salto de Pirapora - SP, 18160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.640288",
+          "refe_longitude": "-47.577607"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rod. R\u00e9gis Bittencourt, 490 - Jardim Ana Maria, Cajati - SP, 11950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.735138",
+          "refe_longitude": "-48.119090"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rod. Jos\u00e9 Redis, Pariquera-A\u00e7u - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.706041",
+          "refe_longitude": "-47.890574"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Francisco de Paula Leite, 1527 - Jardim California, Indaiatuba - SP, 13344-325, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.104158",
+          "refe_longitude": "-47.217044"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Lu\u00eds Gonzaga do Nascimento, 1181, Monte Mor - SP, 13190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.929121",
+          "refe_longitude": "-47.262783"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Maestro Isa\u00edas S\u00e3o Belcufin\u00e9, 254 - Vila Padre Bento, Itu - SP, 13313-103, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.254704",
+          "refe_longitude": "-47.317389"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Maj. Fran\u00e7a, 172 - Eldorado, SP, 11960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.521671",
+          "refe_longitude": "-48.106236"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Pref. Jos\u00e9 Carlos, 1800 - Do Pinherinho, Itupeva - SP, 13295-620, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.166028",
+          "refe_longitude": "-47.038624"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Pres. Vargas, 3161 - Vila Homero, Indaiatuba - SP, 13338-705, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.085556",
+          "refe_longitude": "-47.181271"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. S\u00e3o Jos\u00e9, 484, Pedro de Toledo - SP, 11790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.278950",
+          "refe_longitude": "-47.230510"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Jose Ferreira Franco, 20, Centro, Itariri - SP 11760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.290048",
+          "refe_longitude": "-47.176908"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Beira Mar, 11900 - Balne\u00e1rio Icara\u00ed, Ilha Comprida - SP, 11925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.741108",
+          "refe_longitude": "-47.538322"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "12/09/2023 06:00:00",
+      "viag_previsao_fim": "13/09/2023 12:28:12"
+    }
+  ]
+}"

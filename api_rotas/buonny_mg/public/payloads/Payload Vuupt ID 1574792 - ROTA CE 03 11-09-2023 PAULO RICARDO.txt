@@ -1,0 +1,596 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901000506",
+  "cnpj_embarcador": "05092901000506",
+  "cnpj_transportador": "05092901000506",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1574792,
+  "numero_liberacao": 1574792,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "PAULO RICARDO SILVA LIMA",
+    "cpf": "67147216334",
+    "telefone": "+5585981506282"
+  },
+  "veiculos": {
+    "placa": "RPC9D25"
+  },
+  "origem": {
+    "codigo_externo": "05092901000506",
+    "descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+    "latitude": -3.910781,
+    "longitude": -38.529128
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "15/09/2023 02:27:02",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35234657000106",
+            "descricao": "J A PAIVA",
+            "latitude": "-4.327012",
+            "longitude": "-40.153840",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1962",
+                  "volume": "6",
+                  "peso": "111.197"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07425774000103",
+            "descricao": "MM SIQUEIRA MENEZES",
+            "latitude": "-3.949142",
+            "longitude": "-40.474879",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "858",
+                  "volume": "2",
+                  "peso": "46.601"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "30520405000111",
+            "descricao": "AUTO POSTO GUARACIABA LTDA - EPP",
+            "latitude": "-4.160820",
+            "longitude": "-40.746813",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:05:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1441.5",
+                  "volume": "6",
+                  "peso": "105.151"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13677954000185",
+            "descricao": "ELIESIO COELHO DA CRUZ ME",
+            "latitude": "-3.942816",
+            "longitude": "-39.427661",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 22:17:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5014",
+                  "volume": "16",
+                  "peso": "307.871"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22111893000185",
+            "descricao": "F M JERONIMO DE LIMA COMBUSTIVEIS EIRELI",
+            "latitude": "-4.414174",
+            "longitude": "-40.907494",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:24:43",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1366",
+                  "volume": "4",
+                  "peso": "90.801"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08574270000118",
+            "descricao": "M.M DE OLIVEIRA FILHO ME",
+            "latitude": "-4.414986",
+            "longitude": "-40.909092",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:38:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1970",
+                  "volume": "6",
+                  "peso": "116.002"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11749587000152",
+            "descricao": "AUTO POSTO CORACAO DE JESUS GUARACIABA EIRELI",
+            "latitude": "-4.161899",
+            "longitude": "-40.752525",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:10:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2208",
+                  "volume": "6",
+                  "peso": "139.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32047446000168",
+            "descricao": "PEDRO LUCAS ARAUJO LIRA",
+            "latitude": "-4.541248",
+            "longitude": "-40.721435",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:27:43",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "692",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "36928358000126",
+            "descricao": "F F F ABREU EIRELI - ME",
+            "latitude": "-4.843800",
+            "longitude": "-40.317347",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:58:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1660.9",
+                  "volume": "6",
+                  "peso": "117.201"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10533769000129",
+            "descricao": "REGIS RAFAEL DE MESQUITA ME",
+            "latitude": "-4.648585",
+            "longitude": "-40.199747",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:40:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "900",
+                  "volume": "3",
+                  "peso": "52.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "27340749000134",
+            "descricao": "E BORGES FERREIRA DA SILVA",
+            "latitude": "-4.743967",
+            "longitude": "-40.925163",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:10:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "30593.85",
+                  "volume": "100",
+                  "peso": "2179.319"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33344392000165",
+            "descricao": "ESTEFANIA A DE M BEZERRA ME",
+            "latitude": "-5.179465",
+            "longitude": "-40.669007",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:42:01",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "750",
+                  "volume": "2",
+                  "peso": "46.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24804712000121",
+            "descricao": "ALP GUERREIRO EIREL",
+            "latitude": "-4.705209",
+            "longitude": "-40.560331",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:16:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1625",
+                  "volume": "13",
+                  "peso": "153.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04459123000146",
+            "descricao": "FALPEL COMERCIO LTDA",
+            "latitude": "-4.709453",
+            "longitude": "-40.559735",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:49:57",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5800",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11719119000135",
+            "descricao": "AMARAL E AMARAL LTDA",
+            "latitude": "-4.706622",
+            "longitude": "-40.565157",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:15:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1380",
+                  "volume": "4",
+                  "peso": "85.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18102575000180",
+            "descricao": "F R PIRES DE SOUSA ME",
+            "latitude": "-6.008011",
+            "longitude": "-40.286620",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 12:40:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2800",
+                  "volume": "10",
+                  "peso": "189"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21130203000172",
+            "descricao": "AUTO POSTO LIMA TIMBAUBA EIRELI",
+            "latitude": "-4.719014",
+            "longitude": "-40.560421",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 13:11:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1120",
+                  "volume": "4",
+                  "peso": "82.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11719119000135",
+            "descricao": "AMARAL E AMARAL LTDA",
+            "latitude": "-4.706622",
+            "longitude": "-40.565157",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 13:25:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2690",
+                  "volume": "8",
+                  "peso": "177.803"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38654656000109",
+            "descricao": "FRANCISCO NARCELIO DE M DAMASCENO  ME",
+            "latitude": "-3.947410",
+            "longitude": "-40.472064",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 13:40:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1240",
+                  "volume": "3",
+                  "peso": "63.692"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04525186000315",
+            "descricao": "ETIENE PACIFICO TEIXEIRA ME Filial 03",
+            "latitude": "-5.190361",
+            "longitude": "-40.675644",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 14:11:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1122",
+                  "volume": "3",
+                  "peso": "70.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26199387000140",
+            "descricao": "A E VIEIRA OLIVEIRA",
+            "latitude": "-5.190273",
+            "longitude": "-40.676122",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 15:09:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1764",
+                  "volume": "6",
+                  "peso": "123.751"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "63365753000110",
+            "descricao": "ISRAEL FRAGOSO DA SILVA EIRELI",
+            "latitude": "-5.126780",
+            "longitude": "-39.737249",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 16:20:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7224.44",
+                  "volume": "24",
+                  "peso": "544.802"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11377966000169",
+            "descricao": "ANTONIO MARCIO COSTA DA SILVA",
+            "latitude": "-4.093910",
+            "longitude": "-39.059290",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 17:30:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1290",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

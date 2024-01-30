@@ -1,0 +1,200 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001146",
+  "cnpj_embarcador": "05092901001146",
+  "cnpj_transportador": "05092901001146",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1566691,
+  "numero_liberacao": 1566691,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "EDUARDO ARAUJO GAMA",
+    "cpf": "91810574587",
+    "telefone": "+5579998858683"
+  },
+  "veiculos": {
+    "placa": "RCU2J26"
+  },
+  "origem": {
+    "codigo_externo": "05092901001146",
+    "descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+    "latitude": -10.921846,
+    "longitude": -37.093091
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 07:00:00",
+  "data_previsao_fim": "09/09/2023 04:23:49",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19323324000199",
+            "descricao": "FR PECAS E ACESSORIOS PARA VEICULOS EIRELI",
+            "logradouro": "Av. Dr. Jos\u00e9 Airton de Andrade",
+            "numero": "0",
+            "latitude": "-11.182834",
+            "longitude": "-37.997981",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 11:02:33",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "809.36",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "17888122000169",
+            "descricao": "DAMIAO ANUNCIACAO BORGES",
+            "logradouro": "Tv. Cruz Alto Dois",
+            "numero": "0",
+            "latitude": "-11.277946",
+            "longitude": "-37.781130",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 11:56:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1763.94",
+                  "volume": "4",
+                  "peso": "93.201"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11279041000185",
+            "descricao": "ALEXSANDRA MENEZES SANTOS GS LUBRIFICANTES ME",
+            "logradouro": "R. Camilo Calazans",
+            "numero": "0",
+            "latitude": "-11.235954",
+            "longitude": "-37.426953",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 11:57:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6419.6",
+                  "volume": "20",
+                  "peso": "446"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13250501000178",
+            "descricao": "DERIVADOS DE PETROLEO DE SERGIPE LTDA",
+            "logradouro": "Av. Dr. Ot\u00e1vio de Souza Leite",
+            "numero": "0",
+            "latitude": "-11.476499",
+            "longitude": "-37.756390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 12:03:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2950",
+                  "volume": "50",
+                  "peso": "1145"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "27983530000153",
+            "descricao": "AUTO POSTO DO TINHO EIRELI",
+            "logradouro": "Rod. Ant\u00f4nio Carlos Valadares",
+            "numero": "0",
+            "latitude": "-11.166756",
+            "longitude": "-38.008561",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:40:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "227.93",
+                  "volume": "1",
+                  "peso": "18.178"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "41496023000116",
+            "descricao": "POSTO SORRISO DA SERRA COM DE COMBUSTIVEIS LTDA",
+            "logradouro": "BR235",
+            "numero": "0",
+            "latitude": "-10.695663",
+            "longitude": "-37.436214",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:47:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2000.49",
+                  "volume": "7",
+                  "peso": "126.985"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

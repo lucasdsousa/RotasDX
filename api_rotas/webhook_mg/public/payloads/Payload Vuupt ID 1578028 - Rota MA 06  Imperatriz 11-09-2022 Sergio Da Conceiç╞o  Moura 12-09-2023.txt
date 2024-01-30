@@ -1,0 +1,37 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ9I45"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "89636350230"
+        }
+      ],
+      "rota_descricao": "Rota MA 06  Imperatriz 11/09/2022 Sergio Da Concei\u00e7\u00e3o  Moura 12/09/2023",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "12/09/2023 08:00:00",
+      "viag_previsao_fim": "12/09/2023 16:44:02"
+    }
+  ]
+}"

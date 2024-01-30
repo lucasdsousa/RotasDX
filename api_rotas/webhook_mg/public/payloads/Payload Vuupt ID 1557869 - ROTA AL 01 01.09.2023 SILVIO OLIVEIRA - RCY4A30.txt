@@ -1,0 +1,48 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 01.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Eng Paulo Brandao Nogueira, 13, Jatiuca, Maceio - AL 57036-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.649164",
+          "refe_longitude": "-35.705233"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 101, S/N, Zona Rural, Rio Largo - AL 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.478325",
+          "refe_longitude": "-35.839733"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "01/09/2023 08:00:00",
+      "viag_previsao_fim": "01/09/2023 12:15:13"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPA5G81"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10952417618"
+        }
+      ],
+      "rota_descricao": "ROTA ARLA MG SUL  05/09/2023  GUSTAVO PINHEIRO  RPA-5G81",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Sao Francisco, SN, Santa Genoveva, Goiania - GO 74672-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.637142",
+          "refe_longitude": "-49.238538"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Goias, 5737, Setor Urias Magalhaes, Goiania - GO 74565-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.637283",
+          "refe_longitude": "-49.272807"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Goias, 5737, Setor Urias Magalhaes, Goiania - GO 74565-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.637283",
+          "refe_longitude": "-49.272807"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Sao Francisco, 720, Santa Genoveva, Goiania - GO 74670-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.636228",
+          "refe_longitude": "-49.237838"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua E, 177, Recanto do Lago, Trindade - GO 75390-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.643762",
+          "refe_longitude": "-49.396093"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. S\u00e3o Jo\u00e3o da Esc\u00f3cia, 100 - Jardim Marques de Abreu, Goi\u00e2nia - GO, 74391-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.716895",
+          "refe_longitude": "-49.367095"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua 03, 158, Jardim Colorado Sul, Goiania - GO 74474-555, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.617201",
+          "refe_longitude": "-49.326528"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. 13 - Aeroviario, Goi\u00e2nia - GO, 74553-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.663646",
+          "refe_longitude": "-49.303186"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Marechal Rondon, 1149, Setor Centro Oeste, Goiania - GO 74560-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.654648",
+          "refe_longitude": "-49.272611"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Ouro Preto, 389, Capuava, Goiania - GO 74450-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.651884",
+          "refe_longitude": "-49.323153"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. La Paz, 397 - Res. Nova Aurora, Goi\u00e2nia - GO, 74492-211, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.684889",
+          "refe_longitude": "-49.376690"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Gabriel Henrique de Araujo, 354, Residencial Goiania Viva, Goiania - GO 74484-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.701730",
+          "refe_longitude": "-49.344948"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Juscelino Kubitscheck, 386, Vila Padre Eterno, Trindade - GO 75388-286, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.640137",
+          "refe_longitude": "-49.524758"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Veneza, 2029, Jardim Europa, Goiania - GO 74325-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.706814",
+          "refe_longitude": "-49.314688"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. da Liberdade, Goi\u00e1s, 74354-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.758041",
+          "refe_longitude": "-49.343119"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Bom Jardim, 961, Setor Maysa, Trindade - GO 75380-316, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.635874",
+          "refe_longitude": "-49.388737"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Joana D'arc - Conj. Vera Cruz, Goi\u00e2nia - GO, 74493-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.660911",
+          "refe_longitude": "-49.385545"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Cesar Lattes, 141, Setor Novo Horizonte, Goiania - GO 74363-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.714779",
+          "refe_longitude": "-49.318701"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Trindade, SN, Residencial Pilar dos Sonhos, Goiania - GO 74494-251, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.656723",
+          "refe_longitude": "-49.371135"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Gyn 20 - Parque Eldorado Oeste, Goi\u00e2nia - GO, 74490-207, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.690153",
+          "refe_longitude": "-49.405414"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Engenheiro Calil Elias Neto, 638, Setor Central, Vianopolis - GO 75260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.749372",
+          "refe_longitude": "-48.518878"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Lago das Garcas, SN, Jardim Tropical, Aparecida de Goiania - GO 74946-505, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.770793",
+          "refe_longitude": "-49.350409"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "09/09/2023 14:34:29"
+    }
+  ]
+}

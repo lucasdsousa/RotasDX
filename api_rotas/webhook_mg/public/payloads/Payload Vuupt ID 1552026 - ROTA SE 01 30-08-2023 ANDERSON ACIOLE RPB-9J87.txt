@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE 01 30/08/2023 ANDERSON ACIOLE RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "30/08/2023 10:00:00",
+      "viag_previsao_fim": "30/08/2023 14:02:30"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572163,
+  "numero_liberacao": 1572163,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "MARCUS VINICIUS DA SILVA",
+    "cpf": "09897004610",
+    "telefone": "+5531996512433"
+  },
+  "veiculos": {
+    "placa": "QTZ0F99"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 09:00:00",
+  "data_previsao_fim": "08/09/2023 16:43:25",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32149520000157",
+            "descricao": "ATUAL BH COMERCIO DE PECAS EIRELI",
+            "logradouro": "Avenida Amazonas",
+            "numero": "0",
+            "latitude": "-19.941388",
+            "longitude": "-44.002021",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 12:30:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6145.62",
+                  "volume": "28",
+                  "peso": "346.839"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34745930000196",
+            "descricao": "TALISMA CENTRO AUTOMOTIVO LTDA",
+            "logradouro": "Rua Arceburgo",
+            "numero": "0",
+            "latitude": "-19.910622",
+            "longitude": "-43.950291",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:13:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "430.79",
+                  "volume": "2",
+                  "peso": "22.268"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "37480272000146",
+            "descricao": "POSTO DE COMBUSTIVEIS DUBAI LTDA",
+            "logradouro": "Avenida Dom Pedro II",
+            "numero": "0",
+            "latitude": "-19.913837",
+            "longitude": "-43.952545",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:33:55",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1151.22",
+                  "volume": "6",
+                  "peso": "67.269"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01100712000145",
+            "descricao": "BRANCO AUTO PECAS LTDA",
+            "logradouro": "Rua Tamoios",
+            "numero": "0",
+            "latitude": "-19.918545",
+            "longitude": "-43.945504",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:08:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "579.58",
+                  "volume": "3",
+                  "peso": "33.635"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19773845000148",
+            "descricao": "POSTO ZEPPE MG LTDA",
+            "logradouro": "Rua Lagoa da Prata",
+            "numero": "0",
+            "latitude": "-19.939162",
+            "longitude": "-43.982464",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:24:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "386.65",
+                  "volume": "2",
+                  "peso": "22.423"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48588777000145",
+            "descricao": "FLEET CAR SOLUCOES LTDA",
+            "logradouro": "Rua Itapetinga",
+            "numero": "0",
+            "latitude": "-19.887454",
+            "longitude": "-43.950323",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:41:56",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1248.24",
+                  "volume": "6",
+                  "peso": "66.959"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48588777000145",
+            "descricao": "FLEET CAR SOLUCOES LTDA",
+            "logradouro": "Rua Itapetinga",
+            "numero": "0",
+            "latitude": "-19.887454",
+            "longitude": "-43.950323",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:49:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "817.04",
+                  "volume": "4",
+                  "peso": "44.536"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18386062000149",
+            "descricao": "DPS AUTO MECANICA E ESCAPAMENTO LTDA",
+            "logradouro": "Rua Itapecerica",
+            "numero": "0",
+            "latitude": "-19.907576",
+            "longitude": "-43.945523",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 15:23:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1860.96",
+                  "volume": "10",
+                  "peso": "112.115"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48559064000153",
+            "descricao": "JRR INDUSTRIA E COMERCIO DE ARTEFADOS DE BORRACHA LTDA",
+            "logradouro": "Rua Um",
+            "numero": "0",
+            "latitude": "-19.865058",
+            "longitude": "-43.864934",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 16:15:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "420",
+                  "volume": "2",
+                  "peso": "37.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22695419000148",
+            "descricao": "MARLUCIO ROSSI ALVES DOS SANTOS",
+            "logradouro": "Rua Prefeito Vitor Fantini",
+            "numero": "0",
+            "latitude": "-19.892394",
+            "longitude": "-43.808955",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 16:26:57",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "773.74",
+                  "volume": "4",
+                  "peso": "44.846"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

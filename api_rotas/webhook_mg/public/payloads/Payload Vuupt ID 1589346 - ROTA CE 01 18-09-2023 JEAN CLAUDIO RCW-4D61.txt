@@ -1,0 +1,129 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 18/09/2023 JEAN CLAUDIO RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Professor Gomes de Matos, 63 - Jardim Am\u00e9rica, Fortaleza - CE, 60410-423, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.755254",
+          "refe_longitude": "-38.540357"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. XXI, 501 - Sen. Carlos Jereissati, Pacatuba - CE, 61814-144, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.887264",
+          "refe_longitude": "-38.605267"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Cel. Ant\u00f4nio Botelho, 466 - Parque Santa F\u00e9, Maranguape - CE, 61940-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.896542",
+          "refe_longitude": "-38.684302"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Chanceler Edson Queiroz, 91 - Paju\u00e7ara, Maracana\u00fa - CE, 61934-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.865728",
+          "refe_longitude": "-38.591304"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Meton de Alencar, 1483 - Centro, Fortaleza - CE, 60035-161, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731760",
+          "refe_longitude": "-38.536729"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Manoel Pereira, 4150, Centro, Maracanau - CE 61900-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.895148",
+          "refe_longitude": "-38.623824"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Meton de Alencar, 1411, Centro, Fortaleza - CE 60035-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731926",
+          "refe_longitude": "-38.536276"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Stenio Gomes, SN, Parque Iracema, Maranguape - CE 61940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.906077",
+          "refe_longitude": "-38.682874"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Professor Gomes de Matos, 63 - Jardim Am\u00e9rica, Fortaleza - CE, 60410-423, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.755254",
+          "refe_longitude": "-38.540357"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Maria Hosana Matos Lima, 100, Distrito Industrial, Maracanau - CE 61939-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.873530",
+          "refe_longitude": "-38.602618"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. 4\u00ba Anel Vi\u00e1rio, Maracana\u00fa - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.837279",
+          "refe_longitude": "-38.605092"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 1617, Centro, Fortaleza - CE 60055-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.734990",
+          "refe_longitude": "-38.524213"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia Dr Mendel Steinbruch, 2290, Pajucara, Maracanau - CE 61901-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.847895",
+          "refe_longitude": "-38.586278"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "18/09/2023 15:38:16"
+    }
+  ]
+}"

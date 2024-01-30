@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE 01  19/09/2023  ANDERSON ACIOLE  RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Lirio da Paz, 52, Nossa Sra. do Socorro - SE, 49160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.857469",
+          "refe_longitude": "-37.074884"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-235, Nossa Sra. do Socorro - SE, 49160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.870287",
+          "refe_longitude": "-37.168771"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-101, Nossa Sra. do Socorro - SE, 49160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.870565",
+          "refe_longitude": "-37.134578"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Chanceler Osvaldo Aranha, 330 - Jos\u00e9 Conrado de Ara\u00fajo, Aracaju - SE, 49092-545, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.909341",
+          "refe_longitude": "-37.078308"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Marechal Rondon, 1320 - Capucho, Aracaju - SE, 49080-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.921213",
+          "refe_longitude": "-37.093603"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-235, Nossa Sra. do Socorro - SE, 49160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.870287",
+          "refe_longitude": "-37.168771"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Marechal Rondon, 1320 - Capucho, Aracaju - SE, 49080-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.921213",
+          "refe_longitude": "-37.093603"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "19/09/2023 07:00:00",
+      "viag_previsao_fim": "19/09/2023 11:08:21"
+    }
+  ]
+}"

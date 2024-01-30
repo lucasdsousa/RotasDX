@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 18.09.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Bom Pastor, S/N, Boa Vista, Garanhuns - PE 55292-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.905708",
+          "refe_longitude": "-36.495047"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Quiteria Alves Vilela, SN, Centro, Capoeiras - PE 55365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.738619",
+          "refe_longitude": "-36.627239"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Sitio Brejo de Fora, SN, Zona Rural, Buique - PE 56520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.620974",
+          "refe_longitude": "-37.157217"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Bom Conselho, PE, 55330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.169878",
+          "refe_longitude": "-36.680479"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "19/09/2023 17:36:27"
+    }
+  ]
+}"

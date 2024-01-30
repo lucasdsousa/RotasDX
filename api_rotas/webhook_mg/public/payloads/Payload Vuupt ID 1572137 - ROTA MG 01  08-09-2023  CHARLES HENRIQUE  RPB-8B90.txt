@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB8B90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  08/09/2023  CHARLES HENRIQUE  RPB-8B90",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Das Acacias, 225, Jardim das Alterosas I Secao, Betim - MG 32671-062, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.941619",
+          "refe_longitude": "-44.161848"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. dos Cravos, 524 - Jardim das Alterosas - 2\u00aa Se\u00e7\u00e3o, Betim - MG, 32673-102, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.944501",
+          "refe_longitude": "-44.168925"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Waldyr Soeiro Emrich, 110, Santa Helena, Belo Horizonte - MG 30644-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.989115",
+          "refe_longitude": "-44.011483"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 381, 1300, Inconfidentes, Contagem - MG 32260-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.964012",
+          "refe_longitude": "-44.045355"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Coronel Jove Soares Nogueira, 381, Inconfidentes, Contagem - MG 32260-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.959821",
+          "refe_longitude": "-44.037527"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Maurilio Gomes da Silveira, 15, Milionarios, Belo Horizonte - MG 30620-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.988197",
+          "refe_longitude": "-44.008200"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Sergipe, 216, Ouro Negro, Ibirite - MG 32419-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.004362",
+          "refe_longitude": "-44.116805"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Senhora do Porto, 333, Palmeiras, Belo Horizonte - MG 30575-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.967381",
+          "refe_longitude": "-43.984120"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Rio Comprido, 2484, Riacho das Pedras, Contagem - MG 32280-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.942457",
+          "refe_longitude": "-44.059010"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Desembargador Reis Alves, 304, Industrias I, Belo Horizonte - MG 30610-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.961416",
+          "refe_longitude": "-44.000588"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Via Expressa de Contagem, 3100 - Parque Sao Joao, Contagem - MG, 32371-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.921148",
+          "refe_longitude": "-44.049532"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Via Expressa De Contagem, 2600, Cinco Perobas, Contagem - MG 32370-485, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923863",
+          "refe_longitude": "-44.045034"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Igaracu, 1040, Novo Eldorado, Contagem - MG 32341-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.934520",
+          "refe_longitude": "-44.050536"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. das Ac\u00e1cias, 483, Betim - MG, 32675-578, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.934240",
+          "refe_longitude": "-44.128709"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "08/09/2023 09:00:00",
+      "viag_previsao_fim": "08/09/2023 16:31:19"
+    }
+  ]
+}"

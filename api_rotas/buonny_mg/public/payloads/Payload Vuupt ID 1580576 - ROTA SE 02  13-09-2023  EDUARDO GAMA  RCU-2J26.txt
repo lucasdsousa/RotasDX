@@ -1,0 +1,404 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580576,
+  "numero_liberacao": 1580576,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "EDUARDO ARAUJO GAMA",
+    "cpf": "91810574587",
+    "telefone": "+5579998858683"
+  },
+  "veiculos": {
+    "placa": "RCU2J26"
+  },
+  "origem": {
+    "codigo_externo": "05092901001146",
+    "descricao": "Dunax Lubrificantes LTDA - SE",
+    "latitude": -10.921846,
+    "longitude": -37.093091
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 07:00:00",
+  "data_previsao_fim": "14/09/2023 00:23:50",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11279041000185",
+            "descricao": "ALEXSANDRA MENEZES SANTOS GS LUBRIFICANTES ME",
+            "latitude": "-11.235954",
+            "longitude": "-37.426953",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 11:02:33",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9997.5",
+                  "volume": "50",
+                  "peso": "927.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22517010000131",
+            "descricao": "EDISONIA SANTOS BATISTA ME",
+            "latitude": "-11.257285",
+            "longitude": "-37.439910",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 12:01:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9537.53",
+                  "volume": "27",
+                  "peso": "546.625"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08543668000197",
+            "descricao": "SULPECAS   PECAS PARA TRATORES E CAMINHOES LTDA",
+            "latitude": "-11.375630",
+            "longitude": "-37.658248",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 12:36:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2035.9",
+                  "volume": "5",
+                  "peso": "104.501"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11734841000149",
+            "descricao": "ANTONIA DA SILVA SANTOS NASCIMENTO ME",
+            "latitude": "-11.379503",
+            "longitude": "-37.663301",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 13:48:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1898.29",
+                  "volume": "5",
+                  "peso": "110.552"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "42859486000168",
+            "descricao": "MD PECAS LTDA",
+            "latitude": "-11.182043",
+            "longitude": "-37.997037",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 13:54:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "330.55",
+                  "volume": "1",
+                  "peso": "18.178"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11744722000177",
+            "descricao": "AS COMERCIO DE PECAS E ACESSORIOS EIRELI",
+            "latitude": "-11.180066",
+            "longitude": "-37.995254",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:50:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "628.85",
+                  "volume": "5",
+                  "peso": "24.25"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11453417000126",
+            "descricao": "AUTO POSTO TOBIAS LTDA",
+            "latitude": "-11.184201",
+            "longitude": "-38.000200",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:57:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "694.4",
+                  "volume": "2",
+                  "peso": "36.355"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31173015000266",
+            "descricao": "FACIL COMERCIO E SERVICOS EIRELI - FILIAL 02",
+            "latitude": "-10.982537",
+            "longitude": "-37.566461",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:00:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1906.62",
+                  "volume": "10",
+                  "peso": "119.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32824500000134",
+            "descricao": "JOSE EDILSON DOS SANTOS ME",
+            "latitude": "-10.738622",
+            "longitude": "-37.806540",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:31:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "864",
+                  "volume": "4",
+                  "peso": "72.71"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12338510000152",
+            "descricao": "COMERCIAL TRINDADE E SANTOS AUTO PECAS LTDA",
+            "latitude": "-10.739792",
+            "longitude": "-37.809338",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:03:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1000.1",
+                  "volume": "2",
+                  "peso": "38"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43120933000125",
+            "descricao": "EDIGAR M ALECRIM PECAS LTDA",
+            "latitude": "-10.738548",
+            "longitude": "-37.804741",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:33:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4849.92",
+                  "volume": "19",
+                  "peso": "320.301"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43751040000188",
+            "descricao": "CENTRAL FILTROS E LUBRIFICANTES LTDA",
+            "latitude": "-10.549740",
+            "longitude": "-37.533596",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 18:08:21",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5800",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43751040000188",
+            "descricao": "CENTRAL FILTROS E LUBRIFICANTES LTDA",
+            "latitude": "-10.549740",
+            "longitude": "-37.533596",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:25:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6288.6",
+                  "volume": "20",
+                  "peso": "365.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32813495000164",
+            "descricao": "ANTONIO JOSE DE MELO EPP",
+            "latitude": "-10.682769",
+            "longitude": "-37.428176",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:45:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2186.46",
+                  "volume": "7",
+                  "peso": "137.35"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "49241179000168",
+            "descricao": "CENTRAL FILTROS E LUBRIFICANTES DE SERGIPE LTDA",
+            "latitude": "-10.690349",
+            "longitude": "-37.438456",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:52:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3144.3",
+                  "volume": "10",
+                  "peso": "182.9"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 15 Incompletos&#10;Informe o destino da SM&#10;"]}

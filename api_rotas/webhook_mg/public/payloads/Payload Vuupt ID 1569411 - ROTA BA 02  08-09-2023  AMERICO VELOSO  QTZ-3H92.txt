@@ -1,0 +1,206 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ3H92"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "23992875504"
+        }
+      ],
+      "rota_descricao": "ROTA BA 02  08/09/2023  AMERICO VELOSO  QTZ-3H92",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Roberto Tadeu, 53, Barra do Pojuca, Camacari - BA, 42841-692, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.590997",
+          "refe_longitude": "-38.057450"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Via BA 533, SN, Star, Pojuca - BA 48120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.419598",
+          "refe_longitude": "-38.318895"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Aliomar Baleeiro, 2292, Granjas Rurais Presidente Vargas, Salvador - BA, 41230-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.915348",
+          "refe_longitude": "-38.444386"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Valeria, 900, Boca da Mata de Valeria, Salvador - BA 41298-800, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.858118",
+          "refe_longitude": "-38.450961"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Raul Seixas, 1161, Santa Terezinha, Dias d'Avila - BA 42850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.610163",
+          "refe_longitude": "-38.311941"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Vale Dos Barris, 29 - Barris, Salvador - BA, 40070055, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.988335",
+          "refe_longitude": "-38.513481"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Luiz Regis Pacheco, 201, Uruguai, Salvador - BA, 40451-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.935657",
+          "refe_longitude": "-38.494016"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Barros Reis, 1223, Pau Miudo, Salvador - BA, 40310-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.958839",
+          "refe_longitude": "-38.477251"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Luiz Regis Pacheco, 368, Uruguai, Salvador - BA 40451-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.932139",
+          "refe_longitude": "-38.491645"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua O, SN, PoloPlast, Camacari - BA 42801-605, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.721727",
+          "refe_longitude": "-38.320024"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Luiz Regis Pacheco, 86 - Uruguai, Salvador - BA, 40451360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.937116",
+          "refe_longitude": "-38.494650"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Estrada Campinas Piraja, S/N, Piraja, Salvador - BA 41290-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.909652",
+          "refe_longitude": "-38.462683"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BA 522, S/N, Distrito Industrial, Candeias - BA 43813-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.647633",
+          "refe_longitude": "-38.594708"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Afranio Peixoto, 32 - Praia Grande, Salvador - BA, 40720690, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.869386",
+          "refe_longitude": "-38.477293"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Estrada Campinas Piraja, 4687, Marechal Rondon, Salvador - BA, 41280-117, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.912502",
+          "refe_longitude": "-38.464938"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Jose Visco, 370, Pioneiro, Catu - BA 48110-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.371754",
+          "refe_longitude": "-38.387562"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Getulio Vargas, 217, Alto da Terezinha, Salvador - BA 40711-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.881583",
+          "refe_longitude": "-38.475284"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Jequitaia, 80, Agua de Meninos, Salvador - BA 40460-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.957268",
+          "refe_longitude": "-38.502141"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Via Cia Aeroporto, SN, Cia Sul, Simoes Filho - BA 43700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.835804",
+          "refe_longitude": "-38.412230"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Dr Armando ULM da Silva, 23, Praia Grande, Salvador - BA 40720-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.868947",
+          "refe_longitude": "-38.477266"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Estrada Velha de Monte Gordo, 29, Monte Gordo, Camacari - BA, 42839-796, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.710549",
+          "refe_longitude": "-38.320566"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Luiz Regis Pacheco, 143, Uruguai, Salvador - BA 40451-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.937045",
+          "refe_longitude": "-38.494899"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Jorge Amado, 38, Imbui, Salvador - BA 41720-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.969394",
+          "refe_longitude": "-38.438913"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua do Asfalto, S/N, Centro, Candeias - BA 43805-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.663101",
+          "refe_longitude": "-38.541475"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "08/09/2023 07:00:00",
+      "viag_previsao_fim": "09/09/2023 17:14:35"
+    }
+  ]
+}"

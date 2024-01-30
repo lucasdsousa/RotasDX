@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5E15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67286313568"
+        }
+      ],
+      "rota_descricao": "ROTA SE03 28/09/2023 EVANIO NASCIMENTO RPB-5E15",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Pedro T\u00e9les Barbosa, 2636 - Dr. Jos\u00e9 Milton Machad, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.687473",
+          "refe_longitude": "-37.439748"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Pra\u00e7a Adroaldo Campos - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.507674",
+          "refe_longitude": "-37.055741"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rod. Manoel Vi\u00eaira Dantas, 882 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.506865",
+          "refe_longitude": "-37.060595"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Nossa Sra. das Dores - SE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.491843",
+          "refe_longitude": "-37.193483"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Paulo Vasconcelos, 400 - Centro, Nossa Sra. das Dores - SE, 49600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.496908",
+          "refe_longitude": "-37.198488"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "28/09/2023 07:00:00",
+      "viag_previsao_fim": "28/09/2023 14:55:09"
+    }
+  ]
+}"

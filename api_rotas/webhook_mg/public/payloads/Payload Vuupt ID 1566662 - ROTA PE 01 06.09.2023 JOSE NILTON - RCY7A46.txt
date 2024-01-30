@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7A46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "97570524420"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 06.09.2023 JOSE NILTON - RCY7A46",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Beberibe, 4668, Beberibe, Recife - PE 52130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.002935",
+          "refe_longitude": "-34.897405"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia 101, 90, Jardim Sao Paulo, Recife - PE 50910-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.127961",
+          "refe_longitude": "-34.943341"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Zezito Costa Rego, 461, Varzea, Recife - PE 50740-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.042612",
+          "refe_longitude": "-34.943974"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 1413, Imbiribeira, Recife - PE 51150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.094246",
+          "refe_longitude": "-34.908533"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Brasil, 473, Timbo, Abreu e Lima - PE 53520-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.909333",
+          "refe_longitude": "-34.901898"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "06/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 11:45:04"
+    }
+  ]
+}"

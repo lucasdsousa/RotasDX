@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PMJ1889"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "52886239291"
+        }
+      ],
+      "rota_descricao": "ROTA RO  14/09/2023  DIONATAN CAIO  PMJ-1889",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Castelo Branco, 15526-16632 - Incra, Cacoal - RO, 76965-894, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.445853",
+          "refe_longitude": "-61.437827"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Castelo Branco, 14890 - Princesa Isabel, Cacoal - RO, 76967, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.438755",
+          "refe_longitude": "-61.454884"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "14/09/2023 10:30:00",
+      "viag_previsao_fim": "15/09/2023 08:43:13"
+    }
+  ]
+}"

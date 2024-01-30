@@ -1,0 +1,205 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PND1207"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98160176368"
+        }
+      ],
+      "rota_descricao": "Transfer\u00eancia Itz - Benevides 05/09/2023 Edvaldo Pinto Pereira PND1207",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Cidade de Serraria, 18 - Bairro das Ind\u00fastrias, Jo\u00e3o Pessoa - PB, 58083-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.176985",
+          "refe_longitude": "-34.924947"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Inspetora Emilia Mendonca Gomes, 47, Valentina de Figueiredo, Joao Pessoa - PB 58064-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.206178",
+          "refe_longitude": "-34.846449"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Josefa Taveira, 2367, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.181808",
+          "refe_longitude": "-34.843212"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Heronides Meira de Vasconcelos, 84, Cristo Redentor, Joao Pessoa - PB 58070-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.155459",
+          "refe_longitude": "-34.872773"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Antonio Anastacio Pereira, 78, Jose Americo, Joao Pessoa - PB 58073-171, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.165531",
+          "refe_longitude": "-34.853052"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 101, SN, Manguinhos, Bayeux - PB 58305-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.140582",
+          "refe_longitude": "-34.921991"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 230, S/N, Popular, Santa Rita - PB 58301-645, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.143170",
+          "refe_longitude": "-34.986394"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Manoel Luis de Lima, 11, Cruz das Armas, Joao Pessoa - PB 58086-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.150847",
+          "refe_longitude": "-34.893224"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Heronides Meira de Vasconcelos, 84, Cristo Redentor, Joao Pessoa - PB 58070-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.155459",
+          "refe_longitude": "-34.872773"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Vasco da Gama, 64, Jaguaribe, Joao Pessoa - PB 58015-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128327",
+          "refe_longitude": "-34.879079"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Liberdade, 1232, Sao Bento, Bayeux - PB 58305-006, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.119887",
+          "refe_longitude": "-34.905258"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Frei Miguelino, S/N, Trincheiras, Joao Pessoa - PB 58011-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.125711",
+          "refe_longitude": "-34.890204"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Manoel Francisco Venancio, SN, Centro, Bayeux - PB 58306-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.125737",
+          "refe_longitude": "-34.920411"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Presidente Joao Pessoa, 314, Centro, Alhandra - PB 58320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.434204",
+          "refe_longitude": "-34.912300"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Loteamento Distrito Mecanico, 108, Varadouro, Joao Pessoa - PB 58011-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128751",
+          "refe_longitude": "-34.888281"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Maciel Pinheiro, 449, Varadouro, Joao Pessoa - PB 58010-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.117857",
+          "refe_longitude": "-34.888960"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Cruz das Armas, 2833, Cruz das Armas, Joao Pessoa - PB 58085-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.156103",
+          "refe_longitude": "-34.895861"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Alberto de Brito, 749, Jaguaribe, Joao Pessoa - PB 58015-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.132216",
+          "refe_longitude": "-34.875198"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rodovia PB 44, S/N, Centro, Caapora - PB 58326-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.513063",
+          "refe_longitude": "-34.917399"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "05/09/2023 06:00:00",
+      "viag_previsao_fim": "07/09/2023 17:05:55"
+    }
+  ]
+}

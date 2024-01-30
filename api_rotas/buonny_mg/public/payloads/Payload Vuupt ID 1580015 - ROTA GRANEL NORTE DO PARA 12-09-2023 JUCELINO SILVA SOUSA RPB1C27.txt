@@ -1,0 +1,332 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001499",
+  "cnpj_transportador": "05092901001499",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580015,
+  "numero_liberacao": 1580015,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Jucelino Silva Sousa",
+    "cpf": "91273080300",
+    "telefone": "+5599991670058"
+  },
+  "veiculos": {
+    "placa": "RPB1C27"
+  },
+  "origem": {
+    "codigo_externo": "05092901001499",
+    "descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+    "latitude": -5.4451,
+    "longitude": -47.47358
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 13:00:00",
+  "data_previsao_fim": "16/09/2023 11:56:59",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "None",
+            "descricao": "FERNANDES E SANTOS TRANSP E COM DE COMB LTDA",
+            "latitude": "-2.954920",
+            "longitude": "-48.951180",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:33:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "55752",
+            "descricao": "AUTO POSTO BBC COMERCIO DE COMBUSTIVEIS SANTA MARIA LTDA",
+            "latitude": "-1.336576",
+            "longitude": "-47.540827",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:48:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "None",
+            "descricao": "RODOPALMA TRANSPORTE LTDA",
+            "latitude": "-2.463390",
+            "longitude": "-48.745070",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 08:48:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10197621000837",
+            "descricao": "PORTAL AGRO COMERCIO E SERVICOS LTDA FILIAL 08",
+            "latitude": "-2.992154",
+            "longitude": "-47.357128",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 16:36:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26698168000106",
+            "descricao": "AUTO POSTO DE SERVICO POMBAL LTDA EPP",
+            "latitude": "-1.212526",
+            "longitude": "-47.184281",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 17:50:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "62953",
+            "descricao": "RODA VIVA DISTRIBUIDORA DE DERIVADOS DE PETROLEO LTDA",
+            "latitude": "-2.985928",
+            "longitude": "-47.454428",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 19:00:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "None",
+            "descricao": "GOMES E FELIX LTDA",
+            "latitude": "-1.950370",
+            "longitude": "-48.258720",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 19:30:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05092901000840",
+            "descricao": "Dunax Lubrificantes Ltda - PA",
+            "latitude": "-1.364609",
+            "longitude": "-48.270506",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 10:58:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "None",
+            "descricao": "PAGRISA PARA PASTORIL E AGRICOLA S A",
+            "latitude": "-3.699170",
+            "longitude": "-47.764900",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 11:28:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04809887000114",
+            "descricao": "A M COM DE DERIVADOS DE PETROLEO LTDA",
+            "latitude": "-2.693277",
+            "longitude": "-48.869750",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 17:10:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32492171000171",
+            "descricao": "AUTO POSTO TACIATEUA EIRELI",
+            "latitude": "-1.313015",
+            "longitude": "-47.434179",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 18:28:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "59194",
+            "descricao": "PORTAL AGRO COMERCIO E SERVICOS LTDA FILIAL 3",
+            "latitude": "-4.306097",
+            "longitude": "-47.593422",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 19:13:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 12 Incompletos&#10;Informe o destino da SM&#10;Transportador n\u00e3o foi informado&#10;"]}

@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE 01  15/09/2023  ANDERSON ACIOLE  RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Coelho e Campos, 182 - Santo Ant\u00f4nio, Aracaju - SE, 49060-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.905552",
+          "refe_longitude": "-37.051019"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Mariano Salmeron, 183 - Siqueira Campos, Aracaju - SE, 49075-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.911398",
+          "refe_longitude": "-37.068909"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Mamede Paes Mendon\u00e7a, 1154 - Get\u00falio Vargas, Aracaju - SE, 49055-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.907747",
+          "refe_longitude": "-37.061743"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Matadouro, 92 - Jardim Centenario, Aracaju - SE, 49091-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.902388",
+          "refe_longitude": "-37.089434"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-235, Nossa Sra. do Socorro - SE, 49160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.870287",
+          "refe_longitude": "-37.168771"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "15/09/2023 07:30:00",
+      "viag_previsao_fim": "16/09/2023 08:39:11"
+    }
+  ]
+}"

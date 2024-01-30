@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG8H73"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91669480372"
+        }
+      ],
+      "rota_descricao": "ROTA PI 02 04/09/2023 RODRIGO GUILHERME RPG-8H73",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "04/09/2023 07:30:00",
+      "viag_previsao_fim": "07/09/2023 04:45:07"
+    }
+  ]
+}

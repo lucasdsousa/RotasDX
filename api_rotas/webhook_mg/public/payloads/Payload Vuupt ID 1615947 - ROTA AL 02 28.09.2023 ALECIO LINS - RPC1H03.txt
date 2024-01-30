@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC1H03"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11291412417"
+        }
+      ],
+      "rota_descricao": "ROTA AL 02 28.09.2023 ALECIO LINS - RPC1H03",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Al 413, SN, Centro, Sao Luis do Quitunde - AL 57920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.308731",
+          "refe_longitude": "-35.569447"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Al 413, SN, Centro, Sao Luis do Quitunde - AL 57920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.308731",
+          "refe_longitude": "-35.569447"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia AL 105, SN, Zona Rural, Matriz de Camaragibe - AL 57910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.158360",
+          "refe_longitude": "-35.534440"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia Al 413, SN, Centro, Sao Luis do Quitunde - AL 57920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.308731",
+          "refe_longitude": "-35.569447"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia AL 101, SN, Centro, Matriz de Camaragibe - AL 57910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.158360",
+          "refe_longitude": "-35.534440"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia Al 101 Norte, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.128985",
+          "refe_longitude": "-35.283989"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Senador Ismael Brandao, 59, Centro, Vicosa - AL 57700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.373467",
+          "refe_longitude": "-36.249672"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Sitio Areal, S/N, Litoral, Japaratinga - AL 57950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.082046",
+          "refe_longitude": "-35.252587"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia AL 101, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.045592",
+          "refe_longitude": "-35.399246"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia AL 101, SN, Centro, Matriz de Camaragibe - AL 57910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.158360",
+          "refe_longitude": "-35.534440"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia AL 435 Norte, SN, Porto da Rua, Sao Miguel dos Milagres - AL 57940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.238902",
+          "refe_longitude": "-35.352554"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia AL 101, 06, Barra Grande, Maragogi - AL 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.985738",
+          "refe_longitude": "-35.197439"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Antonio Candido Toledo, 528, Santa Luzia, Penedo - AL 57200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.283870",
+          "refe_longitude": "-36.557685"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 101, SN, Zona Rural, Sao Sebastiao - AL 57275-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.957768",
+          "refe_longitude": "-36.544823"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Eng Joaquim Goncalves, 1673, Dom Constantino, Penedo - AL 57200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.285634",
+          "refe_longitude": "-36.551212"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 20:34:16"
+    }
+  ]
+}"

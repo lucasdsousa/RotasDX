@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7A46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "28352823434"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 27.09.2023 JOSINALDO ALVARES - RCY7A46",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Franco Gondin - Vila da Fabrica, Camaragibe - PE, 54789-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.988049",
+          "refe_longitude": "-34.993305"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Braganca, 392, Jardim Sao Paulo, Recife - PE 50790-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.082380",
+          "refe_longitude": "-34.943879"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Maria Assuncao Goncalves das Neves, 139, Jatoba, Olinda - PE 53250-192, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.970090",
+          "refe_longitude": "-34.860259"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Senador Nilo Coelho, 135, Aguazinha, Olinda - PE 53300-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.999124",
+          "refe_longitude": "-34.874069"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Professor Moraes Rego, 574, Vazea, Recife - PE 50740-425, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.043702",
+          "refe_longitude": "-34.944159"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Estrada Do Passarinho, 1566, Passarinho, Olinda - PE 53170-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.987033",
+          "refe_longitude": "-34.915750"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Caxanga, 4335, Varzea, Recife - PE 50740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.038013",
+          "refe_longitude": "-34.944073"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Leandro Barreto, 706, Jardim Sao Paulo, Recife - PE 50790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.082879",
+          "refe_longitude": "-34.947282"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "27/09/2023 05:00:00",
+      "viag_previsao_fim": "27/09/2023 11:28:13"
+    }
+  ]
+}"

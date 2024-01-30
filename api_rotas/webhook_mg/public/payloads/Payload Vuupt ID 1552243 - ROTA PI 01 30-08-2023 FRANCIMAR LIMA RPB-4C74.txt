@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI 01 30/08/2023 FRANCIMAR LIMA RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Boa Esperanca, 4216, Mafrense, Teresina - PI 64004-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.058392",
+          "refe_longitude": "-42.837244"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "30/08/2023 11:30:00",
+      "viag_previsao_fim": "30/08/2023 16:16:30"
+    }
+  ]
+}

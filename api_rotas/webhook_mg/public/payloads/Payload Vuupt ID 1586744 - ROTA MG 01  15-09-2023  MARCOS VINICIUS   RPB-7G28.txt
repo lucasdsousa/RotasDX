@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB7G28"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11399792644"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  15/09/2023  MARCOS VINICIUS   RPB-7G28",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Osmani Corr\u00eaa, 14 - Alvorada, Ibirit\u00e9 - MG, 32412-043, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.026490",
+          "refe_longitude": "-44.063220"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Julia Pinheiro de Araujo, 15, Santa Cruz, Betim - MG 32667-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.957042",
+          "refe_longitude": "-44.138229"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Maurilio Gomes da Silveira, 15, Milionarios, Belo Horizonte - MG 30620-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.988197",
+          "refe_longitude": "-44.008200"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua das Petunias, 514, Lindeia, Belo Horizonte - MG 30690-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.974056",
+          "refe_longitude": "-44.052704"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Doutor Geraldo Starling Soares, 699, Lindeia, Belo Horizonte - MG 30692-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.981596",
+          "refe_longitude": "-44.057783"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Jos\u00e9 Braga da Silva, 192 - Padre Osvaldo B Pena, Nova Lima - MG, 34002-053, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.004801",
+          "refe_longitude": "-43.853345"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Teresa Cristina, 7312, Vista Alegre, Belo Horizonte - MG 30516-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.952895",
+          "refe_longitude": "-43.985665"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Barao Homem de Melo, 1853, Alpes, Belo Horizonte - MG 30451-669, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.952103",
+          "refe_longitude": "-43.967460"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Vereador Felipe Alves Rocha, 81, Morro das Bicas, Raposos - MG 34400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.969052",
+          "refe_longitude": "-43.804475"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "15/09/2023 08:00:00",
+      "viag_previsao_fim": "15/09/2023 13:18:57"
+    }
+  ]
+}"

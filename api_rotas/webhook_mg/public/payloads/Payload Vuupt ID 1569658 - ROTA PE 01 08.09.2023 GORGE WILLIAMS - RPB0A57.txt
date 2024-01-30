@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 08.09.2023 GORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Zezito Costa Rego, 461, Varzea, Recife - PE 50740-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.042612",
+          "refe_longitude": "-34.943974"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Projetada, 1, Loteamento Granja Eldorado, Goiana - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.674645",
+          "refe_longitude": "-34.914330"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Empresario Joao Santos Filho, S/N, Marcos Freire, Jaboatao dos Guararapes - PE 54360-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.157315",
+          "refe_longitude": "-34.969960"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia PE 075, S/N, Centro, Goiana - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.563148",
+          "refe_longitude": "-35.013143"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Senador Nilo Coelho, 135, Aguazinha, Olinda - PE 53300-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.999124",
+          "refe_longitude": "-34.874069"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Alvaro Amorim, 63, Imbiribeira, Recife - PE 51170-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.086903",
+          "refe_longitude": "-34.908124"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 1043, Imbiribeira, Recife - PE 51150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.092946",
+          "refe_longitude": "-34.908533"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "08/09/2023 05:00:00",
+      "viag_previsao_fim": "08/09/2023 16:24:03"
+    }
+  ]
+}"

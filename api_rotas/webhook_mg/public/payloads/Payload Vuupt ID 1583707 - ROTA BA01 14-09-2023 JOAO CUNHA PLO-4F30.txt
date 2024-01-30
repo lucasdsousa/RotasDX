@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO4F30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05585984802"
+        }
+      ],
+      "rota_descricao": "ROTA BA01 14/09/2023 JOAO CUNHA PLO-4F30",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Br 324, S/N, Sede, Feira de Santana - BA 44094-312, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.250518",
+          "refe_longitude": "-38.933339"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Jo\u00e3o Durval Carneiro, 2310-B Caseb, Feira de Santana - BA, 44003-401, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.252470",
+          "refe_longitude": "-38.949511"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Ruy Barbosa, 172, Centro, Irara - BA 44255-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.048142",
+          "refe_longitude": "-38.765344"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Tafarel, 30, Tomba, Feira de Santana - BA 44090-424, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.274005",
+          "refe_longitude": "-38.960019"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Das Algarobas, 66, Centro, Coracao de Maria - BA 44250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.247485",
+          "refe_longitude": "-38.750511"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Eduardo Froes da Mota, 19767, Campo Limpo, Feira de Santana - BA, 44032-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.230484",
+          "refe_longitude": "-38.967693"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Carlos Valadares, 110, Centro, Feira de Santana - BA 44001-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.248265",
+          "refe_longitude": "-38.964769"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Feira de Santana - Maria Quit\u00e9ria, Feira de Santana - BA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.253580",
+          "refe_longitude": "-38.960080"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Virgilio Timoteo dos Santos, 02, Centro, Feira de Santana - BA 44015-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.259813",
+          "refe_longitude": "-38.970223"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Sergio Cardoso, 9990, Centro, Conceicao do Jacuipe - BA 44245-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.326835",
+          "refe_longitude": "-38.761940"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 15:55:07"
+    }
+  ]
+}"

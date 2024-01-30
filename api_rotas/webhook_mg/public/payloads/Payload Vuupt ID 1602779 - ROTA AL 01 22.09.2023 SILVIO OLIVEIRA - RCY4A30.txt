@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 22.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Eng Paulo Brandao Nogueira, 13, Jatiuca, Maceio - AL 57036-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.649164",
+          "refe_longitude": "-35.705233"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Formosa, 1921, Ponta Grossa, Maceio - AL 57014-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.663748",
+          "refe_longitude": "-35.755168"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Roberto Simonsen, 956, Gruta de Lourdes, Maceio - AL 57052-606, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.621939",
+          "refe_longitude": "-35.730259"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Deputado Serzedelo de Barros Correia, 761, Clima Bom, Maceio - AL 57071-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.568752",
+          "refe_longitude": "-35.795582"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "22/09/2023 05:00:00",
+      "viag_previsao_fim": "22/09/2023 10:10:59"
+    }
+  ]
+}"

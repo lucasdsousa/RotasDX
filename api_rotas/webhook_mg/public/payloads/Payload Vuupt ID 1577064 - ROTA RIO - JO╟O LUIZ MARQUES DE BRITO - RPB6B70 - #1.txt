@@ -1,0 +1,45 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6B70"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "ROTA RIO - JO\u00c3O LUIZ MARQUES DE BRITO - RPB6B70 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Armando Alvim Castro Menezes, 90 - Parada Modelo, Guapimirim - RJ, 25943-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.550814",
+          "refe_longitude": "-42.979142"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "11/09/2023 11:00:00",
+      "viag_previsao_fim": "11/09/2023 22:34:08"
+    }
+  ]
+}"

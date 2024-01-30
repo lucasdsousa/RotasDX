@@ -1,0 +1,149 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6A98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana  gyn - 05/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Cel. Luiz In\u00e1cio, 113 - Cara\u00fabas, RN, 59780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.790962",
+          "refe_longitude": "-37.557529"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "RN-117, 450 - Cara\u00fabas, RN, 59780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.789898",
+          "refe_longitude": "-37.564026"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Mossor\u00f3, RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.191911",
+          "refe_longitude": "-37.342389"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Cel. Jo\u00e3o Pessoa, 450, S\u00e3o Miguel - RN, 59920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.212908",
+          "refe_longitude": "-38.496947"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Hip\u00f3lito Cassiano, 743 - Sao Judas Tadeu, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.113372",
+          "refe_longitude": "-38.207598"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Jos\u00e9 Moreira do Nascimento, 251, Ten. Ananias - RN, 59955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.466026",
+          "refe_longitude": "-38.179155"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Lauro Maia, 1008, Patu - RN, 59770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.097980",
+          "refe_longitude": "-37.637337"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "RN-117, 450 - Cara\u00fabas, RN, 59780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.789898",
+          "refe_longitude": "-37.564026"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "RN-117, Gov. Dix-Sept Rosado - RN, 59790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.402453",
+          "refe_longitude": "-37.481964"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Manoel Salviano, Gov. Dix-Sept Rosado - RN, 59790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.455472",
+          "refe_longitude": "-37.519109"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Manoel Alexandre, 1059, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.127696",
+          "refe_longitude": "-38.206797"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Francisco Henrique da Cunha, 135, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.118728",
+          "refe_longitude": "-38.202343"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Mo\u00e9sio Holanda, 757, Apodi - RN, 59700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.663461",
+          "refe_longitude": "-37.808895"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Genival Lopes de Macedo, 2 - Aboli\u00e7\u00e3o, Mossor\u00f3 - RN, 59613-720, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.162836",
+          "refe_longitude": "-37.354608"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Cel. Jo\u00e3o Pessoa, 523, S\u00e3o Miguel - RN, 59920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.213252",
+          "refe_longitude": "-38.497072"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Evaristo de Fontes Queiroz, 1 - Jos\u00e9 da Penha, RN, 59980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.318060",
+          "refe_longitude": "-38.285306"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "05/09/2023 08:00:00",
+      "viag_previsao_fim": "09/09/2023 17:04:45"
+    }
+  ]
+}

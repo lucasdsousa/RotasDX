@@ -1,0 +1,1004 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1577673,
+  "numero_liberacao": 1577673,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "LUCIANO DIAS CABRAL",
+    "cpf": "03158639602",
+    "telefone": "+5531995915005"
+  },
+  "veiculos": {
+    "placa": "RCR8I47"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 07:00:00",
+  "data_previsao_fim": "20/09/2023 01:36:35",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:34:39",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:43:00",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:25:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 16:06:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:35:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 20:31:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 01:04:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 12:02:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 13:08:28",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 14:31:44",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 16:14:08",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 17:04:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 18:26:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 21:51:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 12:39:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 13:53:00",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 15:53:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 16:59:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 18:26:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 19:17:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 20:19:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 01:54:32",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 12:13:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 12:43:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 14:24:43",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 15:41:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 18:48:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 20:02:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 06:11:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 14:36:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 17:34:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 19:02:09",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 20:25:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-16 23:06:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-17 13:31:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-17 15:50:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-18 00:15:23",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-18 12:34:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-18 17:21:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "0005",
+            "descricao": "TESTE",
+            "latitude": "-21.556050",
+            "longitude": "-45.436390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-18 20:16:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

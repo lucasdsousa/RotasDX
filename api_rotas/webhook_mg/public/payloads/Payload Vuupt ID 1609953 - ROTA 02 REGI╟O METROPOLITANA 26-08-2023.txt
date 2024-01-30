@@ -1,0 +1,37 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C89"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00211359246"
+        }
+      ],
+      "rota_descricao": "ROTA 02 REGI\u00c3O METROPOLITANA 26/08/2023",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "26/09/2023 08:00:00",
+      "viag_previsao_fim": "26/09/2023 16:21:41"
+    }
+  ]
+}"

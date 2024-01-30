@@ -1,0 +1,36 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6J02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00048824232"
+        }
+      ],
+      "rota_descricao": "ROTA PA 04 04/09/2023 JAMIL ALVES RPB6J02",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "04/09/2023 14:00:00",
+      "viag_previsao_fim": "06/09/2023 01:40:53"
+    }
+  ]
+}

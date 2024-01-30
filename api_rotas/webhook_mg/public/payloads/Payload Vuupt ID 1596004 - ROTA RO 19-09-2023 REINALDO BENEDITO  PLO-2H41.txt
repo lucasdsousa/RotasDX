@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO2H41"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83095900406"
+        }
+      ],
+      "rota_descricao": "ROTA RO 19/09/2023 REINALDO BENEDITO  PLO-2H41",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-364, s/n - Cascalheira, Porto Velho - RO, 76815-800, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.794980",
+          "refe_longitude": "-63.840610"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-364, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.505562",
+          "refe_longitude": "-64.807274"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Jos\u00e9 Amador dos Reis, 2761 - Juscelino Kubitschek, Porto Velho - RO, 76829-422, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.769446",
+          "refe_longitude": "-63.836348"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "19/09/2023 08:45:00",
+      "viag_previsao_fim": "19/09/2023 17:09:17"
+    }
+  ]
+}"

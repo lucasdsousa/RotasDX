@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKZ1337"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91737281368"
+        }
+      ],
+      "rota_descricao": "Rota MA 01 S\u00e3o Luis 11/09/2023 Julio Costa de Aguiar PKZ1337",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Daniel de La Touche, 2006 - Cohama, S\u00e3o Lu\u00eds - MA, 65074-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.507380",
+          "refe_longitude": "-44.242214"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "AV. GUAJAJARAS, 18, JARDIM S\u00c3O CRISTOV\u00c3O, S\u00c3O LU\u00cdS - MARANH\u00c3O 65055-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.568973",
+          "refe_longitude": "-44.232981"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 57 - Monte Castelo, S\u00e3o Lu\u00eds - MA, 65030-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.535539",
+          "refe_longitude": "-44.277530"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua 31 de Dezembro, 17 - Quadra 170 - S\u00e3o Cristovao, S\u00e3o Lu\u00eds - MA, 65055-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.568706",
+          "refe_longitude": "-44.230954"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Guajajaras, 44 - S\u00e3o Cristovao, S\u00e3o Lu\u00eds - MA, 65055-285, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.563918",
+          "refe_longitude": "-44.228918"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Jer\u00f4nimo de Albuquerque, 93 A - Cohab Anil III, S\u00e3o Lu\u00eds - MA, 65051-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.545725",
+          "refe_longitude": "-44.216968"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "AV. JERONIMO DE ALBUQUERQUE MARANHAO, 1, VINHAIS, S\u00c3O LU\u00cdS - MARANH\u00c3O 65074-199, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.515854",
+          "refe_longitude": "-44.259543"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Guajajaras, 213 - Tirirical, S\u00e3o Lu\u00eds - MA, 65055-285, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.558273",
+          "refe_longitude": "-44.224009"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Estr. de Ribamar - Pinda\u00ed, Pa\u00e7o do Lumiar - MA, 65130-000 - Pinda\u00ed, Pa\u00e7o do Lumiar - MA, 65130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.551467",
+          "refe_longitude": "-44.162275"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Gov. Matos Carvalho, 564 - Tirirical, S\u00e3o Lu\u00eds - MA, 65055-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.575434",
+          "refe_longitude": "-44.237738"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Guajajaras, 221 - Tirirical, S\u00e3o Lu\u00eds - MA, 65056-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.569475",
+          "refe_longitude": "-44.232751"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Guajajaras - Tirirical, S\u00e3o Lu\u00eds - MA, 65000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.564932",
+          "refe_longitude": "-44.229726"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "BR 402, km 37, n\u00b025 Translitor\u00e2nea, Morros - MA, 65160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.855221",
+          "refe_longitude": "-44.045842"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "CEP- 65091320 - Av. Eng. Emiliano Macieira, 163 - Vila Maranh\u00e3o, S\u00e3o Lu\u00eds - MA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.631737",
+          "refe_longitude": "-44.314428"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. V AC A EMILIANO MACIEIRA, 100, VILA MARANH\u00c3O, S\u00c3O LU\u00cdS - MARANH\u00c3O 65091-320, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.626452",
+          "refe_longitude": "-44.315779"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. dos Portugueses, 1000 - Anjo da Guarda, S\u00e3o Lu\u00eds - MA, 65085-581, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.564924",
+          "refe_longitude": "-44.318980"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 57 - Monte Castelo, S\u00e3o Lu\u00eds - MA, 65030-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.535539",
+          "refe_longitude": "-44.277530"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "11/09/2023 08:00:00",
+      "viag_previsao_fim": "15/09/2023 15:47:17"
+    }
+  ]
+}"

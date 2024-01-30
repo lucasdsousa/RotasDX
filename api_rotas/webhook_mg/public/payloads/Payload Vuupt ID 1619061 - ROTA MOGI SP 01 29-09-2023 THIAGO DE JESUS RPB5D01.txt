@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D01"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "35034689863"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 29/09/2023 THIAGO DE JESUS RPB5D01",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Santa Rosa, 34 - S\u00edtio Paecara (Vicente de Carvalho), Guaruj\u00e1 - SP, 11463-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.946358",
+          "refe_longitude": "-46.298508"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Ant\u00f4nio Pac\u00edfico, 302 - Conjunto Residencial Humait\u00e1, S\u00e3o Vicente - SP, 11349-285, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.948389",
+          "refe_longitude": "-46.464105"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Bahia, 243 - Vila Paulista, Cubat\u00e3o - SP, 11510-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.889466",
+          "refe_longitude": "-46.421149"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rod. Anchieta, 84 - Vila dos Pescadores, Cubat\u00e3o - SP, 11531-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.928170",
+          "refe_longitude": "-46.398483"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Alm. Cochrane, 416 - Estu\u00e1rio, Santos - SP, 11040-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.966121",
+          "refe_longitude": "-46.302308"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Pres. Kennedy, 4034 - Vila Cai\u00e7ara, Praia Grande - SP, 11707-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.013908",
+          "refe_longitude": "-46.447625"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Eng. Pl\u00ednio de Queir\u00f3z - Jardim Sao Marcos, Cubat\u00e3o - SP, 11570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.839254",
+          "refe_longitude": "-46.376389"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Santos Dumont, 702 - S\u00edtio Paecara (Vicente de Carvalho), Guaruj\u00e1 - SP, 11460-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.948861",
+          "refe_longitude": "-46.296439"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Marcos Ant\u00f4nio Oggiano, 475 - Morrinhos, Guaruj\u00e1 - SP, 11495-011, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.967317",
+          "refe_longitude": "-46.259048"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Pres. Costa e Silva, 1200 - Boqueir\u00e3o, Praia Grande - SP, 11700-007, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.002697",
+          "refe_longitude": "-46.412640"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "29/09/2023 07:30:00",
+      "viag_previsao_fim": "29/09/2023 17:33:42"
+    }
+  ]
+}"

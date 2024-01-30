@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ1E23"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "46665889653"
+        }
+      ],
+      "rota_descricao": "ROTA BA13 18/09/2023 DERMEVAL COSTA RCQ-1E23",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Para, 600, Ibirapuera, Vitoria da Conquista - BA, 45030-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.846794",
+          "refe_longitude": "-40.855460"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 116, SN, Distrito Industrial, Vitoria da Conquista - BA 45089-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.804493",
+          "refe_longitude": "-40.794384"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 116, SN, Zona Rural, Planalto - BA, 45190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.627055",
+          "refe_longitude": "-40.448417"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Anel de Contorno, 1000, Jatoba, Vitoria da Conquista - BA 45066-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.849338",
+          "refe_longitude": "-40.884252"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Epaminondas Rodrigues Dias, 145, Bateias, Vitoria da Conquista - BA, 45053-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.846163",
+          "refe_longitude": "-40.842895"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 116, SN, Ayrton Senna, Vitoria da Conquista - BA 45058-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.911408",
+          "refe_longitude": "-40.875179"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Presidente Dutra, 2637 - Centro, Vitoria da Conquista - BA, 45000010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.854246",
+          "refe_longitude": "-40.848750"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Salgado Filho, 40, Centro, Vitoria da Conquista - BA, 45000-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.852553",
+          "refe_longitude": "-40.844277"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 116, SN, Distrito Industrial, Vitoria da Conquista - BA 45089-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.804493",
+          "refe_longitude": "-40.794384"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Presidente Dutra, 2228, Brasil, Vitoria da Conquista - BA 45051-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.858331",
+          "refe_longitude": "-40.849720"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Juracy Magalhaes, 30 - Centro, Nova Canaa - BA, 45270000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.931762",
+          "refe_longitude": "-40.206426"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Presidente Dutra, 2669 - Felicia, Vitoria da Conquista - BA, 45055480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.853824",
+          "refe_longitude": "-40.848723"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Bartolomeu Gusmao, 365, Jurema, Vitoria da Conquista - BA 45023-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.873120",
+          "refe_longitude": "-40.851094"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Almiro Ferraz De Almeida, 29 - Centro, Belo Campo - BA, 45160000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.040831",
+          "refe_longitude": "-41.259320"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Praca Aleixo Pereira Passos, 15, Centro, Maiquinique - BA, 45770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.618005",
+          "refe_longitude": "-40.270728"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Cinquentenario, 1100 - Quintas do Morumbi, Itapetinga - BA, 45700000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.254812",
+          "refe_longitude": "-40.259805"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia BR 116 Rio Bahia, SN, KM 927 Mais 700M Posto, Encruzilhada - BA 45150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.246674",
+          "refe_longitude": "-41.109913"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "20/09/2023 18:38:36"
+    }
+  ]
+}"

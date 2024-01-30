@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02137360632"
+        }
+      ],
+      "rota_descricao": "ROTA MG 11 20/09/2023 FILIPE ESDRAS RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Berlink Ara\u00fajo, 38 - Itapecerica, MG, 35550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.472328",
+          "refe_longitude": "-45.116443"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Alameda Minas Gerais, 1315, Marilia, Lagoa da Prata - MG 35592-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.032131",
+          "refe_longitude": "-45.523818"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "RODOVIA ARLINDO DE MELO N\u00ba 820 DISTRITO PONTE VILA - Pontevila, Formiga - MG, 35578-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.538480",
+          "refe_longitude": "-45.618250"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Cl\u00f3vis Couto, 488 - Piumhi, MG, 37925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.479260",
+          "refe_longitude": "-45.962570"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Antonio Lemos, 10, Centro, Cassia - MG 37980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.576128",
+          "refe_longitude": "-46.925941"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Brasil, 77, Mangabeiras, Formiga - MG 35577-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.453462",
+          "refe_longitude": "-45.445214"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Vicente Picardi, 912, Bela Vista, Sao Roque de Minas - MG 37928-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.255815",
+          "refe_longitude": "-46.359188"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Laura Andrade, 208, Jardim Bela Vista, Arcos - MG 35588-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.289151",
+          "refe_longitude": "-45.548483"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Maria Rita de Menezes, 949, Vereador Geraldo Jose Borges, Santo Antonio do Monte - MG 35560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.098499",
+          "refe_longitude": "-45.275191"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-491, Itamogi - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.076534",
+          "refe_longitude": "-46.979219"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Santa Catarina, 578 - Lagoa da Prata, MG, 35590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.026942",
+          "refe_longitude": "-45.539374"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Monsenhor Cerqueira, 358 - Itapecerica, MG, 35550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.471436",
+          "refe_longitude": "-45.118694"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Guilherme Nunes, 15 - Carmo do Cajuru, MG, 35510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.187143",
+          "refe_longitude": "-44.768812"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Sete de Setembro, 670, Santa Clara, Divinopolis - MG 35501-971, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.130363",
+          "refe_longitude": "-44.887241"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. G\u00e9rson Gon\u00e7alves, 151 - Pimenta, MG, 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.485000",
+          "refe_longitude": "-45.805290"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Governador Magalhaes Pinto, 1024, Niteroi, Divinopolis - MG 35500-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.135960",
+          "refe_longitude": "-44.873407"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Luiz Guadalupe, 75 - Lagoa da Prata, MG, 35590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.020859",
+          "refe_longitude": "-45.541356"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Governador Magalhaes Pinto, 1024, Niteroi, Divinopolis - MG 35500-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.135960",
+          "refe_longitude": "-44.873407"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "20/09/2023 07:00:00",
+      "viag_previsao_fim": "23/09/2023 01:28:24"
+    }
+  ]
+}"

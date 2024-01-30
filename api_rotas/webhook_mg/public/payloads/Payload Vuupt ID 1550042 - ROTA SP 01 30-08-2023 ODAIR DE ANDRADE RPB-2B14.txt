@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2B14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07749579567"
+        }
+      ],
+      "rota_descricao": "ROTA SP 01 30/08/2023 ODAIR DE ANDRADE RPB-2B14",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Rui Barbosa, 95, Centro, Jardinopolis - SP 14680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.023502",
+          "refe_longitude": "-47.770442"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "30/08/2023 08:30:00",
+      "viag_previsao_fim": "31/08/2023 11:20:11"
+    }
+  ]
+}

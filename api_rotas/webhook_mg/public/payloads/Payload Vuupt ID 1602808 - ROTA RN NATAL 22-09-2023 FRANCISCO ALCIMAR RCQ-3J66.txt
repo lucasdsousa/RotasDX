@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ3J66"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04061219405"
+        }
+      ],
+      "rota_descricao": "ROTA RN NATAL 22/09/2023 FRANCISCO ALCIMAR RCQ-3J66",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Monte Libano, 22, Padre Eustaquio, Belo Horizonte - MG 30730-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.913684",
+          "refe_longitude": "-43.988103"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Presidente Juscelino Kubitschek, 3050, Padre Eustaquio, Belo Horizonte - MG 30530-555, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.921920",
+          "refe_longitude": "-43.982538"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Brigadeiro Eduardo Gomes, 1213, Gloria, Belo Horizonte - MG 30870-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.905346",
+          "refe_longitude": "-44.006008"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Cristiano Machado, 204, Colegio Batista, Belo Horizonte - MG 31110-204, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.905080",
+          "refe_longitude": "-43.935547"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Abilio Machado, 1282, Inconfidencia, Belo Horizonte - MG 30820-272, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.904983",
+          "refe_longitude": "-44.000514"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Rodrigues do Prado, 237, Ermelinda, Belo Horizonte - MG 31250-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.882737",
+          "refe_longitude": "-43.959435"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dom Pedro II, 5072, Jardim Montanhes, Belo Horizonte - MG 30750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.905190",
+          "refe_longitude": "-43.985600"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Rio Grande do Sul, 148, Centro, Belo Horizonte - MG 30170-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.917688",
+          "refe_longitude": "-43.945232"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Rio Grande do Norte, 1204, Funcionarios, Belo Horizonte - MG 30130-131, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.936112",
+          "refe_longitude": "-43.932390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Bonfim, 902, Bonfim, Belo Horizonte - MG 31210-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.909174",
+          "refe_longitude": "-43.949361"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "22/09/2023 05:00:00",
+      "viag_previsao_fim": "22/09/2023 22:31:10"
+    }
+  ]
+}"

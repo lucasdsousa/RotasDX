@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN NATAL 18/09/2023 GILMAR DE MORAIS PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Maca\u00edba, RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.856749",
+          "refe_longitude": "-35.352183"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. D\u00e3o Silveira, 8000 - Pitimb\u00fa, Natal - RN, 59066-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.876505",
+          "refe_longitude": "-35.223561"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 261 - Centro, Parnamirim - RN, 59140-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.920581",
+          "refe_longitude": "-35.264449"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Taborda, S\u00e3o Jos\u00e9 de Mipibu - RN, 59162-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.974731",
+          "refe_longitude": "-35.279591"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Romualdo Galv\u00e3o, 2 - Lagoa Nova, Natal - RN, 59022-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.800303",
+          "refe_longitude": "-35.204014"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Pres. Raniere Mazzilli, 4350 - Guarapes, Natal - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.831350",
+          "refe_longitude": "-35.279672"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "S\u00e3o Jos\u00e9 de Mipibu - RN, 59162-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.030114",
+          "refe_longitude": "-35.280762"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Fernando Alves Bila, 127 - Vila Foilia, Parnamirim - RN, 59148-902, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.892370",
+          "refe_longitude": "-35.238272"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Dr. Mario Neg\u00f3cio, 2298 - Quintas, Natal - RN, 59040-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.798104",
+          "refe_longitude": "-35.236417"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "18/09/2023 19:57:35"
+    }
+  ]
+}"

@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW0I40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06935746400"
+        }
+      ],
+      "rota_descricao": "ROTA PB 02 28.09.2023 ALEX ARAUJO - PLW0I40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Vig. Calixto, 2900 - Catol\u00e9, Campina Grande - PB, 58410-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.250005",
+          "refe_longitude": "-35.879151"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Jose Lins do Rego, 900, Palmeira, Campina Grande - PB 58401-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.211782",
+          "refe_longitude": "-35.892488"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Jose Lins do Rego, 900, Palmeira, Campina Grande - PB 58401-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.211782",
+          "refe_longitude": "-35.892488"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. do Com\u00e9rcio - Umbuzeiro, PB, 58497-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.668949",
+          "refe_longitude": "-35.623269"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Cicero Fautino da Silva, 36, Centro, Lagoa Seca - PB 58117-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.158765",
+          "refe_longitude": "-35.855356"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "28/09/2023 18:12:38"
+    }
+  ]
+}"

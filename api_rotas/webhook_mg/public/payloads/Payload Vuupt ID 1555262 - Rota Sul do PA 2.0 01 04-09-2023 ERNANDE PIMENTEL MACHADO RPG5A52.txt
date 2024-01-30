@@ -1,0 +1,111 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG5A52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02138341380"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 01 04/09/2023 ERNANDE PIMENTEL MACHADO RPG5A52",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Belem, 1240 Qd3 Lt5 - Monte Castelo, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.752425",
+          "refe_longitude": "-51.163073"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "PA-279 - Industrial, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.747893",
+          "refe_longitude": "-51.148057"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rod. Pa Duzentos e Setenta e Nove, 550, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.749592",
+          "refe_longitude": "-51.144964"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia Faruk Salmen, Quadra 40, Lote 11 - Vila Rica, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.040649",
+          "refe_longitude": "-49.896624"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. 22 de Mar\u00e7o, 340-450 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.641980",
+          "refe_longitude": "-51.993971"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Goi\u00e1s, 2145 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.640002",
+          "refe_longitude": "-51.983577"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Par\u00e1, Curion\u00f3polis - PA, 68523-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.101017",
+          "refe_longitude": "-49.599370"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "AV. MARECHAL RONDON, 1299, CENTRO, RONDON DO PAR\u00c1 - PAR\u00c1 68638-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.774991",
+          "refe_longitude": "-48.070034"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. RAIMUNDO CRUZ R. RAIMUNDO CRUZ, 550, CENTRO, RONDON DO PAR? - PAR? 68638-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.780057",
+          "refe_longitude": "-48.071303"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Maranh\u00e3o, 183, Curion\u00f3polis - PA, 68523-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.104536",
+          "refe_longitude": "-49.600930"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "viag_previsao_inicio": "04/09/2023 06:00:00",
+      "viag_previsao_fim": "08/09/2023 17:37:25"
+    }
+  ]
+}

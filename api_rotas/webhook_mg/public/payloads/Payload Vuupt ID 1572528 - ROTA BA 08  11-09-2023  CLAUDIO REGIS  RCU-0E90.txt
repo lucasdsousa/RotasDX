@@ -1,0 +1,1487 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU0E90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "60640740510"
+        }
+      ],
+      "rota_descricao": "ROTA BA 08  11/09/2023  CLAUDIO REGIS  RCU-0E90",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Dario Vilela, 200, Centro, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.379900",
+          "refe_longitude": "-41.840040"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Nove de Maio, 149, Centro, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.382638",
+          "refe_longitude": "-41.828377"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Joaquim Augusto, 98, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.347739",
+          "refe_longitude": "-41.662899"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Travessa 03 Baixa Grande, 250, Fundacao Bradesco, Irece - BA, 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.304224",
+          "refe_longitude": "-41.872022"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Adolso Moitinho, 676, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302612",
+          "refe_longitude": "-41.849461"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Santos Lopes, 58, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301890",
+          "refe_longitude": "-41.855540"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Tapete, 827 - Tapete, Baixa Grande - BA, 44620000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.968260",
+          "refe_longitude": "-40.162804"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Joaquim Augusto Dourado, 81, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.343817",
+          "refe_longitude": "-41.662845"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Dario Vilela, 200, Centro, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.379900",
+          "refe_longitude": "-41.840040"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Rua Gutemberg de Lima, 75, Cafarnaum, Cafarnaum - BA 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.690685",
+          "refe_longitude": "-41.471499"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Adolso Moitinho, 676, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302612",
+          "refe_longitude": "-41.849461"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Primeiro de Janeiro, 275, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.293687",
+          "refe_longitude": "-41.841964"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Primeiro de Janeiro, 61, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.311685",
+          "refe_longitude": "-41.856868"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Praca Dr. Mario Dourado Sobrinho, 87, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302482",
+          "refe_longitude": "-41.856017"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Nove de Maio, 149, Centro, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.382638",
+          "refe_longitude": "-41.828377"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Antonio Farias, 25, Angical, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.237678",
+          "refe_longitude": "-41.754116"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Santos Lopes, 42, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301986",
+          "refe_longitude": "-41.855503"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Rua Gutemberg de Lima, 75, Cafarnaum, Cafarnaum - BA 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.690685",
+          "refe_longitude": "-41.471499"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Contorno, S/N, Centro, Cafarnaum - BA, 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.691959",
+          "refe_longitude": "-41.468375"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rodovia BA 052, SN, Alta Vitoria, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.297346",
+          "refe_longitude": "-41.836872"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Raimundo Bonfin, 25, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.311154",
+          "refe_longitude": "-41.856623"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Cleriston Andrade, 04, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.277115",
+          "refe_longitude": "-41.167540"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rodovia BA 148, S/N, Centro, Barra do Mendes - BA 44990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.805595",
+          "refe_longitude": "-42.057120"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Presidente Tancredo Neves, 1382, Centro, Central - BA 44940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.141452",
+          "refe_longitude": "-42.110661"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rua Ypiranga, 52, Centro, Jussara - BA 44925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.060048",
+          "refe_longitude": "-41.975121"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Presidente Tancredo Neves, 1382, Centro, Central - BA 44940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.141452",
+          "refe_longitude": "-42.110661"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rua 23 de agosto, 510, Alto da Santa Cruz, Barra - BA 47100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.087606",
+          "refe_longitude": "-43.139673"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rodovia BA 148, S/N, Centro, Barra do Mendes - BA 44990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.805595",
+          "refe_longitude": "-42.057120"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rodovia BA 052, 04, Alta Vitoria, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.292952",
+          "refe_longitude": "-41.837292"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Severino Ribeiro Granja, 324, Centro, Umburanas - BA 44798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.728994",
+          "refe_longitude": "-41.321568"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Praca Canabrava, 238, Centro, Miguel Calmon - BA 44720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.424167",
+          "refe_longitude": "-40.594448"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Sao Joao, 45, Missao, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.179882",
+          "refe_longitude": "-40.516703"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Severino Ribeiro Granja, 324, Centro, Umburanas - BA 44798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.728994",
+          "refe_longitude": "-41.321568"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida ACM, 217, Centro, Capim Grosso - BA, 44695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.380536",
+          "refe_longitude": "-40.008694"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua 02 De Julho, 114, Centro, Varzea da Roca - BA 44635-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.606211",
+          "refe_longitude": "-40.137059"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Lomanto Junior, 401, Ranchinho, Riachao do Jacuipe - BA 44640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.812542",
+          "refe_longitude": "-39.385432"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Praca Canabrava, 238, Centro, Miguel Calmon - BA 44720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.424167",
+          "refe_longitude": "-40.594448"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Estrada Jacobina Miguel Calmon, S/N, Catuaba, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.193315",
+          "refe_longitude": "-40.574014"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Alvino Rodrigues da Silva, SN, Sede, Ourolandia - BA 44718-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.963043",
+          "refe_longitude": "-41.075737"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Alvino Rodrigues da Silva, SN, Sede, Ourolandia - BA 44718-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.963043",
+          "refe_longitude": "-41.075737"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Jose Francisco, 228, Barbosa Santos, Senhor do Bonfim - BA 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.469697",
+          "refe_longitude": "-40.126042"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Do Contorno, 720, Contorno, Filadelfia - BA 44775-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.736864",
+          "refe_longitude": "-40.124141"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Piaui, 96, Quadra 02, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.625052",
+          "refe_longitude": "-42.086523"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Quadra IJ, S/N, Centro, Casa Nova - BA 47300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.175476",
+          "refe_longitude": "-40.974026"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 235, SN, Zona Urbana, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.625623",
+          "refe_longitude": "-42.086248"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Quadra Ef, 44, Centro, Casa Nova - BA 47300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.172612",
+          "refe_longitude": "-40.973848"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Pindoba\u00e7u, BA, 44770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.743600",
+          "refe_longitude": "-40.363300"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Faxeiro, 1416, Nucleo Residencial Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.889549",
+          "refe_longitude": "-39.968363"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Lomanto Junior, 2399, Contorno, Ponto Novo - BA 44755-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.864290",
+          "refe_longitude": "-40.126747"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Tomaz Rodrigues da Silva, 180, Jardim Esplanada, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.612598",
+          "refe_longitude": "-42.079680"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Faxeiro, 1416, Nucleo Residencial Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.889549",
+          "refe_longitude": "-39.968363"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BR 407, SN, Rodoviario, Senhor do Bonfim - BA 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.456286",
+          "refe_longitude": "-40.180775"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Ipe Roxo, 106, Distrito Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.886547",
+          "refe_longitude": "-39.965833"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Timoteo Goncalves da Costa, 380, Centro, Pocoes - BA, 45260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.528662",
+          "refe_longitude": "-40.361695"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Manoel Messias de Lima, 99, Centro, Mirante - BA, 45255-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.238923",
+          "refe_longitude": "-40.772173"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BA 640, 49, Rural, Bom Jesus da Serra - BA, 45263-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.434182",
+          "refe_longitude": "-40.455505"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Presidente Dutra, 2512, Brasil, Vitoria da Conquista - BA, 45051-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.855383",
+          "refe_longitude": "-40.849499"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Juracy Magalhaes, 3400, Felicia, Vitoria da Conquista - BA 45055-235, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.891001",
+          "refe_longitude": "-40.844666"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Teodoro Sampaio, 642, Centro, Vitoria da Conquista - BA 45000-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.856246",
+          "refe_longitude": "-40.848849"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua A, 131 - Espirito Santo, Vitoria da Conquista - BA, 45037605, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.907211",
+          "refe_longitude": "-40.835254"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Alagoas, 242 - Brasil, Vitoria da Conquista - BA, 45051335, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.856953",
+          "refe_longitude": "-40.851476"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida John Kennedy, 299 - Centro, Planalto - BA, 45190000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.670342",
+          "refe_longitude": "-40.474009"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Presidente Dutra, 2228, Brasil, Vitoria da Conquista - BA 45051-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.858331",
+          "refe_longitude": "-40.849720"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Principal, 339, Vila do Cafe, Encruzilhada - BA, 45153-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.628099",
+          "refe_longitude": "-40.714556"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Jose de Alencar, 184, Centro, Vitoria da Conquista - BA, 45000-135, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.853194",
+          "refe_longitude": "-40.848565"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Laudiceia Gusmao, SN - Centro, Vitoria da Conquista - BA, 45000705, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.847926",
+          "refe_longitude": "-40.841731"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Parana, 412, Brasil, Vitoria da Conquista - BA, 45051-675, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.868799",
+          "refe_longitude": "-40.854344"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Juracy Magalhaes, 1841 - Jardim Guanabara, Vitoria da Conquista - BA, 45023971, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.876031",
+          "refe_longitude": "-40.844317"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Presidente Dutra, 2626, Brasil, Vitoria da Conquista - BA 45051-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.854120",
+          "refe_longitude": "-40.849237"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia BR 116, SN, Cruzeiro, Vitoria da Conquista - BA, 45040-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.825522",
+          "refe_longitude": "-40.822406"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Bartolomeu Gusmao, 365, Jurema, Vitoria da Conquista - BA 45023-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.873120",
+          "refe_longitude": "-40.851094"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Presidente Dutra, 2626, Brasil, Vitoria da Conquista - BA 45051-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.854120",
+          "refe_longitude": "-40.849237"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Presidente Dutra, 3320, Ibirapuera, Vitoria da Conquista - BA 45075-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.848121",
+          "refe_longitude": "-40.848560"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Frei Benjamim, 925, Brasil, Vitoria da Conquista - BA, 45051-555, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.868624",
+          "refe_longitude": "-40.855460"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Itabuna, 363, Ponto Certo, Itapetinga - BA 45700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.241085",
+          "refe_longitude": "-40.240286"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Alagoas, 242 - Brasil, Vitoria da Conquista - BA, 45051335, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.856953",
+          "refe_longitude": "-40.851476"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Itabuna, 363, Ponto Certo, Itapetinga - BA 45700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.241085",
+          "refe_longitude": "-40.240286"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rodovia Maiquinique / Itapetinga, S/N, Centro, Maiquinique - BA 45770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.695495",
+          "refe_longitude": "-40.247569"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Sertaneja, 141, Sao Francisco, Condeuba - BA, 46200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.901643",
+          "refe_longitude": "-41.967059"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rua Dr Helio Meira, 231 - Centro, Macarani - BA, 45760000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.568371",
+          "refe_longitude": "-40.423778"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Itabuna, 363, Ponto Certo, Itapetinga - BA 45700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.241085",
+          "refe_longitude": "-40.240286"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Isai leite, SN - Centro, Presidente Janio Quadros - BA, 46250000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.689174",
+          "refe_longitude": "-41.679901"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Principal, 98, Vila do Cafe, Encruzilhada - BA, 45150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.628099",
+          "refe_longitude": "-40.714556"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Vitoria da Conquista, 127, Centro, Belo Campo - BA, 45160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.034434",
+          "refe_longitude": "-41.258328"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 159, Centro, Presidente Janio Quadros - BA, 46250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.687419",
+          "refe_longitude": "-41.680442"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Padre Ladislau Klenner, 196, Centro, Presidente Janio Quadros - BA, 46250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.688252",
+          "refe_longitude": "-41.680325"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Loteamento Elizabete Estrada Pres Janio Quadros a Maetinga, SN - Centro, Presidente Janio Quadros - BA, 46250000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.688252",
+          "refe_longitude": "-41.680325"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Avenida Itabuna, 427, Centro, Itapetinga - BA 45700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.241354",
+          "refe_longitude": "-40.241548"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Cinquentenario, 1100 - Quintas do Morumbi, Itapetinga - BA, 45700000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.254812",
+          "refe_longitude": "-40.259805"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Avenida Vitoria da Conquista, 861 - Cidade Nova, Belo Campo - BA, 45160000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.027525",
+          "refe_longitude": "-41.258226"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Praca Aleixo Pereira Passos, 15, Centro, Maiquinique - BA, 45770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.618005",
+          "refe_longitude": "-40.270728"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Itamb\u00e9, BA, 45140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.243911",
+          "refe_longitude": "-40.619832"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Avenida Cinquentenario, 1100 - Quintas do Morumbi, Itapetinga - BA, 45700000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.254812",
+          "refe_longitude": "-40.259805"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Rua Pedro Afonso Cangucu, 318 - Centro, Aracatu - BA, 46130000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.431562",
+          "refe_longitude": "-41.461756"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Rua Joaquim Correia, 138 - Vila Mariana, Caraibas - BA, 45177000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.566217",
+          "refe_longitude": "-41.260776"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BA 052, 04, Alta Vitoria, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.292952",
+          "refe_longitude": "-41.837292"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BA 052, SN, Estrada do Feijao, Morro do Chapeu - BA 44850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.650317",
+          "refe_longitude": "-40.916679"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BA 052, SN, Alta Vitoria, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.297346",
+          "refe_longitude": "-41.836872"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Antonio Farias, 25, Angical, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.237678",
+          "refe_longitude": "-41.754116"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Joaquim Augusto, 98, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.347739",
+          "refe_longitude": "-41.662899"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Adolso Moitinho, 676, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302612",
+          "refe_longitude": "-41.849461"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Rua Gutemberg de Lima, 75, Cafarnaum, Cafarnaum - BA 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.690685",
+          "refe_longitude": "-41.471499"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua 23 de agosto, 510, Alto da Santa Cruz, Barra - BA 47100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.087606",
+          "refe_longitude": "-43.139673"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Joaquim Augusto Dourado, 81, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.343817",
+          "refe_longitude": "-41.662845"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Barra do Mendes, 500, Centro, Canarana - BA 44890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.684802",
+          "refe_longitude": "-41.766944"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Santos Lopes, 58, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301890",
+          "refe_longitude": "-41.855540"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Santos Lopes, 42, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301986",
+          "refe_longitude": "-41.855503"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Presidente Tancredo Neves, 1382, Centro, Central - BA 44940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.141452",
+          "refe_longitude": "-42.110661"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Nove de Maio, 149, Centro, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.382638",
+          "refe_longitude": "-41.828377"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Contorno, S/N, Centro, Cafarnaum - BA, 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.691959",
+          "refe_longitude": "-41.468375"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia BA 148, SN, Rodovia, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.321365",
+          "refe_longitude": "-41.860626"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Raimundo Bonfin, 25, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.311154",
+          "refe_longitude": "-41.856623"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Travessa 03 Baixa Grande, 250, Fundacao Bradesco, Irece - BA, 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.304224",
+          "refe_longitude": "-41.872022"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida David Jonas Fadini, 2798, Juca Rosa, Eunapolis - BA 45823-431, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.335258",
+          "refe_longitude": "-39.580851"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida David Fadini, 612, Centro, Eunapolis - BA 45820-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.349987",
+          "refe_longitude": "-39.579746"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 101, S/N, Ventania, Itapebi - BA 45855-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.901478",
+          "refe_longitude": "-39.550538"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Das Palmeiras, 1879, Arraial Dajuda, Porto Seguro - BA, 45816-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.485773",
+          "refe_longitude": "-39.083807"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Guaratinga, 162, Centro, Itabela - BA 45848-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.571808",
+          "refe_longitude": "-39.560272"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Joana Moura, 281 - Centro, Guaratinga - BA, 45840000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.586836",
+          "refe_longitude": "-39.783756"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Luis Eduardo Magalhaes, 857, Gusmao, Eunapolis - BA 45820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.364590",
+          "refe_longitude": "-39.581668"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Bejamin Constant, 733, Jeremias, Euclides da Cunha - BA 48500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.506097",
+          "refe_longitude": "-39.009662"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 116, SN - Distrito Jorrinho, Tucano - BA, 48790000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.051255",
+          "refe_longitude": "-38.839364"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Salvador Fabiano Carvalho, 114, Centro, Biritinga - BA 48780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.624170",
+          "refe_longitude": "-38.809254"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 1063, Rodoviaria, Serrinha - BA, 48700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.670399",
+          "refe_longitude": "-39.007089"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Jose Pedro de Carvalho, 60 - Centro, Araci - BA, 48760000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.334114",
+          "refe_longitude": "-38.969143"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Cansan\u00e7\u00e3o, BA, 48840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.667820",
+          "refe_longitude": "-39.496450"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Joao Borges de Sa, SN, Centro, Uaua - BA 48950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.837596",
+          "refe_longitude": "-39.487359"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Nilton de Oliveira Santos, 993, Centro, Santaluz - BA 48880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.264274",
+          "refe_longitude": "-39.373016"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Walter Caldas, 537, Centro, Monte Santo - BA 48800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.443619",
+          "refe_longitude": "-39.333779"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Almerindo Rehem, 1138, Nova America, Euclides da Cunha - BA 48500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.494907",
+          "refe_longitude": "-39.017491"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Joao Durval Carneiro, 336, Centro, Cansancao - BA, 48840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.572042",
+          "refe_longitude": "-39.277379"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Monte Santo, SN, Nossa Senhora de Fatima, Euclides da Cunha - BA, 48500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.505906",
+          "refe_longitude": "-39.020853"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Nilton Oliveira Santos, 466, Centro, Santa luz - BA, 48880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.260150",
+          "refe_longitude": "-39.374130"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Travessa Monte Santo, SN, Centro, Cansancao - BA 48840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.670264",
+          "refe_longitude": "-39.497368"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Apromiano Campos, 1499 - Centro, Euclides da Cunha - BA, 48500000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.506217",
+          "refe_longitude": "-39.010467"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Monte Santo, 550, Centro, Cansancao - BA 48840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.663334",
+          "refe_longitude": "-39.493911"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Praca Jose Borges do Vale, SN, Icozeira, Abare - BA, 48680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.942154",
+          "refe_longitude": "-39.327569"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Monte Santo, 550, Centro, Cansancao - BA 48840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.663334",
+          "refe_longitude": "-39.493911"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Jose de  Aquino, 1920, Duda Macario, Euclides da Cunha - BA 48500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.507015",
+          "refe_longitude": "-39.015251"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Travessa Alto Bonito, S/N - Centro, Rafael Jambeiro - BA, 44520000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.401828",
+          "refe_longitude": "-39.508269"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 8192, Jardins, Barreiras - BA 47803-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.138061",
+          "refe_longitude": "-44.920710"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 242, SN, Vila Brasilia, Lajedinho - BA 46825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.468560",
+          "refe_longitude": "-40.947942"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 2908, Serra do Mimo, Barreiras - BA 47802-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142490",
+          "refe_longitude": "-44.971336"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BA 046, SN, Rodovia, Itaberaba - BA 46880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.507161",
+          "refe_longitude": "-40.307532"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Conego Joao Pedro Alves, 59, Centro, Seabra - BA, 46900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.418707",
+          "refe_longitude": "-41.769851"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Bento Alves Das neves, 76, Centro, Sao Desiderio - BA 47820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.362237",
+          "refe_longitude": "-44.974163"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 242, SN, Javi, Muquem de Sao Francisco - BA, 47115-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.212382",
+          "refe_longitude": "-43.569520"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Coronel Afonso, 139 - Centro, Santa Rita de Cassia - BA, 47150000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.005461",
+          "refe_longitude": "-44.523921"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Joaquim Augusto da Silva, 1887, Santa Helena, Formosa do Rio Preto - BA 47990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.035144",
+          "refe_longitude": "-45.190957"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Porto Seguro, 464, Santa Cruz, Luis Eduardo Magalhaes - BA, 47855-278, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.094548",
+          "refe_longitude": "-45.801859"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Capitao Manoel Miranda, 337, Centro, Barreiras - BA 47800-064, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.150921",
+          "refe_longitude": "-44.999489"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Enedino Alves da Paixao, 4560, Chacara Santa Cruz I, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.091060",
+          "refe_longitude": "-45.789342"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Jose Goncalves Aquino, 12 - Santa Luzia, Seabra - BA, 46900000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.429373",
+          "refe_longitude": "-41.773703"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BA 460, SN, Centro, Barreiras - BA, 47800-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.154109",
+          "refe_longitude": "-44.999075"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Enedino Alves da Paixao, 3074, Chacara Santa Cruz I, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.092821",
+          "refe_longitude": "-45.802634"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Dr Guilherme Rabelo, SN, Centro, Angical - BA 47960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.007202",
+          "refe_longitude": "-44.695279"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Travessa Professora Helena, 589, Centro, Santa Rita de Cassia - BA, 47150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.003603",
+          "refe_longitude": "-44.520251"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 2734, Serra do Mimo, Barreiras - BA 47800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.142416",
+          "refe_longitude": "-44.971337"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua 2 de Julho, 01, Centro, Tabocas do Brejo Velho - BA 47760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.705731",
+          "refe_longitude": "-44.008226"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rodovia BR 242, SN, Sede, Ibotirama - BA 47520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.177043",
+          "refe_longitude": "-43.217162"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Travessa Profa. Helena, 33, Centro, Santa Rita de Cassia - BA, 47150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.006725",
+          "refe_longitude": "-44.521476"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Rondonia, 431, Mimoso do Oeste, Luis Eduardo Magalhaes - BA 47850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.091690",
+          "refe_longitude": "-45.795085"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Br 324, SN, Valeria, Salvador - BA 41300-501, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.873548",
+          "refe_longitude": "-38.428361"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Br 324, SN, BR 324, Simoes Filho - BA 43700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.835804",
+          "refe_longitude": "-38.412230"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Br 324, SN, Jaqueira do Carneiro, Salvador - BA 41227-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.881347",
+          "refe_longitude": "-38.433217"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Cardeal Avelar Brandao Villela, 78 - Granjas Rurais Presidente Vargas, Salvador - BA, 41230180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.918234",
+          "refe_longitude": "-38.461026"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Aliomar Baleeiro, 2292, Pau da Lima, Salvador - BA, 41290-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.915348",
+          "refe_longitude": "-38.444386"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Aliomar Baleeiro, 2292, Pau da Lima, Salvador - BA, 41290-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.915348",
+          "refe_longitude": "-38.444386"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Ala Centenario, 13, Arembepe, Camacari - BA 42830-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.764325",
+          "refe_longitude": "-38.186221"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Aliomar Baleeiro, S/N, Jardim Nova Esperanca, Salvador - BA 41370-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.917102",
+          "refe_longitude": "-38.419018"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Dos Bandeirantes, 929 - Matatu, Salvador - BA, 40260001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.972668",
+          "refe_longitude": "-38.493622"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Frederico Pontes, 107, Agua de Meninos, Salvador - BA 40460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.961199",
+          "refe_longitude": "-38.504216"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Araponga, 263, Pitangueiras, Lauro de Freitas - BA 42701-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.882572",
+          "refe_longitude": "-38.312035"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Caminho 15, 18, Vida Nova, Lauro de Freitas - BA 42717-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.877695",
+          "refe_longitude": "-38.332479"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BA 526, SN, Barragem de Ipitanga, Salvador - BA 41410-025, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.860888",
+          "refe_longitude": "-38.363746"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Aliomar Baleeiro, 2292, Granjas Rurais Presidente Vargas, Salvador - BA, 41230-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.915348",
+          "refe_longitude": "-38.444386"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Tancredo Neves, 1067, Loteamento Chacaras Planalto, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.344545",
+          "refe_longitude": "-44.631289"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Zeca Miranda, 3599, Shangri la, Bom Jesus da Lapa - BA, 47600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.276862",
+          "refe_longitude": "-43.393467"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Santos Dumont, 514, Vomitamel, Guanambi - BA 46430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.216451",
+          "refe_longitude": "-42.783516"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Tancredo Neves, 1067, Loteamento Chacaras Planalto, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.344545",
+          "refe_longitude": "-44.631289"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Caminho 05, 121, Magalhaes Neto, Bom Jesus da Lapa - BA 47600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.250713",
+          "refe_longitude": "-43.402090"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Antonio Coutinho, SN - Centro, Cacule - BA, 46300000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.502878",
+          "refe_longitude": "-42.220551"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Waldik Soriano, 142 - Ovidio Teixeira, Caetite - BA, 46400000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.065658",
+          "refe_longitude": "-42.482930"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Perimetral, 156, Centro, Santa Maria da Vitoria - BA 47640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.396775",
+          "refe_longitude": "-44.205727"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Perimetral, 265, Centro, Santa Maria da Vitoria - BA 47640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.391183",
+          "refe_longitude": "-44.207330"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 101, SN, Alagoinhas Velha, Alagoinhas - BA 48030-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.131603",
+          "refe_longitude": "-38.392313"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Mario Andreazza, S/N, Centro, Esplanada - BA 48370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.796679",
+          "refe_longitude": "-37.944304"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Praca Alice Virgens Vidal, SN, Centro, Adustina - BA 48435-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.533183",
+          "refe_longitude": "-38.116957"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Parque Analia, SN, Parque Analia de Carvalho Dantas, Jeremoabo - BA, 48540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.062543",
+          "refe_longitude": "-38.348047"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Antonio Rodrigues Pereira, 162, Centro, Ribeira do Pombal - BA 48400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.835419",
+          "refe_longitude": "-38.539136"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 110, SN, Centro, Alagoinhas - BA, 48005-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.073996",
+          "refe_longitude": "-38.347214"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Paulo Afonso, SN, Kennedy, Alagoinhas - BA 48020-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.128939",
+          "refe_longitude": "-38.410407"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 110, SN, Zona Urbana, Jeremoabo - BA 48540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.092928",
+          "refe_longitude": "-38.318923"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua N do Loteamento Analia de Carvalho Dantas, SN, Analia de Carvalho Dantas, Jeremoabo - BA, 48540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.076058",
+          "refe_longitude": "-38.347132"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Parque Analia, SN, Parque Analia de Carvalho Dantas, Jeremoabo - BA, 48540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.062543",
+          "refe_longitude": "-38.348047"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua DO POCO VERDE, 201, Centro, Heliopolis - BA 48445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.830433",
+          "refe_longitude": "-38.292768"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. S\u00e3o Jos\u00e9 - Jeremoabo, BA, 48540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.085890",
+          "refe_longitude": "-38.330970"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Praca Da Republica, 81 - Centro, Feira de Santana - BA, 44001784, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.259914",
+          "refe_longitude": "-38.963189"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Distrito magalhaes, 136, Magalhaes, Sao Goncalo dos Campos - BA 44330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.353306",
+          "refe_longitude": "-38.955956"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Sudene, 2155 - Cis, Feira de Santana - BA, 44010025, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.284371",
+          "refe_longitude": "-38.974011"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Senador Quintino, 44, Serraria Brasil, Feira de Santana - BA 44003-234, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.261882",
+          "refe_longitude": "-38.966280"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Elizeu Pinheiro da Silva, 01, Centro, Agua Fria - BA 48170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.868850",
+          "refe_longitude": "-38.762374"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Getulio Vargas, 313, Centro, Conceicao do Jacuipe - BA 44245-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.339809",
+          "refe_longitude": "-38.774546"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Jose Falcao da Silva, 300, Baraunas, Feira de Santana - BA 44020-122, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.238713",
+          "refe_longitude": "-38.963884"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Sao Jose, 292 - Centro, Feira de Santana - BA, 44002392, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.247118",
+          "refe_longitude": "-38.965648"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Praca Da Republica, 92, Centro, Feira de Santana - BA 44001-784, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.259880",
+          "refe_longitude": "-38.966855"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Travessa Sitio Novo, 1276, Ponto Central, Feira de Santana - BA 44031-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.221075",
+          "refe_longitude": "-38.982888"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "11/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 18:37:32"
+    }
+  ]
+}"

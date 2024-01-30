@@ -1,0 +1,220 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 04 21/09/2023",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Dr Joao Miranda, SN, Colonia Velha, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.808113",
+          "refe_longitude": "-48.778177"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PA 409, SN, Cristo Redentor, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.704531",
+          "refe_longitude": "-48.805619"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Dom Pedro II, 692, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724196",
+          "refe_longitude": "-48.885107"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia uepa - PA-150 - Moju, PA, 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.904394",
+          "refe_longitude": "-48.769210"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Tv. Cel. Vit\u00f3rio - Igarap\u00e9-Miri, PA, 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.976714",
+          "refe_longitude": "-48.960576"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 150, 51, Industrial, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.937919",
+          "refe_longitude": "-48.945489"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Do Campo, 98, Aeroporto, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.941708",
+          "refe_longitude": "-48.941796"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia PA 150, SN, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.693277",
+          "refe_longitude": "-48.869750"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PA 150, SN, Estrada, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.693277",
+          "refe_longitude": "-48.869750"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "PA-263, Breu Branco - PA, 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.772334",
+          "refe_longitude": "-49.380590"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia PA 150, SN, Industrial, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840128",
+          "refe_longitude": "-49.100859"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Tancredo Neves, SN, Floresta, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.839554",
+          "refe_longitude": "-49.100739"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Bel\u00e9m, 171, Tail\u00e2ndia - PA, 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.947779",
+          "refe_longitude": "-48.954194"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "PA-263, Breu Branco - PA, 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.772334",
+          "refe_longitude": "-49.380590"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Sebastiao Camargo Correia, 252, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia PA 150, SN, Industrial, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840128",
+          "refe_longitude": "-49.100859"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Belem, 98, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948194",
+          "refe_longitude": "-48.953899"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia Diego Kolling, SN, Industrial, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.786337",
+          "refe_longitude": "-49.570899"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Sebastiao Camargo, 196, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Jose Soares, 38, Centro, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444562",
+          "refe_longitude": "-49.116380"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Sebastiao Camargo, 196, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rodovia Trancameta, 08, Jardim Colorado, Tucurui - PA 68456-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.762383",
+          "refe_longitude": "-49.684118"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Goi\u00e1s, 61 - Centro, Jacund\u00e1 - PA, 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.449425",
+          "refe_longitude": "-49.110451"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Raimundo Veridiano Cardoso, 700, Cohab, Tucurui - PA 68455-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.772218",
+          "refe_longitude": "-49.674286"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Muniz Lopes, 199, Liberdade, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.770929",
+          "refe_longitude": "-49.565751"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida 7 de Setembro, 110, Cohab, Tucurui - PA 68459-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.770052",
+          "refe_longitude": "-49.669425"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "21/09/2023 08:00:00",
+      "viag_previsao_fim": "25/09/2023 00:36:20"
+    }
+  ]
+}"

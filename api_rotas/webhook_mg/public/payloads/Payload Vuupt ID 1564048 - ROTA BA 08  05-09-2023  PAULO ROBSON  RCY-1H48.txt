@@ -1,0 +1,205 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY1H48"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04330691558"
+        }
+      ],
+      "rota_descricao": "ROTA BA 08  05/09/2023  PAULO ROBSON  RCY-1H48",
+      "origem": {
+        "vloc_descricao": "N\u00facleo Cis S\u00e3o Gon\u00e7alo dos Campos",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Santana, 74, Porto Feliz, Piritiba - BA 44830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.759377",
+          "refe_longitude": "-40.710092"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BA 052, 1116 - Porto Feliz, Piritiba - BA, 44830000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.440834",
+          "refe_longitude": "-41.431693"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Joaquim Augusto, SN, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.343817",
+          "refe_longitude": "-41.662845"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Pedra do Amor, S/N, Vila Brasil, Baixa Grande - BA 44620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.960083",
+          "refe_longitude": "-40.167925"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BA 052, SN, Zona Urbana, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.293764",
+          "refe_longitude": "-41.835974"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Santos Lopes, 419, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.298474",
+          "refe_longitude": "-41.854079"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Ypiranga, 52, Centro, Jussara - BA 44925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.060048",
+          "refe_longitude": "-41.975121"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BA 052, SN, Estrada do Feijao, Morro do Chapeu - BA 44850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.650317",
+          "refe_longitude": "-40.916679"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BA 052, SN, Vale Ouro, Morro do Chapeu - BA 44850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.520907",
+          "refe_longitude": "-41.263195"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Numa Alves Barreto, 123, Centro, Mundo Novo - BA 44800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.862610",
+          "refe_longitude": "-40.470248"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Santos Lopes, 377, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.299275",
+          "refe_longitude": "-41.854663"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Cleriston Andrade, 04, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.277115",
+          "refe_longitude": "-41.167540"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Santos Lopes, 377, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.299275",
+          "refe_longitude": "-41.854663"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Odete Nunes Dourado, 42, Ginasio de Esportes, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.300151",
+          "refe_longitude": "-41.855478"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Praca Sao Sebastiao, 106 - Pov. Lagoa Funda, Barro Alto - BA, 44895000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.747570",
+          "refe_longitude": "-41.825257"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Praca Pedro Guimaraes, 30, Centro, Cafarnaum - BA, 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.694749",
+          "refe_longitude": "-41.468368"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Praca Dr. Mario Dourado Sobrinho, 87, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302482",
+          "refe_longitude": "-41.856017"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Tertuliano Cambui, 133, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302659",
+          "refe_longitude": "-41.860605"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rodovia BA 432, SN, Rodovia, Lapao - BA 44905-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.382549",
+          "refe_longitude": "-41.833767"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Cleriston Andrade, 04, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.277115",
+          "refe_longitude": "-41.167540"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Praca Dr. Mario Dourado Sobrinho, 87, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.302482",
+          "refe_longitude": "-41.856017"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Ary Pires Ribeiro, 78, Centro, Ruy Barbosa - BA, 46800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.284695",
+          "refe_longitude": "-40.495544"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Juvencio Xavier, 401, Joaquim Brandao, Ruy Barbosa - BA 46800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.280019",
+          "refe_longitude": "-40.493375"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Egito, 108, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.288721",
+          "refe_longitude": "-41.172337"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "N\u00facleo Cis S\u00e3o Gon\u00e7alo dos Campos",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "07/09/2023 19:05:04"
+    }
+  ]
+}

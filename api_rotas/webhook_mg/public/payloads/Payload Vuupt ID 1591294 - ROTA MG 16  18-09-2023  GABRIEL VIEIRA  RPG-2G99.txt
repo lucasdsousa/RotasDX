@@ -1,0 +1,3139 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG2G99"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "13094679609"
+        }
+      ],
+      "rota_descricao": "ROTA MG 16  18/09/2023  GABRIEL VIEIRA  RPG-2G99",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Julia Kubitscheck, 947, Centro, Congonhas - MG 36415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.506874",
+          "refe_longitude": "-43.850639"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Rio Brumado, 381, Centro, Entre Rios de Minas - MG 35490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.663040",
+          "refe_longitude": "-44.068694"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Joao Catarina, 37, Centro, Ouro Branco - MG 36420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.524878",
+          "refe_longitude": "-43.689806"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Mariza de Souza Mendes, 641 - Loja 01 - Soledade, Ouro Branco - MG, 36420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.519432",
+          "refe_longitude": "-43.708009"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "36415-000 - Congonhas, MG, 36415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.478290",
+          "refe_longitude": "-43.842420"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-040, 23015 - Cidade Sat\u00e9lite, Conselheiro Lafaiete - MG, 36400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.636773",
+          "refe_longitude": "-43.813452"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "BR 040 KM 739 - Perobas - Santos Dumont, MG, 36242-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.423010",
+          "refe_longitude": "-43.558020"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Eraldo Guerra Peixe, 86, Nova Era, Juiz de Fora - MG 36087-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.700493",
+          "refe_longitude": "-43.424097"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rod. Vital Brasil, 16656-16760 - Ros\u00e1rio de Minas, Juiz de Fora - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.775060",
+          "refe_longitude": "-43.619700"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Professor helena Antipoff, 149, Benfica, Juiz de Fora - MG 36090-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.684215",
+          "refe_longitude": "-43.438764"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Olegario Maciel, 491, Centro, Barbacena - MG 36200-082, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.220799",
+          "refe_longitude": "-43.769277"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BR 040, 22705, Barreira, Conselheiro Lafaiete - MG 36407-430, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.660354",
+          "refe_longitude": "-43.802026"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Professor Camargo, 1009, acampamento, Carandai - MG 36280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.951876",
+          "refe_longitude": "-43.818810"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Olegario Maciel, 376, Centro, Barbacena - MG 36200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.221797",
+          "refe_longitude": "-43.769370"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Ito Americo de Azevedo, 825, Vilela, Barbacena - MG 36205-336, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.220252",
+          "refe_longitude": "-43.752497"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Ibitiguaia, 905, Santa Luzia B Aurora, Juiz de Fora - MG 36030-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.788052",
+          "refe_longitude": "-43.350925"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Benjamin Constant, 200, Centro, Barbacena - MG 36200-056, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.216137",
+          "refe_longitude": "-43.769739"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. Ana Pitela, 1012 - Santos Dumont, MG, 36240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.455534",
+          "refe_longitude": "-43.567136"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Olavo Bilac, 593 - Cer\u00e2mica, Juiz de Fora - MG, 36080-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.740539",
+          "refe_longitude": "-43.383817"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Dos Pereiras, 1836, Xopoto, Alto Rio Doce - MG 36260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.015921",
+          "refe_longitude": "-43.405876"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Silvio Frizone, 33, Dr Sa Fortes, Antonio Carlos - MG 36220-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.284533",
+          "refe_longitude": "-43.749234"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Coronel Onofre Augusto de Paula, 604, Centro, Chacara - MG 36110-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.671474",
+          "refe_longitude": "-43.222260"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Francisco Bernardinho, 155, Centro, Juiz de Fora - MG 36013-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.758117",
+          "refe_longitude": "-43.345668"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Dr. Paulo Japiass\u00fa Coelho, 169 - Cascatinha, Juiz de Fora - MG, 36033-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.786575",
+          "refe_longitude": "-43.363193"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Juiz de Fora, 410, Parque Guarani, Juiz de Fora - MG 36047-315, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.714080",
+          "refe_longitude": "-43.352203"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Jose Paradelas, 302, Centro, Argirita - MG 36710-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.611848",
+          "refe_longitude": "-42.832744"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Presidente Juscelino Kubitscheck, 5533, Nova Era, Juiz de Fora - MG 36090-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.699856",
+          "refe_longitude": "-43.423650"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rua Ito Americo de Azevedo, 825, Vilela, Barbacena - MG 36205-336, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.220252",
+          "refe_longitude": "-43.752497"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "BR-040, 23015 - Cidade Sat\u00e9lite, Conselheiro Lafaiete - MG, 36400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.636773",
+          "refe_longitude": "-43.813452"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Cristovao de Sena, 1201, Gigante, Conselheiro Lafaiete - MG 36400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.658481",
+          "refe_longitude": "-43.769604"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rua Duque de Caxias, 1282, Chapada, Conselheiro Lafaiete - MG 36400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.651621",
+          "refe_longitude": "-43.775059"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Rua Diomar Monteiro, 520, Grama, Juiz de Fora - MG 36048-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.684927",
+          "refe_longitude": "-43.328174"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rua Osorio de Almeida, 222, Poco Rico, Juiz de Fora - MG 36020-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.764198",
+          "refe_longitude": "-43.340084"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rua Avelino Jacinto Coimbra, 26, Sao Jose, Tabuleiro - MG 36165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.355736",
+          "refe_longitude": "-43.247987"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rua Osorio de Almeida, 222, Poco Rico, Juiz de Fora - MG 36020-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.764198",
+          "refe_longitude": "-43.340084"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Juiz de Fora, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.762393",
+          "refe_longitude": "-43.343467"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rua Artur Bernardes, 126, Centro, Bicas - MG 36600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.723830",
+          "refe_longitude": "-43.058719"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rua Randolfo Teixeira, 296, Centro, Caranaiba - MG 36428-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.872483",
+          "refe_longitude": "-43.736093"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Av. Dep. \u00daltimo de Carvalho, 42 - Tabuleiro, MG, 36165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.359935",
+          "refe_longitude": "-43.251197"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Rodovia 267, SN, Zona Rural, Bicas - MG 36600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.740055",
+          "refe_longitude": "-43.102974"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Av. Maria de Almeida Silva, 1 - Teixeiras, Juiz de Fora - MG, 36033-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.790988",
+          "refe_longitude": "-43.360792"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Rua Roberto de Barros, 212, Centro, Juiz de Fora - MG 36013-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.755067",
+          "refe_longitude": "-43.350907"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Av. Rui Barbosa, 846 - Centen\u00e1rio, Juiz de Fora - MG, 36045-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.739454",
+          "refe_longitude": "-43.362840"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Rua Marechal Floriano Peixoto, 99, Centro, Juiz de Fora - MG 36013-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.758200",
+          "refe_longitude": "-43.346710"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Avenida Afranio de Melo Franco, 286, Centro, Carandai - MG 36280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.951525",
+          "refe_longitude": "-43.807822"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "R. S\u00e3o Vicente de Paula, 718 - Centro, Santa B\u00e1rbara do Tug\u00fario - MG, 36215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.245910",
+          "refe_longitude": "-43.555890"
+        },
+        {
+          "vloc_sequencia": 47,
+          "vloc_descricao": "Rua Marechal Floriano Peixoto, 142, Centro, Juiz de Fora - MG 36013-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.758125",
+          "refe_longitude": "-43.347247"
+        },
+        {
+          "vloc_sequencia": 48,
+          "vloc_descricao": "MG-448, km 25 - Costas da Mantiqueira, Barbacena - MG, 36215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.271820",
+          "refe_longitude": "-43.639200"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Rio Branco, 1120, Planalto, Capelinha - MG 39680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.702274",
+          "refe_longitude": "-42.514608"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 120, SN, Planalto, Capelinha - MG 39680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.701514",
+          "refe_longitude": "-42.519654"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Bom Jesus, 403, Centro, Agua Boa - MG 39790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.989795",
+          "refe_longitude": "-42.394576"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Governador Milton Campos, 3175, Centro, Guanhaes - MG 39740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.779440",
+          "refe_longitude": "-42.939057"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "S\u00e3o Jo\u00e3o Evangelista, MG, 39705-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.536600",
+          "refe_longitude": "-42.766233"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Gouveia, 286, Sao Joao Batista, Itamarandiba - MG 39670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.871899",
+          "refe_longitude": "-42.867949"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Malacacheta, MG, 39690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.844233",
+          "refe_longitude": "-42.078979"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Sao Joao, 1330, Das Nacoes, Capelinha - MG 39680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.693402",
+          "refe_longitude": "-42.518112"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. dos Eucaliptos, 677 - Nova Turmalina, Turmalina - MG, 39660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.288580",
+          "refe_longitude": "-42.720750"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR MG 342, SN, Acari, Coronel Murta - MG 39635-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.619651",
+          "refe_longitude": "-42.187052"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Manoel Fulgencio, 244, Centro, Aracuai - MG 39600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.855641",
+          "refe_longitude": "-42.066130"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Primeiro de Junho, 3000, Centro, Sao Joao Evangelista - MG 39705-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.557239",
+          "refe_longitude": "-42.765987"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Diamantina, 928, Sao Geraldo, Itamarandiba - MG 39670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.864892",
+          "refe_longitude": "-42.865234"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. S\u00e3o Jos\u00e9, 299 - Centro, Divinol\u00e2ndia de Minas - MG, 39735-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.800198",
+          "refe_longitude": "-42.612801"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Floriano Peixoto, 215 - Esplanada, Ara\u00e7ua\u00ed - MG, 39600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.854464",
+          "refe_longitude": "-42.060040"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Nossa Senhora do Carmo, 54, Centro, Divinolandia de Minas - MG 39735-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.801159",
+          "refe_longitude": "-42.616385"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Malacacheta, MG, 39690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.844233",
+          "refe_longitude": "-42.078979"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Governador Milton Campos, 3175, Centro, Guanhaes - MG 39740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.779440",
+          "refe_longitude": "-42.939057"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua da Saudade, 463, Centro, Sao Goncalo do Rio Preto - MG 39185-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.000944",
+          "refe_longitude": "-43.379291"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rod BR 367 KM 278 - Aeroporto, Ara\u00e7ua\u00ed - MG, 39600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.849140",
+          "refe_longitude": "-42.044200"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Joaquim Pinto Sobrinho, 148, Centro, Gonzaga - MG 39720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.828376",
+          "refe_longitude": "-42.483332"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. dos Eucaliptos, 677 - Nova Turmalina, Turmalina - MG, 39660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.288580",
+          "refe_longitude": "-42.720750"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Av. dos Eucaliptos, 677 - Nova Turmalina, Turmalina - MG, 39660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.288580",
+          "refe_longitude": "-42.720750"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Entrocamento de Leme do Prado, 10, BR, Leme do Prado - MG 39655-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.050849",
+          "refe_longitude": "-42.746699"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "R. Benjamin Constant, 2 - Ara\u00e7ua\u00ed, MG, 39600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.850830",
+          "refe_longitude": "-42.062530"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Do Contorno, 642, Bela Vista, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.238859",
+          "refe_longitude": "-43.610476"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Governador Milton Campos, 1800, Centro, Guanhaes - MG 39740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.770470",
+          "refe_longitude": "-42.931559"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Do Contorno, 642, Bela Vista, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.238859",
+          "refe_longitude": "-43.610476"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Sady Rodrigues Coelho, 1648, Centro, Virginopolis - MG 39730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.828512",
+          "refe_longitude": "-42.719373"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Do Contorno, 642, Bela Vista, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.238859",
+          "refe_longitude": "-43.610476"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rua Dr Hermelindo, 1097, Planalto, Capelinha - MG 39680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.702159",
+          "refe_longitude": "-42.512675"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Av. Jo\u00e3o Antunes de Oliveira, 849 - Diamantina, MG, 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.239850",
+          "refe_longitude": "-43.623940"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rua Luiz Ponciano, 203, Centro, Gouveia - MG 39120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.451238",
+          "refe_longitude": "-43.742268"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Av. Jo\u00e3o Antunes de Oliveira, 849 - Diamantina, MG, 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.239850",
+          "refe_longitude": "-43.623940"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Avenida Joao Antunes de Oliveira, 1200, Cazuza, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.240827",
+          "refe_longitude": "-43.627802"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Joao Antunes de Oliveira, 1200, Cazuza, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.240827",
+          "refe_longitude": "-43.627802"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Avenida Silvio Felicio dos Santos, 180, Bom Jesus, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.240811",
+          "refe_longitude": "-43.608747"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Avenida Joao Antunes de Oliveira, 1200, Cazuza, Diamantina - MG 39100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.240827",
+          "refe_longitude": "-43.627802"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Amazonas, 630, Sao Geraldo, Araxa - MG 38180-084, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.579415",
+          "refe_longitude": "-46.950027"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Santos Dumont, 1420, Nossa Senhora de Fatima, Bambui - MG 38900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.016354",
+          "refe_longitude": "-45.967087"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Governador Valadares, 300, Industrial, Nova Ponte - MG 38160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.162168",
+          "refe_longitude": "-47.678888"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Jose Antonio Pereira, 800, Centro, Nova Ponte - MG 38160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.158646",
+          "refe_longitude": "-47.678632"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Walace, 28 - Lagoinha, Uberl\u00e2ndia - MG, 38408-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.927856",
+          "refe_longitude": "-48.256694"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Comendador Alexandrino Garcia, 435, Marta Helena, Uberlandia - MG 38402-228, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.888476",
+          "refe_longitude": "-48.273404"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Alipio Abrao, 923, Santa Luzia, Uberlandia - MG 38408-758, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.941446",
+          "refe_longitude": "-48.240655"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Floriano Peixoto, 2960, Custodio Pereira, Uberlandia - MG 38405-184, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.901808",
+          "refe_longitude": "-48.263468"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Brasil, 2791, Brasil, Uberlandia - MG 38400-718, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.899016",
+          "refe_longitude": "-48.266640"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Geraldo Abr\u00e3o, 1850 - Granada, Uberl\u00e2ndia - MG, 38408-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.940803",
+          "refe_longitude": "-48.241044"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Floriano Peixoto, 3152 - Brasil, Uberl\u00e2ndia - MG, 38400-704, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.900117",
+          "refe_longitude": "-48.262260"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Paulo Firmino, 981 - Jardim Holanda, Uberl\u00e2ndia - MG, 38412-322, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.950744",
+          "refe_longitude": "-48.323135"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BR 365, SN, Paranaiba, Ituiutaba - MG 38301-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.951854",
+          "refe_longitude": "-49.465473"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Joaquim Barbosa, 1480, Milenium, Araguari - MG 38446-219, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.670479",
+          "refe_longitude": "-48.180178"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Rebeliao Praieira, 532, Nossa Senhora das Gracas, Uberlandia - MG 38402-306, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.876363",
+          "refe_longitude": "-48.274469"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "BR-365, Uberl\u00e2ndia - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.873730",
+          "refe_longitude": "-48.531270"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Paulo Firmino, 970, Jardim Holanda, Uberlandia - MG 38412-322, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.950150",
+          "refe_longitude": "-48.322473"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Praca Argelido de Morais, 246, Centro, Estrela do Sul - MG 38525-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.691684",
+          "refe_longitude": "-47.724314"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Ant\u00f4nio Ferro, 77 - Ivete Guerreiro Daniel, Can\u00e1polis - MG, 38380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.728290",
+          "refe_longitude": "-49.197920"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Daniel Xavier, 38, Jardim Regina, Araguari - MG 38440-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.653321",
+          "refe_longitude": "-48.195636"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Professor Jose Vieira de Mendonca, 2415, Alvorada, Ituiutaba - MG 38307-113, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.975037",
+          "refe_longitude": "-49.483194"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Gov. Bias Fortes, 4 - Centro, Tupaciguara - MG, 38430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.595070",
+          "refe_longitude": "-48.701964"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Jose Andraus Gassani, 6551, Distrito Industrial, Uberlandia - MG 38402-339, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.881100",
+          "refe_longitude": "-48.309525"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Eduardo Brandao de Azeredo, 1483, Centro, Santa Vitoria - MG 38320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.853094",
+          "refe_longitude": "-50.130749"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Bahia, 597, Centro, Araguari - MG 38440-188, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.658790",
+          "refe_longitude": "-48.199540"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Senador Melo Viana, 287, Goias, Araguari - MG 38442-192, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.645383",
+          "refe_longitude": "-48.201599"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Amazonas, 630, Sao Geraldo, Araxa - MG 38180-084, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.579415",
+          "refe_longitude": "-46.950027"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Padre Raul Vieira, 373, Centro, Russas - CE 62900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.938297",
+          "refe_longitude": "-37.973603"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Tv. Ver. Joel Corr\u00eaa Lima, 807 - Nossa Sra. de F\u00e1tima, Russas - CE, 62900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.939759",
+          "refe_longitude": "-37.965755"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Irma Maria das Gracas, 1045, ypiranga, Russas - CE 62900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.947358",
+          "refe_longitude": "-37.984278"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Cleonice Furtado, 281, Vila Nova, Catarina - CE 63595-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.133560",
+          "refe_longitude": "-39.878787"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "CE-060, Cear\u00e1, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.523762",
+          "refe_longitude": "-39.492453"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Zacarias Pinheiro da Silva, 82, Centro, Piquet Carneiro - CE 63605-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.806347",
+          "refe_longitude": "-39.417223"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Manoel Saraiva, 646 - Santa Luzia, Limoeiro do Norte - CE, 62930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.144334",
+          "refe_longitude": "-38.092790"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Bonsucesso - Lagoinha, Quixer\u00e9 - CE, 62920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.044480",
+          "refe_longitude": "-37.778993"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Vereador Tertuliano de Melo, 09, Centro, Jaguaribara - CE 63490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.457518",
+          "refe_longitude": "-38.460189"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Quixel\u00f4 - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.252524",
+          "refe_longitude": "-39.198842"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Padre Vicente, 1055, Centro, Limoeiro do Norte - CE 62930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.152873",
+          "refe_longitude": "-38.101967"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Deoclecio Lima Verde, 169, Areias I, Iguatu - CE 63508-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.348468",
+          "refe_longitude": "-39.306233"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Nogueira Acioly, 1020, Centro, Ico - CE 63430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.400593",
+          "refe_longitude": "-38.858522"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Raimundo Alves, 2205, Flores, Russas - CE 62903-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.066150",
+          "refe_longitude": "-38.066299"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Vereador Chagas Muniz, 3914, Oito de Junho, Tabuleiro do Norte - CE 62960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.244847",
+          "refe_longitude": "-38.135041"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Ana Anete Chaves - 8 de Junho, Tabuleiro do Norte - CE, 62960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.236448",
+          "refe_longitude": "-38.143386"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Rafael Pordeus, 56, Duque de Caxias, Quixeramobim - CE 63800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.193233",
+          "refe_longitude": "-39.290424"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia da Integracao, 908, Sambaiba, Floriano - PI 64804-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.765337",
+          "refe_longitude": "-43.011512"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-343, 164, Lagoinha do Piau\u00ed - PI, 64465-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.830929",
+          "refe_longitude": "-42.623336"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Afranio Filho, Amarante - PI, 64400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.243146",
+          "refe_longitude": "-42.844056"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Sapucaia, 274, Portal dos Cerrados, Urucui - PI 64860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.233740",
+          "refe_longitude": "-44.556212"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Airton Sena, 748, Aeroporto, Urucui - PI 64860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.248587",
+          "refe_longitude": "-44.553630"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 343, SN, Zona Rural, Floriano - PI 64800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.785771",
+          "refe_longitude": "-43.041810"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "PI-141, 309 - Tanque do Governo, Canto do Buriti - PI, 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.116700",
+          "refe_longitude": "-42.953386"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Faveira, 1030, Portal dos Cerrados, Urucui - PI 64860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.288485",
+          "refe_longitude": "-44.500145"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PI 141, 235, Centro, Canto do Buriti - PI 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.115513",
+          "refe_longitude": "-42.951010"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Airton Sena, 748, Aeroporto, Urucui - PI 64860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.248587",
+          "refe_longitude": "-44.553630"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Getulio Vargas, 1119, Centro, Canto do Buriti - PI 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.108240",
+          "refe_longitude": "-42.944750"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Candido Coelho, 1369, S\u00e3o Jo\u00e3o do Piau\u00ed - PI, 64760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.362069",
+          "refe_longitude": "-42.245751"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Raimundo Araujo Pinheiro, 173, Centro, Sao Raimundo Nonato - PI 64770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.011719",
+          "refe_longitude": "-42.689349"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Candido Coelho, S/N, Centro, Sao Joao do Piaui - PI 64760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.357734",
+          "refe_longitude": "-42.252624"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 020, SN, Suburbano, Sao Joao do Piaui - PI 64760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.369919",
+          "refe_longitude": "-42.239642"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Avelino Freitas, S\u00e3o Raimundo Nonato - PI, 64770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.013384",
+          "refe_longitude": "-42.694509"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Tv. Albano Ribeiro, 212, S\u00e3o Jo\u00e3o do Piau\u00ed - PI, 64760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.354436",
+          "refe_longitude": "-42.253440"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Candido Coelho, SN, Centro, Sao Joao do Piaui - PI 64760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.357435",
+          "refe_longitude": "-42.252604"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Marechal Dutra, 643, Centro, Canto do Buriti - PI 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.111583",
+          "refe_longitude": "-42.944571"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Getulio Vargas, 905, Centro, Canto do Buriti - PI 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.106480",
+          "refe_longitude": "-42.945045"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Getulio Vargas, 753, Centro, Canto do Buriti - PI 64890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.102450",
+          "refe_longitude": "-42.946408"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Dr. Humberto Paix\u00e3o, S\u00e3o Raimundo Nonato - PI, 64770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.026613",
+          "refe_longitude": "-42.688196"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Hipolito Ribeiro Soares, 87, Centro, Sao Raimundo Nonato - PI 64770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.013562",
+          "refe_longitude": "-42.691287"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Das Camelias, 1680, Jardim das Flores, Sao Gotardo - MG 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.324603",
+          "refe_longitude": "-46.056636"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia MG 188, Zona Rural, Coromandel - MG 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.457417",
+          "refe_longitude": "-47.206649"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Presidente Tancredo Neves, 645, Cidade Nova, Patos de Minas - MG 38706-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.618285",
+          "refe_longitude": "-46.510761"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Afonso Queiroz, 2870 - Jardim Panoramico, Patos de Minas - MG, 38705-441, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.603270",
+          "refe_longitude": "-46.483830"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Jefferson Nepomuceno, 340, Ipanema, Patos de Minas - MG 38706-510, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.619229",
+          "refe_longitude": "-46.507595"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Giordano, 149 - Bela Vista, Carmo do Parana\u00edba - MG, 38840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.996530",
+          "refe_longitude": "-46.296340"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Vereador Joao Pacheco, 2100, Santa Terezinha, Patos de Minas - MG 38700-248, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.603475",
+          "refe_longitude": "-46.522163"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Praca Ciro Franco, 127, Nossa Senhora de Fatima, Sao Gotardo - MG 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.320369",
+          "refe_longitude": "-46.051299"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Barao do Rio Branco, 1515, Lagoa Grande, Patos de Minas - MG 38700-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.603017",
+          "refe_longitude": "-46.518274"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Otavio Pereira Guimaraes, 199, JK, Guarda-Mor - MG 38570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.772657",
+          "refe_longitude": "-47.091517"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Emilia Vieira Piao, 498, Planalto, Patos de Minas - MG 38706-356, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.636802",
+          "refe_longitude": "-46.502550"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Tupa, 61, Santa Terezinha, Sao Gotardo - MG 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.321200",
+          "refe_longitude": "-46.051078"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Prefeito Erotides Batista, 554, Nossa Senhora de Fatima, Sao Gotardo - MG 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.320158",
+          "refe_longitude": "-46.045333"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Atanasio Dos Santos, 64, Lagoinha, Carmo do Paranaiba - MG 38840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.001884",
+          "refe_longitude": "-46.311092"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "S\u00e3o Gotardo marco de entrada - MG-235, 556 - Santa Terezinha, S\u00e3o Gotardo - MG, 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.330030",
+          "refe_longitude": "-46.062593"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Gov. Valadares, 486 - Parque da Banheira, Carmo do Parana\u00edba - MG, 38840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.994958",
+          "refe_longitude": "-46.312672"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Geraldo Magela Borges, 161, Planalto, Patos de Minas - MG 38706-331, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.634972",
+          "refe_longitude": "-46.492120"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "S\u00e3o Gotardo marco de entrada - MG-235, 556 - Santa Terezinha, S\u00e3o Gotardo - MG, 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.330030",
+          "refe_longitude": "-46.062593"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Dona Luiza, 1400, Cristo Redentor, Patos de Minas - MG 38700-229, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.605263",
+          "refe_longitude": "-46.516767"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Domingos Clemente Alves, 10 - Coromandel, MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.483086",
+          "refe_longitude": "-47.203512"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "S\u00e3o Gotardo marco de entrada - MG-235, 556 - Santa Terezinha, S\u00e3o Gotardo - MG, 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.330030",
+          "refe_longitude": "-46.062593"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Pres. Tancredo de Almeida Neves, 1536 - Vazante, MG, 38780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.992116",
+          "refe_longitude": "-46.893478"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "S\u00e3o Gotardo marco de entrada - MG-235, 556 - Santa Terezinha, S\u00e3o Gotardo - MG, 38800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.330030",
+          "refe_longitude": "-46.062593"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Brasil, 433, Jardim Botanico, Lagoa Formosa - MG 38720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.774952",
+          "refe_longitude": "-46.406159"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "BR-354, Carmo do Parana\u00edba - MG, 38840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.892385",
+          "refe_longitude": "-46.376121"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Governador Israel Pinheiro, 733, Centro, Coromandel - MG 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.473545",
+          "refe_longitude": "-47.193396"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Guarda-Mor, MG, 38570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.770499",
+          "refe_longitude": "-47.095806"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida XV De Novembro, 510, Boa Vista, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.724488",
+          "refe_longitude": "-47.508153"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "R. Arthur Bernardes, 601 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476432",
+          "refe_longitude": "-47.197478"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rodovia BR 365, S/N, Zona Rural, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.916233",
+          "refe_longitude": "-47.402425"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Marciano Pires, 1110, Marciano Brandao, Patrocinio - MG 38740-484, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.945482",
+          "refe_longitude": "-47.005920"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Avenida Olegario Maciel, 1014, Batuque, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.738046",
+          "refe_longitude": "-47.501156"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "R. P - S\u00e3o Cristovao, Patroc\u00ednio - MG, 38740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.942980",
+          "refe_longitude": "-47.006840"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Avenida Olegario Maciel, 703, Batuque Novo, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.735699",
+          "refe_longitude": "-47.499040"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rua Ipiranga, 100, Morada Nova, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.725109",
+          "refe_longitude": "-47.508001"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Benedito Teodoro da Silva, 497, Centro, Abadia dos Dourados - MG 38540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.485309",
+          "refe_longitude": "-47.404215"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Av. Faria Pereira, 92 - Na\u00e7\u00f5es, Patroc\u00ednio - MG, 38740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.932857",
+          "refe_longitude": "-46.971038"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "R. Arthur Bernardes, 601 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476432",
+          "refe_longitude": "-47.197478"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Avenida XV De Novembro, 281, Do Carmo, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.724799",
+          "refe_longitude": "-47.505371"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Avenida Faria Pereira, 2808, Marciano Brandao, Patrocinio - MG 38740-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.941460",
+          "refe_longitude": "-46.997175"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Avenida Faria Pereira, 1598, Nossa Senhora de Fatima, Patrocinio - MG 38744-536, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.937654",
+          "refe_longitude": "-46.986527"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Avenida Joao Pinheiro, 1187, Boa Vista, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.721434",
+          "refe_longitude": "-47.501243"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "R. Arthur Bernardes, 477 - Coromandel, MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.475310",
+          "refe_longitude": "-47.199516"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Avenida Engenheiro Heladio Simoes, 141, Batuque, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.733113",
+          "refe_longitude": "-47.500716"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Avenida Dona Clara, 2215, Vila Italia, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.730938",
+          "refe_longitude": "-47.484694"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Avenida Do Contorno, 21, Batuque II, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.732773",
+          "refe_longitude": "-47.501859"
+        },
+        {
+          "vloc_sequencia": 47,
+          "vloc_descricao": "R. Arthur Bernardes, 601 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476432",
+          "refe_longitude": "-47.197478"
+        },
+        {
+          "vloc_sequencia": 48,
+          "vloc_descricao": "Avenida Marciano Pires, 1110, Marciano Brandao, Patrocinio - MG 38740-484, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.945482",
+          "refe_longitude": "-47.005920"
+        },
+        {
+          "vloc_sequencia": 49,
+          "vloc_descricao": "Av. Gov. Israel Pinheiro, 304 - S\u00e3o Domingos, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476706",
+          "refe_longitude": "-47.195733"
+        },
+        {
+          "vloc_sequencia": 50,
+          "vloc_descricao": "Rua Melo Viana, 296, Centro, Coromandel - MG 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.472970",
+          "refe_longitude": "-47.204501"
+        },
+        {
+          "vloc_sequencia": 51,
+          "vloc_descricao": "Avenida Faria Pereira, 2730, Marciano Brandao, Patrocinio - MG 38740-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.941170",
+          "refe_longitude": "-46.996739"
+        },
+        {
+          "vloc_sequencia": 52,
+          "vloc_descricao": "Avenida Doutor Humberto Machado, 50, Centro, Coromandel - MG 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.479107",
+          "refe_longitude": "-47.197715"
+        },
+        {
+          "vloc_sequencia": 53,
+          "vloc_descricao": "Avenida Romualdo Resende, 2070, Vila Nova, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.738773",
+          "refe_longitude": "-47.482117"
+        },
+        {
+          "vloc_sequencia": 54,
+          "vloc_descricao": "Rua Olegario Maciel, 770, Batuque, Monte Carmelo - MG 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.736235",
+          "refe_longitude": "-47.499585"
+        },
+        {
+          "vloc_sequencia": 55,
+          "vloc_descricao": "R. Arthur Bernardes, 601 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476432",
+          "refe_longitude": "-47.197478"
+        },
+        {
+          "vloc_sequencia": 56,
+          "vloc_descricao": "Avenida Governador Israel Pinheiro, 1175, Padre Lazaro Menezes, Coromandel - MG 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.470493",
+          "refe_longitude": "-47.190550"
+        },
+        {
+          "vloc_sequencia": 57,
+          "vloc_descricao": "Rua Conselheiro Rufino, 617, Centro, Guimarania - MG 38730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.843259",
+          "refe_longitude": "-46.794519"
+        },
+        {
+          "vloc_sequencia": 58,
+          "vloc_descricao": "Rua 12, 82, Brejo Bonito, Cruzeiro da Fortaleza - MG 38738-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.010649",
+          "refe_longitude": "-46.613235"
+        },
+        {
+          "vloc_sequencia": 59,
+          "vloc_descricao": "Rua 12, 82, Brejo Bonito, Cruzeiro da Fortaleza - MG 38738-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.010649",
+          "refe_longitude": "-46.613235"
+        },
+        {
+          "vloc_sequencia": 60,
+          "vloc_descricao": "Avenida Joao Mariano, 302, Das Flores, Serra do Salitre - MG 38760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.112761",
+          "refe_longitude": "-46.686253"
+        },
+        {
+          "vloc_sequencia": 61,
+          "vloc_descricao": "Av. Altino Guimar\u00e3es, 10 - S\u00e3o Vicente, Patroc\u00ednio - MG, 38740-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.956455",
+          "refe_longitude": "-46.993910"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Joao Pereira, 75, Centro, Umirim - CE 62660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.678975",
+          "refe_longitude": "-39.348022"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Maria Diamantina Veras, 1010, Centro, Barroquinha - CE 62410-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.021373",
+          "refe_longitude": "-41.133736"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Mariano Marinho de Oliveira - Am\u00e9rica, Ipueiras - CE, 62230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.445727",
+          "refe_longitude": "-40.798841"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dr Edilberto Frota, 2210, Planalto, Crateus - CE 63700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.190273",
+          "refe_longitude": "-40.676122"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Cavalo Brabo, 700-734 - Cai\u00e7ara, Cruz - CE, 62595-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.826566",
+          "refe_longitude": "-40.408286"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Eucl\u00eddes Barroso, 1602 - Santa Luzia, Canind\u00e9 - CE, 62700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.353856",
+          "refe_longitude": "-39.324095"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Enfermeiro Jose Evangelista de Vasconcelos, 1841, Gaioso Nunes, Tiangua - CE 62325-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.735901",
+          "refe_longitude": "-41.003680"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Dr. Edilberto Frota, 2151, Planalto, Crateus - CE 63700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.190361",
+          "refe_longitude": "-40.675644"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Perimetral - Canind\u00e9, CE, 62700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.361839",
+          "refe_longitude": "-39.324167"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Manoel Alves Cavalcante, 754 - A\u00e7ude, Catunda - CE, 62297-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.645067",
+          "refe_longitude": "-40.197150"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Cel. Toto, 1031, Centro, Crateus - CE 63700-109, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.179465",
+          "refe_longitude": "-40.669007"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Guaraciaba do Norte, CE, 62380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.163257",
+          "refe_longitude": "-40.750403"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Luciano Magalhaes, 1570, Santa Luzia, Caninde - CE 62700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.351140",
+          "refe_longitude": "-39.322344"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 222, 1329, Distrito Industrial, Sobral - CE 62053-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.716223",
+          "refe_longitude": "-40.335995"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Laurindo Gomes, 1187, Cidade Nova, Quiterianopolis - CE 63650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.852427",
+          "refe_longitude": "-40.704887"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Laurindo Gomes, 1286, Centro, Quiterianopolis - CE 63650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.853306",
+          "refe_longitude": "-40.705349"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Cel. Estanislau Frota, 48 - Centro, Sobral - CE, 62010-560, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.691620",
+          "refe_longitude": "-40.350995"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 040, SN, Luizlandia do Oeste, Joao Pinheiro - MG 38776-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.988208",
+          "refe_longitude": "-45.606867"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Astolfo Moreira, 948, Maria Jose de Paula, Joao Pinheiro - MG 38770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.751096",
+          "refe_longitude": "-46.175960"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Joao Pedroso de Almeida, 97, Cidade Florenca, Tres Marias - MG 39205-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.270427",
+          "refe_longitude": "-45.074665"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Caetano Silva Neiva, 190, Nossa Senhora Aparecida, Paracatu - MG 38600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.212844",
+          "refe_longitude": "-46.872121"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Ana Afonso da Silva, 279 - Jo\u00e3o Pinheiro, MG, 38770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.739340",
+          "refe_longitude": "-46.185280"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Jos\u00e9 Rabelo de Souza, s/n\u00ba - Maria Jos\u00e9 de Paula, Jo\u00e3o Pinheiro - MG, 38770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.745747",
+          "refe_longitude": "-46.179965"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "MG-188 - Amaral, Una\u00ed - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.748030",
+          "refe_longitude": "-46.825410"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Major Arestides Lopes, 100, Amoreiras I, Paracatu - MG 38600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.207827",
+          "refe_longitude": "-46.875010"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "43, BR-040, 1100 - ALTO DO CORREGO, Paracatu - MG, 38600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.227325",
+          "refe_longitude": "-46.860640"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "unavia unai",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.415920",
+          "refe_longitude": "-46.896370"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Centro, Una\u00ed - MG, 38610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.360999",
+          "refe_longitude": "-46.901625"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Virg\u00edlio Justiniano Ribeiro, 256 - Centro, Una\u00ed - MG, 38610-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.357717",
+          "refe_longitude": "-46.907169"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Brasilia, 02, Guarapuava, Unai - MG 38610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.090701",
+          "refe_longitude": "-46.553374"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Afonso Pena, Riachinho - MG, 38640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.229110",
+          "refe_longitude": "-46.000740"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Pedro Valadares Versiane, 143, Centro, Buritis - MG 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.627962",
+          "refe_longitude": "-46.428531"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Joaquim Brochado, 50 - Buritis, MG, 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.631640",
+          "refe_longitude": "-46.432730"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Bandeirantes, 1148, Centro, Buritis - MG 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.627614",
+          "refe_longitude": "-46.423142"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Bonfim, 301, Centro, Natalandia - MG 38658-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.503920",
+          "refe_longitude": "-46.495888"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Virg\u00edlio Justiniano Ribeiro, 256 - Centro, Una\u00ed - MG, 38610-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.357717",
+          "refe_longitude": "-46.907169"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Frei Jorge - Una\u00ed, MG, 38610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.360122",
+          "refe_longitude": "-46.872939"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Bandeirantes, 1148, Centro, Buritis - MG 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.627614",
+          "refe_longitude": "-46.423142"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Tancredo Neves, 194, Aeroporto, Formoso - MG 38690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.952576",
+          "refe_longitude": "-46.235687"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Av. Central, 621 - Buritis, MG, 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.618678",
+          "refe_longitude": "-46.424811"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Pedro Valadares Versiane, 143, Centro, Buritis - MG 38660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.627962",
+          "refe_longitude": "-46.428531"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "R. Bom Jesus, 330 - Sao Goncalo Do Abaete, S\u00e3o Gon\u00e7alo do Abaet\u00e9 - MG, 38790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.336750",
+          "refe_longitude": "-45.833110"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Tancredo Neves, 219, Centro, Urucuia - MG 38649-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.124231",
+          "refe_longitude": "-45.743721"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 811 - Centro, Chapada Ga\u00facha - MG, 38689-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.299643",
+          "refe_longitude": "-45.624001"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Getulio Vargas, 510, N/A, Riachinho - MG 38640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.225361",
+          "refe_longitude": "-45.998688"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Otavio de Carvalho Lage, 55, Major Lage de Baixo, Itabira - MG 35900-672, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.631245",
+          "refe_longitude": "-43.226545"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Brasil, 270, JK, Itabira - MG 35900-971, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.640011",
+          "refe_longitude": "-43.235298"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Madalena Pereira dos Santos, 186, Vila Sao Joaquim, Itabira - MG 35900-714, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.631185",
+          "refe_longitude": "-43.232822"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Cristal, 120, Major Lage de Baixo, Itabira - MG 35900-221, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.634156",
+          "refe_longitude": "-43.227370"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Presidente Tancredo de Almeida Neves, 866, Todos os Santos, Coronel Fabriciano - MG 35170-054, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.522238",
+          "refe_longitude": "-42.632012"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Belo Horizonte, 111, Caladinho, Coronel Fabriciano - MG 35171-167, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.515679",
+          "refe_longitude": "-42.613063"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Piracicaba, 73, Centro, Coronel Fabriciano - MG 35170-034, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.532405",
+          "refe_longitude": "-42.625616"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Prefeito Virgilino Quintao, 1065, Doze de Marco, Itabira - MG 35900-346, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.637702",
+          "refe_longitude": "-43.222730"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Cristina Gazire, 1349 - Praia, Itabira - MG, 35900-680, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.629724",
+          "refe_longitude": "-43.210822"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Presidente Tancredo de Almeida Neves, 881, Nossa Sra da Penha, Coronel Fabriciano - MG 35170-055, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.521926",
+          "refe_longitude": "-42.631964"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Cinzeiro, 177, Limoeiro, Timoteo - MG 35181-434, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.552924",
+          "refe_longitude": "-42.590062"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Brasil, 95, Iguacu, Ipatinga - MG 35162-082, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.477675",
+          "refe_longitude": "-42.545425"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Minas Gerais, 625 - Cana\u00e3, Ipatinga - MG, 35162-094, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.463557",
+          "refe_longitude": "-42.551314"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Ezequiel de Godoi, 167 - Centro, Iapu - MG, 35190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.438690",
+          "refe_longitude": "-42.215020"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 116, SN, Zona Rural, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.125163",
+          "refe_longitude": "-42.012016"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Praca Sebastiao Mafra, 94, Centro, Iapu - MG 35190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.441815",
+          "refe_longitude": "-42.217500"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Juscelino Kubitschek, 755, Jardim Panorama, Ipatinga - MG 35164-245, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.464753",
+          "refe_longitude": "-42.536301"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Joaquim Dias de Moura, 67, Centro, Joanesia - MG 35168-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.173975",
+          "refe_longitude": "-42.680724"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Vereador Sebastiao Pernes de Miranda, 02, Centro, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.203635",
+          "refe_longitude": "-42.049296"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Adeodato Jose Martins, 420, Mafron, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.196623",
+          "refe_longitude": "-42.052555"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Vereador Sebastiao Pernes de Miranda, 644, Centro, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.197030",
+          "refe_longitude": "-42.045195"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Vereador Sebastiao Pernes de Miranda, 07, Centro, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.203227",
+          "refe_longitude": "-42.048722"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Sao Geraldo, 727, Sao Jose, Capitao Andrade - MG 35123-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.071183",
+          "refe_longitude": "-41.863894"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Juscelino Kubitscheck, 406 - Itanhomi, MG, 35120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.169208",
+          "refe_longitude": "-41.861328"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Washington Luiz, 239, Serapiao, Dom Cavati - MG 35148-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.375509",
+          "refe_longitude": "-42.107342"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Saint Clair Luiz de Oliveira, 12, Centro, Itanhomi - MG 35120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.172636",
+          "refe_longitude": "-41.863040"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rua Princesa Isabel, 79, Carneirinhos, Joao Monlevade - MG 35930-286, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.810972",
+          "refe_longitude": "-43.164461"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. Jos\u00e9 In\u00e1cio de Magalh\u00e3es, 457 - Nova Aparecida, Nova Uni\u00e3o - MG, 34990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.719840",
+          "refe_longitude": "-43.583820"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Altamira, 89, Magalhaes, Nova Uniao - MG 34990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.689714",
+          "refe_longitude": "-43.587256"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Camilo Azevedo de Barros, 41, Serrinha, Bela Vista de Minas - MG 35938-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.826670",
+          "refe_longitude": "-43.089094"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Armando Fajardo, 4810, Cruzeiro Celeste, Joao Monlevade - MG 35931-073, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.838286",
+          "refe_longitude": "-43.180469"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Avenida Dom Joaquim Silverio, 222, Centro, Rio Piracicaba - MG 35940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.927407",
+          "refe_longitude": "-43.167670"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "BR-381, 46, Nova Era - MG, 35920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.747900",
+          "refe_longitude": "-43.024230"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rodovia BR 458, SN, Zona Rural, Iapu - MG 35190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.438374",
+          "refe_longitude": "-42.237337"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Av. Jos\u00e9 In\u00e1cio de Magalh\u00e3es, 457 - Nova Aparecida, Nova Uni\u00e3o - MG, 34990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.719840",
+          "refe_longitude": "-43.583820"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Resplendor, 587, Teresopolis, Joao Monlevade - MG 35931-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.837648",
+          "refe_longitude": "-43.186433"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Do Contorno, 1001, Rocas Novas, Caete - MG 34800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.763228",
+          "refe_longitude": "-43.632484"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Turmalina, 354, Sao Jose, Barao de Cocais - MG 35970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.928738",
+          "refe_longitude": "-43.470838"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Conselheiro Afonso Pena, 883, Centro, Santa Barbara - MG 35960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.967915",
+          "refe_longitude": "-43.417884"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Do Contorno, 15, Rocas Novas, Caete - MG 34800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.766053",
+          "refe_longitude": "-43.633267"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Praca Vicente Peres, 80, Vila Regina, Barao de Cocais - MG 35970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.935467",
+          "refe_longitude": "-43.476533"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Cap. Soares, 41 - Bar\u00e3o de Cocais, MG, 35970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.953916",
+          "refe_longitude": "-43.475753"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Conselheiro Afonso Pena, 883, Centro, Santa Barbara - MG 35960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.967915",
+          "refe_longitude": "-43.417884"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Santana, 175 - Jequeri, MG, 35390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.453031",
+          "refe_longitude": "-42.667484"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Campo Sao Joao, 671, Sagrada Familia, Barao de Cocais - MG 35970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.948998",
+          "refe_longitude": "-43.473264"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 116, SN, Bicuiba, Sao Francisco do Gloria - MG 36810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.784337",
+          "refe_longitude": "-42.298733"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Antonio Pereira da Rocha, 507, Centro, Santa Barbara - MG 35960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.961098",
+          "refe_longitude": "-43.409398"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Joaquim Pacifico, 120, Centro, Santa Barbara - MG 35960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.959245",
+          "refe_longitude": "-43.410930"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Eucario Godinho, 46, Barra, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.129382",
+          "refe_longitude": "-42.384354"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rio-Bahia, 164 - Muria\u00e9, MG, 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.125800",
+          "refe_longitude": "-42.382730"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rio-Bahia, 251 - Muria\u00e9, MG, 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.125630",
+          "refe_longitude": "-42.382310"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Antero Lopes de Carvalho, 735, Santa Helena, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.136745",
+          "refe_longitude": "-42.386293"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Antero Lopes de Carvalho, 735, Santa Helena, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.136745",
+          "refe_longitude": "-42.386293"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. Jos\u00e9 M\u00e1ximo Ribeiro, 340 - Muria\u00e9, MG, 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.139052",
+          "refe_longitude": "-42.372444"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Monteiro de Castro, 720, Barra, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.128043",
+          "refe_longitude": "-42.377946"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Alt\u00edno Rodrigues Pereira, 371 - Muria\u00e9, MG, 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.132801",
+          "refe_longitude": "-42.397404"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Jose Maximo Ribeiro, 1265, Joao XXIII, Muriae - MG 36883-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.144722",
+          "refe_longitude": "-42.377815"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Eucario Godinho, 46, Barra, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.129382",
+          "refe_longitude": "-42.384354"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rio-Bahia, 251 - Muria\u00e9, MG, 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.125630",
+          "refe_longitude": "-42.382310"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Magalhaes Queiroz, 154, Santo Onofre, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.728302",
+          "refe_longitude": "-42.037217"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 213, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.723524",
+          "refe_longitude": "-42.037828"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 1511, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.712824",
+          "refe_longitude": "-42.036308"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Comendador Freitas, 182, Centro, Muriae - MG 36880-061, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.132444",
+          "refe_longitude": "-42.359539"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 637, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.720658",
+          "refe_longitude": "-42.038791"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Tombos, MG, 36844-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.908055",
+          "refe_longitude": "-42.027319"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 820, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.718844",
+          "refe_longitude": "-42.038204"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 1510, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.713283",
+          "refe_longitude": "-42.036301"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Avenida Alfredo Bicalho Canedo, 33, Chacara Lourdes, Muriae - MG 36880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.132015",
+          "refe_longitude": "-42.365277"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rua Sebastiao Pereira, 658, Centro, Sao Miguel do Anta - MG 36590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.708158",
+          "refe_longitude": "-42.722517"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Praca Silvestre Lopes Faria Reis, 804, Centro, Sao Miguel do Anta - MG 36590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.702872",
+          "refe_longitude": "-42.721121"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Avenida Jaime Toledo, 180, Centro, Espera Feliz - MG 36830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.654689",
+          "refe_longitude": "-41.909433"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Capitao Antonio Carlos de Souza, 1451, Santa Maria, Carangola - MG 36800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.712135",
+          "refe_longitude": "-42.035844"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rodovia BR 116, SN, Centro, Fervedouro - MG 36815-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.662013",
+          "refe_longitude": "-42.267656"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rua Plinio Heitor, 180, Centro, Espera Feliz - MG 36830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.640991",
+          "refe_longitude": "-41.923332"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Praca Silvestre Lopes Faria Reis, 804, Centro, Sao Miguel do Anta - MG 36590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.702872",
+          "refe_longitude": "-42.721121"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Rua Cirilo Inacio de Souza, 92, Centro, Orizania - MG 36828-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.514650",
+          "refe_longitude": "-42.199524"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Travessa Maria Geralda Campos de Resende, 140, Centro, Itatiaiucu - MG 35685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.200528",
+          "refe_longitude": "-44.422513"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Piracema, MG, 35536-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.509810",
+          "refe_longitude": "-44.478430"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Dorvelino Rab\u00ealo Costa, 231 - Gloria, Carm\u00f3polis de Minas - MG, 35534-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.544580",
+          "refe_longitude": "-44.639230"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Maracana, 770, Santa Maria, Oliveira - MG 35540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.692233",
+          "refe_longitude": "-44.826331"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Alameda Nossa Senhora de Fatima, 386, Cabrais, Oliveira - MG 35540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.702967",
+          "refe_longitude": "-44.820232"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Loc Via Joao Paulo II, 142, Centro, Ibituruna - MG 37223-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.149908",
+          "refe_longitude": "-44.745079"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Maracan\u00e3, 1949 - Oliveira, MG, 35540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.693490",
+          "refe_longitude": "-44.832903"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Joao Batista Teixeira, 162, Centro, Conceicao da Barra de Minas - MG 36360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.128286",
+          "refe_longitude": "-44.472127"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Praca Milton Campos, 35, Centro, Sao Tiago - MG 36350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.908832",
+          "refe_longitude": "-44.507674"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Expedicion\u00e1rios, 1000 - S\u00e3o Tiago, MG, 36350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.919890",
+          "refe_longitude": "-44.517930"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia MG 270, 342, Centro, Passa Tempo - MG 35537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.647339",
+          "refe_longitude": "-44.497304"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Ant\u00f4nio Scodeler, 3505 - Faisqueira, Pouso Alegre - MG, 37550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.203940",
+          "refe_longitude": "-45.899470"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Pinto Cobra, 1200, Santa Lucia, Pouso Alegre - MG 37554-056, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.229407",
+          "refe_longitude": "-45.922863"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Area Rural, S/N, Area Rural de Pouso Alegre, Pouso Alegre - MG 37561-899, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.263778",
+          "refe_longitude": "-45.923624"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Maria da Conceicao Santos, 320, Parque Real, Pouso Alegre - MG 37560-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.290769",
+          "refe_longitude": "-45.928209"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Gov. Juscelino K. de Oliveira, 1116, Centro, Ipuiuna - MG 37588-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.098661",
+          "refe_longitude": "-46.189882"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rod. Jos\u00e9 Benedito de Paiva, 3600 - S\u00e3o Gon\u00e7alo do Sapuca\u00ed, MG, 37490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.924490",
+          "refe_longitude": "-45.620450"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Senador Luiz Lisboa, 136, Centro, Jacutinga - MG 37590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.285720",
+          "refe_longitude": "-46.611213"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Vicente Simoes, 400, Centro, Pouso Alegre - MG 37550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.231710",
+          "refe_longitude": "-45.929260"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Clemente Cataldi, 367, Centro, Jacutinga - MG 37590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.279536",
+          "refe_longitude": "-46.608193"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Luiz Cardoso Pinto, 1399, Sao Benedito, Borda da Mata - MG 37564-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.263500",
+          "refe_longitude": "-46.162796"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Humaita, 404, Da Varzea, Ouro Fino - MG 37570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.279856",
+          "refe_longitude": "-46.380148"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Wenceslau Braz, 434, Centro, Munhoz - MG 37620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.616767",
+          "refe_longitude": "-46.362601"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Ultimo Labegalini, 74, Centro, Monte Siao - MG 37580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.428706",
+          "refe_longitude": "-46.571781"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rua Ultimo Labegalini, 74, Centro, Monte Siao - MG 37580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.428706",
+          "refe_longitude": "-46.571781"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Alferes Augusto Gomes de Mandela, 134, Jardim Noronha, Pouso Alegre - MG 37550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.234659",
+          "refe_longitude": "-45.942607"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "MG-459, KM 22, Monte Si\u00e3o - MG, 37580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.401850",
+          "refe_longitude": "-46.500280"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "R. Gon\u00e7alves L\u00eado, 80, Ouro Fino - MG, 37570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.283923",
+          "refe_longitude": "-46.382732"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Avenida Nicolau Cesarino, 1339, Ponte Alta, Extrema - MG 37640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.843156",
+          "refe_longitude": "-46.321178"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "R. Maria do Leme, 65, Cambu\u00ed - MG, 37600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.601220",
+          "refe_longitude": "-46.055470"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "R. Jos\u00e9 Teodoro de Godoy, 12, Munhoz - MG, 37620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.613347",
+          "refe_longitude": "-46.362328"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "R. Anardino Ferreira da Silva, 32 - Cambui, Cambu\u00ed - MG, 37600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.605970",
+          "refe_longitude": "-46.059240"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Juscelino Kubistchek de Oliveira, 849, Centro, Piranguinho - MG 37508-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.409916",
+          "refe_longitude": "-45.537394"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rua Sete de Setembro, 831, Centro, Paraisopolis - MG 37660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.560767",
+          "refe_longitude": "-45.775537"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Av. Pres. Tancredo de Almeida Neves, 297 - Camanducaia, MG, 37650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.760860",
+          "refe_longitude": "-46.144505"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "R. Miguel Braga, 832 - Boa Vista, Itajub\u00e1 - MG, 37505-031, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.422378",
+          "refe_longitude": "-45.464493"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rua Rodolfo Guerino Adami, 155, Familia Andrade, Santa Rita do Sapucai - MG 37540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.253078",
+          "refe_longitude": "-45.708566"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "R. Miguel Braga, 832 - Boa Vista, Itajub\u00e1 - MG, 37505-031, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.422378",
+          "refe_longitude": "-45.464493"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Avenida Coronel Domingos Rosa, 250, Centro, Conceicao dos Ouros - MG 37548-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.413787",
+          "refe_longitude": "-45.793861"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Avenida Padre Lourenco da Costa, 2166, Sao Sebastiao, Itajuba - MG 37502-454, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.437555",
+          "refe_longitude": "-45.437633"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Av. Pres. Tancredo de Almeida Neves, 297 - Camanducaia, MG, 37650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.760860",
+          "refe_longitude": "-46.144505"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Avenida Moreira, 201, Familia Andrade, Santa Rita do Sapucai - MG 37540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.251743",
+          "refe_longitude": "-45.710619"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Praca Antonio Ribeiro Duarte, 40, Nossa Senhora de Fatima, Itajuba - MG 37502-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.441265",
+          "refe_longitude": "-45.434636"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Rua Jose de Abreu, 166, Maristela, Santa Rita do Sapucai - MG 37540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.243754",
+          "refe_longitude": "-45.707271"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Rua Wenceslau Braz, 66, Centro, Lambari - MG 37480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.973335",
+          "refe_longitude": "-45.351862"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Avenida Damiao Junqueira de Souza, 93, N Sra de Fatima, Sao Lourenco - MG 37470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.117946",
+          "refe_longitude": "-45.048292"
+        },
+        {
+          "vloc_sequencia": 47,
+          "vloc_descricao": "Avenida Berenice Catao, 84, Sao Cristovao, Baependi - MG 37443-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.960697",
+          "refe_longitude": "-44.895680"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Ari Graca, 380, Sao Diogo, Teofilo Otoni - MG 39803-017, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.867929",
+          "refe_longitude": "-41.516877"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Luiz Tanure, 582, Alianca, Medina - MG 39620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.232361",
+          "refe_longitude": "-41.475792"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Ver. Cl\u00e1udio Alves da Costa, 2017 - Centro, Divisa Alegre - MG, 39995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.719818",
+          "refe_longitude": "-41.341960"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Alameda Fausto Ruas, 239 - Pedra Azul, MG, 39970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.004356",
+          "refe_longitude": "-41.287192"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Alfredo Sa, 4000, Sao Cristovao, Teofilo Otoni - MG 39800-307, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.848787",
+          "refe_longitude": "-41.514948"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Da Igreja, 130, Porto Alegre, Itinga - MG 39610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.613392",
+          "refe_longitude": "-41.767826"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Argemiro Aguilar, 868, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.178017",
+          "refe_longitude": "-40.692900"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Itinga, MG, 39610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.605266",
+          "refe_longitude": "-41.772617"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Argemiro Aguilar, 975, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177092",
+          "refe_longitude": "-40.691811"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Argemiro Aguilar, 1048, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177371",
+          "refe_longitude": "-40.691301"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Fetaemg, 100, Divis\u00f3polis - MG, 39912-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.724280",
+          "refe_longitude": "-41.002940"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Jose Dias Goncalves, 184, Centro, Santa Maria do Salto - MG 39928-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.250887",
+          "refe_longitude": "-40.148101"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Doutor Rodrigues Seabra, 334, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177280",
+          "refe_longitude": "-40.692389"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Dr Teobaldo Leal, 764, Centro, Novo Cruzeiro - MG 39820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.474253",
+          "refe_longitude": "-41.874132"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia MG 367, SN, Zona Rural, Jacinto - MG 39930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.145711",
+          "refe_longitude": "-40.317882"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Bias Fortes, 724, Novo Cruzeiro, Aguas Formosas - MG 39880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.081484",
+          "refe_longitude": "-40.939718"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Ver. Cl\u00e1udio Alves da Costa, 1376 - Centro, Divisa Alegre - MG, 39995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.722696",
+          "refe_longitude": "-41.342189"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Nanuque, 81, Centro, Aguas Formosas - MG 39880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.080728",
+          "refe_longitude": "-40.936933"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Herculano Silva, 280, Monte Formoso - MG, 39893-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.867327",
+          "refe_longitude": "-41.253312"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. da Bahia, 248, Salto da Divisa - MG, 39925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.998638",
+          "refe_longitude": "-39.946438"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Franco Duarte, 900, Vaticano, Jequitinhonha - MG 39960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.440981",
+          "refe_longitude": "-41.010607"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rodovia BR 367, SN, Montes Claros, Jequitinhonha - MG 39960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.439499",
+          "refe_longitude": "-41.073357"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Br\u00edcio Pereira de Carvalho - Palm\u00f3polis, MG, 39945-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.737660",
+          "refe_longitude": "-40.422923"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Brasil, 349, Centro, Felisburgo - MG 39895-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.639223",
+          "refe_longitude": "-40.764207"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Sidonio Otoni, 2440, Jardim Serra Verde, Teofilo Otoni - MG 39801-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.848636",
+          "refe_longitude": "-41.491534"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Rio Bahia, 619, Sao Jorgre, Itaobim - MG 39625-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.561684",
+          "refe_longitude": "-41.503872"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Rio Bahia, 29, Centro, Catuji - MG 39816-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.303126",
+          "refe_longitude": "-41.516185"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Alfredo Sa, 2647, Concordia, Teofilo Otoni - MG 39800-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.861521",
+          "refe_longitude": "-41.515297"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "R. Ant\u00f4nio Jos\u00e9 Santana, 47 - Almenara, MG, 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.174145",
+          "refe_longitude": "-40.686601"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "BR-418, Serra dos Aimor\u00e9s - MG, 39868-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.828703",
+          "refe_longitude": "-40.259034"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Geraldo Romano, 190, Centro, Nanuque - MG 39860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.838914",
+          "refe_longitude": "-40.351367"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "R. Fausto Oliveira, Machacalis - MG, 39873-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.072927",
+          "refe_longitude": "-40.720666"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rua Ari Graca, 380, Sao Diogo, Teofilo Otoni - MG 39803-017, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.867929",
+          "refe_longitude": "-41.516877"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Avenida Alfredo Sa, 4000, Sao Cristovao, Teofilo Otoni - MG 39800-307, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.848787",
+          "refe_longitude": "-41.514948"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Avenida Sidonio Otoni, 2440, Jardim Serra Verde, Teofilo Otoni - MG 39801-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.848636",
+          "refe_longitude": "-41.491534"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Alfredo Sa, 2647, Concordia, Teofilo Otoni - MG 39800-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.861521",
+          "refe_longitude": "-41.515297"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Avenida Rio Bahia, 29, Centro, Catuji - MG 39816-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.303126",
+          "refe_longitude": "-41.516185"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rua Dr Teobaldo Leal, 764, Centro, Novo Cruzeiro - MG 39820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.474253",
+          "refe_longitude": "-41.874132"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Rua Da Igreja, 130, Porto Alegre, Itinga - MG 39610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.613392",
+          "refe_longitude": "-41.767826"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "R. Herculano Silva, 280, Monte Formoso - MG, 39893-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.867327",
+          "refe_longitude": "-41.253312"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Avenida Luiz Tanure, 582, Alianca, Medina - MG 39620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.232361",
+          "refe_longitude": "-41.475792"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Alameda Fausto Ruas, 239 - Pedra Azul, MG, 39970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.004356",
+          "refe_longitude": "-41.287192"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Itinga, MG, 39610-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.605266",
+          "refe_longitude": "-41.772617"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Av. Ver. Cl\u00e1udio Alves da Costa, 1376 - Centro, Divisa Alegre - MG, 39995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.722696",
+          "refe_longitude": "-41.342189"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Rodovia BR 367, SN, Montes Claros, Jequitinhonha - MG 39960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.439499",
+          "refe_longitude": "-41.073357"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Avenida Franco Duarte, 900, Vaticano, Jequitinhonha - MG 39960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.440981",
+          "refe_longitude": "-41.010607"
+        },
+        {
+          "vloc_sequencia": 47,
+          "vloc_descricao": "R. Fetaemg, 100, Divis\u00f3polis - MG, 39912-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.724280",
+          "refe_longitude": "-41.002940"
+        },
+        {
+          "vloc_sequencia": 48,
+          "vloc_descricao": "Rua Argemiro Aguilar, 868, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.178017",
+          "refe_longitude": "-40.692900"
+        },
+        {
+          "vloc_sequencia": 49,
+          "vloc_descricao": "Rua Doutor Rodrigues Seabra, 334, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177280",
+          "refe_longitude": "-40.692389"
+        },
+        {
+          "vloc_sequencia": 50,
+          "vloc_descricao": "R. Ant\u00f4nio Jos\u00e9 Santana, 47 - Almenara, MG, 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.174145",
+          "refe_longitude": "-40.686601"
+        },
+        {
+          "vloc_sequencia": 51,
+          "vloc_descricao": "Rodovia MG 367, SN, Zona Rural, Jacinto - MG 39930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.145711",
+          "refe_longitude": "-40.317882"
+        },
+        {
+          "vloc_sequencia": 52,
+          "vloc_descricao": "Rua Argemiro Aguilar, 975, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177092",
+          "refe_longitude": "-40.691811"
+        },
+        {
+          "vloc_sequencia": 53,
+          "vloc_descricao": "Rua Argemiro Aguilar, 1048, Centro, Almenara - MG 39900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.177371",
+          "refe_longitude": "-40.691301"
+        },
+        {
+          "vloc_sequencia": 54,
+          "vloc_descricao": "R. da Bahia, 248, Salto da Divisa - MG, 39925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.998638",
+          "refe_longitude": "-39.946438"
+        },
+        {
+          "vloc_sequencia": 55,
+          "vloc_descricao": "Avenida Brasil, 349, Centro, Felisburgo - MG 39895-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.639223",
+          "refe_longitude": "-40.764207"
+        },
+        {
+          "vloc_sequencia": 56,
+          "vloc_descricao": "Rua Jose Dias Goncalves, 184, Centro, Santa Maria do Salto - MG 39928-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.250887",
+          "refe_longitude": "-40.148101"
+        },
+        {
+          "vloc_sequencia": 57,
+          "vloc_descricao": "R. Br\u00edcio Pereira de Carvalho - Palm\u00f3polis, MG, 39945-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.737660",
+          "refe_longitude": "-40.422923"
+        },
+        {
+          "vloc_sequencia": 58,
+          "vloc_descricao": "Rua Nanuque, 81, Centro, Aguas Formosas - MG 39880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.080728",
+          "refe_longitude": "-40.936933"
+        },
+        {
+          "vloc_sequencia": 59,
+          "vloc_descricao": "Avenida Rio Bahia, 619, Sao Jorgre, Itaobim - MG 39625-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.561684",
+          "refe_longitude": "-41.503872"
+        },
+        {
+          "vloc_sequencia": 60,
+          "vloc_descricao": "Av. Ver. Cl\u00e1udio Alves da Costa, 2017 - Centro, Divisa Alegre - MG, 39995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.719818",
+          "refe_longitude": "-41.341960"
+        },
+        {
+          "vloc_sequencia": 61,
+          "vloc_descricao": "Avenida Bias Fortes, 724, Novo Cruzeiro, Aguas Formosas - MG 39880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.081484",
+          "refe_longitude": "-40.939718"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 21:27:11"
+    }
+  ]
+}"

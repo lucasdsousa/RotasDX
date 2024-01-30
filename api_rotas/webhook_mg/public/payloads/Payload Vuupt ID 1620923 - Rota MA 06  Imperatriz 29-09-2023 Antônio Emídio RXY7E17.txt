@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7E17"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36388190359"
+        }
+      ],
+      "rota_descricao": "Rota MA 06  Imperatriz 29/09/2023 Ant\u00f4nio Em\u00eddio RXY7E17",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. 02 - Distrito Industrial, Imperatriz - MA, 65909-692, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.444876",
+          "refe_longitude": "-47.476152"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Ceara, 283, Jucara, Imperatriz - MA 65900-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.523291",
+          "refe_longitude": "-47.481503"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "MA-122, 1273, Amarante do Maranh\u00e3o - MA, 65923-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.571850",
+          "refe_longitude": "-46.746480"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Nicolau Dino, 1015, Centro, Amarante do Maranhao - MA 65923-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.572339",
+          "refe_longitude": "-46.745984"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Dorgival Pinheiro de Sousa, 197 - Vila Lob\u00e3o, Imperatriz - MA, 65910-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.518915",
+          "refe_longitude": "-47.469881"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Nicolau Dino, 509, Amarante do Maranh\u00e3o - MA, 65923-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.570780",
+          "refe_longitude": "-46.747070"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Imperatriz - MA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.452319",
+          "refe_longitude": "-47.481788"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Nicolau Dino, 1015, Centro, Amarante do Maranhao - MA 65923-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.572339",
+          "refe_longitude": "-46.745984"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Nicolau Dino, 1015, Centro, Amarante do Maranhao - MA 65923-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.572339",
+          "refe_longitude": "-46.745984"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "29/09/2023 09:00:00",
+      "viag_previsao_fim": "29/09/2023 20:07:44"
+    }
+  ]
+}"

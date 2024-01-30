@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW6E96"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21981531300"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 21/09/2023 TARCISIO MARTINS RCW-6E96",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Dr Mendel Steinbruch, 9845, Distrito Industrial, Maracanau - CE 61939-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.853081",
+          "refe_longitude": "-38.587967"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Vicente Ferrete, 2026 - Canindezinho, Fortaleza - CE, 60346-196, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.824561",
+          "refe_longitude": "-38.610224"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Dr Mendel Steinbruch, 9845, Distrito Industrial, Maracanau - CE 61939-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.853081",
+          "refe_longitude": "-38.587967"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Radialista Joao Ramos, 2586, Planalto Airton Senna, Fortaleza - CE 60766-710, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840111",
+          "refe_longitude": "-38.579252"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Coronel Virgilio Nogueria Paes, 158, Granja Portugal, Fortaleza - CE 60545-262, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.787527",
+          "refe_longitude": "-38.608346"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Gen. Os\u00f3rio de Paiva, 2246 - Parangaba, Fortaleza - CE, 60730-088, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.785757",
+          "refe_longitude": "-38.582967"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Nereu Ramos, 1423 - Parangaba, Fortaleza - CE, 60710-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.781135",
+          "refe_longitude": "-38.578598"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. 20 (Cj Pequeno Mondubim), 91 - Mondubim, Fortaleza - CE, 60823-490, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.827721",
+          "refe_longitude": "-38.560244"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "21/09/2023 10:30:00",
+      "viag_previsao_fim": "21/09/2023 16:30:12"
+    }
+  ]
+}"

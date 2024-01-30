@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW0I40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06935746400"
+        }
+      ],
+      "rota_descricao": "ROTA PB 02  21.09.2023 ALEX ARAUJO - PLW0I40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Conego Faustino Jorge de Carvalho, 204, Centro, Itapororoca - PB 58275-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.830273",
+          "refe_longitude": "-35.253605"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Conego Faustino Jorge de Carvalho, 204, Centro, Itapororoca - PB 58275-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.830273",
+          "refe_longitude": "-35.253605"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Dr Napoleao Laureano, 291, Centro, Mari - PB 58345-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.056050",
+          "refe_longitude": "-35.317868"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Deputado Raimundo Asfora, 1380, Velame, Campina Grande - PB 58420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.222664",
+          "refe_longitude": "-35.904785"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Barra de Santana - PB, 58458-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.549131",
+          "refe_longitude": "-35.980553"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Severiano Macedo, 305, Centro, Boqueirao - PB 58450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.482748",
+          "refe_longitude": "-36.134965"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "20/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 19:02:21"
+    }
+  ]
+}"

@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D01"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "35034689863"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 15/09/2023 THIAGO DE JESUS RPB5D01",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Manoel dos Santos Mesquita - Vale Verde, Cubat\u00e3o - SP, 11542-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.912053",
+          "refe_longitude": "-46.463801"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Marina, 737, Centro, Mongagua - SP 11730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.095253",
+          "refe_longitude": "-46.623822"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Manoel dos Santos Mesquita - Vale Verde, Cubat\u00e3o - SP, 11542-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.912053",
+          "refe_longitude": "-46.463801"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rod. Prof\u00b0 Alfredo Rolim de Moura, Km71-SP88 - Nova Biritiba, Biritiba Mirim - SP, 08940-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.600983",
+          "refe_longitude": "-46.052910"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rod. Prof\u00b0 Alfredo Rolim de Moura, Km71-SP88 - Nova Biritiba, Biritiba Mirim - SP, 08940-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.600983",
+          "refe_longitude": "-46.052910"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Santos Dumont, 781 - S\u00edtio Paecara (Vicente de Carvalho), Guaruj\u00e1 - SP, 11460-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.985033",
+          "refe_longitude": "-46.266838"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Affonso Penna, 462 - Macuco, Santos - SP, 11020-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.969002",
+          "refe_longitude": "-46.305525"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Brasil, 403 - Casqueiro, Cubat\u00e3o - SP, 11533-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.928510",
+          "refe_longitude": "-46.409070"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Ernesto Marques, 16, Morrinhos, Guaruja - SP 11495-004, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.967030",
+          "refe_longitude": "-46.259109"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Manoel Penelas, 278 - Vila Santa Rosa, Guaruj\u00e1 - SP, 11431-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.996994",
+          "refe_longitude": "-46.276821"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Ant\u00f4nio Emmerich, 1367 - Vila Sao Jorge, S\u00e3o Vicente - SP, 11370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.953991",
+          "refe_longitude": "-46.374872"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Comendador Martins, 2 - Encruzilhada, Santos - SP, 11050-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.942334",
+          "refe_longitude": "-46.327463"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Epitacio Pessoa, 71, Vila Elizabeth, Cubatao - SP 11550-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.877269",
+          "refe_longitude": "-46.425959"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Comendador Martins, 2 - Encruzilhada, Santos - SP, 11050-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.942334",
+          "refe_longitude": "-46.327463"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. On\u00f3frico Derencio, 447 - Vila Brasileira, Mogi das Cruzes - SP, 08738-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.553165",
+          "refe_longitude": "-46.201737"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "15/09/2023 06:00:00",
+      "viag_previsao_fim": "15/09/2023 18:46:30"
+    }
+  ]
+}"

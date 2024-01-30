@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI 05/09/2023 FRANCIMAR LIMA RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Joaquim Ribeiro, 1691, Centro, Teresina - PI 64001-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.097630",
+          "refe_longitude": "-42.806237"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Prefeito Wall Ferraz, 4810 - Lourival Parente, Teresina - PI, 64022-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.130774",
+          "refe_longitude": "-42.791115"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "05/09/2023 13:30:00",
+      "viag_previsao_fim": "05/09/2023 15:03:34"
+    }
+  ]
+}"

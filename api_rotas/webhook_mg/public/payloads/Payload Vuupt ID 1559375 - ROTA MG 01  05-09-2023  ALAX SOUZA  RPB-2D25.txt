@@ -1,0 +1,135 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11180487680"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  05/09/2023  ALAX SOUZA  RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua das Petunias, 514, Lindeia, Belo Horizonte - MG 30690-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.974056",
+          "refe_longitude": "-44.052704"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Rio Elba, 150 - Novo Riacho, Contagem - MG, 32280-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.953790",
+          "refe_longitude": "-44.059820"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Senador Levindo Coelho, 3985 - Vale do Jatoba, Belo Horizonte - MG, 30664-247, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.013197",
+          "refe_longitude": "-44.032532"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Platina, 123, Betim Industrial, Betim - MG 32670-384, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962807",
+          "refe_longitude": "-44.174180"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Barao Homem de Melo, 1223, Nova Granada, Belo Horizonte - MG 30431-327, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.944099",
+          "refe_longitude": "-43.969609"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Durval Pereira Alves, 1465, Curralinho, Igarape - MG 32900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.024110",
+          "refe_longitude": "-44.304470"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Cesar Augusto Faria Simoes, 551, Jardim Riacho das Pedras, Contagem - MG 32242-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.968559",
+          "refe_longitude": "-44.070697"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Coletora  Artur Trindade, 203, Niteroi, Betim - MG 32672-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.939022",
+          "refe_longitude": "-44.166891"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Belo Horizonte, 785, Niteroi, Betim - MG 32672-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.949412",
+          "refe_longitude": "-44.177399"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. das Ac\u00e1cias, 485 - Jardim das Alterosas - 2\u00aa Se\u00e7\u00e3o, Betim - MG, 32671-072, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.941600",
+          "refe_longitude": "-44.162130"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Arthur Trindade, 470 - Jardim Alterosa, Betim - MG, 32671-072, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.943680",
+          "refe_longitude": "-44.161910"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Aroeiras, Betim - MG",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.984890",
+          "refe_longitude": "-44.234100"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Levindo Wanderley, 367, Honorio Bicalho, Nova Lima - MG 34012-642, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.019110",
+          "refe_longitude": "-43.832852"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Ham\u00edlton, 166 - Jardim Canada, Nova Lima - MG, 34007-622, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.053238",
+          "refe_longitude": "-43.985227"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "05/09/2023 17:17:27"
+    }
+  ]
+}

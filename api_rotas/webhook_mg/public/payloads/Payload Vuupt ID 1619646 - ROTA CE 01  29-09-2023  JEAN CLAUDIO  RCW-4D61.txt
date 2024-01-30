@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01  29/09/2023  JEAN CLAUDIO  RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Dep. Paulino Rocha, 2550 - Cajazeiras, Fortaleza - CE, 60864-311, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.809953",
+          "refe_longitude": "-38.519611"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Joao Martins Leitao, 700, Jabuti, Eusebio - CE 61760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.926991",
+          "refe_longitude": "-38.494952"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua 1, 1461, Mondubim, Fortaleza - CE 60767-725, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.816577",
+          "refe_longitude": "-38.580073"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Um, 500 - Novo Maracana\u00fa, Maracana\u00fa - CE, 61905-430, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.857998",
+          "refe_longitude": "-38.617861"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. S\u00e3o Jo\u00e3o do Jangurussu, 330 - Jangurussu, Fortaleza - CE, 60870-750, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.843646",
+          "refe_longitude": "-38.504496"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Cont\u00f4rno Norte, 1282 - Novo Mondubim, Fortaleza - CE, 60763-730, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.812420",
+          "refe_longitude": "-38.588930"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Rio Grande do Norte, 11, Panamericano, Fortaleza - CE 60440-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757546",
+          "refe_longitude": "-38.569339"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR-116, 9310 - Barroso, Fortaleza - CE, 60850-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.822349",
+          "refe_longitude": "-38.503791"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Nova Vida, 815, Arianopolis, Caucaia - CE 61656-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766357",
+          "refe_longitude": "-38.652049"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Espirito Santo, 117, Pan Americano, Fortaleza - CE 60440-775, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.749902",
+          "refe_longitude": "-38.566176"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "BR-116, 9800 - Jangurussu, Fortaleza - CE, 60873-815, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.833792",
+          "refe_longitude": "-38.504137"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "29/09/2023 07:00:00",
+      "viag_previsao_fim": "29/09/2023 15:37:25"
+    }
+  ]
+}"

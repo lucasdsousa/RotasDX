@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 06/09/23 JULIO CESAR",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Champagnat, 2102 - Jardim Veneza, Franca - SP, 14403-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.547173",
+          "refe_longitude": "-47.399462"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Washington Luis, 5241, Centro, Itirapua - SP 14420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.642899",
+          "refe_longitude": "-47.223336"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Lino Manoel de Moraes - Parque Santa Hilda, Franca - SP, 14403-690, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.548187",
+          "refe_longitude": "-47.372872"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Brasil, 1643 - Vila Aparecida, Franca - SP, 14401-234, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.525844",
+          "refe_longitude": "-47.376125"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Dr. Willian Azzuz, 600 - Franca, SP, 14409-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.499753",
+          "refe_longitude": "-47.398250"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Dr. Willian Azzuz, 600 - Franca, SP, 14409-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.499753",
+          "refe_longitude": "-47.398250"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Segundo Guaraldo, 1903 - City Petr\u00f3polis, Franca - SP, 14409-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.478193",
+          "refe_longitude": "-47.411705"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Francisco Ferreira Ramos, 220 - Bela Vista, Pedregulho - SP, 14470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.250977",
+          "refe_longitude": "-47.480148"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Tom\u00e1s Jos\u00e9 de Barros, 308 - Guar\u00e1, SP, 14580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.426083",
+          "refe_longitude": "-47.817762"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "SP-334 - Pedregulho, SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.250668",
+          "refe_longitude": "-47.483408"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Pres. Vargas, 192 - Centro, Sales Oliveira - SP, 14660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.769028",
+          "refe_longitude": "-47.837944"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "06/09/2023 09:00:00",
+      "viag_previsao_fim": "06/09/2023 20:32:30"
+    }
+  ]
+}"

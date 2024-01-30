@@ -1,0 +1,259 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1594533,
+  "numero_liberacao": 1594533,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Adriano Mendes Pimenta",
+    "cpf": "02003301607",
+    "telefone": null,
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY6I33"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0012-27",
+    "descricao": "Dunax Lubrificantes LTDA - MG"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "21/09/2023 09:06:53",
+  "data_previsao_fim": "21/09/2023 13:31:37",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "23.304.116/0001-10",
+        "descricao": "GUINDAUTEC COMERCIO E SERVICOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 10:01:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "27599.95",
+              "volume": "12",
+              "peso": "2250"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "00.120.415/0001-07",
+        "descricao": "EDELVANE AUTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 11:36:06",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "455.76",
+              "volume": "2",
+              "peso": "22.268"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "42.359.038/0001-03",
+        "descricao": "SAMUEL ANDRE AMARAL CORREA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 12:43:48",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "667.78",
+              "volume": "4",
+              "peso": "45.557"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.962.112/0001-84",
+        "descricao": "REAL FILTROS E ACESSORIOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 13:17:12",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2721.49",
+              "volume": "12",
+              "peso": "133.607"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.407.720/0001-90",
+        "descricao": "LF COMERCIO DE PECAS AUTOMOTIVAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 13:32:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3173.57",
+              "volume": "15",
+              "peso": "215.55"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "14.861.186/0001-88",
+        "descricao": "Raquel Derlange Lima Pereira",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 14:02:16",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "325.19",
+              "volume": "1",
+              "peso": "22.7"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "40.939.392/0001-73",
+        "descricao": "SANTO POSTO GAS COMERCIO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 14:30:11",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1342.97",
+              "volume": "6",
+              "peso": "90.246"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "23.360.290/0001-80",
+        "descricao": "BAT LUBRE COMERCIO DE LUBRIFICANTES E BATERIAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:08:33",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "194.65",
+              "volume": "1",
+              "peso": "11.212"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "17.288.128/0001-03",
+        "descricao": "DANIEL CARLOS SCAPIN",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:16:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1484.01",
+              "volume": "6",
+              "peso": "114.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "31.049.636/0001-51",
+        "descricao": "POSTO DE COMBUSTIVEIS VILA AMAZONAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:32:41",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1360",
+              "volume": "20",
+              "peso": "458"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "19.864.074/0001-02",
+        "descricao": "TIP TOP MOLAS COMERCIO E SERVICOS AUTOMOTIVOS LTDA ME",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:52:45",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1870",
+              "volume": "1",
+              "peso": "187.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.962.112/0001-84",
+        "descricao": "REAL FILTROS E ACESSORIOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 16:31:37",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2721.49",
+              "volume": "12",
+              "peso": "133.607"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31373712","erros":[]}

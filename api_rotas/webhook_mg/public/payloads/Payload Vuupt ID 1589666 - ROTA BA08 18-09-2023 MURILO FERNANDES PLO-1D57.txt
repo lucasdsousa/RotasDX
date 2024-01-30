@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO1D57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03925762523"
+        }
+      ],
+      "rota_descricao": "ROTA BA08 18/09/2023 MURILO FERNANDES PLO-1D57",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Santos Lopes, 53, Centro, Irece - BA, 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301809",
+          "refe_longitude": "-41.855894"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Numa Alves Barreto, 123, Centro, Mundo Novo - BA 44800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.862610",
+          "refe_longitude": "-40.470248"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Regis Pacheco, 16, Centro, Piritiba - BA 44830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.729531",
+          "refe_longitude": "-40.555733"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Ypiranga, 52, Centro, Jussara - BA 44925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.060048",
+          "refe_longitude": "-41.975121"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Praca Airton Senna, 278, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.303784",
+          "refe_longitude": "-41.865928"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Joaquim Augusto, 221, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.346285",
+          "refe_longitude": "-41.663224"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Praca Da Matriz, 06, Povoado de Angical, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.237678",
+          "refe_longitude": "-41.754116"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BA 052, SN, Nova America, America Dourada - BA, 44910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.395938",
+          "refe_longitude": "-41.535478"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Primeiro de Janeiro, 260, Centro, Irece - BA, 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.305851",
+          "refe_longitude": "-41.849657"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Praca Pedro Guimaraes, 30, Centro, Cafarnaum - BA, 44880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.694749",
+          "refe_longitude": "-41.468368"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Ulisses Guimaraes, 40, Centro, Ibipeba - BA 44970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.642747",
+          "refe_longitude": "-42.011829"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BA 148, 22 - Centro, Ibitita - BA, 44960000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.554164",
+          "refe_longitude": "-41.975987"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia Br 142 Utinga a Wagner, 51, Centro, Utinga - BA 46810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.282672",
+          "refe_longitude": "-41.172542"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Artur Sa, 305 - Centro, Ruy Barbosa - BA, 46800000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.282095",
+          "refe_longitude": "-40.491530"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Bairro Ponte de Tabua, 01, Ponte de Tabua, Utinga - BA 46810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.073186",
+          "refe_longitude": "-41.090228"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Francisco Barbosa do Nascimento, 360 - Centro, Canarana - BA, 44890000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.803631",
+          "refe_longitude": "-41.720824"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia Br 142 Utinga a Wagner, 51, Centro, Utinga - BA 46810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.282672",
+          "refe_longitude": "-41.172542"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "20/09/2023 18:40:22"
+    }
+  ]
+}"

@@ -1,0 +1,41 @@
+Response: "<Response [422]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "TESTE"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": null
+        }
+      ],
+      "rota_descricao": "ROTA TESTE1",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BA-526, 9 - Jardim das Margaridas, Salvador - BA, 41502, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.905281",
+          "refe_longitude": "-38.354680"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "30/08/2023 16:20:00",
+      "viag_previsao_fim": "01/09/2023 16:25:05"
+    }
+  ]
+}

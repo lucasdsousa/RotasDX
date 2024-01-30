@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 20/09/2023 JEAN CLAUDIO RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Benedito Alves de Araujo, 91, Itaitinga - CE, 61880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.904301",
+          "refe_longitude": "-38.515520"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 116, 5323, Parque Santa Maria, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.829852",
+          "refe_longitude": "-38.505180"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 116, 5323, Parque Santa Maria, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.829852",
+          "refe_longitude": "-38.505180"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 116, 5323, Parque Santa Maria, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.829852",
+          "refe_longitude": "-38.505180"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Maria Quintino, 1106 - Santa Maria, Fortaleza - CE, 60873-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.858532",
+          "refe_longitude": "-38.501190"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 116, 5323, Parque Santa Maria, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.829852",
+          "refe_longitude": "-38.505180"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6363, Alto da Balanca, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Tenente Jurandir Alencar, 178, Messejana, Fortaleza - CE 60840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.831949",
+          "refe_longitude": "-38.493759"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6363, Alto da Balanca, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Dep Paulino Rocha, 01441, Cajazeiras, Fortaleza - CE 60864-311, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.811384",
+          "refe_longitude": "-38.510206"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6363, Alto da Balanca, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Coronel Francisco Pereira, 300, Messejana, Fortaleza - CE 60840-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.831110",
+          "refe_longitude": "-38.492928"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Coronel Francisco Pereira, 300, Messejana, Fortaleza - CE 60840-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.831110",
+          "refe_longitude": "-38.492928"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Jose Hipolito, 213, Messejana, Fortaleza - CE 60871-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.832690",
+          "refe_longitude": "-38.493462"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Ana Goncalves, 750, Sao Joao do Tauape, Fortaleza - CE 60130-490, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.759352",
+          "refe_longitude": "-38.509489"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Barao do Rio Branco, 2375, Centro, Fortaleza - CE 60025-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.738984",
+          "refe_longitude": "-38.531729"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "20/09/2023 07:00:00",
+      "viag_previsao_fim": "20/09/2023 16:20:49"
+    }
+  ]
+}"

@@ -1,0 +1,486 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1575346,
+  "numero_liberacao": 1575346,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "BRUNO SANTOS BARROS",
+    "cpf": "12312629666",
+    "telefone": "+5531997781072"
+  },
+  "veiculos": {
+    "placa": "RPB7G28"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "13/09/2023 02:27:25",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05490849000104",
+            "descricao": "COMERCIAL CARACA DE COMBUSTIVEIS AUTOMOTIVOS LTDA",
+            "logradouro": "Rua Conselheiro Afonso Pena",
+            "numero": "0",
+            "latitude": "-19.967915",
+            "longitude": "-43.417884",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 12:42:28",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2457.09",
+                  "volume": "8",
+                  "peso": "151.952"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35100439000170",
+            "descricao": "CAPARAO TRATORES E MAQUINAS LTDA",
+            "logradouro": "Rodovia Anel Rodoviario",
+            "numero": "0",
+            "latitude": "-20.648679",
+            "longitude": "-41.908026",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 13:02:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6225.26",
+                  "volume": "25",
+                  "peso": "468.501"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28514708000180",
+            "descricao": "AQUINO TERRAPLENAGEM CARANGOLA",
+            "logradouro": "Av. Cap. Ant\u00f4nio Carlos de Souza ",
+            "numero": "0",
+            "latitude": "-20.718910",
+            "longitude": "-42.038330",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 13:25:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1450.9",
+                  "volume": "6",
+                  "peso": "111.75"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07619280000160",
+            "descricao": "AUTO POSTO TREVO D AGUA LTDA",
+            "logradouro": "Avenida Capitao Antonio Carlos de Souza",
+            "numero": "0",
+            "latitude": "-20.712135",
+            "longitude": "-42.035844",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 13:58:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1538.79",
+                  "volume": "7",
+                  "peso": "129.339"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "66447277000256",
+            "descricao": "AUTO PECAS OLAVIO LTDA",
+            "logradouro": "Avenida Capitao Antonio Carlos de Souza",
+            "numero": "0",
+            "latitude": "-20.712824",
+            "longitude": "-42.036308",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 19:17:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "585.01",
+                  "volume": "3",
+                  "peso": "55.65"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07893612000108",
+            "descricao": "FERNA AUTOPECAS LTDA",
+            "logradouro": "Rua Antonio Pereira da Rocha",
+            "numero": "0",
+            "latitude": "-19.961475",
+            "longitude": "-43.409135",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:27:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "955.9",
+                  "volume": "4",
+                  "peso": "56.336"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26336105000100",
+            "descricao": "KAKA PECAS DIESEL EIRELI",
+            "logradouro": "Avenida Rio/Bahia",
+            "numero": "0",
+            "latitude": "-21.147025",
+            "longitude": "-42.381547",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:59:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1560.01",
+                  "volume": "8",
+                  "peso": "148.4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "66447277000175",
+            "descricao": "AUTO PECAS OLAVIO LTDA",
+            "logradouro": "Rua Plinio Heitor",
+            "numero": "0",
+            "latitude": "-20.640991",
+            "longitude": "-41.923332",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 21:03:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "323.9",
+                  "volume": "1",
+                  "peso": "18.29"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26202521000115",
+            "descricao": "N S Dos Santos Mecanica ME",
+            "logradouro": "Rua Salim Elias",
+            "numero": "0",
+            "latitude": "-21.143128",
+            "longitude": "-42.372212",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:38:23",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2107.15",
+                  "volume": "10",
+                  "peso": "118.849"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11021120000191",
+            "descricao": "B. Q. FONSECA JUNIOR PECAS E SERVICOS",
+            "logradouro": "R. Vicente Alves",
+            "numero": "0",
+            "latitude": "-21.135824",
+            "longitude": "-42.371057",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:09:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1238.4",
+                  "volume": "4",
+                  "peso": "90.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44517397000169",
+            "descricao": "ELIZABETH GARCIA DOMINGOS SANTOS",
+            "logradouro": "Avenida Capitao Antonio Carlos de Souza",
+            "numero": "0",
+            "latitude": "-20.719872",
+            "longitude": "-42.038373",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:38:59",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1000.82",
+                  "volume": "3",
+                  "peso": "68.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44730332000105",
+            "descricao": "SUPER MOTO MIX LTDA ME",
+            "logradouro": "Avenida Prefeito Dante Bruno",
+            "numero": "0",
+            "latitude": "-21.130267",
+            "longitude": "-42.394194",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:57:03",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "789.6",
+                  "volume": "3",
+                  "peso": "36.183"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01529195000124",
+            "descricao": "JAMEL MORAIS CARVALHO REZENDE",
+            "logradouro": "RioBahia",
+            "numero": "0",
+            "latitude": "-21.125630",
+            "longitude": "-42.382310",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:30:03",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4185.16",
+                  "volume": "15",
+                  "peso": "274.418"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01529195000124",
+            "descricao": "JAMEL MORAIS CARVALHO REZENDE",
+            "logradouro": "RioBahia",
+            "numero": "0",
+            "latitude": "-21.125630",
+            "longitude": "-42.382310",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 16:21:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "340.59",
+                  "volume": "1",
+                  "peso": "19.9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "15221240000193",
+            "descricao": "CRISTIAN MAGNO FERREIRA",
+            "logradouro": "Rua Conselheiro Afonso Pena",
+            "numero": "0",
+            "latitude": "-19.964678",
+            "longitude": "-43.417527",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:01:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "867.93",
+                  "volume": "5",
+                  "peso": "63.43"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03400783000199",
+            "descricao": "Jean de Oliveira Linger",
+            "logradouro": "Rua Doutor Juarez Quintao Hosken",
+            "numero": "0",
+            "latitude": "-20.731467",
+            "longitude": "-42.035352",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:07:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "997.42",
+                  "volume": "4",
+                  "peso": "63.14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31066979000124",
+            "descricao": "POSTO MINUTUS DE BICUIBA LTDA",
+            "logradouro": "Rodovia BR 116",
+            "numero": "0",
+            "latitude": "-20.784337",
+            "longitude": "-42.298733",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:41:21",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

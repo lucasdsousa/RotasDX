@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE CAPITAL  21/09/2023  JEAN CLAUDIO  RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-116, 9611 - Messejana, Fortaleza - CE, 60873-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.886716",
+          "refe_longitude": "-38.501765"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Padre Valdevino, 10, Centro, Fortaleza - CE 60135-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.737028",
+          "refe_longitude": "-38.523682"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Da Universidade, 2242, Benfica, Fortaleza - CE 60020-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.737100",
+          "refe_longitude": "-38.535802"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Pedro I, 760 - Centro, Fortaleza - CE, 60035-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730428",
+          "refe_longitude": "-38.531253"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Pedro I, 742, Centro, Fortaleza - CE 60035-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730302",
+          "refe_longitude": "-38.531303"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Silveira Da Mota, 657, Messejana, Fortaleza - CE 60841-555, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.813321",
+          "refe_longitude": "-38.492281"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Pedro I, 760 - Centro, Fortaleza - CE, 60035-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730428",
+          "refe_longitude": "-38.531253"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Pedro I, 587 - Centro, Fortaleza - CE, 60035-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730978",
+          "refe_longitude": "-38.529970"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Meton de Alencar, 1411, Centro, Fortaleza - CE 60035-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731926",
+          "refe_longitude": "-38.536276"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Princesa Isabel, 1107 - Centro, Fortaleza - CE, 60015-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730372",
+          "refe_longitude": "-38.536449"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Meton de Alencar, 1427 - Centro, Fortaleza - CE, 60035-161, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731874",
+          "refe_longitude": "-38.536459"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Professor Gomes de Matos, 1776, Montese, Fortaleza - CE 60420-432, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766808",
+          "refe_longitude": "-38.550660"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Meton de Alencar, 1391 - Centro, Fortaleza - CE, 60035-161, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.732043",
+          "refe_longitude": "-38.536182"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "BR-116, 6250 - Aerol\u00e2ndia, Fortaleza - CE, 60714-222, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.775731",
+          "refe_longitude": "-38.515858"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Edite Braga, 819, Montese, Fortaleza - CE 60435-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757840",
+          "refe_longitude": "-38.544724"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Japi, 556, Serrinha, Fortaleza - CE 60741-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.783150",
+          "refe_longitude": "-38.548558"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Conegundes Rodrigues, 1035 - Montese, Fortaleza - CE, 60410-226, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.768532",
+          "refe_longitude": "-38.544422"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Rad. Jo\u00e3o Ramos, 2726 - Planalto Ayrton Senna, Maracana\u00fa - CE, 60766-710, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840090",
+          "refe_longitude": "-38.580946"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "21/09/2023 07:00:00",
+      "viag_previsao_fim": "21/09/2023 16:33:37"
+    }
+  ]
+}"

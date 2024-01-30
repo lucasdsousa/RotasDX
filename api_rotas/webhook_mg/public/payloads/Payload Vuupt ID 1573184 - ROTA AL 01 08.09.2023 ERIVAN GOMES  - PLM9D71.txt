@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM9D71"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05721805439"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 08.09.2023 ERIVAN GOMES  - PLM9D71",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Roberto Simonsen, 956, Gruta de Lourdes, Maceio - AL 57052-606, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.621939",
+          "refe_longitude": "-35.730259"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Menino Marcelo, SN, Tabuleiro do Martins, Maceio - AL 57081-385, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.558390",
+          "refe_longitude": "-35.762218"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "08/09/2023 05:00:00",
+      "viag_previsao_fim": "08/09/2023 10:02:43"
+    }
+  ]
+}"

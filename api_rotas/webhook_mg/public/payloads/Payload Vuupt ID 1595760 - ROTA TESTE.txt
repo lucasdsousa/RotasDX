@@ -1,0 +1,45 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "TESTE"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07861194620"
+        }
+      ],
+      "rota_descricao": "ROTA TESTE",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "19/09/2023 08:25:00",
+      "viag_previsao_fim": "19/09/2023 08:59:35"
+    }
+  ]
+}"

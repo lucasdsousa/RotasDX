@@ -1,0 +1,331 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1585474,
+  "numero_liberacao": 1585474,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ANDERSON LEAL DA SILVA",
+    "cpf": "83944540204",
+    "telefone": "+5591989031274",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY2E35"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0008-40",
+    "descricao": "Dunax Lubrificantes LTDA - PA"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 13:00:00",
+  "data_previsao_fim": "15/09/2023 14:55:32",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "42.284.857/0001-20",
+        "descricao": "SUPREME OFICINA DE SERVICOS E COMERCIO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 16:04:04",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "816",
+              "volume": "2",
+              "peso": "45.401"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.115.693/0001-47",
+        "descricao": "M E PEREIRA DA SILVA ME",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 16:40:30",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2217.8",
+              "volume": "9",
+              "peso": "111.928"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "35.619.187/0001-90",
+        "descricao": "G DE B L CASTRO FILHO COMERCIO VAREJISTA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 17:29:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2615",
+              "volume": "7",
+              "peso": "150.453"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "35.714.900/0001-85",
+        "descricao": "POINT DAS BATERIAS COM A V DE P E A N PARA V A EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 18:32:36",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3219",
+              "volume": "13",
+              "peso": "166.774"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "43.314.142/0001-36",
+        "descricao": "V BANDEIRA DE L LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 19:09:55",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2636",
+              "volume": "10",
+              "peso": "167.692"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "06.238.816/0001-34",
+        "descricao": "MULTIMIX DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 19:26:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2510",
+              "volume": "8",
+              "peso": "147.64"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "21.101.570/0001-48",
+        "descricao": "FR VASCONCELOS AGUIAR",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 19:49:47",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "22530",
+              "volume": "85",
+              "peso": "1629.04"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "30.284.282/0001-67",
+        "descricao": "NAVEGANTES COMERCIO DE LUBRIFICANTES EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 20:21:30",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "8420",
+              "volume": "43",
+              "peso": "854.05"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "34.818.757/0001-09",
+        "descricao": "IRMAOS FACIOLI BRAGA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 20:58:21",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2510",
+              "volume": "7",
+              "peso": "143.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "19.795.883/0001-00",
+        "descricao": "FRANCA E LIMA COMERCIO E SERVICOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-14 21:05:21",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2448",
+              "volume": "7",
+              "peso": "158.904"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "41.104.430/0001-30",
+        "descricao": "SUPERLUB COMERCIO DE PNEUS E LUBRIFICANTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 10:22:38",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2584",
+              "volume": "11",
+              "peso": "134.04"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "27.740.666/0001-32",
+        "descricao": "GONCALVES E SILVA COMERCIO DE FERRAGENS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 11:23:30",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2440",
+              "volume": "7",
+              "peso": "148.294"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "41.062.574/0001-71",
+        "descricao": "C N SANTOS COMERCIO DE MATERIAL DE CONSTRUCAO EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 12:04:42",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5620",
+              "volume": "18",
+              "peso": "333.852"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "18.908.648/0001-26",
+        "descricao": "O M DE ALMEIDA COMERCIO E SERVICOS ME",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 12:34:42",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1700",
+              "volume": "5",
+              "peso": "113.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.566.961/0001-19",
+        "descricao": "M M AUTO POSTO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 13:04:42",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "7168",
+              "volume": "25",
+              "peso": "384.188"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "48.369.369/0001-00",
+        "descricao": "ISABEL DE OLIVEIRA ALCANTARA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "2023-09-15 14:02:10",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2380",
+              "volume": "7",
+              "peso": "158.9"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31299642","erros":[]}

@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C89"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00211359246"
+        }
+      ],
+      "rota_descricao": "ROTA PA 04 11/09/2023 DAYKSON BRUNO RBP4C89",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Kazuma Oyama, 140, Estrela, Castanhal - PA 68743-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.280619",
+          "refe_longitude": "-47.941669"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Presidente Getulio Vargas, 2987, Ianetama, Castanhal - PA 68745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.296044",
+          "refe_longitude": "-47.920672"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Coronel Leal, 1345, Centro, Castanhal - PA 68743-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.290509",
+          "refe_longitude": "-47.924081"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Maximino Porpino da Silva, 2194, Caicara, Castanhal - PA 68742-758, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.288192",
+          "refe_longitude": "-47.924823"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida 7 de Setembro, SN, Centro, Garrafao do Norte - PA 68665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.933298",
+          "refe_longitude": "-47.052806"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Moura Carvalho, 1409, Tatajuba, Capitao Poco - PA 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.740788",
+          "refe_longitude": "-47.064778"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Antonio Adalgisio, 72, Sao Cristovao, Capanema - PA 68701-603, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.209283",
+          "refe_longitude": "-47.175181"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Manoel Miranda, 796-910, Salin\u00f3polis - PA, 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.634177",
+          "refe_longitude": "-47.331478"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Rua Sao Joao, 05, Atlantico 2, Salinopolis - PA 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.612838",
+          "refe_longitude": "-47.345416"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "11/09/2023 10:30:00",
+      "viag_previsao_fim": "12/09/2023 20:14:48"
+    }
+  ]
+}"

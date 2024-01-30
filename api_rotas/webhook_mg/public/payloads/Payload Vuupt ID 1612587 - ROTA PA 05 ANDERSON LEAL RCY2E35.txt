@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 05 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 316, SN, Jaderlandia, Castanhal - PA 68746-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.295069",
+          "refe_longitude": "-47.897409"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Tv. Dr. Lauro Sodr\u00e9, 935 - Santa L\u00eddia, Castanhal - PA, 68740-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.300059",
+          "refe_longitude": "-47.918903"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 316, SN, Jaderlandia, Castanhal - PA 68746-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.295069",
+          "refe_longitude": "-47.897409"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Presidente Getulio Vargas, 3312, Ianetama, Castanhal - PA 68745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.296387",
+          "refe_longitude": "-47.918149"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Pres. Get\u00falio Vargas, n\u00ba 1348 - Cristo Redentor, Castanhal - PA, 68741-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.296866",
+          "refe_longitude": "-47.945130"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 316, SN, KM 48, Santa Luzia do Para - PA 68644-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.469414",
+          "refe_longitude": "-46.947044"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 316, SN, Zona Rural, Nova Timboteua - PA 68730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.303227",
+          "refe_longitude": "-47.383527"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Dr Miguel Santa Brigida, 1146, Ponta da Agulha, Salinopolis - PA 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.620753",
+          "refe_longitude": "-47.348742"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 308, 1073, Dom Joao VI, Capanema - PA 68701-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.208273",
+          "refe_longitude": "-47.178603"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Travessa Luiz Uchoa, SN, Pedrinha, Garrafao do Norte - PA 68665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.938665",
+          "refe_longitude": "-47.048502"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Joao Pessoa, 190, Centro, Capanema - PA 68700-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.194118",
+          "refe_longitude": "-47.177583"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Manoel Miranda, 796-910, Salin\u00f3polis - PA, 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.634177",
+          "refe_longitude": "-47.331478"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Barao de Capanema, 1320, Oliveira Brito, Capanema - PA 68700-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.191482",
+          "refe_longitude": "-47.170655"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "26/09/2023 12:00:00",
+      "viag_previsao_fim": "27/09/2023 22:22:45"
+    }
+  ]
+}"

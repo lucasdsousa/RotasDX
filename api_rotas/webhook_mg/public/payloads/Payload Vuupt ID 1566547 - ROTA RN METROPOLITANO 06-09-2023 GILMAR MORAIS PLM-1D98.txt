@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN METROPOLITANO 06/09/2023 GILMAR MORAIS PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-304, 1015 - DIstrito Industrial, Maca\u00edba - RN, 59280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.864959",
+          "refe_longitude": "-35.353123"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 236 - Centro, Parnamirim - RN, 59140-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.918185",
+          "refe_longitude": "-35.264224"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Maria Lacerda Montenegro, 1732 - Nova Parnamirim, Parnamirim - RN, 59152-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.890733",
+          "refe_longitude": "-35.207226"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Joaquim Patr\u00edcio - Pium (Distrito Litoral), Parnamirim - RN, 59160-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.947256",
+          "refe_longitude": "-35.164730"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Pres. Get\u00falio Vargas, 214 - Centro, Parnamirim - RN, 59140-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.913440",
+          "refe_longitude": "-35.266241"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 110 - Centro, Parnamirim - RN, 59146-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.918401",
+          "refe_longitude": "-35.263679"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 236 - Centro, Parnamirim - RN, 59140-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.918185",
+          "refe_longitude": "-35.264224"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR-101 - Centro, Parnamirim - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.914990",
+          "refe_longitude": "-35.262450"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "06/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 18:43:57"
+    }
+  ]
+}"

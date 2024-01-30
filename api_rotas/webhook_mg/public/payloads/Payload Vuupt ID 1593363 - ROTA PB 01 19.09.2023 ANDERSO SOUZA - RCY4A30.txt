@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07246512411"
+        }
+      ],
+      "rota_descricao": "ROTA PB 01 19.09.2023 ANDERSO SOUZA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Liberdade, 2223, Sao Bento, Bayeux - PB 58305-006, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.122366",
+          "refe_longitude": "-34.913799"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Manoel Francisco Venancio, SN, Centro, Bayeux - PB 58306-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.125737",
+          "refe_longitude": "-34.920411"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Julia Ribeiro, 11, Cristo Redentor, Joao Pessoa - PB 58070-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.153848",
+          "refe_longitude": "-34.873268"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 101, SN, Manguinhos, Bayeux - PB 58305-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.140582",
+          "refe_longitude": "-34.921991"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "19/09/2023 05:00:00",
+      "viag_previsao_fim": "19/09/2023 10:47:31"
+    }
+  ]
+}"

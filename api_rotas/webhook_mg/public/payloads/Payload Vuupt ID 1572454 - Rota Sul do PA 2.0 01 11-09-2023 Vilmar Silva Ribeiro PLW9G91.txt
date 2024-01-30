@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW9G91"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00855865369"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 01 11/09/2023 Vilmar Silva Ribeiro PLW9G91",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Independ\u00eancia, 1480, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.755563",
+          "refe_longitude": "-51.061771"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "AV. DAS NACOES, 2569, CENTRO, OURIL\u00c2NDIA DO NORTE - PAR\u00c1 68390-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.753648",
+          "refe_longitude": "-51.071017"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rod. PA 279 Esq c - R. Salvaterra - Setor Rodoviario, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750201",
+          "refe_longitude": "-51.145027"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "PA-279, 530, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750164",
+          "refe_longitude": "-51.144366"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "AV. PARA, 03, CENTRO, TUCUM\u00c3 - PAR\u00c1 68385-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.749448",
+          "refe_longitude": "-51.151254"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rod. PA 279 Esq c - R. Salvaterra - Setor Rodoviario, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750201",
+          "refe_longitude": "-51.145027"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "AV. PARA, 752, CENTRO, TUCUM\u00c3 - PAR\u00c1 68385-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.747231",
+          "refe_longitude": "-51.151638"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "AV. DAS NACOES, 2255, CENTRO, OURIL\u00c2NDIA DO NORTE - PAR\u00c1 68390-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.751957",
+          "refe_longitude": "-51.076284"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. das Na\u00e7\u00f5es, s/n - Centro, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750946",
+          "refe_longitude": "-51.081852"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Cear\u00e1, 417, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.755575",
+          "refe_longitude": "-51.073096"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "AV. DAS NACOES, 2569, CENTRO, OURIL\u00c2NDIA DO NORTE - PAR\u00c1 68390-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.753648",
+          "refe_longitude": "-51.071017"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Par\u00e1, 247, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.756129",
+          "refe_longitude": "-51.149923"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. do Ouro, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.756013",
+          "refe_longitude": "-51.143778"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Ant\u00f4nio Marqu\u00eas Ribeiro, 1900 - CENTRO, S\u00e3o F\u00e9lix do Xingu - PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.641506",
+          "refe_longitude": "-51.972247"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Par\u00e1, 508, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.746689",
+          "refe_longitude": "-51.152041"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Goi\u00e1s, 2145 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.640002",
+          "refe_longitude": "-51.983577"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Par\u00e1, 508, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.746689",
+          "refe_longitude": "-51.152041"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "11/09/2023 08:00:00",
+      "viag_previsao_fim": "15/09/2023 09:32:25"
+    }
+  ]
+}"

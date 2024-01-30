@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07246512411"
+        }
+      ],
+      "rota_descricao": "ROTA PB 01 28.09.2023 ANDERSON SOUZA - RCY4A40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Mariangela Lucena Peixoto, 1321, Valentina de Figueiredo, Joao Pessoa - PB 58063-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.204510",
+          "refe_longitude": "-34.849342"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Julia Ribeiro, 11, Cristo Redentor, Joao Pessoa - PB 58070-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.153848",
+          "refe_longitude": "-34.873268"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Vasco da Gama, 64, Jaguaribe, Joao Pessoa - PB 58015-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128327",
+          "refe_longitude": "-34.879079"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Ilustrador No\u00e9 Vieira de Almeida, 252 - Mangabeira, Jo\u00e3o Pessoa - PB, 58056-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.178295",
+          "refe_longitude": "-34.841887"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Alberto de Brito, 504, Jaguaribe, Joao Pessoa - PB 58015-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.129922",
+          "refe_longitude": "-34.875845"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Comerciante Alfredo Ferreira da Rocha, 193, Mangabeira, Joao Pessoa - PB 58055-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.163709",
+          "refe_longitude": "-34.842034"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Feliciano Dourado, 588, Torre, Joao Pessoa - PB 58040-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.127118",
+          "refe_longitude": "-34.861494"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Maciel Pinheiro, 449, Varadouro, Joao Pessoa - PB 58010-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.117857",
+          "refe_longitude": "-34.888960"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Presidente Nilo Pecanha, 801, Bessa, Joao Pessoa - PB 58035-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.068803",
+          "refe_longitude": "-34.846817"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Francisco Marques da Fonseca, 74, Rio do Meio, Bayeux - PB 58308-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.130345",
+          "refe_longitude": "-34.933989"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BR 230, SN, Parque Verde, Cabedelo - PB 58102-800, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.095986",
+          "refe_longitude": "-34.848062"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Ministro Jose Americo de Almeida, 1235, Torre, Joao Pessoa - PB 58040-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128299",
+          "refe_longitude": "-34.859162"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Siqueira Campos, 200, Centro, Santa Rita - PB 58300-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.121665",
+          "refe_longitude": "-34.980997"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Loteamento Distrito Mecanico, 108, Varadouro, Joao Pessoa - PB 58011-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128751",
+          "refe_longitude": "-34.888281"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 09:40:49"
+    }
+  ]
+}"

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS8C45"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00074181599"
+        }
+      ],
+      "rota_descricao": "Rota Arla SE",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. BENJAMIM CONSTANT, 146, CENTRO, ITABAIANINHA - SERGIPE 49290-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.277102",
+          "refe_longitude": "-37.785580"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "ROD. ANTONIO MARTINS DE MENEZES, S/N, ZONA DE EXPANSAO, LAGARTO - SERGIPE 49400-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.936287",
+          "refe_longitude": "-37.653573"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "AV. DOIS, SN - LOTEAMENTO JARDIM ITACANEMA I, NOSSA SENHORA DO SOCORRO - SERGIPE, 49160000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.848429",
+          "refe_longitude": "-37.054552"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "ROD. BR 101, SN, ZONA URBANA, ITAPORANGA D'AJUDA - SERGIPE 49120-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.002910",
+          "refe_longitude": "-37.308046"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "ROD. BR 101, SN, ZONA URBANA, NOSSA SENHORA DO SOCORRO - SERGIPE 49160-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.853791",
+          "refe_longitude": "-37.135951"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "ROD. BR SE 216, 472, CENTRO, LAGARTO - SERGIPE, 49400-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.857377",
+          "refe_longitude": "-37.715531"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. FELIPE CAMARAO, SN, PAI ANDRE, NOSSA SENHORA DO SOCORRO - SERGIPE 49160-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.916263",
+          "refe_longitude": "-37.157617"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "ROD. BR 101, SN, POVOADO CAJUEIRO, S\u00c3O CRIST\u00d3V\u00c3O - SERGIPE 49100-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.754441",
+          "refe_longitude": "-37.103252"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "ROD. BR 101, SC, ZONA RURAL, EST\u00c2NCIA - SERGIPE 49200-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.224935",
+          "refe_longitude": "-37.422612"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. CALUMBI BARRETO, 610, ROSA ELZE, S\u00c3O CRIST\u00d3V\u00c3O - SERGIPE 49100-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.922965",
+          "refe_longitude": "-37.110135"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "AV. JOSE VIEIRA D AVILA, 41, CENTRO, PEDRINHAS - SERGIPE 49350-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.193936",
+          "refe_longitude": "-37.672998"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "ROD. BR 101, SN, BAIRRO PEDRA BRANCA, MARUIM - SERGIPE 49770-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.774769",
+          "refe_longitude": "-37.131112"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "12/09/2023 12:00:00",
+      "viag_previsao_fim": "14/09/2023 15:17:59"
+    }
+  ]
+}"

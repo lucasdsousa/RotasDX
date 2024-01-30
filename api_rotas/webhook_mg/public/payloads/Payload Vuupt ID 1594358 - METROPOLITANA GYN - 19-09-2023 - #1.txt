@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6A98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00989392112"
+        }
+      ],
+      "rota_descricao": "METROPOLITANA GYN - 19/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Trindade, SN, Residencial Pilar dos Sonhos, Goiania - GO 74494-251, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.656723",
+          "refe_longitude": "-49.371135"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Jose Bento da Costa, SN, Setor Sul, Goianira - GO 75365-541, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.523017",
+          "refe_longitude": "-49.416523"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Dez, Inhumas - GO, 75400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.372800",
+          "refe_longitude": "-49.472127"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. \u00c1gua Limpa, 201 - Ipiranga, Goi\u00e2nia - GO, 74453-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.661773",
+          "refe_longitude": "-49.331595"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Jose Rodrigues Naves, SN, Vila Padre Pelagio, Goianira - GO 75360-129, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.506360",
+          "refe_longitude": "-49.427555"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. V, 8 - S/N - Papillon Park, Aparecida de Goi\u00e2nia - GO, 74935-840, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.783546",
+          "refe_longitude": "-49.275171"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Minas Gerais, SN, Vila Altino, Goianira - GO 75360-208, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.671320",
+          "refe_longitude": "-49.290674"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Um, 12 - Das Pedrinhas, Silv\u00e2nia - GO, 75180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.665100",
+          "refe_longitude": "-48.615947"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "19/09/2023 09:00:00",
+      "viag_previsao_fim": "20/09/2023 10:02:22"
+    }
+  ]
+}"

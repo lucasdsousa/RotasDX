@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6B70"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "Planejamento - 13/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Manoel Pedro dos Reis, 118, Praca Cruzeiro, Rio Bonito - RJ 28800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.720214",
+          "refe_longitude": "-42.648667"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Professora Arlete Ribeiro Jose, SN, Sao Jose do Barreto, Macae - RJ 27965-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.325711",
+          "refe_longitude": "-41.726455"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Getulio Vargas, 194, Centro, Cantagalo - RJ 26255-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.762081",
+          "refe_longitude": "-43.451298"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Graciliano Ramos, 546, Vila Capri, Araruama - RJ 28970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.863790",
+          "refe_longitude": "-42.319935"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Carlos Nunes de Almeida, SN, Morro Grande, Araruama - RJ 28970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.788726",
+          "refe_longitude": "-42.374164"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Margem do Asfalto, SN, Travessao, Campos dos Goytacazes - RJ 28175-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.611684",
+          "refe_longitude": "-41.315796"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Dr. T\u00e9lio Barreto, 475 - Centro, Maca\u00e9 - RJ, 27910-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.370245",
+          "refe_longitude": "-41.782267"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rod. Amaral Peixoto - Sampaio Correia, Saquarema - RJ, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.861897",
+          "refe_longitude": "-42.598186"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Arthur Nogueira, 217, Parque Nova Brasilia, Campos dos Goytacazes - RJ 28055-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.743481",
+          "refe_longitude": "-41.356775"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Julio Alves de Amorim, 262, Jardim California, Nova Friburgo - RJ 28633-780, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.236507",
+          "refe_longitude": "-42.531671"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Heitor de Moura Estev\u00e3o, 63 - Vila Muqui, Teres\u00f3polis - RJ, 25965-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.409944",
+          "refe_longitude": "-42.968319"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Melvin Jones, 500 - Meudon, Teres\u00f3polis - RJ, 25954-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.434641",
+          "refe_longitude": "-42.942655"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "S\u00e3o Sebasti\u00e3o do Alto, RJ, 28550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.956464",
+          "refe_longitude": "-42.134848"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Ant\u00f4nio Mario de Azevedo, 2143 - Duas Pedras, Nova Friburgo - RJ, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.260081",
+          "refe_longitude": "-42.554275"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Estrada Uniao e Industria, 4260, Correas, Petropolis - RJ 25600-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.442842",
+          "refe_longitude": "-43.141151"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Estrada Do Secretario, 5850, Pedro do Rio, Petropolis - RJ 25755-352, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.329962",
+          "refe_longitude": "-43.176041"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Walter Machado Thedin, 284, Sitio Dorothea Mury, Nova Friburgo - RJ 28600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.336335",
+          "refe_longitude": "-42.511918"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Estr. Uni\u00e3o e Ind\u00fastria, 16435 - Itaipava, Petr\u00f3polis - RJ, 25750-225, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.350665",
+          "refe_longitude": "-43.119953"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Estrada Uniao e Industria, 7380, Nogueira, Petropolis - RJ 25730-726, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.419304",
+          "refe_longitude": "-43.133171"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Nossa Senhora do Amparo, 80, Conselheiro Paulino, Nova Friburgo - RJ 28635-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.257248",
+          "refe_longitude": "-42.528544"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "13/09/2023 13:00:00",
+      "viag_previsao_fim": "16/09/2023 00:15:51"
+    }
+  ]
+}"

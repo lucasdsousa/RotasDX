@@ -1,0 +1,332 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583919,
+  "numero_liberacao": 1583919,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "George Williams",
+    "cpf": "98958364491",
+    "telefone": null
+  },
+  "veiculos": {
+    "placa": "RPB0A57"
+  },
+  "origem": {
+    "codigo_externo": "05092901002541",
+    "descricao": "Dunax Lubrificantes LTDA - PE",
+    "latitude": -7.972634,
+    "longitude": -34.922637
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 05:00:00",
+  "data_previsao_fim": "14/09/2023 18:02:21",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08077969000172",
+            "descricao": "EDIPO REI MOTOS PECAS ACESS SERV LTDA",
+            "latitude": "-7.993644",
+            "longitude": "-35.043438",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 08:32:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1080",
+                  "volume": "4",
+                  "peso": "48.183"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09456974000159",
+            "descricao": "POSTO SUL LTDA",
+            "latitude": "-8.181949",
+            "longitude": "-34.951170",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 11:49:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1860",
+                  "volume": "6",
+                  "peso": "136.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11512944000164",
+            "descricao": "FAAB ENGENHARIA LTDA",
+            "latitude": "-8.103467",
+            "longitude": "-34.912648",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 12:53:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2190",
+                  "volume": "10",
+                  "peso": "188"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38395163000193",
+            "descricao": "MANCAS INDUSTRIA E COMERCIO DE PREMOLDADOS EIRELI",
+            "latitude": "-8.118389",
+            "longitude": "-35.100813",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 13:30:13",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "798",
+                  "volume": "2",
+                  "peso": "36.589"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "42187574000160",
+            "descricao": "AUTO POSTO COMPORTAS LTDA",
+            "latitude": "-8.160322",
+            "longitude": "-34.940282",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 14:04:56",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "8085",
+                  "volume": "26",
+                  "peso": "459.68"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08380950000109",
+            "descricao": "TRATOR PRATES COMERCIO DE PECAS PARA TRATORES LTDA",
+            "latitude": "-8.144154",
+            "longitude": "-34.918572",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 14:38:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7459",
+                  "volume": "25",
+                  "peso": "463.011"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05148880000161",
+            "descricao": "AC NORTE LTDA",
+            "latitude": "-8.044263",
+            "longitude": "-34.881103",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 15:25:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3830",
+                  "volume": "12",
+                  "peso": "226.623"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10851691000190",
+            "descricao": "IGARASSU AUTO DIESEL LTDA  ME",
+            "latitude": "-7.874112",
+            "longitude": "-34.906135",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 17:57:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4380",
+                  "volume": "21",
+                  "peso": "356.12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44558694000152",
+            "descricao": "MARIANA BRITO DE SANTANA FERRAGENS",
+            "latitude": "-8.051430",
+            "longitude": "-34.919000",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 18:19:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3810",
+                  "volume": "14",
+                  "peso": "251.849"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05016300000182",
+            "descricao": "TECHNICO NORTE LTDA",
+            "latitude": "-8.173585",
+            "longitude": "-34.939928",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 19:05:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "18995",
+                  "volume": "100",
+                  "peso": "1855"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00306218000179",
+            "descricao": "VENEZA DIESEL COMERCIO LTDA",
+            "latitude": "-8.094246",
+            "longitude": "-34.908533",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 19:37:13",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "19450",
+                  "volume": "50",
+                  "peso": "915"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34806860000139",
+            "descricao": "EDUARDO DA SILVA RAMOS",
+            "latitude": "-7.987342",
+            "longitude": "-34.902317",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 20:37:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3560",
+                  "volume": "10",
+                  "peso": "183.138"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 12 Incompletos&#10;Informe o destino da SM&#10;"]}

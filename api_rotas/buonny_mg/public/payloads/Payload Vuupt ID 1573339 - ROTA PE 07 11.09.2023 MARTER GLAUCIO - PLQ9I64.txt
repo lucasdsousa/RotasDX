@@ -1,0 +1,140 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002541",
+  "cnpj_embarcador": "05092901002541",
+  "cnpj_transportador": "05092901002541",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573339,
+  "numero_liberacao": 1573339,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "MARTER GLAUCIO DE SOUZA",
+    "cpf": "05249784410",
+    "telefone": "+5585981542618"
+  },
+  "veiculos": {
+    "placa": "PLQ9I64"
+  },
+  "origem": {
+    "codigo_externo": "05092901002541",
+    "descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+    "latitude": -7.972634,
+    "longitude": -34.922637
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 05:00:00",
+  "data_previsao_fim": "13/09/2023 17:08:21",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46348545000275",
+            "descricao": "TENORIO TRATORES E SOLUCOES AGRICOLAS LTDA FILIAL 2",
+            "latitude": "-8.875401",
+            "longitude": "-36.471146",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 13:50:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2080",
+                  "volume": "10",
+                  "peso": "186.75"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09015186000127",
+            "descricao": "CALPECAS LTDA",
+            "latitude": "-8.660965",
+            "longitude": "-36.326381",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 14:40:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1219.6",
+                  "volume": "4",
+                  "peso": "90.802"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20800842000135",
+            "descricao": "POSTO SAO JOAO LTDA",
+            "latitude": "-8.430553",
+            "longitude": "-35.958522",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 16:14:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6000",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07419164000105",
+            "descricao": "AUTO POSTO E ARANDAS LTDA",
+            "latitude": "-8.490179",
+            "longitude": "-36.059205",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 17:10:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2632",
+                  "volume": "8",
+                  "peso": "168.601"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

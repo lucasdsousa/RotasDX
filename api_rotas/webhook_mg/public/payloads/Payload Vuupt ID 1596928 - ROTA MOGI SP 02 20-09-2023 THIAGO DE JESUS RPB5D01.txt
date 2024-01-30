@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D01"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "35034689863"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 02 20/09/2023 THIAGO DE JESUS RPB5D01",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Padre Leonardo Nunes, 1218 - Centro, Peru\u00edbe - SP, 11750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.313456",
+          "refe_longitude": "-47.000441"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Nossa Senhora de Fatima, 750, Jardim Casqueiro, Cubatao - SP 11533-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.928175",
+          "refe_longitude": "-46.402129"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Anchieta, 1429 - Centervalle, Bertioga - SP, 11250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.842831",
+          "refe_longitude": "-46.135360"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Santos Dumont, 707 - Vila Santo Ant\u00f4nio, Guaruj\u00e1 - SP, 11432-502, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.985664",
+          "refe_longitude": "-46.266318"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rod. Anchieta, 84 - Vila dos Pescadores, Cubat\u00e3o - SP, 11531-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.928170",
+          "refe_longitude": "-46.398483"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "20/09/2023 07:30:00",
+      "viag_previsao_fim": "20/09/2023 18:12:08"
+    }
+  ]
+}"

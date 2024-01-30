@@ -1,0 +1,356 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLP3F93"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02813765490"
+        }
+      ],
+      "rota_descricao": "ROTA PE 05 31.08.2023 CLEYTON OLIVEIRA  - PLP3F93",
+      "origem": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 408, SN, Centro, Tracunhaem - PE 55805-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.806035",
+          "refe_longitude": "-35.192863"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PE 062, SN, Centro, Condado - PE 55940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.584548",
+          "refe_longitude": "-35.093717"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 408, S/N, Jua, Nazare da Mata - PE 55800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.741438",
+          "refe_longitude": "-35.234049"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia PE 89, 22, Araruna II, Timbauba - PE 55870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.520900",
+          "refe_longitude": "-35.314005"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Joao de Araujo, 167, Centro, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.590262",
+          "refe_longitude": "-35.489870"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia PE 089, S/N, Vila Siriji, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.653238",
+          "refe_longitude": "-35.468218"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Da Uniao, 60, Vila de Umburetama, Orobo - PE 55745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.697088",
+          "refe_longitude": "-35.662394"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Sao Pedro, 02, Asa Branca, Joao Alfredo - PE 55720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.867516",
+          "refe_longitude": "-35.591755"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Senador Paulo Pessoa Guerra, S/N, Centro, Surubim - PE 55750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.848734",
+          "refe_longitude": "-35.758276"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Prefeito Jose Gomes Cabral, 95, Centro, Bom Jardim - PE 55730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.794005",
+          "refe_longitude": "-35.592642"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Jo\u00e3o Soares - Riacho das Almas, PE, 55120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.135566",
+          "refe_longitude": "-35.851727"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Dom Pedro Ii, 101 - Fazenda Nova, Brejo da Me. de Deus - PE, 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.170750",
+          "refe_longitude": "-36.193060"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia PE 095, SN, Santa Terezinha, Limoeiro - PE 55700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.892487",
+          "refe_longitude": "-35.453547"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Aisbelo Queiroz Campos, 01, Centro, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.148694",
+          "refe_longitude": "-36.367590"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Da Liberdade, SN, Santa Ines, Passira - PE 55650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.975557",
+          "refe_longitude": "-35.580764"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia PE 062, SN, Centro, Condado - PE 55940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.584548",
+          "refe_longitude": "-35.093717"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rodovia PE 089, S/N, Vila Siriji, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.653238",
+          "refe_longitude": "-35.468218"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Dom Pedro Ii, 101 - Fazenda Nova, Brejo da Me. de Deus - PE, 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.170750",
+          "refe_longitude": "-36.193060"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rodovia BR 408, SN, Centro, Tracunhaem - PE 55805-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.806035",
+          "refe_longitude": "-35.192863"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rodovia BR 408, S/N, Jua, Nazare da Mata - PE 55800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.741438",
+          "refe_longitude": "-35.234049"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Joao de Araujo, 167, Centro, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.590262",
+          "refe_longitude": "-35.489870"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rodovia PE 89, 22, Araruna II, Timbauba - PE 55870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.520900",
+          "refe_longitude": "-35.314005"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rodovia PE 095, SN, Santa Terezinha, Limoeiro - PE 55700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.892487",
+          "refe_longitude": "-35.453547"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Da Liberdade, SN, Santa Ines, Passira - PE 55650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.975557",
+          "refe_longitude": "-35.580764"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. Jo\u00e3o Soares - Riacho das Almas, PE, 55120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.135566",
+          "refe_longitude": "-35.851727"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Prefeito Jose Gomes Cabral, 95, Centro, Bom Jardim - PE 55730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.794005",
+          "refe_longitude": "-35.592642"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Da Uniao, 60, Vila de Umburetama, Orobo - PE 55745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.697088",
+          "refe_longitude": "-35.662394"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Senador Paulo Pessoa Guerra, S/N, Centro, Surubim - PE 55750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.848734",
+          "refe_longitude": "-35.758276"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Rua Aisbelo Queiroz Campos, 01, Centro, Brejo da Madre de Deus - PE 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.148694",
+          "refe_longitude": "-36.367590"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rua Sao Pedro, 02, Asa Branca, Joao Alfredo - PE 55720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.867516",
+          "refe_longitude": "-35.591755"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rodovia PE 062, SN, Centro, Condado - PE 55940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.584548",
+          "refe_longitude": "-35.093717"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Rodovia PE 089, S/N, Vila Siriji, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.653238",
+          "refe_longitude": "-35.468218"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rodovia PE 095, SN, Santa Terezinha, Limoeiro - PE 55700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.892487",
+          "refe_longitude": "-35.453547"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rodovia BR 408, SN, Centro, Tracunhaem - PE 55805-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.806035",
+          "refe_longitude": "-35.192863"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Rodovia BR 408, S/N, Jua, Nazare da Mata - PE 55800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.741438",
+          "refe_longitude": "-35.234049"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Rodovia PE 89, 22, Araruna II, Timbauba - PE 55870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.520900",
+          "refe_longitude": "-35.314005"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Rua Joao de Araujo, 167, Centro, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.590262",
+          "refe_longitude": "-35.489870"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Rua Prefeito Jose Gomes Cabral, 95, Centro, Bom Jardim - PE 55730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.794005",
+          "refe_longitude": "-35.592642"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Rodovia PE 090, SN, Zona Rural, Frei Miguelinho - PE 55780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.886630",
+          "refe_longitude": "-35.935635"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Avenida Dom Pedro Ii, 101 - Fazenda Nova, Brejo da Me. de Deus - PE, 55170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.170750",
+          "refe_longitude": "-36.193060"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Rua Da Liberdade, SN, Santa Ines, Passira - PE 55650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.975557",
+          "refe_longitude": "-35.580764"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Av. Jo\u00e3o Soares - Riacho das Almas, PE, 55120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.135566",
+          "refe_longitude": "-35.851727"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "31/08/2023 05:00:00",
+      "viag_previsao_fim": "01/09/2023 19:19:51"
+    }
+  ]
+}

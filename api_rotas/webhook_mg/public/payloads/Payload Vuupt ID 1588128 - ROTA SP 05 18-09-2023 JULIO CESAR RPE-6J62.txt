@@ -1,0 +1,199 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPE6J62"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 05 18/09/2023 JULIO CESAR RPE-6J62",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Marginal Direita, 828, Centro, Orlandia - SP 14620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.717855",
+          "refe_longitude": "-47.892508"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coronel Spinola Castro, 2631, Centro, Sao Jose do Rio Preto - SP 15015-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.807769",
+          "refe_longitude": "-49.379502"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Santos Dumont, 220, Recanto das Aguas, Monte Aprazivel - SP 15150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.766211",
+          "refe_longitude": "-49.708629"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Conselheiro Rui Barbosa, 1028, Centro, Potirendaba - SP 15105-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.044205",
+          "refe_longitude": "-49.374360"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Santos Dumont, 1835 - Monte Apraz\u00edvel, SP, 15150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.766800",
+          "refe_longitude": "-49.709309"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Carlos Glerian, 160, Valentim Gentil - SP, 15520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.415583",
+          "refe_longitude": "-50.078180"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. S\u00e3o Sebasti\u00e3o, 450, Bady Bassitt - SP, 15115-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.924857",
+          "refe_longitude": "-49.450338"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Dona M\u1d43 Rosa de Assis, 365 - Jardim Santa Helena, Fernand\u00f3polis - SP, 15600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.274661",
+          "refe_longitude": "-50.241789"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Mal. Deodoro da Fonseca, 53 - Jardim Sao Joao, Bebedouro - SP, 14700-435, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.941910",
+          "refe_longitude": "-48.481204"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Mirassol\u00e2ndia, 130 - Jardim Mugnaini, S\u00e3o Jos\u00e9 do Rio Preto - SP, 15045-375, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.787463",
+          "refe_longitude": "-49.389633"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Cap. Jer\u00f4nimo Fortunato, 235 - Centro, Tanabi - SP, 15170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.628101",
+          "refe_longitude": "-49.647561"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Vale do Sol, 5122 - Jardim Botura, Votuporanga - SP, 15500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.418876",
+          "refe_longitude": "-49.959021"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Conselheiro Rui Barbosa, 1028, Centro, Potirendaba - SP 15105-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.044205",
+          "refe_longitude": "-49.374360"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Em\u00edlio Arroio Hernandes, 2999 - Pozzobon, Votuporanga - SP, 15503-027, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.395928",
+          "refe_longitude": "-49.979253"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Mirassol\u00e2ndia, 130 - Jardim Mugnaini, S\u00e3o Jos\u00e9 do Rio Preto - SP, 15045-375, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.787463",
+          "refe_longitude": "-49.389633"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Vale do Sol, 5122 - Jardim Botura, Votuporanga - SP, 15500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.418876",
+          "refe_longitude": "-49.959021"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Volunt\u00e1rio Norival Lacerda, 605, Am\u00e9rico de Campos - SP, 15550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.300529",
+          "refe_longitude": "-49.730326"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Votuporanga, SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.418260",
+          "refe_longitude": "-49.976256"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Orindi\u00fava, SP, 15480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.182068",
+          "refe_longitude": "-49.350007"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Em\u00edlio Arroio Hernandes, 2999 - Pozzobon, Votuporanga - SP, 15503-027, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.395928",
+          "refe_longitude": "-49.979253"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "R. Cap. Daniel da Cunha Mor\u00e3es, 42 - Tanabi, SP, 15170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.625453",
+          "refe_longitude": "-49.644841"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Benedito Carlos dos R\u00e9is, 863-899 - Nhandeara, SP, 15190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.693562",
+          "refe_longitude": "-50.050898"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Lisboa, 2144, Nova Luzit\u00e2nia - SP, 15340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.857753",
+          "refe_longitude": "-50.266081"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "18/09/2023 07:45:00",
+      "viag_previsao_fim": "21/09/2023 15:17:18"
+    }
+  ]
+}"

@@ -1,0 +1,33 @@
+Response: "<Response [422]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "TESTE"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": null
+        }
+      ],
+      "rota_descricao": "ROTA TESTE01",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "30/08/2023 12:30:00",
+      "viag_previsao_fim": "01/09/2023 01:25:55"
+    }
+  ]
+}

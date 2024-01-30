@@ -1,0 +1,227 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKZ1337"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00930287258"
+        }
+      ],
+      "rota_descricao": "Rota MA 01 S\u00e3o Luis 18/09 Walisson da Silva Moura PKZ1337",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 31 de Dezembro, 17 - Quadra 170 - S\u00e3o Cristovao, S\u00e3o Lu\u00eds - MA, 65055-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.568706",
+          "refe_longitude": "-44.230954"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. da Pedreira, 46 - Tirirical, S\u00e3o Lu\u00eds - MA, 65055-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.572790",
+          "refe_longitude": "-44.240740"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "ROD. MA 201 KM 07, S/N - Maiob\u00e3o, Pa\u00e7o do Lumiar - MA, 65130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.551460",
+          "refe_longitude": "-44.175396"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Guajajaras - Tirirical, S\u00e3o Lu\u00eds - MA, 65000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.564932",
+          "refe_longitude": "-44.229726"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. do Comercio, 226 - centro, Miranda do Norte - MA, 65495-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.563173",
+          "refe_longitude": "-44.585900"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Damasia, Bacabeira - MA, 65143-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.931673",
+          "refe_longitude": "-44.295264"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Gov. Matos Carvalho, 564 - Tirirical, S\u00e3o Lu\u00eds - MA, 65055-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.575434",
+          "refe_longitude": "-44.237738"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR 135 KM 48 PERIZ DE CIMA, Bacabeira - MA, 65143-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.947315",
+          "refe_longitude": "-44.326806"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "BR 402, km 37, n\u00b025 Translitor\u00e2nea, Morros - MA, 65160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.855221",
+          "refe_longitude": "-44.045842"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-135, 6, S\u00e3o Lu\u00eds - MA, 65085-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.623353",
+          "refe_longitude": "-44.259608"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. BR 222, SN, CENTRO, ARARI - MARANH\u00c3O 65480-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.518406",
+          "refe_longitude": "-44.754244"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. BR 222, SN, CENTRO, ARARI - MARANH\u00c3O 65480-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.518406",
+          "refe_longitude": "-44.754244"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "AV. GUAJAJARAS, 18, JARDIM S\u00c3O CRISTOV\u00c3O, S\u00c3O LU\u00cdS - MARANH\u00c3O 65055-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.568973",
+          "refe_longitude": "-44.232981"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Gov. Matos Carvalho, 564 - Tirirical, S\u00e3o Lu\u00eds - MA, 65055-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.575434",
+          "refe_longitude": "-44.237738"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "km 08 - Estr. de Ribamar, loja 101 - Vila Nazare, S\u00e3o Jos\u00e9 de Ribamar - MA, 65137-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.551710",
+          "refe_longitude": "-44.166130"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "BR 402, km 37, n\u00b025 Translitor\u00e2nea, Morros - MA, 65160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.855221",
+          "refe_longitude": "-44.045842"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Guajajaras, 221 - Tirirical, S\u00e3o Lu\u00eds - MA, 65056-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.569475",
+          "refe_longitude": "-44.232751"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Padre Possid\u00f4nio Monteiro, Ros\u00e1rio - MA, 65150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.941385",
+          "refe_longitude": "-44.254624"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "AV. JERONIMO DE ALBURQUERQUE MARANHAO, 642, COHAB ANIL, S\u00c3O LU\u00cdS - MARANH\u00c3O 65051-210, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.538070",
+          "refe_longitude": "-44.223129"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "EST. DE RIBAMAR, 2077, FORQUILHA, S\u00c3O LU\u00cdS - MARANH\u00c3O 65054-005, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.552905",
+          "refe_longitude": "-44.221278"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Estr. de Ribamar, km 02, 2077 - Forquilha, S\u00e3o Lu\u00eds - MA, 65060-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.553001",
+          "refe_longitude": "-44.221251"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Daniel de La Touche, 2006 - Cohama, S\u00e3o Lu\u00eds - MA, 65074-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.507380",
+          "refe_longitude": "-44.242214"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. 99, 2 - Conj. Hab. Vinhais, S\u00e3o Lu\u00eds - MA, 65071-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.518393",
+          "refe_longitude": "-44.252446"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 57 - Monte Castelo, S\u00e3o Lu\u00eds - MA, 65030-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.535539",
+          "refe_longitude": "-44.277530"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 57 - Monte Castelo, S\u00e3o Lu\u00eds - MA, 65030-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.535539",
+          "refe_longitude": "-44.277530"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Av. Sen. Vitorino Freire, 481 - Retiro Natal, S\u00e3o Lu\u00eds - MA, 65031-655, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.541762",
+          "refe_longitude": "-44.288818"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Av. Eng. Emiliano Macieira, Km 02, S\u00e3o Lu\u00eds - MA, 65091-762, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.649931",
+          "refe_longitude": "-44.306808"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "18/09/2023 09:00:00",
+      "viag_previsao_fim": "22/09/2023 12:18:41"
+    }
+  ]
+}"

@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA 03 REGI\u00c3O METROPOLITANA 26/09/2023 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR-316 KM 6, 667 - Levil\u00e2ndia, Ananindeua - PA, 67020-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.380998",
+          "refe_longitude": "-48.400294"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Memorial de Aires, 99 - Jardim Sao Saverio, S\u00e3o Paulo - SP, 04194-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.653112",
+          "refe_longitude": "-46.612437"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Alexandre Kadunc, 292, Tingidor, Embu das Artes - SP 06803-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.652782",
+          "refe_longitude": "-46.848608"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Jo\u00e3o Ramalho, 1081 - Vila Noemia, Mau\u00e1 - SP, 09371-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.663439",
+          "refe_longitude": "-46.474801"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Min. Petr\u00f4nio Portela, 595 - Moinho Velho, S\u00e3o Paulo - SP, 02959-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.494078",
+          "refe_longitude": "-46.701442"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Paulo Guilguer Reimberg, 1381 - Jardim Marilda, S\u00e3o Paulo - SP, 04858-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.800053",
+          "refe_longitude": "-46.647391"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Frei Gaspar, 575 - Vila Santa Rita de Cassia, S\u00e3o Bernardo do Campo - SP, 09720-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.717303",
+          "refe_longitude": "-46.553148"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "26/09/2023 08:00:00",
+      "viag_previsao_fim": "26/09/2023 09:33:20"
+    }
+  ]
+}"

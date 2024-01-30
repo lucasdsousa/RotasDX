@@ -1,0 +1,452 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1567145,
+  "numero_liberacao": 1567145,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ALAX SOUZA ALVES",
+    "cpf": "11180487680",
+    "telefone": "+5531995719961"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB2D25"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "logradouro": "Av. Juiz Marco T\u00falio Isaac",
+    "numero": " 4688 ",
+    "complemento": "0",
+    "bairro": "Parque das Industrias",
+    "cidade": " Betim ",
+    "estado": "MG",
+    "latitude": -19.949286,
+    "longitude": -44.165064,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " 32671072"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 07:00:00",
+  "data_previsao_fim": "06/09/2023 17:11:19",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13117591000476",
+            "descricao": "ABC DISTRIBUICAO DE PETROLEO LTDA",
+            "logradouro": "Rua Espirito Santo",
+            "numero": " 173",
+            "CEP": "32603064",
+            "complemento": "0",
+            "bairro": " Decamao",
+            "cidade": " Betim ",
+            "estado": "MG ",
+            "latitude": "-19.966627",
+            "longitude": "-44.211428",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 10:06:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2139.57",
+                  "volume": "7",
+                  "peso": "148.053"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44778386000132",
+            "descricao": "MARINA MUNIZ DOS SANTOS",
+            "logradouro": "Avenida Belo Horizonte",
+            "numero": " 785",
+            "CEP": "32672105",
+            "complemento": "0",
+            "bairro": " Niteroi",
+            "cidade": " Betim ",
+            "estado": "MG ",
+            "latitude": "-19.949404",
+            "longitude": "-44.177401",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 11:16:27",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1097.99",
+                  "volume": "6",
+                  "peso": "67.32"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08183015000144",
+            "descricao": "Lubrifiks Comercio de Lubrificantes LTDA",
+            "logradouro": "Rua dos Rodoviarios",
+            "numero": " 322",
+            "CEP": "32450000",
+            "complemento": "0",
+            "bairro": " Sarzedo Central Park",
+            "cidade": " Sarzedo ",
+            "estado": "MG ",
+            "latitude": "-20.038908",
+            "longitude": "-44.140935",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 11:40:38",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "891.58",
+                  "volume": "4",
+                  "peso": "74.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31584294000170",
+            "descricao": "MAPE TRATAMENTO DE RESIDUOS LTDA",
+            "logradouro": "Rua 5 331 Distrito industrial ",
+            "numero": "Bandeirinhas",
+            "CEP": "32654816",
+            "complemento": "0",
+            "bairro": " Betim ",
+            "cidade": "MG",
+            "estado": " ",
+            "latitude": "-19.995010",
+            "longitude": "-44.177690",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:07:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "706.8",
+                  "volume": "2",
+                  "peso": "36.589"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04827563000109",
+            "descricao": "N F S PECAS E SERVICOS AUTOMOTIVOS LTDA ME",
+            "logradouro": "Rua Republica do Peru",
+            "numero": " 10",
+            "CEP": "35460000",
+            "complemento": "0",
+            "bairro": " Santo Antonio",
+            "cidade": " Brumadinho ",
+            "estado": "MG ",
+            "latitude": "-20.138219",
+            "longitude": "-44.202456",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:45:57",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "773.74",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33872083000168",
+            "descricao": "BRAGA COMERCIO AUTO PECAS LTDA",
+            "logradouro": "Avenida Toronto",
+            "numero": " 1490",
+            "CEP": "34007658",
+            "complemento": "0",
+            "bairro": " Jardim Canada",
+            "cidade": " Nova Lima ",
+            "estado": "MG ",
+            "latitude": "-20.071801",
+            "longitude": "-43.984439",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:06:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "386.87",
+                  "volume": "1",
+                  "peso": "22.701"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21319801000194",
+            "descricao": "PETRO OURO LTDA",
+            "logradouro": "Rua Noraldino de Lima",
+            "numero": " 33",
+            "CEP": "32400000",
+            "complemento": "0",
+            "bairro": " Jatoba",
+            "cidade": " Ibirite ",
+            "estado": "MG ",
+            "latitude": "-19.995861",
+            "longitude": "-44.055260",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:39:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "345.61",
+                  "volume": "1",
+                  "peso": "23.9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33148130000125",
+            "descricao": "SAO BENTO COMERCIO DE LUBRIFICANTES E PECAS EIRELI",
+            "logradouro": "Rodovia MG 040",
+            "numero": " 586",
+            "CEP": "32450000",
+            "complemento": "0",
+            "bairro": " Cinira de Freitas",
+            "cidade": " Sarzedo ",
+            "estado": "MG ",
+            "latitude": "-20.040994",
+            "longitude": "-44.142354",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:46:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1640.08",
+                  "volume": "6",
+                  "peso": "116.13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13650764000174",
+            "descricao": "A G M EMPREENDIMENTOS AUTOMOTIVOS LTDA",
+            "logradouro": "Rua Jose da Silva Fernanndes",
+            "numero": " 157",
+            "CEP": "35460000",
+            "complemento": "0",
+            "bairro": " Loudes",
+            "cidade": " Brumadinho ",
+            "estado": "MG ",
+            "latitude": "-20.145832",
+            "longitude": "-44.203180",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 14:38:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3878.01",
+                  "volume": "14",
+                  "peso": "204.54"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00685368000211",
+            "descricao": "DEDE AUTOPECAS LTDA",
+            "logradouro": "Avenida Tito Fulgencio",
+            "numero": " 734",
+            "CEP": "32215000",
+            "complemento": "0",
+            "bairro": " Jardim Industrial",
+            "cidade": " Contagem ",
+            "estado": "MG ",
+            "latitude": "-19.963244",
+            "longitude": "-44.016363",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 15:36:11",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "929.5",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12307452000108",
+            "descricao": "ABRALUB COMERCIO E PROMOCAO DE VENDAS LTDA",
+            "logradouro": "Rua Tomaz Jefferson",
+            "numero": " 916",
+            "CEP": "32215290",
+            "complemento": "0",
+            "bairro": " Jardim Industrial",
+            "cidade": " Contagem ",
+            "estado": "MG ",
+            "latitude": "-19.965459",
+            "longitude": "-44.016903",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 16:12:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "475.99",
+                  "volume": "2",
+                  "peso": "36.589"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00685368000130",
+            "descricao": "DEDE AUTOPECAS LTDA",
+            "logradouro": "Avenida Tito Fulgencio",
+            "numero": " 1370",
+            "CEP": "32215000",
+            "complemento": "0",
+            "bairro": " Jardim Industrial",
+            "cidade": " Contagem ",
+            "estado": "MG ",
+            "latitude": "-19.967641",
+            "longitude": "-44.014670",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 16:35:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1549.17",
+                  "volume": "5",
+                  "peso": "113.503"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07246512411"
+        }
+      ],
+      "rota_descricao": "ROTA PB 01 14.09.2023 ANDERSON SOUZA - RCY4A40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Manoel Francisco Venancio, 621, Centro, Bayeux - PB 58306-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.129566",
+          "refe_longitude": "-34.919294"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Josefa Taveira, 309, Mangabeira, Joao Pessoa - PB 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164912",
+          "refe_longitude": "-34.838342"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 230, S/N, Poco, Cabedelo - PB 58310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.016095",
+          "refe_longitude": "-34.833872"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jo\u00e3o Vitaliano - Ponta de Matos, Cabedelo - PB, 58100-683, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.970940",
+          "refe_longitude": "-34.831533"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Vila Sao Joao, Cabedelo - PB, 58310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.970960",
+          "refe_longitude": "-34.837990"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 230, S/N, Popular, Santa Rita - PB 58301-645, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.143170",
+          "refe_longitude": "-34.986394"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Hortencia Helena de Amorim Brito, 897, Jardim America, Cabedelo - PB 58102-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.083028",
+          "refe_longitude": "-34.848715"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia PB 44, S/N, Centro, Caapora - PB 58326-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.513063",
+          "refe_longitude": "-34.917399"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Saul Sebastiao Bezerra, 44, Ernesto Geisel, Joao Pessoa - PB 58075-434, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.179007",
+          "refe_longitude": "-34.874121"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 101, S/N, Santo Antonio, Alhandra - PB 58320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.412072",
+          "refe_longitude": "-34.956049"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "14/09/2023 16:38:30"
+    }
+  ]
+}"

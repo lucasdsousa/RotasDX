@@ -1,0 +1,234 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6A98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00989392112"
+        }
+      ],
+      "rota_descricao": "rota 04 B  - 26/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 414, SN, Zona Rural, Cocalzinho de Goias - GO 72975-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.780236",
+          "refe_longitude": "-48.766977"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Nova Igua\u00e7u de Goi\u00e1s, GO, 76495-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.288568",
+          "refe_longitude": "-49.386268"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "GO-338, S\u00e3o Lu\u00edz do Norte - GO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.859623",
+          "refe_longitude": "-49.335567"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jos\u00e9 Moreira dos Santos, Alto Horizonte - GO, 76560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.197884",
+          "refe_longitude": "-49.339267"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Tancredo Neves - Nova Crix\u00e1s, GO, 76520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.103836",
+          "refe_longitude": "-50.340037"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. 35, 74 - Residencial Laurentino Martins, Goian\u00e9sia - GO, 76381-212, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.305251",
+          "refe_longitude": "-49.113749"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Goias Sul, 841, Setor Sul, Goianesia - GO 76382-199, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.323911",
+          "refe_longitude": "-49.117151"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Goias, 191, Carrilho, Goianesia - GO 76380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.312795",
+          "refe_longitude": "-49.117132"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Centro, Goian\u00e9sia - GO, 76380-800, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.328267",
+          "refe_longitude": "-49.118350"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. do Com\u00e9rcio - Crix\u00e1s, GO, 76510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.539245",
+          "refe_longitude": "-49.968893"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Josu\u00e9 Passos, Nossa Sra. Aparecida - SE, 49540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.396801",
+          "refe_longitude": "-37.451039"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Jo\u00e3o B\u00f4sco Machado, 140 - Carira, SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.357373",
+          "refe_longitude": "-37.700902"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Paulo Vasconcelos, 400 - Centro, Nossa Sra. das Dores - SE, 49600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.496908",
+          "refe_longitude": "-37.198488"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Ananias Fernandes dos Santos, Canind\u00e9 de S\u00e3o Francisco - SE, 49820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.660363",
+          "refe_longitude": "-37.790713"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Feira Nova, SE, 49670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.261590",
+          "refe_longitude": "-37.311340"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Tiradentes, 26 - Novo Para\u00edso, Aracaju - SE, 49082-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.908623",
+          "refe_longitude": "-37.087611"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Fernando de Noronha, 502 - Jos\u00e9 Conrado de Ara\u00fajo, Aracaju - SE, 49085-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.909218",
+          "refe_longitude": "-37.077658"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Pedro Paes Azevedo, 801 - Salgado Filho, Aracaju - SE, 49025-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.933164",
+          "refe_longitude": "-37.059006"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Taber, 409, Jardim Canada, Nova Lima - MG 34007-762, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.068348",
+          "refe_longitude": "-43.983815"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Mal. Hermes - Durval de Barros, Ibirit\u00e9 - MG, 32400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.979553",
+          "refe_longitude": "-44.067504"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "S\u00e3o Joaquim de Bicas - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.048482",
+          "refe_longitude": "-44.275366"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Sergipe, 216, Ouro Negro, Ibirite - MG 32419-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.004362",
+          "refe_longitude": "-44.116805"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Ursula Paulino, 474, Ciquentenario, Belo Horizonte - MG 30570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.953241",
+          "refe_longitude": "-43.983066"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Durval Pereira Alves, 1465, Curralinho, Igarape - MG 32900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.024110",
+          "refe_longitude": "-44.304470"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Cardeal Arco Verde, 1089 - \u00c1gua Branca, Contagem - MG, 32371, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923822",
+          "refe_longitude": "-44.030542"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Americo Vespucio, 1016, Aparecida, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892678",
+          "refe_longitude": "-43.958932"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Ursula Paulino, 357, Cinquentenario, Belo Horizonte - MG 30570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.952754",
+          "refe_longitude": "-43.982147"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "26/09/2023 08:00:00",
+      "viag_previsao_fim": "27/09/2023 10:07:53"
+    }
+  ]
+}"

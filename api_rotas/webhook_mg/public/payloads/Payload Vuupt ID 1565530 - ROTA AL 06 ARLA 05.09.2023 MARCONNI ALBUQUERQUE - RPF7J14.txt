@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPF7J14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02476748420"
+        }
+      ],
+      "rota_descricao": "ROTA AL 06 ARLA 05.09.2023 MARCONNI ALBUQUERQUE - RPF7J14",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rio Largo, Rio Largo - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.477905",
+          "refe_longitude": "-35.835510"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Satuba, Satuba - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.571604",
+          "refe_longitude": "-35.824996"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Pilar, Pilar - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.598092",
+          "refe_longitude": "-35.956765"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Delmiro Gouveia, Delmiro Gouveia - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.381008",
+          "refe_longitude": "-38.004974"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Palmeira dos \u00cdndios, Palmeira dos \u00cdndios - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.412037",
+          "refe_longitude": "-36.632292"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Junqueiro, Junqueiro - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.920779",
+          "refe_longitude": "-36.473935"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Atalaia, Atalaia - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.514886",
+          "refe_longitude": "-36.001761"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "S\u00e3o Sebasti\u00e3o, S\u00e3o Sebasti\u00e3o - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.931335",
+          "refe_longitude": "-36.554790"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Arapiraca, Arapiraca - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.755560",
+          "refe_longitude": "-36.663970"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Coit\u00e9 do N\u00f3ia, Coit\u00e9 do N\u00f3ia - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.632555",
+          "refe_longitude": "-36.580989"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Messias, Messias - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.392408",
+          "refe_longitude": "-35.839210"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Canapi, Canapi - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.116076",
+          "refe_longitude": "-37.603661"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Macei\u00f3, Macei\u00f3 - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.666042",
+          "refe_longitude": "-35.735217"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Penedo, Penedo - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.288963",
+          "refe_longitude": "-36.583926"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "S\u00e3o Miguel dos Campos, S\u00e3o Miguel dos Campos - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.781121",
+          "refe_longitude": "-36.099408"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Marechal Deodoro, Marechal Deodoro - ALAGOAS",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.711541",
+          "refe_longitude": "-35.895648"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "05/09/2023 08:00:00",
+      "viag_previsao_fim": "06/09/2023 22:59:34"
+    }
+  ]
+}"

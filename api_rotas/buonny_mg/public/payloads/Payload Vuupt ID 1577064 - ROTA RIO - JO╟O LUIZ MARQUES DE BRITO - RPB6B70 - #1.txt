@@ -1,0 +1,43 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001731",
+  "cnpj_embarcador": "05092901001731",
+  "cnpj_transportador": "05092901001731",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1577064,
+  "numero_liberacao": 1577064,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO LUIZ MARQUES DE BRITO",
+    "cpf": "00725768711",
+    "telefone": "+5522996032624"
+  },
+  "veiculos": {
+    "placa": "RPB6B70"
+  },
+  "origem": {
+    "codigo_externo": "05092901001731",
+    "descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+    "latitude": -21.683746,
+    "longitude": -41.311186
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 11:00:00",
+  "data_previsao_fim": "11/09/2023 22:36:49",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

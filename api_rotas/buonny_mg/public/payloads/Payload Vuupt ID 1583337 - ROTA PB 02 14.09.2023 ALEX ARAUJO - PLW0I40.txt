@@ -1,0 +1,236 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583337,
+  "numero_liberacao": 1583337,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ALEX DE ARAUJO ALVES",
+    "cpf": "06935746400",
+    "telefone": "+5583986145117"
+  },
+  "veiculos": {
+    "placa": "PLW0I40"
+  },
+  "origem": {
+    "codigo_externo": "05092901000760",
+    "descricao": "Dunax Lubrificantes LTDA- PB",
+    "latitude": -7.17952,
+    "longitude": -34.902323
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 05:00:00",
+  "data_previsao_fim": "15/09/2023 12:55:01",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09261355000109",
+            "descricao": "HILTON PINHEIRO DANTAS & CIA LTDA",
+            "latitude": "-6.964243",
+            "longitude": "-35.794222",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 10:51:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7993",
+                  "volume": "30",
+                  "peso": "598"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20871252000101",
+            "descricao": "PMP DISTRIBUIDORA E IMPORTADORA DE MOTOPECAS LTDA",
+            "latitude": "-6.558053",
+            "longitude": "-35.781550",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 12:09:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "41904",
+                  "volume": "160",
+                  "peso": "3632"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09411891000143",
+            "descricao": "LD LUBRIFICANTES LTDA",
+            "latitude": "-7.227809",
+            "longitude": "-35.915271",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 13:43:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4440",
+                  "volume": "15",
+                  "peso": "319.003"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20871252000101",
+            "descricao": "PMP DISTRIBUIDORA E IMPORTADORA DE MOTOPECAS LTDA",
+            "latitude": "-6.558053",
+            "longitude": "-35.781550",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 16:45:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "26190",
+                  "volume": "100",
+                  "peso": "2270"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07590039000155",
+            "descricao": "CICERA DO SOCORRO DOS SANTOS BALBINO",
+            "latitude": "-6.971596",
+            "longitude": "-35.802662",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 06:51:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "550",
+                  "volume": "10",
+                  "peso": "229"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12929022000110",
+            "descricao": "COMERCIAL DE COMBUSTIVEIS CIRNE LTDA",
+            "latitude": "-6.757471",
+            "longitude": "-35.663045",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 08:03:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2142.6",
+                  "volume": "6",
+                  "peso": "136.201"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31588721000198",
+            "descricao": "NOVA CAMPINA COMERCIO DE COMBUSTIVEL LTDA",
+            "latitude": "-7.265154",
+            "longitude": "-35.924133",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 11:16:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "235",
+                  "volume": "1",
+                  "peso": "12.091"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09262859000143",
+            "descricao": "RALLY MOTOS DIST IMPORT E TRANSPORT DE PECAS LTDA",
+            "latitude": "-7.250005",
+            "longitude": "-35.879151",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 11:44:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2050",
+                  "volume": "10",
+                  "peso": "120.913"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 8 Incompletos&#10;Informe o destino da SM&#10;"]}

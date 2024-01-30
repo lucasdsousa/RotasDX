@@ -1,0 +1,43 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901000506",
+  "cnpj_embarcador": "05092901000506",
+  "cnpj_transportador": "05092901000506",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573125,
+  "numero_liberacao": 1573125,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JEAN CLAUDIO AGOSTINHO SOUSA",
+    "cpf": "70255776349",
+    "telefone": "+558596789861"
+  },
+  "veiculos": {
+    "placa": "RCW4D61"
+  },
+  "origem": {
+    "codigo_externo": "05092901000506",
+    "descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+    "latitude": -3.910781,
+    "longitude": -38.529128
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "11/09/2023 07:42:32",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

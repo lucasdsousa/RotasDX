@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 13.09.2023 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Nelson Melo Paes Barreto, 171 - \u00c1guas Compridas, Olinda - PE, 53180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.994737",
+          "refe_longitude": "-34.894031"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Senador Nilo Coelho, 135, Aguazinha, Olinda - PE 53300-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.999124",
+          "refe_longitude": "-34.874069"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Br-101 Norte, Igarassu - PE, 53600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.876986",
+          "refe_longitude": "-34.905607"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR-101 NORTE, SN, Paratibe, Paulista - PE 53413-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.876986",
+          "refe_longitude": "-34.905607"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia Br-101 Norte, 258 A - Timb\u00f3, Abreu e Lima - PE, 53520-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.888425",
+          "refe_longitude": "-34.904511"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "13/09/2023 05:00:00",
+      "viag_previsao_fim": "13/09/2023 11:02:21"
+    }
+  ]
+}"

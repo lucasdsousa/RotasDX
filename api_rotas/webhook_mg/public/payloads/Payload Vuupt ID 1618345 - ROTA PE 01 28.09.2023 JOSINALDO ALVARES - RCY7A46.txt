@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7A46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "28352823434"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 28.09.2023 JOSINALDO ALVARES - RCY7A46",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 101, 57, Imbura, Recife - PE 51240-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.134691",
+          "refe_longitude": "-34.947153"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Joaquim Tavora, 49, Encruzilhada, Recife - PE 52041-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.031843",
+          "refe_longitude": "-34.892898"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 10:00:00",
+      "viag_previsao_fim": "28/09/2023 12:20:00"
+    }
+  ]
+}"

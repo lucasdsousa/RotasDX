@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 28/09/2023 JEAN CLAUDIO RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Dep. Paulino Rocha, 2550 - Cajazeiras, Fortaleza - CE, 60864-311, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.809953",
+          "refe_longitude": "-38.519611"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6359, Alto da Balanca, Fortaleza - CE 60120-065, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Engenheiro Alberto S\u00e1, 540 - Papicu, Fortaleza - CE, 60175-395, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.734645",
+          "refe_longitude": "-38.476005"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Santos Dumont, 7600 - Manuel Dias Branco, Fortaleza - CE, 60191-156, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.747504",
+          "refe_longitude": "-38.465034"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Santos Dumont, 7600 - Manuel Dias Branco, Fortaleza - CE, 60191-156, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.747504",
+          "refe_longitude": "-38.465034"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Gen. Clarindo de Queiroz, 848 - Centro, Fortaleza - CE, 60035-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.732140",
+          "refe_longitude": "-38.531699"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua 24 de Maio, 872 - Centro, Fortaleza - CE, 60020-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.729280",
+          "refe_longitude": "-38.532878"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Princesa Isabel, 1107 - Centro, Fortaleza - CE, 60015-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730372",
+          "refe_longitude": "-38.536449"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Presidente Costa e Silva, 3020 - Mondubim, Fortaleza - CE, 60868, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.829401",
+          "refe_longitude": "-38.526724"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Barao do Rio Branco, 2375, Centro, Fortaleza - CE 60025-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.738984",
+          "refe_longitude": "-38.531729"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "28/09/2023 07:00:00",
+      "viag_previsao_fim": "28/09/2023 14:11:46"
+    }
+  ]
+}"

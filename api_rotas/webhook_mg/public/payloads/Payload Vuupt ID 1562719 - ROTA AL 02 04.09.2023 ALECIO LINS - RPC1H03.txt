@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC1H03"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11291412417"
+        }
+      ],
+      "rota_descricao": "ROTA AL 02 04.09.2023 ALECIO LINS - RPC1H03",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia 1 AL 430, 07, Rural, Flexeiras - AL 57995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.242972",
+          "refe_longitude": "-35.489963"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "04/09/2023 08:00:00",
+      "viag_previsao_fim": "05/09/2023 12:16:28"
+    }
+  ]
+}

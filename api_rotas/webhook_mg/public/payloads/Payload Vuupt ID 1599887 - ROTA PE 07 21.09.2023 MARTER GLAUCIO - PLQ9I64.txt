@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 21.09.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida PRESIDENTE JUSCELINO KUBSTICHEK, 1461, Centro, Lajedo - PE 55385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.657709",
+          "refe_longitude": "-36.325972"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida 19 de Maio, 477, Centro, Lajedo - PE 55385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.661809",
+          "refe_longitude": "-36.326413"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua ivailton areias Silva, 275 - Alu\u00edsio Pinto, Garanhuns - PE, 55292-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.890880",
+          "refe_longitude": "-36.496478"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Bom Pastor, S/N, Boa Vista, Garanhuns - PE 55292-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.905708",
+          "refe_longitude": "-36.495047"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Lagoa Jacu, S/N, Centro, Bom Conselho - PE 55330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.169878",
+          "refe_longitude": "-36.680479"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Bom Conselho, PE, 55330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.169878",
+          "refe_longitude": "-36.680479"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Joaquim Pereira dos Santos, 35, Centro, Sao Joao - PE 55435-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.873387",
+          "refe_longitude": "-36.365993"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Iati - PE, 55345-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.008980",
+          "refe_longitude": "-36.866140"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PE 300, S/N, Sao Sebastiao, Aguas Belas - PE 55340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.115233",
+          "refe_longitude": "-37.116788"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-424, 801 - Magano, Garanhuns - PE, 55292-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.860747",
+          "refe_longitude": "-36.511436"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Bela Vista, 155, Centro, Caetes - PE 55360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.775642",
+          "refe_longitude": "-36.623824"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Capitao Lisimaco, 15, Centro, Bom Conselho - PE 55330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.162685",
+          "refe_longitude": "-36.692018"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua ivailton areias Silva, 275 - Alu\u00edsio Pinto, Garanhuns - PE, 55292-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.890880",
+          "refe_longitude": "-36.496478"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 316, SN, Centro, Petrolandia - PE 56460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.978545",
+          "refe_longitude": "-38.214521"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "23/09/2023 01:59:48"
+    }
+  ]
+}"

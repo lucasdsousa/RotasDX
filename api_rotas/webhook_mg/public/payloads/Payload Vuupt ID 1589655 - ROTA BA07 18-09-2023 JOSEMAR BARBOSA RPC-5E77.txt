@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC5E77"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98204327587"
+        }
+      ],
+      "rota_descricao": "ROTA BA07 18/09/2023 JOSEMAR BARBOSA RPC-5E77",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Perimetral, 265, Centro, Santa Maria da Vitoria - BA 47640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.391183",
+          "refe_longitude": "-44.207330"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Barao do Rio Branco, 205, Centro, Guanambi - BA 46430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.223982",
+          "refe_longitude": "-42.777724"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 263, Potosi, Licinio de Almeida - BA 46330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.682264",
+          "refe_longitude": "-42.503826"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Santos Dumont, 935, Vomitamel, Guanambi - BA 46430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.215191",
+          "refe_longitude": "-42.782155"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Tancredo Neves, 1067, Loteamento Chacaras Planalto, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.344545",
+          "refe_longitude": "-44.631289"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Barao do Rio Branco, SN - Sao Francisco, Guanambi - BA, 46430000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.217591",
+          "refe_longitude": "-42.773922"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Vicente Cristo Lopes, 649 - Planaltina, Iuiu - BA, 46438000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.410057",
+          "refe_longitude": "-43.552153"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Sigefredo Antunes Oliveira, 611, Malvao, Santa Maria da Vitoria - BA 47640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.393711",
+          "refe_longitude": "-44.207268"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Tancredo Neves, 1022, Novo Horizonte, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.344310",
+          "refe_longitude": "-44.631450"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Odilon Coelho, 391, Centro, Mortugaba - BA 46290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.022622",
+          "refe_longitude": "-42.368862"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua A, SN, barrocao, Correntina - BA, 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.348219",
+          "refe_longitude": "-44.625986"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Ruy Barbosa, 302, Venda Velha, Ibiassuce - BA 46390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.277484",
+          "refe_longitude": "-42.258334"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 665, Potosi, Licinio de Almeida - BA 46330-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.685070",
+          "refe_longitude": "-42.504239"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Rui Barbosa, 195, Ibiassuc\u00ea - BA, 46390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.262657",
+          "refe_longitude": "-42.260842"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Ruy Barbosa, 638 - Centro, Coribe - BA, 47690000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.830059",
+          "refe_longitude": "-44.455098"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Perimetral, SN, Rio Pratudao - Rosario, Correntina - BA, 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.085816",
+          "refe_longitude": "-45.385135"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Aleixo Caetano, 169 - Loteamento Deocl Silva, Correntina - BA, 47650000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.346652",
+          "refe_longitude": "-44.636290"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Getulio Vargas, 256 - Centro, Riacho de Santana - BA, 46470000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.611235",
+          "refe_longitude": "-42.935773"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Praca Raimundo Sales, 288, Centro, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.342554",
+          "refe_longitude": "-44.635723"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua A, S/N, Loteamento Magalhaes, Correntina - BA 47650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.340789",
+          "refe_longitude": "-44.637556"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "21/09/2023 20:19:39"
+    }
+  ]
+}"

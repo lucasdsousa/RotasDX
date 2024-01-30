@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6J02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 26/09/2023 JAMIL ALVES RPB6J02",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Cristo Rei, 780, Novo Horizonte, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444419",
+          "refe_longitude": "-49.115157"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Barcarena - PA, 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.509602",
+          "refe_longitude": "-48.616241"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia PA 483, SN, Zona Rural, Barcarena - PA 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.679597",
+          "refe_longitude": "-48.589588"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "BR-155, 215 - Guajar\u00e1-Miri, Acar\u00e1 - PA, 68690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.630569",
+          "refe_longitude": "-48.358134"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Travessa Irituia, 20, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.936816",
+          "refe_longitude": "-48.956191"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Francisco Magno, 12, Novo Horizonte, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.844846",
+          "refe_longitude": "-49.104957"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Belem, 175, Novo, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.938845",
+          "refe_longitude": "-48.955703"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Dom Pedro II, 1236, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724835",
+          "refe_longitude": "-48.881534"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Cipriano Santos, SN, Sao Benedito, Cameta - PA 68400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.241407",
+          "refe_longitude": "-49.495532"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Tv. Te\u00f3filo Otoni, Mocajuba - PA, 68420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.581286",
+          "refe_longitude": "-49.505404"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Tv. Te\u00f3filo Otoni, Mocajuba - PA, 68420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.581286",
+          "refe_longitude": "-49.505404"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Conego Siqueira, 2651, Brasilia, Cameta - PA 68400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.253760",
+          "refe_longitude": "-49.510533"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Coronel Raimundo Leao, 1353, Brasilia, Cameta - PA 68400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.247777",
+          "refe_longitude": "-49.500916"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Raimundo Veridiano Cardoso, 416, Bela Santa Monica, Tucurui - PA 68456-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.777291",
+          "refe_longitude": "-49.676542"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Cristo Rei, 780, Novo Horizonte, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444419",
+          "refe_longitude": "-49.115157"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "26/09/2023 10:30:00",
+      "viag_previsao_fim": "29/09/2023 20:03:17"
+    }
+  ]
+}"

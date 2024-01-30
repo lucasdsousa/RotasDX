@@ -1,0 +1,262 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 05 21/09/2023 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-316 - R. S\u00e3o Jo\u00e3o, Km10 - Pato Macho, Marituba - PA, 67000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366290",
+          "refe_longitude": "-48.364300"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1526 - Jurunas, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476291",
+          "refe_longitude": "-48.492895"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Roberto Camelier, 1055, Jurunas, Belem - PA 66033-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.468573",
+          "refe_longitude": "-48.487063"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Bernardo Say\u00e3o N\u2070 - 4276 B - Guam\u00e1, Bel\u00e9m - PA, 66075-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.474996",
+          "refe_longitude": "-48.468869"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. Augusto Montenegro KM 2 Fit Mirante do Parque T3-93 - Mangueir\u00e3o, Bel\u00e9m - PA, 66635-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.386202",
+          "refe_longitude": "-48.436887"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "RODOVIA BR 316, KM 10, N 2472 - S\u00e3o Jo\u00e3o, Marituba - PA, 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366050",
+          "refe_longitude": "-48.363776"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4504 - Guam\u00e1, Bel\u00e9m - PA, 66075-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475212",
+          "refe_longitude": "-48.466711"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o - Cidade Velha, Bel\u00e9m - PA, 66075-225, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475002",
+          "refe_longitude": "-48.466724"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1508 - Jurunas, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476256",
+          "refe_longitude": "-48.493088"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Bernardo Say\u00e3o N\u2070 - 4276 B - Guam\u00e1, Bel\u00e9m - PA, 66075-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.474996",
+          "refe_longitude": "-48.468869"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Rodolfo Chermont, 762, Marambaia, Belem - PA 66615-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.402523",
+          "refe_longitude": "-48.453098"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Passagem Jose de Alencar, 5, Marambaia, Belem - PA 66620-620, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.400992",
+          "refe_longitude": "-48.453245"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 2000 - Jurunas, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.477244",
+          "refe_longitude": "-48.488678"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1898 - Cidade Velha, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476868",
+          "refe_longitude": "-48.489809"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Engenheiro Jose Nelson Machado, 53, Bengui, Belem - PA 66630-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.377615",
+          "refe_longitude": "-48.458071"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1526 - Jurunas, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476291",
+          "refe_longitude": "-48.492895"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Travessa Cristovao Colombo, 23, Cruzeiro/Icoaraci, Belem - PA 66810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.298419",
+          "refe_longitude": "-48.489308"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "BR-316, 5 - Levil\u00e2ndia, Ananindeua - PA, 67105-165, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.379295",
+          "refe_longitude": "-48.396899"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Av. Zacarias de Assun\u00e7\u00e3o - Distrito Industrial, Ananindeua - PA, 67030-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.356900",
+          "refe_longitude": "-48.368750"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1840 - Jurunas, Bel\u00e9m - PA, 66030-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476700",
+          "refe_longitude": "-48.490368"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Principal, 11, Cabanagem, Belem - PA 66625-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.377309",
+          "refe_longitude": "-48.437740"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1444 - Jurunas, Bel\u00e9m - PA, 66023-730, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476216",
+          "refe_longitude": "-48.493340"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Estrada Da Yamada, 02, Bengui, Belem - PA 66630-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.377182",
+          "refe_longitude": "-48.460970"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "21/09/2023 11:10:00",
+      "viag_previsao_fim": "23/09/2023 14:07:53"
+    }
+  ]
+}"

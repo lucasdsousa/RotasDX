@@ -1,0 +1,94 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ9I64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05249784410"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 25.09.2023 MARTER GLAUCIO - PLQ9I64",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Coronel Alves, 74, Centro, Agrestina - PE 55495-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.457214",
+          "refe_longitude": "-35.948833"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 423, SN, Centro, Jupi - PE 55395-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.712718",
+          "refe_longitude": "-36.420507"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida 19 de Maio, 477, Centro, Lajedo - PE 55385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.661809",
+          "refe_longitude": "-36.326413"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "\u00c1guas Belas, PE, 55340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.112580",
+          "refe_longitude": "-37.120600"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-423, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.132318",
+          "refe_longitude": "-37.177321"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Povoado - Alto da Serra, Paranatama - PE, 55355-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.918200",
+          "refe_longitude": "-36.710170"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 423, SN, Vila Neves, Jucati - PE 55398-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.754571",
+          "refe_longitude": "-36.430582"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Bela Vista, 155, Centro, Caetes - PE 55360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.775642",
+          "refe_longitude": "-36.623824"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "25/09/2023 05:00:00",
+      "viag_previsao_fim": "25/09/2023 23:25:26"
+    }
+  ]
+}"

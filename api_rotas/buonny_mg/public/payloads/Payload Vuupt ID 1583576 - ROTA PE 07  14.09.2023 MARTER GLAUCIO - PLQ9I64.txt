@@ -1,0 +1,331 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583576,
+  "numero_liberacao": 1583576,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "MARTER GLAUCIO DE SOUZA",
+    "cpf": "05249784410",
+    "telefone": "+5585981542618",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "PLQ9I64"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0025-41",
+    "descricao": "Dunax Lubrificantes LTDA - PE"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "16/09/2023 07:04:14",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "12.792.107/0001-07",
+        "descricao": "J R PIMENTEL ROCHA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 20:48:02",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "7243",
+              "volume": "25",
+              "peso": "420.358"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "08.889.260/0001-71",
+        "descricao": "BARBOSA E LEAL COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:33:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1456",
+              "volume": "4",
+              "peso": "86.501"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "31.009.807/0001-19",
+        "descricao": "JOSE BRUNO ALVES DE OLIVEIRA & CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:26:28",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "678",
+              "volume": "2",
+              "peso": "36.589"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.454.430/0001-34",
+        "descricao": "POSTO ROCHA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:57:13",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "7779",
+              "volume": "21",
+              "peso": "449.705"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "42.224.438/0001-01",
+        "descricao": "JACKLINE MICHELLE FERREIRA DE SOUZA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:46:07",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1710",
+              "volume": "6",
+              "peso": "136.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "35.693.605/0001-90",
+        "descricao": "OSAEL INACIO DA SILVA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:25:03",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1476",
+              "volume": "4",
+              "peso": "90.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "17.879.448/0001-20",
+        "descricao": "GH COMBUSTIVEIS E LUBRIFICANTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 04:44:45",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3444.05",
+              "volume": "10",
+              "peso": "218.292"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.047.196/0001-19",
+        "descricao": "ARAUJO COMERCIO DE PETROLEO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:40:05",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "10818.4",
+              "volume": "39",
+              "peso": "724.294"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "34.746.809/0001-89",
+        "descricao": "AUTO POSTO B T CAVALCANTI COMERCIO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:57:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2937",
+              "volume": "7",
+              "peso": "160.103"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "29.933.387/0001-10",
+        "descricao": "POSTO BARRA DO FARIAS COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 06:48:05",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1881",
+              "volume": "5",
+              "peso": "113.501"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "08.546.305/0001-05",
+        "descricao": "R & L COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:07:46",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5549.5",
+              "volume": "17",
+              "peso": "349.266"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.488.912/0001-08",
+        "descricao": "R M BARBOSA LOJA DE CONVENIENCIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 08:48:27",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2199",
+              "volume": "1",
+              "peso": "182.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "36.772.575/0001-70",
+        "descricao": "AUTO POSTO BARROS E OLIVEIRA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 10:22:07",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5150",
+              "volume": "20",
+              "peso": "369.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "35.631.850/0001-72",
+        "descricao": "L A TAVARES DE ALMEIDA COMBUSTIVEIS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 22:16:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "778",
+              "volume": "2",
+              "peso": "45.401"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "46.454.525/0001-06",
+        "descricao": "E J DA SILVA MANUTENCAO E REPARACAO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 22:31:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1233",
+              "volume": "4",
+              "peso": "79.401"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.488.912/0001-08",
+        "descricao": "R M BARBOSA LOJA DE CONVENIENCIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:27:27",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1812",
+              "volume": "17",
+              "peso": "388.9"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301813","erros":[]}

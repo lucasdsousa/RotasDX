@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKX2163"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA BA02 05/09/2023 ANDERSON ACIOLE PKX-2163",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Clarindo Santos, 78, Malemba, Candeias - BA 43805-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.676699",
+          "refe_longitude": "-38.544775"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Itajubara, 90000, Nova Candeias, Candeias - BA, 43815-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.665912",
+          "refe_longitude": "-38.534415"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Br 324, 11505, Valeria, Salvador - BA 41300-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.782731",
+          "refe_longitude": "-38.413746"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Boca da Mata, 83, Valeria, Salvador - BA, 41300-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.864926",
+          "refe_longitude": "-38.436234"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Via Parafuso, SN, Centro, Camacari - BA 42800-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.738069",
+          "refe_longitude": "-38.313414"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Vasco da Gama, 491 - Engenho Velho de Brotas, Salvador - BA, 40240090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.994273",
+          "refe_longitude": "-38.497295"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Genaro de Carvalho, 07, Castelo Branco, Salvador - BA, 41320-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.905034",
+          "refe_longitude": "-38.441755"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Do Nepal, SN - Granjas Rurais Presidente Vargas, Salvador - BA, 41230070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.923420",
+          "refe_longitude": "-38.454565"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia Br 324, 8890, Piraja, Salvador - BA 41233-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.762842",
+          "refe_longitude": "-38.424383"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Campinas de Brotas, 90 - Campinas de Brotas, Salvador - BA, 40275160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.984076",
+          "refe_longitude": "-38.478226"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Ulisses Barboza Filho, 10, Boca do Rio, Salvador - BA, 41705-870, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.976990",
+          "refe_longitude": "-38.429312"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Ernani de Oliveira Rocha, 217, Centro, Sao Sebastiao do Passe - BA 43850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.516778",
+          "refe_longitude": "-38.492478"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Raul Seixas, 2516 - Santa Helena, Dias d'Avila - BA, 42850000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.603592",
+          "refe_longitude": "-38.320812"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "05/09/2023 12:00:00",
+      "viag_previsao_fim": "06/09/2023 17:35:07"
+    }
+  ]
+}"

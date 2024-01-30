@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2B14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "34764656833"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 13/09/2023 JOAO DURVAL RPB-4F31",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. S\u00e3o Paulo, 400 - Campos El\u00edsios, Ribeir\u00e3o Preto - SP, 14085-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.168657",
+          "refe_longitude": "-47.805363"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Marques de Pombal, 886, Campos Eliseos, Ribeirao Preto - SP 14080-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.161264",
+          "refe_longitude": "-47.807817"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Tapaj\u00f3s, 388 - Alto do Ipiranga, Ribeir\u00e3o Preto - SP, 14055-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.154726",
+          "refe_longitude": "-47.829977"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Mogiana, 1815, Vila Mariana, Ribeirao Preto - SP 14075-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.147698",
+          "refe_longitude": "-47.787235"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Cavalheiro Paschoal Innecchi, 750 - Independ\u00eancia, Ribeir\u00e3o Preto - SP, 14076-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.162026",
+          "refe_longitude": "-47.788229"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "AV. MOGIANA AV. MOGIANA, 1815, VILA MARIANA, RIBEIR?O PRETO - S?O PAULO 14075-270, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.147698",
+          "refe_longitude": "-47.787235"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Ricardo Cossalter, 91, Parque Industrial Tanquinho, Ribeirao Preto - SP 14075-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.136540",
+          "refe_longitude": "-47.796392"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Rio de Janeiro, 2000, Serrana - SP, 14150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.200622",
+          "refe_longitude": "-47.613808"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Dr. Francisco de Paula Moreira Barbosa, 35 - Santa Cruz, Itapira - SP, 13974-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.439336",
+          "refe_longitude": "-46.825568"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Henrique Cabral de Vasconcelos, 1659 - Jardim Sao Nicolau, S\u00e3o Jo\u00e3o da Boa Vista - SP, 13876-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.988760",
+          "refe_longitude": "-46.785852"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Henrique Cabral de Vasconcelos, 2414 - Jardim Progresso, S\u00e3o Jo\u00e3o da Boa Vista - SP, 13876-312, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.994259",
+          "refe_longitude": "-46.780446"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Quinzinho Ot\u00e1vio, 350 - Centro, Vargem Grande do Sul - SP, 13880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.834509",
+          "refe_longitude": "-46.895221"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Doutor Marcos Antonio Macario dos Santos, 1165, Conjunto Habitacional Jardim das Palmeiras, Ribeirao Preto - SP 14094-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.194622",
+          "refe_longitude": "-47.735262"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Adelina Cardim Bigal, 235 - Jardim do Trevo, Ribeir\u00e3o Preto - SP, 14092-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.182236",
+          "refe_longitude": "-47.758324"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "13/09/2023 11:00:00",
+      "viag_previsao_fim": "14/09/2023 15:27:34"
+    }
+  ]
+}"

@@ -1,0 +1,43 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901000417",
+  "cnpj_embarcador": "05092901000417",
+  "cnpj_transportador": "05092901000417",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1569547,
+  "numero_liberacao": 1569547,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "GILMAR DE MORAIS DE SOUZA",
+    "cpf": "07185569419",
+    "telefone": "+5584981863806"
+  },
+  "veiculos": {
+    "placa": "PLM1D98"
+  },
+  "origem": {
+    "codigo_externo": "05092901000417",
+    "descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+    "latitude": -5.578033,
+    "longitude": -36.918305
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 05:00:00",
+  "data_previsao_fim": "08/09/2023 09:09:13",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

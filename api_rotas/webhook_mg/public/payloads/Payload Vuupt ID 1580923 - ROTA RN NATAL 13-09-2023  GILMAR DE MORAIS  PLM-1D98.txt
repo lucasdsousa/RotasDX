@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN NATAL 13/09/2023  GILMAR DE MORAIS  PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-304, 2510, S\u00e3o Pedro - RN, 59480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.870519",
+          "refe_longitude": "-35.583381"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. das A\u00e7ucenas, 203, S\u00e3o Gon\u00e7alo do Amarante - RN, 59293-477, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.755511",
+          "refe_longitude": "-35.305939"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Bacharel Tomaz Landim, 48 - Golandim, Natal - RN, 59296-042, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.767983",
+          "refe_longitude": "-35.275002"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Pres. M\u00e9dici, 205 - Igap\u00f3, Natal - RN, 59106-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.768745",
+          "refe_longitude": "-35.267539"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Ritinha Coelho - Lagoa Seca, Natal - RN, 59022-545, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.808539",
+          "refe_longitude": "-35.212590"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Pres. Sarmento, 498 - Alecrim, Natal - RN, 59037-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.797557",
+          "refe_longitude": "-35.222606"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Miguel Castro, 797 - Lagoa Nova, Natal - RN, 59075-740, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.817411",
+          "refe_longitude": "-35.224098"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Tropical, 335 - Pitimb\u00fa, Natal - RN, 59066-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.866970",
+          "refe_longitude": "-35.222594"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 617 - Parque de Exposicoes, Parnamirim - RN, 59146-435, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.897269",
+          "refe_longitude": "-35.258003"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 5000 - Parque de Exposicoes, Parnamirim - RN, 59146-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.900074",
+          "refe_longitude": "-35.259167"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. das Margaridas, 43 - Centro, Parnamirim - RN, 59155-395, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.907327",
+          "refe_longitude": "-35.259462"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 184 - Centro, Parnamirim - RN, 59148-902, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.916022",
+          "refe_longitude": "-35.263054"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 672 - Centro, Parnamirim - RN, 59146-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.920213",
+          "refe_longitude": "-35.264782"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 261 - Centro, Parnamirim - RN, 59140-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.920581",
+          "refe_longitude": "-35.264449"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "13/09/2023 05:00:00",
+      "viag_previsao_fim": "13/09/2023 21:59:49"
+    }
+  ]
+}"

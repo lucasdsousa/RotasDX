@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ9I45"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01808393309"
+        }
+      ],
+      "rota_descricao": "Rota MA 06  Imperatriz 19/09/2023 Jos\u00e9 Machado de Sousa Tabosa QTZ9I45",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Cama\u00e7ari, Imperatriz - MA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.428070",
+          "refe_longitude": "-47.473081"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. das Constela\u00e7\u00f5es, 103 - Cinco Estrelas, Imperatriz - MA, 65913-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.509680",
+          "refe_longitude": "-47.453981"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-010, 29 - Entroncamento, Imperatriz - MA, 65903-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.526675",
+          "refe_longitude": "-47.471899"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "ROD. BR 010, S/N KM 1356 - Jardim Tropical, Imperatriz - MA, 65910-680, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.502206",
+          "refe_longitude": "-47.471505"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Enfrente pra\u00e7a dos caminhoneiros - R. Minas Gerais, 31 - Bairro: - Entroncamento, Imperatriz - MA, 65913-445, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.525093",
+          "refe_longitude": "-47.471969"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Enfrente pra\u00e7a dos caminhoneiros - R. Minas Gerais, 31 - Bairro: - Entroncamento, Imperatriz - MA, 65913-445, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.525093",
+          "refe_longitude": "-47.471969"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "BR-010, 429 - Maranh\u00e3o Novo, Imperatriz - MA, 65903-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.523012",
+          "refe_longitude": "-47.471129"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "20/09/2023 08:00:00",
+      "viag_previsao_fim": "20/09/2023 10:55:56"
+    }
+  ]
+}"

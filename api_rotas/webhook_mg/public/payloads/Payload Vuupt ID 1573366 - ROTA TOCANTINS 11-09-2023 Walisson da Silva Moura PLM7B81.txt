@@ -1,0 +1,248 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM7B81"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00930287258"
+        }
+      ],
+      "rota_descricao": "ROTA TOCANTINS 11/09/2023 Walisson da Silva Moura PLM7B81",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Goi\u00e1s, 351 - Centro, Augustin\u00f3polis - TO, 77960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.470540",
+          "refe_longitude": "-47.884508"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Goi\u00e1s, 3177-3201, Augustin\u00f3polis - TO, 77960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.472624",
+          "refe_longitude": "-47.881347"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Araguaia - Araguatins, TO, 77950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.647836",
+          "refe_longitude": "-48.119630"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Tocantin\u00f3polis - TO, 77900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.324778",
+          "refe_longitude": "-47.430349"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Betel, 134, Anan\u00e1s - TO, 77890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.370282",
+          "refe_longitude": "-48.071867"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. FLORIANO PEIXOTO, 1162, CENTRO, ARAGUATINS - TOCANTINS 77950-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.654472",
+          "refe_longitude": "-48.121658"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Quatorze de Dezembro, 320 - Jardim Pedra Alta, Aragua\u00edna - TO, 77823-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.180323",
+          "refe_longitude": "-48.218200"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Jo\u00e3o de Deus Miranda, S\u00e3o Bento do Tocantins - TO, 77958-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.026673",
+          "refe_longitude": "-47.920907"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Tib\u00farcio Jos\u00e9 Dantas, 214 - Lot. Manoel Gomes da Cunha, Aragua\u00edna - TO, 77818-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.184772",
+          "refe_longitude": "-48.221136"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Cruzeiro do Sul (Avenida Central), 303, Tocantin\u00f3polis - TO, 77900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.325368",
+          "refe_longitude": "-47.432080"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Interlagos, Para\u00edso do Tocantins - TO, 77600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.147360",
+          "refe_longitude": "-48.885276"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Neblina, 21 - Centro, Aragua\u00edna - TO, 77823-025, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.186826",
+          "refe_longitude": "-48.208835"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av Amazilio Correa C.Neto, Quadra 01, Lote 01 - Res. Camargo, Aragua\u00edna - TO, 77808-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.203994",
+          "refe_longitude": "-48.182382"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Filad\u00e9lfia, 4294 - Jardim Filadelfia, Aragua\u00edna - TO, 77813-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.203027",
+          "refe_longitude": "-48.203747"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "AV. TRANSBRASILIANA AV. TRANSBRASILIANA, 1607, INTERLAGOS, PARA?SO DO TOCANTINS - TOCANTINS 77600-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.164293",
+          "refe_longitude": "-48.881459"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av JK 103 Sul Conj 1 Lote 172 - Centro, Palmas - TO, 77015-012, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.184998",
+          "refe_longitude": "-48.341326"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Para\u00edso do Tocantins - TO, 77600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.195897",
+          "refe_longitude": "-48.878191"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Q. 103 Sul Avenida LO 1 - Plano Diretor Sul, Palmas - TO, 77015-028, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.188871",
+          "refe_longitude": "-48.340145"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Q. 103 Sul Avenida LO 1 - Plano Diretor Sul, Palmas - TO, 77015-028, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.188871",
+          "refe_longitude": "-48.340145"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Q. 604 Norte Avenida NS 2 - Palmas, TO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.159324",
+          "refe_longitude": "-48.318575"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Q. 103 Sul Avenida LO 1 - Plano Diretor Sul, Palmas - TO, 77015-028, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.188871",
+          "refe_longitude": "-48.340145"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233716",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Q. 902 Sul Avenida L\u00f3 23, 17 - lote 4, Qd. 05 - Plano Diretor Sul, Palmas - TO, 77023-336, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.240830",
+          "refe_longitude": "-48.331075"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233716",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233716",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Av. Vit\u00f3rino Panta, 05 - Centro, Lagoa da Confus\u00e3o - TO, 77493-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.805031",
+          "refe_longitude": "-49.640161"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Jorge Figueiras, Alvorada - TO, 77480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.484290",
+          "refe_longitude": "-49.118982"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "AV. 25 DE AGOSTO, 308, CENTRO, BREJINHO DE NAZAR\u00c9 - TOCANTINS 77560-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.010364",
+          "refe_longitude": "-48.563793"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Avenida Di\u00f3genes de Brito - com Rodovia - TO-354 - Centro, Pium - TO, 77570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.442647",
+          "refe_longitude": "-49.167527"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Dois Irm\u00e3os do Tocantins, TO, 77685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.256183",
+          "refe_longitude": "-49.066010"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "11/09/2023 13:00:00",
+      "viag_previsao_fim": "17/09/2023 14:05:43"
+    }
+  ]
+}"

@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "OHW6296"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "52886239291"
+        }
+      ],
+      "rota_descricao": "ROTA ARLA RO  04/09/2023  DIONATAN CAIO  OHW-6296",
+      "origem": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.763558",
+          "refe_longitude": "-63.897170"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "viag_previsao_inicio": "04/09/2023 09:30:00",
+      "viag_previsao_fim": "04/09/2023 13:55:54"
+    }
+  ]
+}

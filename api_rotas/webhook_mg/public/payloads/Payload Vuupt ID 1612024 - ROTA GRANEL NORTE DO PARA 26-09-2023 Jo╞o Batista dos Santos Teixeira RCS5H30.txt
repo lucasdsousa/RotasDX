@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS5H30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36560049353"
+        }
+      ],
+      "rota_descricao": "ROTA GRANEL NORTE DO PARA 26/09/2023 Jo\u00e3o Batista dos Santos Teixeira RCS5H30",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia - PA-483 - Vila do Conde, Barcarena - PA, 68447-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.581135",
+          "refe_longitude": "-48.731537"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Santa Maria do Par\u00e1 - PA, 68738-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.313015",
+          "refe_longitude": "-47.434179"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-316, km 151 - Numero 2019 - Santa Luzia, Capanema - PA, 68704-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.211482",
+          "refe_longitude": "-47.184781"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Bel\u00e9m, 1527-1719, Tail\u00e2ndia - PA, 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.936455",
+          "refe_longitude": "-48.957582"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Pagrisa usina de a\u00e7\u00facar 68632-000, Ulian\u00f3polis - PA, 68632-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.699170",
+          "refe_longitude": "-47.764900"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "PA-150, Km 130, Tail\u00e2ndia - PA, 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.954920",
+          "refe_longitude": "-48.951180"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "26/09/2023 08:00:00",
+      "viag_previsao_fim": "29/09/2023 16:47:03"
+    }
+  ]
+}"

@@ -1,0 +1,42 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583812,
+  "numero_liberacao": 1583812,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "SILVIO OLIVEIRA DOS SANTOS JUNIOR",
+    "cpf": "10925404403",
+    "telefone": "+5582991759443",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY4A30"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0031-90",
+    "descricao": "Dunax Lubrificantes LTDA - AL"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "15/09/2023 05:58:24",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301842","erros":[]}

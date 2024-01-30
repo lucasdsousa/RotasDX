@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7E17"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36388190359"
+        }
+      ],
+      "rota_descricao": "Rota MA 06  Imperatriz 27/09/2023 Antonio Emidio RCY717",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Praca Lino Teixeira, 306, Entroncamento, Imperatriz - MA 65913-471, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.519903",
+          "refe_longitude": "-47.472057"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rod. BR 010 , N - Entroncamento, Imperatriz - MA, 65903-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.525615",
+          "refe_longitude": "-47.471941"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "27/09/2023 09:20:00",
+      "viag_previsao_fim": "27/09/2023 11:02:53"
+    }
+  ]
+}"

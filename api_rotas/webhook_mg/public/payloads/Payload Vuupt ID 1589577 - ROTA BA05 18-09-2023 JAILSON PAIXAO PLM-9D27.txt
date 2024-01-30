@@ -1,0 +1,269 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM9D27"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "99271885520"
+        }
+      ],
+      "rota_descricao": "ROTA BA05 18/09/2023 JAILSON PAIXAO PLM-9D27",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, 30, Santos Dumont, Senhor do Bonfim - BA 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.470285",
+          "refe_longitude": "-40.185119"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Estrada Do Mineiro, SN, Piaus, Itiuba - BA, 48850-972, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.579698",
+          "refe_longitude": "-39.768558"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Sao Pedro, 777, Romulo Campos, Itiuba - BA 48850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.689366",
+          "refe_longitude": "-39.852260"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Joao Durval Carneiro, 321, Rodoviaria, Senhor do Bonfim - BA, 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.456393",
+          "refe_longitude": "-40.181020"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Jose Francisco, 228, Barbosa Santos, Senhor do Bonfim - BA 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.469697",
+          "refe_longitude": "-40.126042"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Vitalino Luiz, 299, Centro, Sao Domingos - BA 48895-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.464759",
+          "refe_longitude": "-39.527523"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Ayrton Senna, 160, Centro, Sao Domingos - BA, 48895-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.452191",
+          "refe_longitude": "-39.589853"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Floriano Peixoto, 131, Centro, Conceicao do Coite - BA, 48730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.564251",
+          "refe_longitude": "-39.281559"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Ayrton Senna, 248, Centro, Sao Domingos - BA 48895-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.452191",
+          "refe_longitude": "-39.589853"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Antonio de Castro, 69, Centro, Itiuba - BA 48850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.689945",
+          "refe_longitude": "-39.855061"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Ipe Roxo, 106, Distrito Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.886547",
+          "refe_longitude": "-39.965833"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BA 374, SN - Centro, Campo Formoso - BA, 44790000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.508582",
+          "refe_longitude": "-40.322455"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Praca Velha, 20 - Povoado de Pocos, Campo Formoso - BA, 44790000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.500249",
+          "refe_longitude": "-40.396028"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Jose Martins Ferreira, 279, Desvio Rodoviario, Campo Formoso - BA 44790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.514076",
+          "refe_longitude": "-40.321167"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Estrada BA 220, SN, Povoado Melancia, Andorinha - BA 48990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.345727",
+          "refe_longitude": "-39.811413"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Jose Martins Ferreira, 279, Desvio Rodoviario, Campo Formoso - BA 44790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.514076",
+          "refe_longitude": "-40.321167"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Marechal Deodoro da Foncesa, 32, Sede, Conceicao do Coite - BA, 48730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.564144",
+          "refe_longitude": "-39.283255"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua da Jurema, 916, Distrito Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.884245",
+          "refe_longitude": "-39.964788"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Quadra MN, 33, Centro, Casa Nova - BA 47300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.174151",
+          "refe_longitude": "-40.974036"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua da Jurema, 916, Nucleo Residencial Pilar, Jaguarari - BA 48967-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.884245",
+          "refe_longitude": "-39.964788"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Pindoba\u00e7u, BA, 44770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.743600",
+          "refe_longitude": "-40.363300"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Rio de Janeiro, 105 - Joao XXIII, Juazeiro - BA, 48900330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.428002",
+          "refe_longitude": "-40.503314"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rodovia BR 235, 13, Itaberaba, Juazeiro - BA 48906-770, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.374318",
+          "refe_longitude": "-40.538285"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rodovia BR 407, SN, Rodoviario, Senhor do Bonfim - BA 48970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.456286",
+          "refe_longitude": "-40.180775"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Quadra Ef, 44, Centro, Casa Nova - BA 47300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.172612",
+          "refe_longitude": "-40.973848"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rodovia Lomanto Junior, SN, BR 407, Juazeiro - BA, 48922-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.423710",
+          "refe_longitude": "-40.499358"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Piaui, S/N, Centro, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.623540",
+          "refe_longitude": "-42.087526"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Piaui, S/N, Sede, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.623540",
+          "refe_longitude": "-42.087526"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rodovia BR 235, 14, Loteamento Ze Totonha, Casa Nova - BA 47300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.174712",
+          "refe_longitude": "-40.975537"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Candido Ribeiro Peralva, 53, Centro, Campo Formoso - BA 44790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.511528",
+          "refe_longitude": "-40.316670"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Alvorada, SN, Centro, Sobradinho - BA 48925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.476198",
+          "refe_longitude": "-40.795276"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Avenida Piaui, 787, Centro, Remanso - BA 47200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.619795",
+          "refe_longitude": "-42.089967"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Rodolfo Queiroz, 1405, Centro, Pilao Arcado - BA 47240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.994367",
+          "refe_longitude": "-42.490662"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 22:15:19"
+    }
+  ]
+}"

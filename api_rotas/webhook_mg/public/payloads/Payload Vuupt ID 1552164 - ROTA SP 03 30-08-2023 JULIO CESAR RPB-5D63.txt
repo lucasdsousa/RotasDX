@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 30/08/2023 JULIO CESAR RPB-5D63",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Barroso, 1763 - Centro, Araraquara - SP, 14887-262, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.791109",
+          "refe_longitude": "-48.188567"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "30/08/2023 11:00:00",
+      "viag_previsao_fim": "31/08/2023 15:51:47"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+Response: "<Response [422]>" 
+Motorista: "Erro Motorista" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "TESTE"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": null
+        }
+      ],
+      "rota_descricao": "ROTA ARLA MG 040  11/09/2023  WALISSON PEREIRA MOTA  RPH-4H74 (clone)",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "11/09/2023 07:00:00",
+      "viag_previsao_fim": "15/09/2023 13:35:11"
+    }
+  ]
+}"

@@ -1,0 +1,192 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 04 05/09/2023 LUCAS ALVES RCY0I35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Augusto Meira Filho, 09, Centro, Santa Barbara do Para - PA 68798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.278893",
+          "refe_longitude": "-48.254952"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Alameda Ns-20, 21 - Coqueiro, Bel\u00e9m - PA, 66919-560, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.334786",
+          "refe_longitude": "-48.438189"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 116, 1767, Centro, Marituba - PA 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.368462",
+          "refe_longitude": "-48.330425"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Apolinario Mendes, SN, Centro, Benevides - PA 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364129",
+          "refe_longitude": "-48.240512"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Estr. Da Ceramica, 134 - Nova Uniao Mtub, Marituba - PA, 67100-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.360037",
+          "refe_longitude": "-48.333856"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Senador Lemos, 4587, Sacramenta, Belem - PA 66120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.412995",
+          "refe_longitude": "-48.465784"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rod. Augusto Montenegro KM 2 Fit Mirante do Parque T3-93 - Mangueir\u00e3o, Bel\u00e9m - PA, 66635-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.386202",
+          "refe_longitude": "-48.436887"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Quadra Trinta e Um, 11, Centro, Ananindeua - PA 67040-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.342012",
+          "refe_longitude": "-48.374707"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "BR-316 - Almir Gabriel, Marituba - PA, 67105-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366054",
+          "refe_longitude": "-48.312682"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-316 - Almir Gabriel, Marituba - PA, 67105-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366054",
+          "refe_longitude": "-48.312682"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "RODOVIA BR 316, KM 10, N 2472 - S\u00e3o Jo\u00e3o, Marituba - PA, 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366050",
+          "refe_longitude": "-48.363776"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Travessa Oliveira, 19, Distrito Industrial, Ananindeua - PA 67035-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.343965",
+          "refe_longitude": "-48.367188"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Marques de Herval, 1861, Pedreira, Belem - PA 66085-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.425143",
+          "refe_longitude": "-48.466776"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Travessa Lomas Valentina, 1442, Marco, Belem - PA 66087-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.428704",
+          "refe_longitude": "-48.463539"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Doutor Freitas, 1545, Pedreira, Belem - PA 66087-810, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.418808",
+          "refe_longitude": "-48.460937"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475232",
+          "refe_longitude": "-48.468341"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1526 - Jurunas, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476291",
+          "refe_longitude": "-48.492895"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Generalissimo Deodoro, 1595, Nazare, Belem - PA 66035-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.455107",
+          "refe_longitude": "-48.482588"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 1898 - Cidade Velha, Bel\u00e9m - PA, 66025-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.476868",
+          "refe_longitude": "-48.489809"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4504 - Guam\u00e1, Bel\u00e9m - PA, 66075-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475212",
+          "refe_longitude": "-48.466711"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Justino Barroso, 495, Arapiranga, Vigia - PA 68780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.849707",
+          "refe_longitude": "-48.143412"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "05/09/2023 15:00:00",
+      "viag_previsao_fim": "08/09/2023 11:53:36"
+    }
+  ]
+}"

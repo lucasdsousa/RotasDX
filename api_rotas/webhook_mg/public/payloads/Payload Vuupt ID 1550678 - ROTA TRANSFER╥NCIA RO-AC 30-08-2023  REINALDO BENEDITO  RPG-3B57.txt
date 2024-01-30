@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG3B57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83095900406"
+        }
+      ],
+      "rota_descricao": "ROTA TRANSFER\u00caNCIA RO/AC 30/08/2023  REINALDO BENEDITO  RPG-3B57",
+      "origem": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "viag_previsao_inicio": "30/08/2023 07:30:00",
+      "viag_previsao_fim": "31/08/2023 07:14:33"
+    }
+  ]
+}

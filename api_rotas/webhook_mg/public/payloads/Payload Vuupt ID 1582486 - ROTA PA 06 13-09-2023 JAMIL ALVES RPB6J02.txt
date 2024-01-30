@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6J02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00048824232"
+        }
+      ],
+      "rota_descricao": "ROTA PA 06 13/09/2023 JAMIL ALVES RPB6J02",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Major Lira Lobato, 34, Boa Esperanca, Igarape-Miri - PA 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.980639",
+          "refe_longitude": "-48.960617"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rod. Dr. Jo\u00e3o Miranda, 3581 - Castanhal, Abaetetuba - PA, 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.736428",
+          "refe_longitude": "-48.861575"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Sete de Setembro, 1221 - Igarap\u00e9-Miri, PA, 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.984479",
+          "refe_longitude": "-48.964886"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Tv. Cel. Vit\u00f3rio, 122 - Igarap\u00e9-Miri, PA, 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.975308",
+          "refe_longitude": "-48.959646"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia PA 150, SN, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.693277",
+          "refe_longitude": "-48.869750"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia uepa - PA-150 - Moju, PA, 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.904394",
+          "refe_longitude": "-48.769210"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Maj. L\u00edra Lobato, 1262 - Igarap\u00e9-Miri, PA, 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.980588",
+          "refe_longitude": "-48.960893"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Sebastiao Camargo, 166, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Raimundo Veridiano Cardoso, 416, Bela Santa Monica, Tucurui - PA 68456-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.777291",
+          "refe_longitude": "-49.676542"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Belem, 134, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948168",
+          "refe_longitude": "-48.954001"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Belem, 87, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948276",
+          "refe_longitude": "-48.953957"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Belem, 94, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948196",
+          "refe_longitude": "-48.953898"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Travessa Juriti, 13, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.940588",
+          "refe_longitude": "-48.956382"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Belem, 92, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948197",
+          "refe_longitude": "-48.953897"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "13/09/2023 10:00:00",
+      "viag_previsao_fim": "16/09/2023 00:27:37"
+    }
+  ]
+}"

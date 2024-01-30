@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN MOSSORO  19/09/2023  GILMAR DE MORAIS  PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Santa Cruz, RN, 59200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.226186",
+          "refe_longitude": "-36.021248"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Luiz Francisco de Oliveira, Lagoa Salgada - RN, 59247-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.122192",
+          "refe_longitude": "-35.475054"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Santa Cruz - RN, 59200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.228206",
+          "refe_longitude": "-36.019836"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Miguel Barbosa - Tangar\u00e1, RN, 59240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.207653",
+          "refe_longitude": "-35.794452"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "RN-093, Rio Grande do Norte, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.155724",
+          "refe_longitude": "-35.875381"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-101, 269 - S/N - Quintas, Natal - RN, 59035-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.801330",
+          "refe_longitude": "-35.236266"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Djalma Dutra, 614, Nova Cruz - RN, 59215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.469830",
+          "refe_longitude": "-35.430400"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "RN-120, Nova Cruz - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.482104",
+          "refe_longitude": "-35.433281"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Jo\u00e3o Gomes de T\u00f4rres, 1039 - Esta\u00e7\u00e3o, Canguaretama - RN, 59190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.376173",
+          "refe_longitude": "-35.141768"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Luiz Francisco de Oliveira, Lagoa Salgada - RN, 59247-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.122192",
+          "refe_longitude": "-35.475054"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Currais Novos, RN, 59380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.263378",
+          "refe_longitude": "-36.515852"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. S\u00edlvio Bezerra de Melo, 815 - Centro, Lagoa Nova - RN, 59390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.094555",
+          "refe_longitude": "-36.471621"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "19/09/2023 05:00:00",
+      "viag_previsao_fim": "19/09/2023 16:30:34"
+    }
+  ]
+}"

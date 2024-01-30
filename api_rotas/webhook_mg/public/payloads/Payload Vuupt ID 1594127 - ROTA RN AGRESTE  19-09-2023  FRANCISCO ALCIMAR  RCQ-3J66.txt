@@ -1,0 +1,227 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ3J66"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04061219405"
+        }
+      ],
+      "rota_descricao": "ROTA RN AGRESTE  19/09/2023  FRANCISCO ALCIMAR  RCQ-3J66",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Padre Ev\u00eancio Guimar\u00e3es, 59, Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.423981",
+          "refe_longitude": "-36.955625"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Monte Alegre, 504 - Sebasti\u00e3o Lopes da Silva, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.211787",
+          "refe_longitude": "-37.426291"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Laranjeiras - SE, 49170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.806454",
+          "refe_longitude": "-37.190162"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Po\u00e7o Redondo, SE, 49810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.806242",
+          "refe_longitude": "-37.685739"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.424170",
+          "refe_longitude": "-36.956912"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Padre Ev\u00eancio Guimar\u00e3es, 59, Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.423981",
+          "refe_longitude": "-36.955625"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Carira - SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.383351",
+          "refe_longitude": "-37.681228"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Carira - SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.383351",
+          "refe_longitude": "-37.681228"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Frei Paulo, SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.549740",
+          "refe_longitude": "-37.533596"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.023152",
+          "refe_longitude": "-37.560295"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Maruim, SE, 49770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.738223",
+          "refe_longitude": "-37.082160"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. do Cajueiro, Gracho Cardoso - SE, 49860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.237449",
+          "refe_longitude": "-37.206414"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Governador Afranio Lages, 100, Centro, Maceio - AL 57020-088, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.654061",
+          "refe_longitude": "-35.739998"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Ladislau Vieira Sarmento, SN, Cidade Universitaria, Maceio - AL 57072-587, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.659623",
+          "refe_longitude": "-35.716381"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Jose Hermes Damasceno, 162, Santa Lucia, Maceio - AL 57082-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.589536",
+          "refe_longitude": "-35.758964"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Ladislau Vieira Sarmento, SN, Cidade Universitaria, Maceio - AL 57072-587, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.659623",
+          "refe_longitude": "-35.716381"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida General Luiz de Franca Albuquerque, 10709, Riacho Doce, Maceio - AL 57039-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.582970",
+          "refe_longitude": "-35.661312"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia Gunther Frans Oliveira, 15645, Ipioca, Maceio - AL 57039-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.503519",
+          "refe_longitude": "-35.593140"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Jose Hermes Damasceno, 162, Santa Lucia, Maceio - AL 57082-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.589536",
+          "refe_longitude": "-35.758964"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Menino Marcelo, 2301, Cidade Universitaria, Maceio - AL 57073-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.596811",
+          "refe_longitude": "-35.723602"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Ladislau Vieira Sarmento, SN, Cidade Universitaria, Maceio - AL 57072-587, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.659623",
+          "refe_longitude": "-35.716381"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 6120, Jardim Petropolis, Maceio - AL 57080-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.603098",
+          "refe_longitude": "-35.745743"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 11, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.532173",
+          "refe_longitude": "-35.796198"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 1693, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.552738",
+          "refe_longitude": "-35.784286"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BR 101, S/N, Zona Rural, Rio Largo - AL 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.478325",
+          "refe_longitude": "-35.839733"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "19/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 06:57:05"
+    }
+  ]
+}"

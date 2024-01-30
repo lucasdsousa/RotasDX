@@ -1,0 +1,83 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC9D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67147216334"
+        }
+      ],
+      "rota_descricao": "ROTA CE 03  04/09/2023  PAULO RICARDO  RPC-9D25",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Costa Azevedo, 139 - Centro, Novo Oriente - CE, 63740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.536262",
+          "refe_longitude": "-40.770483"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coronel Eufrazino de Pinho, 123, Centro, Poranga - CE 62220-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.742399",
+          "refe_longitude": "-40.925281"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Costa Azevedo, 139 - Centro, Novo Oriente - CE, 63740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.536262",
+          "refe_longitude": "-40.770483"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Eug\u00eanio Cidr\u00e3o Uch\u00f4a, 17 - Floresta, Boa Viagem - CE, 63870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.115978",
+          "refe_longitude": "-39.727943"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Cust\u00f3dio Bezerra, 64 - Centro, Tau\u00e1 - CE, 63660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.006337",
+          "refe_longitude": "-40.290244"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Dr. S\u00f3lon Ximenes Arag\u00e3o, 513 - Floresta, Boa Viagem - CE, 63870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.115355",
+          "refe_longitude": "-39.727212"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dr Edilberto Frota, 2130, Fatima II, Crateus - CE 63700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.189590",
+          "refe_longitude": "-40.675568"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "04/09/2023 07:30:00",
+      "viag_previsao_fim": "06/09/2023 19:56:36"
+    }
+  ]
+}

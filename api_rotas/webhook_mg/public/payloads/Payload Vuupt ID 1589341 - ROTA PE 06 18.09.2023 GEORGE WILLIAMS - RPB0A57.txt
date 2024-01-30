@@ -1,0 +1,52 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 06 18.09.2023 GEORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Campina Grande, 1607, Caiuca, Caruaru - PE 55034-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.268392",
+          "refe_longitude": "-35.979122"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Campina Grande, 138, Mauricio de Nassau, Caruaru - PE 55014-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.270646",
+          "refe_longitude": "-35.980704"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "18/09/2023 13:00:06"
+    }
+  ]
+}"

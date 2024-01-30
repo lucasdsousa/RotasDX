@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PND1207"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91737281368"
+        }
+      ],
+      "rota_descricao": "Transfer\u00eancia Itz - Benevides 30/08/2023 J\u00falio Costa de Aguiar",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "viag_previsao_inicio": "30/08/2023 13:00:00",
+      "viag_previsao_fim": "02/09/2023 11:35:58"
+    }
+  ]
+}

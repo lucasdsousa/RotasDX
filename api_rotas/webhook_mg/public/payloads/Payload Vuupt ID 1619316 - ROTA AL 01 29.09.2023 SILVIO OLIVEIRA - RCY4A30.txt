@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 29.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Intendente Julio Calheiros, 320, Mata do Rolo, Rio Largo - AL 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.475993",
+          "refe_longitude": "-35.823632"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Jorge Barros, 3681, Santa Amelia, Maceio - AL 57063-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.590830",
+          "refe_longitude": "-35.775091"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Lourival Melo Mota, 9230, Santos Dumont, Maceio - AL 57075-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.556911",
+          "refe_longitude": "-35.782329"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Belmiro Amorim, 40, Santa Lucia, Maceio - AL 57082-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.575973",
+          "refe_longitude": "-35.750925"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Des. Carlos de Gusm\u00e3o, 6 - Tabuleiro do Martins, Macei\u00f3 - AL, 57081-366, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.570907",
+          "refe_longitude": "-35.750161"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Professor Jose da Silveira Camerino, 526, Pinheiro, Maceio - AL 57055-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.632229",
+          "refe_longitude": "-35.740240"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 6120, Jardim Petropolis, Maceio - AL 57080-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.603098",
+          "refe_longitude": "-35.745743"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "29/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 11:02:21"
+    }
+  ]
+}"

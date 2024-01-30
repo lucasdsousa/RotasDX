@@ -1,0 +1,221 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002703",
+  "cnpj_embarcador": "05092901002703",
+  "cnpj_transportador": "05092901002703",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1557970,
+  "numero_liberacao": 1557970,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JULIO CESAR RODRIGUES DA SILVA",
+    "cpf": "21288236840",
+    "telefone": "+5516991369390"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB5D63"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+    "logradouro": "R. C\u00e2ndido P Lima",
+    "numero": " 302 ",
+    "complemento": "0",
+    "bairro": "Jardin\u00f3polis",
+    "cidade": " SP",
+    "estado": " 14680000",
+    "latitude": -21.041428,
+    "longitude": -47.812349,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 09:00:00",
+  "data_previsao_fim": "06/09/2023 19:28:55",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08762442000187",
+            "descricao": "WALMIR BERTO",
+            "logradouro": "R. Tom\u00e1s Jos\u00e9 de Barros",
+            "numero": " 308 ",
+            "CEP": "14580000",
+            "complemento": "0",
+            "bairro": "Guar\u00e1",
+            "cidade": " SP",
+            "estado": " ",
+            "latitude": "-20.426083",
+            "longitude": "-47.817762",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:53:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1799.9",
+                  "volume": "6",
+                  "peso": "95.446"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39239973000113",
+            "descricao": "REGINALDO FERREIRA DA SILVA",
+            "logradouro": "Av. Dr. Willian Azzuz",
+            "numero": " 600 ",
+            "CEP": "14409400",
+            "complemento": "0",
+            "bairro": "Franca",
+            "cidade": " SP",
+            "estado": " ",
+            "latitude": "-20.499753",
+            "longitude": "-47.398250",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:09:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1007.28",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "36696918000164",
+            "descricao": "RENATO CESAR ALVES",
+            "logradouro": "Rua Washington Luis",
+            "numero": " 5241",
+            "CEP": "14420000",
+            "complemento": "0",
+            "bairro": " Centro",
+            "cidade": " Itirapua ",
+            "estado": "SP ",
+            "latitude": "-20.642899",
+            "longitude": "-47.223336",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 14:43:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "949.5",
+                  "volume": "5",
+                  "peso": "92.75"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23509514000172",
+            "descricao": "R. F. L. FRANCA AUTO POSTO LTDA",
+            "logradouro": "R. Lino Manoel de Moraes ",
+            "numero": "Parque Santa Hilda",
+            "CEP": "14403690",
+            "complemento": "0",
+            "bairro": " Franca ",
+            "cidade": "SP",
+            "estado": " ",
+            "latitude": "-20.548187",
+            "longitude": "-47.372872",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 15:22:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "741.3",
+                  "volume": "3",
+                  "peso": "50.201"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39239973000113",
+            "descricao": "REGINALDO FERREIRA DA SILVA",
+            "logradouro": "Av. Dr. Willian Azzuz",
+            "numero": " 600 ",
+            "CEP": "14409400",
+            "complemento": "0",
+            "bairro": "Franca",
+            "cidade": " SP",
+            "estado": " ",
+            "latitude": "-20.499753",
+            "longitude": "-47.398250",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 15:58:13",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "406.8",
+                  "volume": "2",
+                  "peso": "22.44"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

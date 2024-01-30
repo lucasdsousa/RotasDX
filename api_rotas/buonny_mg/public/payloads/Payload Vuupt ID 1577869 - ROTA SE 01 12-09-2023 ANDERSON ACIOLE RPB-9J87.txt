@@ -1,0 +1,284 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001146",
+  "cnpj_embarcador": "05092901001146",
+  "cnpj_transportador": "05092901001146",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1577869,
+  "numero_liberacao": 1577869,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ANDERSON ACIOLE SANTANA",
+    "cpf": "01644452502",
+    "telefone": "+5579999637139"
+  },
+  "veiculos": {
+    "placa": "RPB9J87"
+  },
+  "origem": {
+    "codigo_externo": "05092901001146",
+    "descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+    "latitude": -10.921846,
+    "longitude": -37.093091
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 07:00:00",
+  "data_previsao_fim": "12/09/2023 15:03:45",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32864795000768",
+            "descricao": "REDE DE POSTOS PRESIDENTE LTDA FILIAL 07",
+            "latitude": "-10.921213",
+            "longitude": "-37.093603",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 10:00:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2299.75",
+                  "volume": "5",
+                  "peso": "113.503"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13266190000135",
+            "descricao": "LEON AUTO PECAS LTDA ME",
+            "latitude": "-10.909341",
+            "longitude": "-37.078308",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 10:30:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7612.17",
+                  "volume": "26",
+                  "peso": "504.538"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05482271000144",
+            "descricao": "PETROX DISTRIBUIDORA LTDA",
+            "latitude": "-10.870287",
+            "longitude": "-37.168771",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:23:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1389",
+                  "volume": "3",
+                  "peso": "57"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32864795000768",
+            "descricao": "REDE DE POSTOS PRESIDENTE LTDA FILIAL 07",
+            "latitude": "-10.921213",
+            "longitude": "-37.093603",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:53:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3750",
+                  "volume": "10",
+                  "peso": "182.945"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05482271000144",
+            "descricao": "PETROX DISTRIBUIDORA LTDA",
+            "latitude": "-10.870287",
+            "longitude": "-37.168771",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:39:21",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5064",
+                  "volume": "18",
+                  "peso": "340.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "15153478000129",
+            "descricao": "MEGGA AUTO PECAS LTDA ME",
+            "latitude": "-10.909913",
+            "longitude": "-37.076987",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:27:14",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1857.85",
+                  "volume": "5",
+                  "peso": "91.473"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00844741000159",
+            "descricao": "AUTOLUBES COMERCIO PECAS ACESSORIOS LUBRIFICANTES LTDA",
+            "latitude": "-10.933164",
+            "longitude": "-37.059006",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:06:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2228.7",
+                  "volume": "15",
+                  "peso": "298.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02876834000190",
+            "descricao": "SUPER TROCAO DE OLEO LTDA",
+            "latitude": "-10.911281",
+            "longitude": "-37.063575",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:36:56",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2640.8",
+                  "volume": "10",
+                  "peso": "189"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00844741000159",
+            "descricao": "AUTOLUBES COMERCIO PECAS ACESSORIOS LUBRIFICANTES LTDA",
+            "latitude": "-10.933164",
+            "longitude": "-37.059006",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:08:39",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9615.12",
+                  "volume": "3",
+                  "peso": "562.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "49730339000132",
+            "descricao": "JOAO MARCIO NASCIMENTO RODRIGUES DE MELO",
+            "latitude": "-10.911398",
+            "longitude": "-37.068909",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:53:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "761.67",
+                  "volume": "3",
+                  "peso": "33.48"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI 01 14/09/2023 FRANCIMAR LIMA RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Prefeito Wall Ferraz, 4431 - Lourival Parente, Teresina - PI, 64023-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.127742",
+          "refe_longitude": "-42.792821"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua 13 de Maio, 3935, Tabuleta, Teresina - PI 64019-708, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.122917",
+          "refe_longitude": "-42.799439"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Joaquim Ribeiro, 1750, Nossa Senhora das Gracas, Teresina - PI 64001-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.097644",
+          "refe_longitude": "-42.805584"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Castelo do Piaui, 2265, Memorare, Teresina - PI 64009-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.045953",
+          "refe_longitude": "-42.825159"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 10:24:19"
+    }
+  ]
+}"

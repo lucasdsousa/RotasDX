@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83095900406"
+        }
+      ],
+      "rota_descricao": "ROTA RO  14/09/2023  REINALDO BENEDITO  RPB-0C02",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-364 - Tr\u00eas Marias, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.788403",
+          "refe_longitude": "-63.853436"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Farquar, 5351 - S\u00e3o Sebastiao, Porto Velho - RO, 76801-734, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.742124",
+          "refe_longitude": "-63.913188"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-364, KM 6 - 5, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.798970",
+          "refe_longitude": "-63.834540"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "14/09/2023 08:45:00",
+      "viag_previsao_fim": "14/09/2023 10:31:24"
+    }
+  ]
+}"

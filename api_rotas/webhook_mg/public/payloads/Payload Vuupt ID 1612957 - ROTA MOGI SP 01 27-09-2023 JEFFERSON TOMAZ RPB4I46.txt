@@ -1,0 +1,283 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4I46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "39666444879"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 27/09/2023 JEFFERSON TOMAZ RPB4I46",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Rodovalho da Fonseca, 414 - Pari, S\u00e3o Paulo - SP, 03028-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.525417",
+          "refe_longitude": "-46.609826"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Miguel Ferreira de Melo, 100 - Jardim Santo Andre, S\u00e3o Paulo - SP, 08390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.629227",
+          "refe_longitude": "-46.444767"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Estr. Pinheirinho Novo, 237 - Jardim Alpes de Itaqua, Itaquaquecetuba - SP, 08588-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.444442",
+          "refe_longitude": "-46.322466"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Frei Gaspar, 575 - Vila Santa Rita de Cassia, S\u00e3o Bernardo do Campo - SP, 09720-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.717303",
+          "refe_longitude": "-46.553148"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. S\u00e3o Miguel, 4049 - Vila Rio Branco, S\u00e3o Paulo - SP, 03871-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.508126",
+          "refe_longitude": "-46.494138"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Estrada De Santa Isabel, 6312, Una, Itaquaquecetuba - SP 08588-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.439245",
+          "refe_longitude": "-46.325013"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Cap. Casa, 1507 - Bairro dos Casa, S\u00e3o Bernardo do Campo - SP, 09812-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.729864",
+          "refe_longitude": "-46.567244"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Saigon, 92 - Vila Formosa, S\u00e3o Paulo - SP, 03360-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.567833",
+          "refe_longitude": "-46.544177"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Roland Garros, 2246, Parque Edu Chaves, Sao Paulo - SP 02235-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.476319",
+          "refe_longitude": "-46.567147"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ant\u00f4nio D'Amin, 429 - Jardim das Oliveiras, S\u00e3o Paulo - SP, 08122-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.493413",
+          "refe_longitude": "-46.378704"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Dr. Bernardino Brito Fonseca de Carvalho, 324 - Vila Talarico, S\u00e3o Paulo - SP, 03535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.534329",
+          "refe_longitude": "-46.520389"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "27/09/2023 07:30:00",
+      "viag_previsao_fim": "27/09/2023 17:28:37"
+    }
+  ]
+}"

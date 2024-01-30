@@ -1,0 +1,212 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1582395,
+  "numero_liberacao": 1582395,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ROMARIO DOS SANTOS MACEDO",
+    "cpf": "02747957101",
+    "telefone": "+5562998694677"
+  },
+  "veiculos": {
+    "placa": "RPB2D47"
+  },
+  "origem": {
+    "codigo_externo": "05092901001812",
+    "descricao": "Dunax Lubrificantes LTDA - GO",
+    "latitude": -16.34282,
+    "longitude": -48.96797
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 10:00:00",
+  "data_previsao_fim": "13/09/2023 17:40:08",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "30993512000167",
+            "descricao": "MARK OLEO LUBRIFICANTE EIRELI",
+            "latitude": "-16.629044",
+            "longitude": "-49.235194",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 13:12:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9583.24",
+                  "volume": "48",
+                  "peso": "702.784"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10545667000123",
+            "descricao": "ALESSANDRO GONCALVES DOS SANTOS O ANAPOLINO",
+            "latitude": "-16.382219",
+            "longitude": "-48.956311",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:37:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3144",
+                  "volume": "10",
+                  "peso": "227"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02807391000186",
+            "descricao": "PARANAIBA COMERCIO E DERIVADOS DE PETROLEO LTDA",
+            "latitude": "-16.690172",
+            "longitude": "-49.338404",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:21:08",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "192",
+                  "volume": "1",
+                  "peso": "4.75"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28262733000113",
+            "descricao": "RAYAN E VERA PNEUS LTDA",
+            "latitude": "-16.684342",
+            "longitude": "-49.345283",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:10:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1294.5",
+                  "volume": "6",
+                  "peso": "67.269"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08568997000192",
+            "descricao": "AUTO POSTO DO RATINHO LTDA",
+            "latitude": "-16.691444",
+            "longitude": "-49.262039",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:01:23",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1696.8",
+                  "volume": "20",
+                  "peso": "240"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12025923000187",
+            "descricao": "WELBE GONCALVES RAMOS",
+            "latitude": "-16.643363",
+            "longitude": "-49.274133",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:37:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7440",
+                  "volume": "33",
+                  "peso": "378.985"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "25008749000106",
+            "descricao": "NION DE OLIVEIRA MARQUES",
+            "latitude": "-16.645632",
+            "longitude": "-49.420308",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 18:31:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2888",
+                  "volume": "8",
+                  "peso": "181.605"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 7 Incompletos&#10;Informe o destino da SM&#10;"]}

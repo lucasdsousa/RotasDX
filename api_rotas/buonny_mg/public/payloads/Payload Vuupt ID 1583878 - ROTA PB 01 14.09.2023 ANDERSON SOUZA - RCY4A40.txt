@@ -1,0 +1,97 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583878,
+  "numero_liberacao": 1583878,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ANDERSON SOUZA DOS SANTOS",
+    "cpf": "07246512411",
+    "telefone": "+5583986461609",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY4A40"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0007-60",
+    "descricao": "Dunax Lubrificantes LTDA- PB"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "15/09/2023 23:23:25",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "63.755.987/0001-74",
+        "descricao": "J. L. DA COSTA & CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:53:34",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3530.16",
+              "volume": "12",
+              "peso": "215.749"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.910.245/0002-50",
+        "descricao": "AUTO POSTO CARGA PESADA LTDA - FILIAL 2",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:27:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4152",
+              "volume": "2",
+              "peso": "365.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "02.377.798/0002-00",
+        "descricao": "ICCAP IMPLEMENTOS RODOVIARIOS LTDA - FILIAL 02",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:46:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "13600",
+              "volume": "200",
+              "peso": "4580"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301843","erros":[]}

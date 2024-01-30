@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLP3F93"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02813765490"
+        }
+      ],
+      "rota_descricao": "ROTA PE 05 21.09.2023 CLEYTON OLIVEIRA  - PLP3F93",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Silvino Rabelo, 349, Centro, Condado - PE 55940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.585189",
+          "refe_longitude": "-35.096611"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PE 82, S/N, Vila Ipiranga, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.409853",
+          "refe_longitude": "-35.110171"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Prefeito Braz Lira, 146, Malaquias Cardoso, Santa Cruz do Capibaribe - PE 55190-356, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.955249",
+          "refe_longitude": "-36.196716"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Prof Maria Dos Anjos, S/N, Centro, Bom Jardim - PE 55730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.795096",
+          "refe_longitude": "-35.587552"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Joao de Araujo, 167, Centro, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.590262",
+          "refe_longitude": "-35.489870"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia PE 088, SN, Mae Rainha, Joao Alfredo - PE 55720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.857555",
+          "refe_longitude": "-35.598979"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Vereador Rodolfo Francelino Aragao, 43, Bairro Novo, Santa Cruz do Capibaribe - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.950765",
+          "refe_longitude": "-36.206254"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Pref. Braz de L\u00edra, 65 - Nova Palestina, Santa Cruz do Capibaribe - PE, 55190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.956325",
+          "refe_longitude": "-36.196197"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia PE 089, S/N, Vila Siriji, Sao Vicente Ferrer - PE 55860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.653238",
+          "refe_longitude": "-35.468218"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Severino Augusto Miranda, 90, Centro, Casinhas - PE 55755-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.744234",
+          "refe_longitude": "-35.724504"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Prefeito Braz Lira, 146, Malaquias Cardoso, Santa Cruz do Capibaribe - PE 55190-356, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.955249",
+          "refe_longitude": "-36.196716"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia PE 088, S/N, Centro, Orobo - PE 55745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.748451",
+          "refe_longitude": "-35.606251"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Joaquim Jose Cavalcante Neto, 540, Cha do Marinheiro, Surubim - PE 55750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.851829",
+          "refe_longitude": "-35.766730"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Alberto Benning, 149, Centro, Passira - PE 55650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.980019",
+          "refe_longitude": "-35.580935"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Venancio Jose Correia Lima, 180, Centro, Lagoa do Itaenga - PE 55840-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.934289",
+          "refe_longitude": "-35.289437"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia BR 408, S/N, Jua, Nazare da Mata - PE 55800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.741438",
+          "refe_longitude": "-35.234049"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia PE 095, SN, Centro, Cumaru - PE 55655-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.056229",
+          "refe_longitude": "-35.707340"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia PE 160, SN, Augusto Melo, Jatauba - PE 55180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.983468",
+          "refe_longitude": "-36.499793"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "23/09/2023 10:39:22"
+    }
+  ]
+}"

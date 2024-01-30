@@ -1,0 +1,73 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLY8F07"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06106721424"
+        }
+      ],
+      "rota_descricao": "ROTA PE 04 25.09.2023 SANDRO PERGENTINO - PLY8F07",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Marques de Olinda, S/N, Centro, Sirinhaem - PE 55580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.595132",
+          "refe_longitude": "-35.112388"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 101, SN, Engenho Rainha Dos Anjos, Ribeirao - PE 55520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.462220",
+          "refe_longitude": "-35.367026"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Dr Nemerico F Mendonca, 22, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.677733",
+          "refe_longitude": "-35.578103"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dr Homero Franca Limeira, 427, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.675090",
+          "refe_longitude": "-35.576962"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Nelson Paranhos, 82, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.686267",
+          "refe_longitude": "-35.594786"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "25/09/2023 05:00:00",
+      "viag_previsao_fim": "25/09/2023 15:08:48"
+    }
+  ]
+}"

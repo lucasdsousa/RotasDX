@@ -1,0 +1,548 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1582839,
+  "numero_liberacao": 1582839,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO LUIZ MARQUES DE BRITO",
+    "cpf": "00725768711",
+    "telefone": "+5522996032624"
+  },
+  "veiculos": {
+    "placa": "RPB6B70"
+  },
+  "origem": {
+    "codigo_externo": "05092901001731",
+    "descricao": "Dunax Lubrificantes LTDA-  RJ",
+    "latitude": -21.683746,
+    "longitude": -41.311186
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 13:00:00",
+  "data_previsao_fim": "16/09/2023 00:15:51",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28612588000153",
+            "descricao": "AUTO PECAS CANTAGALO LTDA",
+            "latitude": "-22.762081",
+            "longitude": "-43.451298",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:12:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "321.12",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35795854000196",
+            "descricao": "ANTONIO M S RIBEIRO",
+            "latitude": "-22.325711",
+            "longitude": "-41.726455",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:11:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1869.04",
+                  "volume": "6",
+                  "peso": "104.803"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08939135000129",
+            "descricao": "PISAO ARTEFATOS LTDA",
+            "latitude": "-22.861897",
+            "longitude": "-42.598186",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 19:37:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6339",
+                  "volume": "29",
+                  "peso": "542.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26142908000123",
+            "descricao": "FDG DA SILVA JUNIOR PRODUTOS AUTOMOTIVOS",
+            "latitude": "-21.611684",
+            "longitude": "-41.315796",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:19:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2836.6",
+                  "volume": "13",
+                  "peso": "241.431"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28620714000111",
+            "descricao": "OFICINA MECANICA JONEYR LTDA",
+            "latitude": "-22.720214",
+            "longitude": "-42.648667",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 22:36:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "405.62",
+                  "volume": "1",
+                  "peso": "22.701"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07197463000134",
+            "descricao": "R P BRANDAO COMERCIO DE PECAS E ACESSORIOS PARA MOTOS",
+            "latitude": "-22.370245",
+            "longitude": "-41.782267",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 11:51:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4380",
+                  "volume": "15",
+                  "peso": "346.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03854073000139",
+            "descricao": "POSTO CAROBELLA LTDA",
+            "latitude": "-21.743481",
+            "longitude": "-41.356775",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 13:15:14",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "321.28",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10438289000189",
+            "descricao": "JULROX COMERCIO LTDA",
+            "latitude": "-22.788726",
+            "longitude": "-42.374164",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 14:33:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1386",
+                  "volume": "5",
+                  "peso": "92.69"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11807808000100",
+            "descricao": "Costas Com de Pecas e Implem Agri LTDA",
+            "latitude": "-22.863790",
+            "longitude": "-42.319935",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 17:06:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3483.35",
+                  "volume": "15",
+                  "peso": "225.618"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08587521000107",
+            "descricao": "ENGEPEC PECAS AUTOMOTIVAS LTDA",
+            "latitude": "-22.350665",
+            "longitude": "-43.119953",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 19:36:55",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1056.6",
+                  "volume": "3",
+                  "peso": "68.101"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19453789000164",
+            "descricao": "TOP DIESEL COM DE AUTO PECAS SOCIEDADE LIMITADA UNIPESSOAL",
+            "latitude": "-22.419304",
+            "longitude": "-43.133171",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 20:14:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "202.88",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39415343000233",
+            "descricao": "BM2 AUTO PECAS LTDA",
+            "latitude": "-22.329962",
+            "longitude": "-43.176041",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 21:51:46",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "320.95",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20280825000114",
+            "descricao": "GAMA LOCACAO DE EQUIP PARA TERRAPLANAGEM E MAT DE CONSTRUCAO",
+            "latitude": "-22.260081",
+            "longitude": "-42.554275",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 11:35:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4214",
+                  "volume": "1",
+                  "peso": "182.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31125289000107",
+            "descricao": "AUTO MECANICA PAVAO LTDA",
+            "latitude": "-22.442842",
+            "longitude": "-43.141151",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 12:26:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "642.24",
+                  "volume": "2",
+                  "peso": "45.4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33843265000100",
+            "descricao": "GADERNAL GNV AUTO PECAS E SERVICOS LTDA",
+            "latitude": "-22.434641",
+            "longitude": "-42.942655",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 13:15:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1160.28",
+                  "volume": "4",
+                  "peso": "67.824"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48684314000187",
+            "descricao": "EDINEA MARTINS DA FONSECA",
+            "latitude": "-21.956464",
+            "longitude": "-42.134848",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 16:40:21",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "320.95",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "30555031000170",
+            "descricao": "POSTO MURY LTDA",
+            "latitude": "-22.336335",
+            "longitude": "-42.511918",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 17:18:28",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "466.5",
+                  "volume": "1",
+                  "peso": "22.706"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09073051000118",
+            "descricao": "J STANECK AUTO PECAS",
+            "latitude": "-22.236507",
+            "longitude": "-42.531671",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 17:57:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4621.65",
+                  "volume": "15",
+                  "peso": "340.508"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01710123000189",
+            "descricao": "PAGIL SERRANA AUTO PECAS LTDA ME",
+            "latitude": "-22.257248",
+            "longitude": "-42.528544",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 18:46:32",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "470.4",
+                  "volume": "1",
+                  "peso": "22.706"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38080871000135",
+            "descricao": "SAYURI FERREIRA MATSUMOTO",
+            "latitude": "-22.409944",
+            "longitude": "-42.968319",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-15 21:10:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "321.12",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34566490000100",
+            "descricao": "CLODOALDO OLIVEIRA DE AZEVEDO",
+            "latitude": "-21.358295",
+            "longitude": "-41.938759",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-16 00:08:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "302.4",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 21 Incompletos&#10;Informe o destino da SM&#10;"]}

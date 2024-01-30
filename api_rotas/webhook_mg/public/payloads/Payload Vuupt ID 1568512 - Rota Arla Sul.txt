@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PKT2882"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00460156551"
+        }
+      ],
+      "rota_descricao": "Rota Arla Sul",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "ROD. BR 101, SN, ODILON, ITABUNA - BAHIA, 45601-560, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.806741",
+          "refe_longitude": "-39.295710"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "AV. UBAITABA, 733, MALHADO, ILH\u00c9US - BAHIA, 45651-520, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.786280",
+          "refe_longitude": "-39.051273"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "EST. ESTRADA DA CABRITA, 100 - CIS, FEIRA DE SANTANA - BAHIA, 44013200, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.287412",
+          "refe_longitude": "-38.988069"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "ROD. BR 101, SN, ZONA RURAL, MURITIBA - BAHIA 44340-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.606871",
+          "refe_longitude": "-39.060781"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "ROD. BR 101, SN, MANOEL LEAO, ITABUNA - BAHIA 45601-402, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.799733",
+          "refe_longitude": "-39.291306"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "ROD. BR 101, SN, SEDE, CONCEI\u00c7\u00c3O DO JACU\u00cdPE - BAHIA 44254-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.339344",
+          "refe_longitude": "-38.759857"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. GARANHUNS, 147 - CONCEICAO, FEIRA DE SANTANA - BAHIA, 44067078, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.235167",
+          "refe_longitude": "-38.931786"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Cruz das Almas, BA, 44380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.671880",
+          "refe_longitude": "-39.103930"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "ROD. BR 101, SN, ZONA RURAL, BUERAREMA - BAHIA 45615-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.957870",
+          "refe_longitude": "-39.302980"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "06/09/2023 10:00:00",
+      "viag_previsao_fim": "07/09/2023 18:19:32"
+    }
+  ]
+}"

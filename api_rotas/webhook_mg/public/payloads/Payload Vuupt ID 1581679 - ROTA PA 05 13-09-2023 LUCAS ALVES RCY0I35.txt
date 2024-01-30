@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 05 13/09/2023 LUCAS ALVES RCY0I35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Quadra 47, 04, Maracangalha, Belem - PA 66110-151, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.403585",
+          "refe_longitude": "-48.480005"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Tv. We-72 A, 1831 - Coqueiro, Ananindeua - PA, 67143-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.350544",
+          "refe_longitude": "-48.385576"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Br 316 km 9, 1757 Centro - \u00c1guas Brancas, Ananindeua - PA, 67033-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366360",
+          "refe_longitude": "-48.370075"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dr Marcionilo Alves, SN, Santa Rita, Vigia - PA 68780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.857761",
+          "refe_longitude": "-48.136786"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 316, SN, Coqueiro, Ananindeua - PA 67110-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.380762",
+          "refe_longitude": "-48.398813"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-316, 4800 - \u00c1guas Lindas, Ananindeua - PA, 67015-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.381166",
+          "refe_longitude": "-48.398718"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "BR316, esquina com Rua - Av. D\u00e9bora Calandrine - \u00c1guas Lindas, Ananindeua - PA, 67020-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.381668",
+          "refe_longitude": "-48.399431"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "13/09/2023 08:00:00",
+      "viag_previsao_fim": "14/09/2023 15:42:15"
+    }
+  ]
+}"

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW7G98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "18919472491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 28.09.2023 JOSE ALMIR - RCW7G98",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 232, SN, Curado, Jaboatao dos Guararapes - PE 54220-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.069498",
+          "refe_longitude": "-34.948740"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Professor Moraes Rego, 364, Vazea, Recife - PE 50670-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.042024",
+          "refe_longitude": "-34.943414"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Estrada Da Batalha, 2104, Jardim Jordao, Jaboatao dos Guararapes - PE 54315-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.144154",
+          "refe_longitude": "-34.918572"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Mamoeiro, 70a - Santo Aleixo, Jaboat\u00e3o dos Guararapes - PE, 54120-620, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.092290",
+          "refe_longitude": "-35.022816"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-408 - S\u00e3o Louren\u00e7o da Mata, PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.011198",
+          "refe_longitude": "-35.042571"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Bernardo Vieira de Melo, 1905, Piedade, Jaboatao dos Guararapes - PE 54410-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.169909",
+          "refe_longitude": "-34.915318"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia PE 09, SN, Distrito Industrial de Suape, Ipojuca - PE 55590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.419214",
+          "refe_longitude": "-35.072695"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Beberibe, 4172, Beberibe, Recife - PE 52130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.004156",
+          "refe_longitude": "-34.894282"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Antonio Eduardo Amorim, 225, Imbiribeira, Recife - PE 51150-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.106386",
+          "refe_longitude": "-34.909272"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 101 Sul, SN, Prazeres, Jaboatao dos Guararapes - PE 54345-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.181949",
+          "refe_longitude": "-34.951170"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Brasil, 55, Centro, Abreu e Lima - PE 53525-790, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.908333",
+          "refe_longitude": "-34.902032"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Dantas Barreto, 719, Santo Antonio, Recife - PE 50020-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067054",
+          "refe_longitude": "-34.879422"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "28/09/2023 18:27:00"
+    }
+  ]
+}"

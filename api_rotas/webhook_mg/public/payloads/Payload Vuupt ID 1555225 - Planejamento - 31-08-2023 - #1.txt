@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6B70"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "Planejamento - 31/08/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28093, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Luiz Gomes, 258, Centro, Silva Jardim - RJ 28820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.648797",
+          "refe_longitude": "-42.393823"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28093, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "31/08/2023 12:00:00",
+      "viag_previsao_fim": "01/09/2023 19:57:45"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLZ8J72"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04590300516"
+        }
+      ],
+      "rota_descricao": "Rota Arla  City Marketing + Litroal Norte",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "AV. EDUARDO FROES DA MOTA, 4040, S\u00c3O JO\u00c3O, FEIRA DE SANTANA - BAHIA, 44051-020, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.232830",
+          "refe_longitude": "-38.952268"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. GAMELEIRA, 110 - CONCEICAO, FEIRA DE SANTANA - BAHIA, 44066656, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.234679",
+          "refe_longitude": "-38.931843"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. UIRAPURU, 374 - SANTA MONICA, FEIRA DE SANTANA - BAHIA, 44078250, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.266025",
+          "refe_longitude": "-38.930077"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. MANOEL NASCIMENTO, 85, CAIXA D \u00c1GUA, LAURO DE FREITAS - BAHIA, 42711-620, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.880737",
+          "refe_longitude": "-38.326884"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "VIA. DE PENETRAO IV, SN, CIA SUL, SIM\u00d5ES FILHO - BAHIA, 43700-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.832982",
+          "refe_longitude": "-38.410309"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "ROD. BR 116, SN, SEDE, FEIRA DE SANTANA - BAHIA, 44036-331, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.225218",
+          "refe_longitude": "-38.947235"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "ROD. BR 324, SN, CENTRO, FEIRA DE SANTANA - BAHIA, 44001-970, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.284361",
+          "refe_longitude": "-38.920228"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "ROD. BR 101, SN, SEDE, CONCEI\u00c7\u00c3O DO JACU\u00cdPE - BAHIA 44254-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.339344",
+          "refe_longitude": "-38.759857"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "ROD. BR 101, SN, RODOVIA, RIO REAL - BAHIA 48330-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.539053",
+          "refe_longitude": "-37.851413"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "14/09/2023 12:40:00",
+      "viag_previsao_fim": "15/09/2023 12:34:11"
+    }
+  ]
+}"

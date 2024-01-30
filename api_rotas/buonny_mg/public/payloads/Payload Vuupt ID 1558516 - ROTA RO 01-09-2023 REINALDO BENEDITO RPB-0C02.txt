@@ -1,0 +1,97 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": [
+    "05092901001227"
+  ],
+  "cnpj_embarcador": [
+    "05092901001227"
+  ],
+  "cnpj_transportador": [
+    "05092901001227"
+  ],
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1558516,
+  "numero_liberacao": 1558516,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "REINALDO BENEDITO DA SILVA",
+    "cpf": "83095900406",
+    "telefone": "+556999356534"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB0C02"
+    ]
+  },
+  "origem": {
+    "codigo_externo": [
+      "05092901001227"
+    ],
+    "descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+    "logradouro": "BR364",
+    "numero": " 9280 ",
+    "complemento": "0",
+    "bairro": "Aeroclube",
+    "cidade": " Porto Velho ",
+    "estado": "RO",
+    "latitude": -8.787411,
+    "longitude": -63.855378,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": true,
+  "data_previsao_inicio": "01/09/2023 14:30:00",
+  "data_previsao_fim": "02/09/2023 03:36:20",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48925968000155",
+            "descricao": "DOUGLAS MORAIS DE SOUZA",
+            "logradouro": "R. Adoniran Barbosa",
+            "numero": " 2992 ",
+            "CEP": " 76812680",
+            "complemento": "0",
+            "bairro": "Tr\u00eas Marias",
+            "cidade": " Porto Velho ",
+            "estado": "RO",
+            "latitude": "-8.769490",
+            "longitude": "-63.847367",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 19:07:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "936",
+                  "volume": "3",
+                  "peso": "68.1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 1 Incompletos&#10;Informe o destino da SM&#10;"]}

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 06/09/2023 JEAN CLAUDIO RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 1, 1461, Mondubim, Fortaleza - CE 60767-725, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.816577",
+          "refe_longitude": "-38.580073"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coronel Virgilio Nogueria Paes, 158, Granja Portugal, Fortaleza - CE 60545-262, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.787527",
+          "refe_longitude": "-38.608346"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Carneiro de Mendonca, 1301, Joquei Clube, Fortaleza - CE 60440-231, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.762066",
+          "refe_longitude": "-38.570782"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Nova Vida, 815, Arianopolis, Caucaia - CE 61656-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766357",
+          "refe_longitude": "-38.652049"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Tr\u00eas de Maio, 1329 - Bela Vista, Fortaleza - CE, 60442-202, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.748203",
+          "refe_longitude": "-38.565462"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-222 - Tabapu\u00e1, Caucaia - CE, 61635-365, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.742888",
+          "refe_longitude": "-38.614015"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Rosinha Sampaio, 2344 - Quintino Cunha, Fortaleza - CE, 60345-662, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.723548",
+          "refe_longitude": "-38.599400"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Maria Gomes de Sa, 2150, Aracape, Fortaleza - CE 60765-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.821169",
+          "refe_longitude": "-38.586635"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Cel. Carvalho, 920 - Barra do Cear\u00e1, Fortaleza - CE, 60347-112, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.710295",
+          "refe_longitude": "-38.589941"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Parque Leste, 00400, Pajucara, Maracanau - CE 61900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.862687",
+          "refe_longitude": "-38.595917"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "BR-222 - Genipabu, Caucaia - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.740275",
+          "refe_longitude": "-38.736828"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Radialista Joao Ramos, 2586, Planalto Airton Senna, Fortaleza - CE 60766-710, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840111",
+          "refe_longitude": "-38.579252"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "06/09/2023 07:00:00",
+      "viag_previsao_fim": "06/09/2023 20:08:53"
+    }
+  ]
+}"

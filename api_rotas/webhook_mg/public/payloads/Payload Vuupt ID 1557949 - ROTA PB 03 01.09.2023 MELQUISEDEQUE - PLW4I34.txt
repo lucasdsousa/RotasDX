@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW4I34"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05633177444"
+        }
+      ],
+      "rota_descricao": "ROTA PB 03 01.09.2023 MELQUISEDEQUE - PLW4I34",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PB 111, SN, Mata Velha, Araruna - PB 58233-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.558053",
+          "refe_longitude": "-35.781550"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-011, Brasil",
+        "refe_latitude": -7.175301,
+        "refe_longitude": -34.902875
+      },
+      "viag_previsao_inicio": "01/09/2023 10:25:00",
+      "viag_previsao_fim": "01/09/2023 18:03:28"
+    }
+  ]
+}

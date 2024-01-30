@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "45515151836"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 21/09/2023 JOEL APARECIDO RPB5D15",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Ver. Jos\u00e9 Donato, 85 - Jacar\u00e9, Cabre\u00fava - SP, 13315-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.244201",
+          "refe_longitude": "-47.057031"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Bulg\u00e1ria, 211 - Jardim das Nacoes, Salto - SP, 13322-181, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.195602",
+          "refe_longitude": "-47.274134"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Peru, 515 - Jardim America, Registro - SP, 11900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.503987",
+          "refe_longitude": "-47.838447"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Manoel Foga\u00e7a, 230 - Centro, S\u00e3o Miguel Arcanjo - SP, 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.878051",
+          "refe_longitude": "-47.992437"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Miguel Terra, 170, Centro, Sao Miguel Arcanjo - SP 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.877946",
+          "refe_longitude": "-47.993108"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Jacob Lyra, 1164 - Jardim Morada do Sol, Indaiatuba - SP, 13346-402, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.123465",
+          "refe_longitude": "-47.226216"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Cap Moraes, 84, Centro, Piedade - SP 18170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.715977",
+          "refe_longitude": "-47.415612"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. \u00c9cio Bife Cavalari, 171, Saltinho - SP, 13440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.841006",
+          "refe_longitude": "-47.676610"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Dom L\u00facio Antunes Souza, 576, Pilar do Sul - SP, 18185-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.811463",
+          "refe_longitude": "-47.712653"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Juruti, 116 - Vila Roma, Salto - SP, 13321-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.191730",
+          "refe_longitude": "-47.284050"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Nove de Julho, 1182 - Vila Nova, Salto - SP, 13320-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.199031",
+          "refe_longitude": "-47.287325"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Dom L\u00facio Antunes Souza, 368 - Centro, Pilar do Sul - SP, 18185-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.810895",
+          "refe_longitude": "-47.714708"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Monsenhor Henrique Volta, 846 - S\u00e3o Miguel Arcanjo, SP, 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.877851",
+          "refe_longitude": "-47.999209"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Maj. Fran\u00e7a, 172 - Eldorado, SP, 11960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.521671",
+          "refe_longitude": "-48.106236"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rod. R\u00e9gis Bittencourt, 490 - Jardim Ana Maria, Cajati - SP, 11950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.735138",
+          "refe_longitude": "-48.119090"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Siqueira Campos, 701 - Centro, S\u00e3o Miguel Arcanjo - SP, 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.876529",
+          "refe_longitude": "-47.997564"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Miguel Terra, 170, Centro, Sao Miguel Arcanjo - SP 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.877946",
+          "refe_longitude": "-47.993108"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "21/09/2023 06:00:00",
+      "viag_previsao_fim": "22/09/2023 06:31:17"
+    }
+  ]
+}"

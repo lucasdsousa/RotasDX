@@ -1,0 +1,419 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002541",
+  "cnpj_embarcador": "05092901002541",
+  "cnpj_transportador": "05092901002541",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1566662,
+  "numero_liberacao": 1566662,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOSE NILTON DO NASCIMENTO",
+    "cpf": "97570524420",
+    "telefone": "+5581981886712"
+  },
+  "veiculos": {
+    "placa": [
+      "RCY7A46"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901002541",
+    "descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+    "logradouro": "Av. Severino Josino Guerra",
+    "numero": " BR 101 ",
+    "complemento": "0",
+    "bairro": "km 53 ",
+    "cidade": "Paratibe",
+    "estado": " Paulista ",
+    "latitude": -7.972634,
+    "longitude": -34.922637,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": "PE"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 05:00:00",
+  "data_previsao_fim": "06/09/2023 11:45:04",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32346425000143",
+            "descricao": "TOTALDIESEL MANUTENCAO DE FROTA LTDA",
+            "logradouro": "Rua Zezito Costa Rego",
+            "numero": " 461",
+            "CEP": "50740010",
+            "complemento": "0",
+            "bairro": " Varzea",
+            "cidade": " Recife ",
+            "estado": "PE ",
+            "latitude": "-8.042612",
+            "longitude": "-34.943974",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 08:12:28",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "10429",
+                  "volume": "36",
+                  "peso": "655.477"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "47075107000162",
+            "descricao": "CAMINUS PECAS PARA CAMINHOES LTDA",
+            "logradouro": "Rodovia 101",
+            "numero": " 90",
+            "CEP": "50910520",
+            "complemento": "0",
+            "bairro": " Jardim Sao Paulo",
+            "cidade": " Recife ",
+            "estado": "PE ",
+            "latitude": "-8.127961",
+            "longitude": "-34.943341",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 11:48:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2850",
+                  "volume": "50",
+                  "peso": "1145"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24388803000123",
+            "descricao": "CLEONICE MARIA DA SILVA SOBRAL LTDA",
+            "logradouro": "Avenida Beberibe",
+            "numero": " 4668",
+            "CEP": "52130000",
+            "complemento": "0",
+            "bairro": " Beberibe",
+            "cidade": " Recife ",
+            "estado": "PE ",
+            "latitude": "-8.002935",
+            "longitude": "-34.897405",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:35:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3930",
+                  "volume": "11",
+                  "peso": "248.821"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11481678000150",
+            "descricao": "AUTO POSTO DUQUE DE CAXIAS LTDA",
+            "logradouro": "Avenida Brasil",
+            "numero": " 473",
+            "CEP": "53520005",
+            "complemento": "0",
+            "bairro": " Timbo",
+            "cidade": " Abreu e Lima ",
+            "estado": "PE ",
+            "latitude": "-7.909333",
+            "longitude": "-34.901898",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:31:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1873",
+                  "volume": "5",
+                  "peso": "94.683"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00306218000179",
+            "descricao": "VENEZA DIESEL COMERCIO LTDA",
+            "logradouro": "Avenida Marechal Mascarenhas de Morais",
+            "numero": " 1413",
+            "CEP": "51150000",
+            "complemento": "0",
+            "bairro": " Imbiribeira",
+            "cidade": " Recife ",
+            "estado": "PE ",
+            "latitude": "-8.094246",
+            "longitude": "-34.908533",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 14:07:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "19800",
+                  "volume": "100",
+                  "peso": "1880"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "34639891000142",
+            "descricao": "MARILENE PEREIRA DA SIVLA",
+            "logradouro": "Rua Coronel Virgilio Nogueria Paes",
+            "numero": " 158",
+            "CEP": "60545262",
+            "complemento": "0",
+            "bairro": " Granja Portugal",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.787527",
+            "longitude": "-38.608346",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 10:37:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "296",
+                  "volume": "2",
+                  "peso": "6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "37317017000187",
+            "descricao": "FERNANDO DA SILVA REIS FILHO",
+            "logradouro": "Rua 1",
+            "numero": " 1461",
+            "CEP": "60767725",
+            "complemento": "0",
+            "bairro": " Mondubim",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.816577",
+            "longitude": "-38.580073",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 11:46:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1076",
+                  "volume": "4",
+                  "peso": "67.84"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "40753132000109",
+            "descricao": "RONALDO I DE ARAUJO - ME",
+            "logradouro": "Avenida Carneiro de Mendonca",
+            "numero": " 1301",
+            "CEP": "60440231",
+            "complemento": "0",
+            "bairro": " Joquei Clube",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.762066",
+            "longitude": "-38.570782",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:39:55",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1952",
+                  "volume": "6",
+                  "peso": "114.269"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "16971677000107",
+            "descricao": "CARLOS ALEX BEZERRA ME",
+            "logradouro": "Rua Nova Vida",
+            "numero": " 815",
+            "CEP": "61656060",
+            "complemento": "0",
+            "bairro": " Arianopolis",
+            "cidade": " Caucaia ",
+            "estado": "CE ",
+            "latitude": "-3.766357",
+            "longitude": "-38.652049",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 13:05:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1273",
+                  "volume": "5",
+                  "peso": "86.915"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10835567000131",
+            "descricao": "LOTUS COM DE COMB E DERIVADOS DE PETROLEO EIRELI",
+            "logradouro": "BR222 ",
+            "numero": "Tabapu\u00e1",
+            "CEP": "61635365",
+            "complemento": "0",
+            "bairro": " Caucaia ",
+            "cidade": "CE",
+            "estado": " ",
+            "latitude": "-3.742888",
+            "longitude": "-38.614015",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 14:01:39",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "750",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05063200000530",
+            "descricao": "D X COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA FILIAL 05",
+            "logradouro": "Rua Maria Gomes de Sa",
+            "numero": " 2150",
+            "CEP": "60765170",
+            "complemento": "0",
+            "bairro": " Aracape",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.821169",
+            "longitude": "-38.586635",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 14:35:11",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2415",
+                  "volume": "6",
+                  "peso": "139.802"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,311 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG8G41"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "14231118698"
+        }
+      ],
+      "rota_descricao": "ROTA MG 08  18/09/2023  SAMUEL FERREIRA  RPG-8G41",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "J. K., Curvelo - MG, 35790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.158280",
+          "refe_longitude": "-44.526660"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Marcelino Costa Ribeiro, 186, Centro, Josenopolis - MG 39575-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.544434",
+          "refe_longitude": "-42.513494"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Floripes Crispim, 1355 - Salinas, MG, 39560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.165482",
+          "refe_longitude": "-42.311897"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Dona Generosa, 210, Planalto, Montezuma - MG 39547-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.175388",
+          "refe_longitude": "-42.502147"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Joao Bernardino de Souza, 92, Centro, Novorizonte - MG 39568-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.015924",
+          "refe_longitude": "-42.408106"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Dona Generosa, 210, Planalto, Montezuma - MG 39547-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.175388",
+          "refe_longitude": "-42.502147"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Ara\u00e7ua\u00ed, 760 - Salinas, MG, 39560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.167400",
+          "refe_longitude": "-42.286410"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "S\u00e3o Jo\u00e3o do Para\u00edso, MG, 39540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.322190",
+          "refe_longitude": "-42.004170"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Pedra Azul, 414 - Curral De Dentro, Curral de Dentro - MG, 39569-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.942740",
+          "refe_longitude": "-41.856600"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Joao Silveira, 5 - Catuti, MG, 39526-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.363730",
+          "refe_longitude": "-42.957890"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Miguel Almeida, 537 - Liberdade, Rubelita - MG, 39565-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.400580",
+          "refe_longitude": "-42.262250"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Juscelino Kubitscheck - Riacho dos Machados, MG, 39529-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.011150",
+          "refe_longitude": "-43.046250"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Em frente o piscin\u00e3o - Estr. p/ Umburana, n: 425 - Cidade Nova, Salinas - MG, 39560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.144310",
+          "refe_longitude": "-42.284170"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Mississipi, 344, Residencial Lourdes, Curvelo - MG 35794-278, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.775664",
+          "refe_longitude": "-44.432653"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 122, 510, Sao Bento, Mato Verde - MG 39527-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.398440",
+          "refe_longitude": "-42.858558"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Dr Osorio Adriao da Rocha, 825, Centro, Sao Joao do Paraiso - MG 39540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.318486",
+          "refe_longitude": "-42.017505"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Manoel Athayde, 674, Saudade, Janauba - MG 39440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.813133",
+          "refe_longitude": "-43.305148"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. Petr\u00f3polis - L\u00e9o Batista, Curvelo - MG, 35790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.775960",
+          "refe_longitude": "-44.438670"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Do Contorno, 2475, Nossa Senhora de Fatima, Taiobeiras - MG 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.816997",
+          "refe_longitude": "-42.220912"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Esp\u00edrito Santo, 630, Taiobeiras - MG, 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.806381",
+          "refe_longitude": "-42.241798"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Bandeirantes, 51 - Santos Cruzeiro, Taiobeiras - MG, 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.821440",
+          "refe_longitude": "-42.222960"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Ant\u00f4nio Olinto, 1410 - Centro, Curvelo - MG, 35790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.769608",
+          "refe_longitude": "-44.430147"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Bias Fortes, 2832, Centro, Curvelo - MG 35794-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.764222",
+          "refe_longitude": "-44.422441"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rodovia BR 135 KM 512 Zona Rural - Buen\u00f3polis, MG, 39230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.899800",
+          "refe_longitude": "-44.169030"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Leonardo Pinheiro da Cruz, 659, Santo Antonio, Vargem Grande do Rio Pardo - MG 39535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.377864",
+          "refe_longitude": "-42.270047"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "BR-135, Corinto - MG, 39200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.421196",
+          "refe_longitude": "-44.457514"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Av. Bandeirantes, 51 - Santos Cruzeiro, Taiobeiras - MG, 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.821440",
+          "refe_longitude": "-42.222960"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Boa Vista, 519, Centro, Cristalia - MG 39598-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.722033",
+          "refe_longitude": "-42.867033"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Par\u00e1 Montes Claros, 5000 - Francisco S\u00e1, MG, 39580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.610540",
+          "refe_longitude": "-43.661590"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Bocai\u00fava - MG, 39390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.101890",
+          "refe_longitude": "-43.802670"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Av. Bandeirantes, 51 - Santos Cruzeiro, Taiobeiras - MG, 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.821440",
+          "refe_longitude": "-42.222960"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Av. J K, 600 - Passaginha, Curvelo - MG, 35790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.747843",
+          "refe_longitude": "-44.422845"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Rua Dos Ferroviarios, 240, Novo Horizonte, Buenopolis - MG 39230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.882227",
+          "refe_longitude": "-44.173693"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Avenida Do Contorno, 759, Centro, Taiobeiras - MG 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.815799",
+          "refe_longitude": "-42.232248"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rua Santa Cruz, 11, Centro, Berizal - MG 39555-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.611317",
+          "refe_longitude": "-41.739142"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "R. Esp\u00edrito Santo, 630, Taiobeiras - MG, 39550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.806381",
+          "refe_longitude": "-42.241798"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Avenida Leonardo Pinheiro da Cruz, 659, Santo Antonio, Vargem Grande do Rio Pardo - MG 39535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.377864",
+          "refe_longitude": "-42.270047"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rua Do Pedagio, 122, Centro, Rio Pardo de Minas - MG 39530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.609564",
+          "refe_longitude": "-42.538763"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Rodovia BR 122, SN, Zona Rural, Francisco Sa - MG 39580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.334466",
+          "refe_longitude": "-43.674533"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "23/09/2023 17:01:21"
+    }
+  ]
+}"

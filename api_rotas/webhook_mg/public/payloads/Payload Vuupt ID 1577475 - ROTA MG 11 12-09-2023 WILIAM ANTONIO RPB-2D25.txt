@@ -1,0 +1,248 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04299289633"
+        }
+      ],
+      "rota_descricao": "ROTA MG 11 12/09/2023 WILIAM ANTONIO RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Jose Demetrio Coelho, 1951, Nossa Senhora do Carmo, Carmo do Cajuru - MG 37322-954, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.193480",
+          "refe_longitude": "-44.762489"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Ita\u00fana - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.021620",
+          "refe_longitude": "-44.593550"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Campo Belo, 841 - S\u00e3o Jos\u00e9, Divin\u00f3polis - MG, 35501-247, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.166514",
+          "refe_longitude": "-44.908033"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Dez de Outubro, 307, Ipiranga, Divinopolis - MG 35502-044, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.139627",
+          "refe_longitude": "-44.909117"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Castro Alves, 1771, Catalao, Divinopolis - MG 35501-205, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.163479",
+          "refe_longitude": "-44.905519"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Parana, 378, Catalao, Divinopolis - MG 35501-168, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.150028",
+          "refe_longitude": "-44.901737"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Goias, 1853, Ipiranga, Divinopolis - MG 35502-027, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.142092",
+          "refe_longitude": "-44.902686"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Minas Gerais, 791, Centro, Divinopolis - MG 35500-007, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.144108",
+          "refe_longitude": "-44.892869"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. do Ferro, 231 - Niter\u00f3i, Divin\u00f3polis - MG, 35500-229, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.139978",
+          "refe_longitude": "-44.874499"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Bahia, 610 - S\u00e3o Sebastiao, Divin\u00f3polis - MG, 35500-026, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.144403",
+          "refe_longitude": "-44.894567"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia MG 050, SN, Zona Urbana, Capitolio - MG 37930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.576865",
+          "refe_longitude": "-46.057487"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Cl\u00f3vis Couto, 488 - Piumhi, MG, 37925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.479260",
+          "refe_longitude": "-45.962570"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Vin\u00edcius de Morais, 415 - Pacaembu, Divin\u00f3polis - MG, 35501-265, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.162513",
+          "refe_longitude": "-44.914881"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. G\u00e9rson Gon\u00e7alves, 151 - Pimenta, MG, 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.485000",
+          "refe_longitude": "-45.805290"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. G\u00e9rson Gon\u00e7alves, 151 - Pimenta, MG, 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.485000",
+          "refe_longitude": "-45.805290"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. G\u00e9rson Gon\u00e7alves, 151 - Pimenta, MG, 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.485000",
+          "refe_longitude": "-45.805290"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Doutor Teixeira Soares, 468, centro, Formiga - MG 35570-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.458968",
+          "refe_longitude": "-45.425646"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. Berlink Ara\u00fajo, 38 - Itapecerica, MG, 35550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.472328",
+          "refe_longitude": "-45.116443"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. G\u00e9rson Gon\u00e7alves, 151 - Pimenta, MG, 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.485000",
+          "refe_longitude": "-45.805290"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Jair Leite, 934, JK, Pimenta - MG 35585-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.483140",
+          "refe_longitude": "-45.806528"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "R. Cl\u00f3vis Couto, 488 - Piumhi, MG, 37925-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.479260",
+          "refe_longitude": "-45.962570"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Vereadora Maria Hilda, 121 - Formiga, MG, 35570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.463826",
+          "refe_longitude": "-45.432997"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Jacaranda, 93, Vila Rica, Passos - MG 37901-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.737932",
+          "refe_longitude": "-46.594988"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "R. Vin\u00edcius de Morais, 415 - Pacaembu, Divin\u00f3polis - MG, 35501-265, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.162513",
+          "refe_longitude": "-44.914881"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "R. Wenceslau Braz, 230, Itamogi - MG, 37973-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.079970",
+          "refe_longitude": "-47.044830"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Alameda Minas Gerais, 1315, Marilia, Lagoa da Prata - MG 35592-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.032131",
+          "refe_longitude": "-45.523818"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rua Santa Catarina, 672, Santa Eugenia, Lagoa da Prata - MG 35591-022, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.027256",
+          "refe_longitude": "-45.538482"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Antonio Bolina Filho, 364, Sao Geraldo, Santo Antonio do Monte - MG 35560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.096678",
+          "refe_longitude": "-45.291587"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Maria Rita de Menezes, 949, Vereador Geraldo Jose Borges, Santo Antonio do Monte - MG 35560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.098499",
+          "refe_longitude": "-45.275191"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Doutor Humberto de Almeida, 840, Sao Jose, Cassia - MG 37980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.598330",
+          "refe_longitude": "-46.913081"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "12/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 13:13:56"
+    }
+  ]
+}"

@@ -1,0 +1,100 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ3J66"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04061219405"
+        }
+      ],
+      "rota_descricao": "ROTA RN MOSSORO  05/09/2023  FRANCISCO ALCIMAR  RCQ-3J66",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua General Mac Arthur, 254, Imbiribeira, Recife - PE 51150-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.109534",
+          "refe_longitude": "-34.909675"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Julio Cesar, SN, Jordao, Recife - PE 51250-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.141319",
+          "refe_longitude": "-34.931060"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Jorge Abrantes, 345, Jiquia, Recife - PE 50771-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.089570",
+          "refe_longitude": "-34.924033"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Braganca, 392, Jardim Sao Paulo, Recife - PE 50790-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.082380",
+          "refe_longitude": "-34.943879"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Moraes, 3110, Imbiribeira, Recife - PE 51150-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.112135",
+          "refe_longitude": "-34.913186"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Do Rangel, 193, Sao Jose, Recife - PE 50020-560, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067965",
+          "refe_longitude": "-34.877476"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Senador Nilo Coelho, 135, Aguazinha, Olinda - PE 53300-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.999124",
+          "refe_longitude": "-34.874069"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Norte Miguel Arraes de Alencar, 3110 - Encruzilhada, Recife - PE, 52041-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.033619",
+          "refe_longitude": "-34.896058"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "05/09/2023 05:00:00",
+      "viag_previsao_fim": "06/09/2023 04:15:11"
+    }
+  ]
+}

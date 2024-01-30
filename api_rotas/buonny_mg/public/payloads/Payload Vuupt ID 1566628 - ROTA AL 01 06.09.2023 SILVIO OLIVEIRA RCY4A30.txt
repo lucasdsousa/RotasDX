@@ -1,0 +1,155 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901003190",
+  "cnpj_embarcador": "05092901003190",
+  "cnpj_transportador": "05092901003190",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1566628,
+  "numero_liberacao": 1566628,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "SILVIO OLIVEIRA DOS SANTOS JUNIOR",
+    "cpf": "10925404403",
+    "telefone": "+5582991759443"
+  },
+  "veiculos": {
+    "placa": [
+      "RCY4A30"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901003190",
+    "descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+    "logradouro": "Av. Durval de G\u00f3es Monteiro ",
+    "numero": "Tabuleiro do Martins",
+    "complemento": "0",
+    "bairro": " Macei\u00f3 ",
+    "cidade": "AL",
+    "estado": " 57045000",
+    "latitude": -9.593269,
+    "longitude": -35.755204,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 05:00:00",
+  "data_previsao_fim": "06/09/2023 09:38:29",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07106789000109",
+            "descricao": "TORQUE PECAS EIRELI ME",
+            "logradouro": "Avenida Menino Marcelo",
+            "numero": " 134",
+            "CEP": "57081385",
+            "complemento": "0",
+            "bairro": " Tabuleiro dos Martins",
+            "cidade": " Maceio ",
+            "estado": "AL ",
+            "latitude": "-9.562164",
+            "longitude": "-35.768867",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 08:13:01",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1880",
+                  "volume": "5",
+                  "peso": "90.37"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13015251000191",
+            "descricao": "MAC HIDRAL COMERCIO E SERVICOS LTDA",
+            "logradouro": "Avenida Lourival Melo Mota",
+            "numero": " 9230",
+            "CEP": "57075000",
+            "complemento": "0",
+            "bairro": " Santos Dumont",
+            "cidade": " Maceio ",
+            "estado": "AL ",
+            "latitude": "-9.556911",
+            "longitude": "-35.782329",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 11:36:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3450",
+                  "volume": "1",
+                  "peso": "195"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05101388000130",
+            "descricao": "AUTO POSTO PIONEIRO LTDA",
+            "logradouro": "Rodovia BR 101",
+            "numero": " S/N",
+            "CEP": "57100000",
+            "complemento": "0",
+            "bairro": " Zona Rural",
+            "cidade": " Rio Largo ",
+            "estado": "AL ",
+            "latitude": "-9.478325",
+            "longitude": "-35.839733",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-06 12:06:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2650",
+                  "volume": "50",
+                  "peso": "1145"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

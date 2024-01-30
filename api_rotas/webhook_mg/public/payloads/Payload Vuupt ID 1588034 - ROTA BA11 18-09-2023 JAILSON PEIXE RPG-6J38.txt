@@ -1,0 +1,178 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG6J38"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "75599368572"
+        }
+      ],
+      "rota_descricao": "ROTA BA11 18/09/2023 JAILSON PEIXE RPG-6J38",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Luis Eduardo Magalhaes, 33, Centro, Eunapolis - BA 45820-310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.372040",
+          "refe_longitude": "-39.581837"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Praca Osmario Batista, 7 - Centro, Pau Brasil - BA, 45890000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.463225",
+          "refe_longitude": "-39.653457"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Carlos Gomes, 355 - Centro, Camacan - BA, 45880000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.422692",
+          "refe_longitude": "-39.497418"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Carlos Gomes, 79 - Centro, Camacan - BA, 45880000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.420813",
+          "refe_longitude": "-39.496942"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Antonio Carlos Magalhaes, S/N - Distrito de Sao Joao de Paraiso, Mascote - BA, 45870000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.696931",
+          "refe_longitude": "-39.445028"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 101, SN, Zona Rural, Buerarema - BA 45615-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.957269",
+          "refe_longitude": "-39.306882"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 101, 1440, Monte Castelo, Teixeira de Freitas - BA 45990-012, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.537166",
+          "refe_longitude": "-39.713935"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Acesso BR 367, SN, Agrovila, Porto Seguro - BA 45810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.444311",
+          "refe_longitude": "-39.065337"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 101, 1440, Monte Castelo, Teixeira de Freitas - BA 45990-012, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.537166",
+          "refe_longitude": "-39.713935"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Visconde de Cairu, 304, Santo Antonio do Monte, Itamaraju - BA, 45836-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.034647",
+          "refe_longitude": "-39.532573"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Rui Barbosa, 296, Centro, Eunapolis - BA, 45820-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.376760",
+          "refe_longitude": "-39.584059"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Visconde de Cairu, 304, Santo Antonio do Monte, Itamaraju - BA, 45836-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.034647",
+          "refe_longitude": "-39.532573"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Praca Sao Pedro, 02, Arraial Dajuda, Porto Seguro - BA 45816-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.490192",
+          "refe_longitude": "-39.073916"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Dra. Hylderth Souza Soares, 2014 - Frei Calixto, Porto Seguro - BA, 45810000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.447050",
+          "refe_longitude": "-39.064193"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 101, S/N, Trevo, Teixeira de Freitas - BA 45995-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.541956",
+          "refe_longitude": "-39.716583"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Porto Seguro, 102, Centro, Eunapolis - BA, 45820-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.373453",
+          "refe_longitude": "-39.581963"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Rio Mucuri, 20 - Centro, Nova Vicosa - BA, 45928000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.900938",
+          "refe_longitude": "-39.371757"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia BR 101, SN, Itabata, Mucuri - BA, 45936-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.989648",
+          "refe_longitude": "-39.859963"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rodovia BR 101, SN, Distrito de Rancho Alegre, Caravelas - BA 45900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.629914",
+          "refe_longitude": "-39.768168"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rodovia BR 101, SN, Itabata, Mucuri - BA, 45936-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.989648",
+          "refe_longitude": "-39.859963"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "21/09/2023 10:22:54"
+    }
+  ]
+}"

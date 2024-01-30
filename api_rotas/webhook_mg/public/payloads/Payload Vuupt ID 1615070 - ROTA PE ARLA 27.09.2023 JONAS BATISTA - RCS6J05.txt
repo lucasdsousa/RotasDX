@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS6J05"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "80196217415"
+        }
+      ],
+      "rota_descricao": "ROTA PE ARLA 27.09.2023 JONAS BATISTA - RCS6J05",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Jaboat\u00e3o dos Guararapes - Jaboat\u00e3o dos Guararapes - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.168813",
+          "refe_longitude": "-34.920874"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Pombos - Pombos - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.141469",
+          "refe_longitude": "-35.396371"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Recife - Recife - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.057838",
+          "refe_longitude": "-34.882897"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Surubim - Surubim - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.841500",
+          "refe_longitude": "-35.760741"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Vit\u00f3ria de Santo Ant\u00e3o - Vit\u00f3ria de Santo Ant\u00e3o - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.117325",
+          "refe_longitude": "-35.297635"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Itamb\u00e9 - Itamb\u00e9 - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.409853",
+          "refe_longitude": "-35.110171"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Cabo de Santo Agostinho - Cabo de Santo Agostinho - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286913",
+          "refe_longitude": "-35.037252"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Caruaru - Caruaru - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293217",
+          "refe_longitude": "-35.983502"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "LAGOA DE ITAENGA - LAGOA DE ITAENGA - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.927475",
+          "refe_longitude": "-35.295291"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Paudalho - Paudalho - PERNAMBUCO, Brazil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.899098",
+          "refe_longitude": "-35.173183"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "27/09/2023 05:00:00",
+      "viag_previsao_fim": "27/09/2023 21:22:28"
+    }
+  ]
+}"

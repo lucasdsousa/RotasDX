@@ -1,0 +1,220 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG9D40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "46775889291"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 02 18/09/2023",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "6, Marab\u00e1 - PA, 68508-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.362850",
+          "refe_longitude": "-49.078915"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "1527 - BR-230, 2214 - Amap\u00e1, Marab\u00e1 - PA, 68501-660, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.369262",
+          "refe_longitude": "-49.129558"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Araguaia, 1373 - Santos Dumont, Reden\u00e7\u00e3o - PA, 68551-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.045299",
+          "refe_longitude": "-50.020650"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Casa Das Baterias e Lubrificantes, km 5,5 34187-34293, 5 folha industrial - Avenida Transamaz\u00f4nica, 5 - Nova Marab\u00e1, Marab\u00e1 - PA, 68501-660",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.359247",
+          "refe_longitude": "-49.084189"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Araguaia, 1373 - Santos Dumont, Reden\u00e7\u00e3o - PA, 68551-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.045299",
+          "refe_longitude": "-50.020650"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "AV. ALACID NUNES, 480, CENTRO, ABEL FIGUEIREDO - PAR\u00c1 68527-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.954170",
+          "refe_longitude": "-48.397235"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "XX62+9G, Reden\u00e7\u00e3o - PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.039072",
+          "refe_longitude": "-50.048717"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Marab\u00e1-PA, Bairro cidade jardim Avenida B, Quadra 71, Lote 04 - Cidade jardim, Marab\u00e1 - PA, 68507-765, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.368987",
+          "refe_longitude": "-49.039681"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Araguaia, 447 - Jardim Cumaru, Reden\u00e7\u00e3o - PA, 68550-205, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.045708",
+          "refe_longitude": "-50.010374"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. PA-287, Km 2A - Jardim Cumaru, Reden\u00e7\u00e3o - PA, 68550-205, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.043886",
+          "refe_longitude": "-50.005065"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Um, 26 - Ademar Guimar\u00e3es, Reden\u00e7\u00e3o - PA, 68552-595, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.037326",
+          "refe_longitude": "-50.037267"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Brasil, 639 - Alto Paran\u00e1, Reden\u00e7\u00e3o - PA, 68553-052, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.041323",
+          "refe_longitude": "-50.013432"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Guarantan - Ademar Guimar\u00e3es, Reden\u00e7\u00e3o - PA, 68552-695, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.040544",
+          "refe_longitude": "-50.037222"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Alcir Miami, 1586, Santana do Araguaia - PA, 68560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.342459",
+          "refe_longitude": "-50.337267"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "AV. ALBINO MALZONE, 231, BELRECANTO, SANTANA DO ARAGUAIA - PAR\u00c1 68560-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.342502",
+          "refe_longitude": "-50.340778"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Z\u00e9ca Abreu, S/N - CENTRO, Santana do Araguaia - PA, 68560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.338010",
+          "refe_longitude": "-50.337819"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Santana do Araguaia - PA, 68560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.335681",
+          "refe_longitude": "-50.338216"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "AV. ALBINO MALZONE, 231, BELRECANTO, SANTANA DO ARAGUAIA - PAR\u00c1 68560-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.342502",
+          "refe_longitude": "-50.340778"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "SAIDA PARA SANTANA DO ARAGUAIA - Av. Araguaia - Campos Altos, Reden\u00e7\u00e3o - PA, 68550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.041784",
+          "refe_longitude": "-50.053505"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. 13 de Maio - Casa de T\u00e1bua, Santa Maria das Barreiras - PA, 68565-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.773631",
+          "refe_longitude": "-50.474178"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Governador Fernando Guilhon, 1300 S\u00e3o Lu\u00eds II - S\u00e3o Luiz II, Concei\u00e7\u00e3o do Araguaia - PA, 68540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.271895",
+          "refe_longitude": "-49.271279"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Governador Fernando Guilhon, 1300 S\u00e3o Lu\u00eds II - S\u00e3o Luiz II, Concei\u00e7\u00e3o do Araguaia - PA, 68540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.271895",
+          "refe_longitude": "-49.271279"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "R. Par\u00e1, Santana do Araguaia - PA, 68560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.344016",
+          "refe_longitude": "-50.335106"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "BR-158, Santana do Araguaia - PA, 68560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.536509",
+          "refe_longitude": "-50.857698"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Governador Fernando Guilhon, 1300 S\u00e3o Lu\u00eds II - S\u00e3o Luiz II, Concei\u00e7\u00e3o do Araguaia - PA, 68540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.271895",
+          "refe_longitude": "-49.271279"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "18/09/2023 16:00:00",
+      "viag_previsao_fim": "30/09/2023 08:25:42"
+    }
+  ]
+}"

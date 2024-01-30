@@ -1,0 +1,1051 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1594249,
+  "numero_liberacao": 1594249,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "WILIAM ANTONIO DA SILVA VIEIRA",
+    "cpf": "04299289633",
+    "telefone": "+5531995909249",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "PLM8G83"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0012-27",
+    "descricao": "Dunax Lubrificantes LTDA - MG"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "19/09/2023 10:21:41",
+  "data_previsao_fim": "25/09/2023 15:29:16",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "19.617.519/0001-41",
+        "descricao": "LUBRIFACIL TRANSPORTES E C DE PECAS AUTOMOTIVAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 11:06:17",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3154.94",
+              "volume": "12",
+              "peso": "198.425"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "23.156.957/0001-27",
+        "descricao": "POSTO MINAS RIO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 12:54:48",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5161.21",
+              "volume": "22",
+              "peso": "335.492"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "24.606.644/0001-96",
+        "descricao": "Auto Posto Nossa Sra de Nazare LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 14:12:45",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "673.44",
+              "volume": "2",
+              "peso": "36.201"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "42.603.061/0001-93",
+        "descricao": "JOAO VITOR LEITE RABELO EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 15:16:20",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2371.16",
+              "volume": "9",
+              "peso": "158.348"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "02.309.734/0001-82",
+        "descricao": "POSTO NOSSA SENHORA DA CONCEICAO DA BARRA DE MINAS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 16:52:15",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "666.54",
+              "volume": "2",
+              "peso": "45.4"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "48.014.418/0001-84",
+        "descricao": "ROSILAINY RESENDE CAPUTO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 17:09:04",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "708.12",
+              "volume": "4",
+              "peso": "45.48"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "13.510.795/0001-20",
+        "descricao": "LPR DE CARVALHO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 17:44:14",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3250",
+              "volume": "50",
+              "peso": "1145"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "21.805.247/0001-55",
+        "descricao": "AUTO PECAS RESENDE & RESENDE LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 18:46:54",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3655.3",
+              "volume": "12",
+              "peso": "219.255"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "13.117.591/0002-04",
+        "descricao": "ABC DISTRIBUICAO DE PETROLEO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 18:53:32",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "502.87",
+              "volume": "2",
+              "peso": "30.071"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.901.560/0001-50",
+        "descricao": "COMERCIAL DE PETROLEO BRASIL LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "19/09/2023 20:38:31",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2120.31",
+              "volume": "9",
+              "peso": "124.364"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "44.370.576/0001-16",
+        "descricao": "POSTO PIRACEMA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 08:49:46",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "379.99",
+              "volume": "2",
+              "peso": "36.355"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.419.398/0001-84",
+        "descricao": "ROYAL TRATORES E PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 11:45:16",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2284.7",
+              "volume": "11",
+              "peso": "199"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.070.742/0001-26",
+        "descricao": "POSTO LAVRAS NORTE LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 12:46:38",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "586.27",
+              "volume": "3",
+              "peso": "33.635"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "43.089.328/0001-39",
+        "descricao": "JOAO PAULO MELO DA SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 14:47:53",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "588.57",
+              "volume": "3",
+              "peso": "33.635"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "86.491.529/0001-70",
+        "descricao": "AUTO POSTO DRP LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 15:21:47",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4290.43",
+              "volume": "21",
+              "peso": "389.178"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.270.385/0001-20",
+        "descricao": "MAXWELL COMERCIO DE PECAS PARA MOTOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 16:01:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "617.58",
+              "volume": "3",
+              "peso": "55.65"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "50.186.313/0001-54",
+        "descricao": "R E A CASARAO PECAS DIESEL LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 18:43:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "366.42",
+              "volume": "2",
+              "peso": "24"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "01.645.408/0001-83",
+        "descricao": "ATUAL GESTAO DE SERVICOS TERCEIRIZADOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 19:51:36",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2539.1",
+              "volume": "10",
+              "peso": "183.795"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.535.334/0001-49",
+        "descricao": "LOJA DE CONVENIENCIA PALMELA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 21:44:37",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3500.34",
+              "volume": "12",
+              "peso": "225.08"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "27.011.753/0001-59",
+        "descricao": "ESTIVA TRUCK DIESEL LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "20/09/2023 22:32:10",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "826.8",
+              "volume": "3",
+              "peso": "48.442"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "17.077.640/0001-00",
+        "descricao": "SMA DISTRIBUIDORA DE MOTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 11:18:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "10939.25",
+              "volume": "40",
+              "peso": "908"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "23.946.916/0001-34",
+        "descricao": "AUTO PECAS BOM JESUS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 13:53:18",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "6076.54",
+              "volume": "30",
+              "peso": "482.339"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "47.598.956/0001-09",
+        "descricao": "RODRIGUES E FILHOS COMERCIO E SERVICOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 14:31:51",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1525.4",
+              "volume": "5",
+              "peso": "94.507"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.116.106/0001-06",
+        "descricao": "AUTO POSTO PORTAL DAS AMOREIRAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 14:43:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "269.79",
+              "volume": "2",
+              "peso": "20.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "26.246.309/0001-50",
+        "descricao": "GILMAR DE SOUZA VIEIRA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:09:21",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "351.98",
+              "volume": "2",
+              "peso": "16.841"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "41.911.087/0001-36",
+        "descricao": "AGROPECAS CBM LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 15:25:13",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1281.57",
+              "volume": "4",
+              "peso": "90.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "25.727.629/0001-69",
+        "descricao": "BRITO TRATORES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 16:32:58",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2105.9",
+              "volume": "12",
+              "peso": "174.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.535.417/0001-38",
+        "descricao": "USI-FLEX USINAGEM E FLEXIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 18:11:59",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1196.72",
+              "volume": "4",
+              "peso": "77.326"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.990.409/0001-16",
+        "descricao": "HELTON LUIZ LEMOS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 19:46:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3641.25",
+              "volume": "17",
+              "peso": "202.259"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "21.429.931/0001-80",
+        "descricao": "DARCI DE MORAIS CARDOSO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 20:02:47",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1924.29",
+              "volume": "6",
+              "peso": "125.891"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "18.946.583/0001-03",
+        "descricao": "THIAGO CROCHIQUIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 20:52:48",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1827.2",
+              "volume": "9",
+              "peso": "144.858"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.403.954/0002-75",
+        "descricao": "AUTO POSTO PETRO CENTER LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "21/09/2023 21:26:04",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1565.17",
+              "volume": "6",
+              "peso": "115.9"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "71.377.881/0001-02",
+        "descricao": "RAMOS & FREITAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 11:57:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2131.96",
+              "volume": "6",
+              "peso": "123.835"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.403.954/0002-75",
+        "descricao": "AUTO POSTO PETRO CENTER LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 13:16:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "409.99",
+              "volume": "2",
+              "peso": "37.1"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "17.649.849/0001-93",
+        "descricao": "AUTO POSTO R. SOUZA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 14:49:31",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1155.11",
+              "volume": "5",
+              "peso": "82.523"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "06.203.543/0001-92",
+        "descricao": "IMPACTO AUTO POSTO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 16:32:59",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "368.39",
+              "volume": "1",
+              "peso": "22.7"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.403.954/0005-18",
+        "descricao": "AUTO POSTO PETRO CENTER LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 16:43:51",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2101.72",
+              "volume": "8",
+              "peso": "125.997"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.527.746/0001-37",
+        "descricao": "ANDRE AUTO PECAS E ACESSORIOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 18:15:34",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2560.11",
+              "volume": "10",
+              "peso": "136.593"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "03.120.545/0003-91",
+        "descricao": "C M W TRANSPORTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 19:11:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "17388",
+              "volume": "6",
+              "peso": "1125"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "86.445.269/0002-88",
+        "descricao": "CAMBUI TERRAPLENAGEM LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 19:20:49",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "240",
+              "volume": "1",
+              "peso": "11.134"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.896.301/0001-80",
+        "descricao": "MAURO FRANCISCO PEREIRA FARIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 19:54:11",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "869.68",
+              "volume": "3",
+              "peso": "55.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.896.301/0001-80",
+        "descricao": "MAURO FRANCISCO PEREIRA FARIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 20:24:38",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "579.78",
+              "volume": "2",
+              "peso": "36.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "17.271.106/0001-22",
+        "descricao": "APARECIDO CANDIDO DA SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "22/09/2023 21:56:38",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "443.99",
+              "volume": "2",
+              "peso": "22.268"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.612.755/0001-82",
+        "descricao": "MARCOS ALEXANDRE MENDONCA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 11:40:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "691.2",
+              "volume": "2",
+              "peso": "45.4"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.836.874/0001-05",
+        "descricao": "HELDER FARIA GONCALVES",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 12:53:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1303.5",
+              "volume": "6",
+              "peso": "66.804"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.796.259/0001-04",
+        "descricao": "POSTO 4 ABASTECIMENTO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 13:38:11",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2502.12",
+              "volume": "10",
+              "peso": "141.012"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.836.874/0001-05",
+        "descricao": "HELDER FARIA GONCALVES",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 14:08:11",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "440.39",
+              "volume": "2",
+              "peso": "22.268"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.546.600/0001-03",
+        "descricao": "GABRIEL CARVALHO MARTINS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 14:45:29",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1746.95",
+              "volume": "7",
+              "peso": "140.55"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "45.347.467/0001-40",
+        "descricao": "SCOTT FERRAMENTAS E LUBRIFICANTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 14:56:17",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "749.69",
+              "volume": "3",
+              "peso": "54.884"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "45.783.581/0001-13",
+        "descricao": "DOUGLAS DOMICIANO PEREIRA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 16:14:56",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1675.51",
+              "volume": "7",
+              "peso": "85.459"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "36.861.585/0001-81",
+        "descricao": "VILLELA MAGALHAES COMERCIO DE PRODUTOS AGRICOLAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 16:25:27",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1469.02",
+              "volume": "5",
+              "peso": "95.646"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "47.838.133/0001-03",
+        "descricao": "MIGUEL DE AZEVEDO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 16:31:01",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1061.19",
+              "volume": "11",
+              "peso": "252.9"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "18.960.379/0001-47",
+        "descricao": "BALESTRA S AUTO PECAS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 18:27:13",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "794.66",
+              "volume": "4",
+              "peso": "74.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "27.128.844/0001-79",
+        "descricao": "CENTRO AUTOMOTIVO LUBRIMINAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 20:16:28",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1598.91",
+              "volume": "5",
+              "peso": "113.503"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "08.705.712/0001-18",
+        "descricao": "Auto Posto Produtor LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "23/09/2023 23:24:18",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "9021.1",
+              "volume": "50",
+              "peso": "940"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "19.617.519/0001-41",
+        "descricao": "LUBRIFACIL TRANSPORTES E C DE PECAS AUTOMOTIVAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "24/09/2023 18:29:16",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3154.94",
+              "volume": "12",
+              "peso": "198.425"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31347915","erros":[]}

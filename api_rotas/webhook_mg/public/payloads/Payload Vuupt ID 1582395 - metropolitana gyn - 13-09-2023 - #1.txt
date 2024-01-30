@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana gyn - 13/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Capistabos, 1430, Santa Genoveva, Goiania - GO 74672-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.629044",
+          "refe_longitude": "-49.235194"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Contorno, SN, Sao Joao, Anapolis - GO 75133-205, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.382219",
+          "refe_longitude": "-48.956311"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Dona Lourdes Estivalete Teixeira, 1774, Vila Xavier, Goiania - GO 74550-365, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.684342",
+          "refe_longitude": "-49.345283"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Rio Branco, 524, Setor Urias Magalhaes, Goiania - GO 74565-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.643363",
+          "refe_longitude": "-49.274133"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Padre Monte, 1793, Goia, Goiania - GO 74485-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.690172",
+          "refe_longitude": "-49.338404"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. 87, 1049 - St. Sul, Goi\u00e2nia - GO, 74080-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.691444",
+          "refe_longitude": "-49.262039"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Juscelino Kubitscheck, 1125, Setor Pai Eterno, Trindade - GO 75387-088, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.645632",
+          "refe_longitude": "-49.420308"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "13/09/2023 10:00:00",
+      "viag_previsao_fim": "13/09/2023 17:40:08"
+    }
+  ]
+}"

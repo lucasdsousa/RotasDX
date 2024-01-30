@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana gyn nerop - 14/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Sao Francisco, SN, Santa Genoveva, Goiania - GO 74672-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.637142",
+          "refe_longitude": "-49.238538"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Afonso Pena, SN, Sao Joao, Anapolis - GO 75133-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.382547",
+          "refe_longitude": "-48.958309"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia GO 330, SN, Mataozinho, Ouro Verde de Goias - GO 75165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.204979",
+          "refe_longitude": "-49.206454"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. 88 - St. Andreia, Goi\u00e2nia - GO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.785561",
+          "refe_longitude": "-49.354423"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Josefina L Almeida, SN, Parque das Americas, Neropolis - GO 75460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.408083",
+          "refe_longitude": "-49.219541"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 Carneiro - Res. Jardim Canedo I, Sen. Canedo - GO, 75250-157, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.694576",
+          "refe_longitude": "-49.108354"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Zoroastro Artiaga - Cidade Sat\u00e9lite S\u00e3o Luiz, Aparecida de Goi\u00e2nia - GO, 74920-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.760235",
+          "refe_longitude": "-49.276453"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Gabriel Henrique de Araujo, 354, Residencial Goiania Viva, Goiania - GO 74484-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.701730",
+          "refe_longitude": "-49.344948"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Sao Joao, SN, Jardim Luz, Aparecida de Goiania - GO 74915-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.752139",
+          "refe_longitude": "-49.279626"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Bom Jardim, 961, Setor Maysa, Trindade - GO 75380-316, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.635874",
+          "refe_longitude": "-49.388737"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Noel Rosa, 1586, Residencial Primavera, Goiania - GO 74494-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.684282",
+          "refe_longitude": "-49.392961"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Sen. Canedo - Res. Rio Araguaia, Sen. Canedo - GO, 75262-355, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.657282",
+          "refe_longitude": "-49.163925"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "14/09/2023 10:00:00",
+      "viag_previsao_fim": "15/09/2023 11:15:53"
+    }
+  ]
+}"

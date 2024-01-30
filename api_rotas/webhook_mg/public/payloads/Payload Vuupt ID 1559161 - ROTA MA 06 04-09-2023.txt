@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7E17"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36388190359"
+        }
+      ],
+      "rota_descricao": "ROTA MA 06 04/09/2023",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Lu\u00eds Domingues, 102 - Entroncamento, Imperatriz - MA, 65900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.519969",
+          "refe_longitude": "-47.466964"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, Brasil",
+        "refe_latitude": -5.444992,
+        "refe_longitude": -47.473309
+      },
+      "viag_previsao_inicio": "04/09/2023 07:30:00",
+      "viag_previsao_fim": "05/09/2023 10:52:41"
+    }
+  ]
+}

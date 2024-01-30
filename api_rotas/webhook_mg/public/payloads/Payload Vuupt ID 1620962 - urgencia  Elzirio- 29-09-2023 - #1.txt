@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0G59"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "56529414134"
+        }
+      ],
+      "rota_descricao": "urgencia  Elzirio- 29/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Bom Jardim, 961, Setor Maysa, Trindade - GO 75380-316, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.635874",
+          "refe_longitude": "-49.388737"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua do Ouro, SN, Itamaraty, Anapolis - GO 75050-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.299007",
+          "refe_longitude": "-48.968036"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Nona Avenida, 235, Setor Leste Universitario, Goiania - GO 74603-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.667914",
+          "refe_longitude": "-49.245252"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "29/09/2023 10:30:00",
+      "viag_previsao_fim": "29/09/2023 15:46:28"
+    }
+  ]
+}"

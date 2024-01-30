@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6A98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00989392112"
+        }
+      ],
+      "rota_descricao": "rota 04 B rogerio - 28/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Pinheiros - Rubiataba, GO, 76350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.159349",
+          "refe_longitude": "-49.799493"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Mandaguari - Rubiataba, GO, 76350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.172475",
+          "refe_longitude": "-49.806446"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. 40, 318 - S\u00e3o Cristovao, Goian\u00e9sia - GO, 76381-161, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.306993",
+          "refe_longitude": "-49.116397"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Vila Nova Aurora, 251 - Oeste, Goian\u00e9sia - GO, 76380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.316070",
+          "refe_longitude": "-49.133601"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Floresta, 25 - S Central, Itapaci - GO, 76360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.948948",
+          "refe_longitude": "-49.546994"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. 33, 2366 - S\u00e3o Cristovao, Goian\u00e9sia - GO, 76380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.305038",
+          "refe_longitude": "-49.115131"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Contorno, 827 - Oeste, Goian\u00e9sia - GO, 76380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.315902",
+          "refe_longitude": "-49.126769"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "28/09/2023 08:00:00",
+      "viag_previsao_fim": "29/09/2023 05:56:06"
+    }
+  ]
+}"

@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW0I40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06935746400"
+        }
+      ],
+      "rota_descricao": "ROTA PB 02 14.09.2023 ALEX ARAUJO - PLW0I40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PB 111, SN, Mata Velha, Araruna - PB 58233-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.558053",
+          "refe_longitude": "-35.781550"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Governador Joao Fernandes de Lima, 355, Centro, Solanea - PB 58225-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.757471",
+          "refe_longitude": "-35.663045"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Ant\u00f4nio Norberto Bruno, 268, Rem\u00edgio - PB, 58398-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.971596",
+          "refe_longitude": "-35.802662"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Tres Irmas, 1613, Santa Cruz, Campina Grande - PB 58417-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.265154",
+          "refe_longitude": "-35.924133"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Luiz Barbosa, 03, Centro, Remigio - PB 58398-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.964243",
+          "refe_longitude": "-35.794222"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Dr Alberto Gentile, 18, Bodocongo, Campina Grande - PB 58430-083, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.227809",
+          "refe_longitude": "-35.915271"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia PB 111, SN, Mata Velha, Araruna - PB 58233-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.558053",
+          "refe_longitude": "-35.781550"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Vig. Calixto, 2900 - Catol\u00e9, Campina Grande - PB, 58410-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.250005",
+          "refe_longitude": "-35.879151"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Senador Arnon de Mello, 357, Centro, Maribondo - AL 57670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.580269",
+          "refe_longitude": "-36.307212"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Sitio Areal, S/N, Litoral, Japaratinga - AL 57950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.082046",
+          "refe_longitude": "-35.252587"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Dr Francisco de Oliveira Buarque, 537, Centro, Sao Luis do Quitunde - AL 57920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.313876",
+          "refe_longitude": "-35.571456"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Travessa Manoel Moreira, SN, Centro, Capela - AL 57780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.411878",
+          "refe_longitude": "-36.075709"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua 09 de Julho, 256, Centro, Junqueiro - AL 57270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.927713",
+          "refe_longitude": "-36.472877"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua 09 de Julho, 256, Centro, Junqueiro - AL 57270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.927713",
+          "refe_longitude": "-36.472877"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia Al 101 Norte, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.694230",
+          "refe_longitude": "-35.790158"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 101, 1997, Centro, Teotonio Vilela - AL 57265-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.894892",
+          "refe_longitude": "-36.373019"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Maragogi - AL, 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.007236",
+          "refe_longitude": "-35.225078"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Ladislau Coimbra, 169, Centro, Boca da Mata - AL 57680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.643812",
+          "refe_longitude": "-36.215210"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Engenherio Guttemberg Brega Neto, 3734, Alto do Cruzeiro, Coruripe - AL 57230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.119242",
+          "refe_longitude": "-36.167258"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Coronel Francisco Cavalcante, 349, Centro, Sao Miguel dos Campos - AL 57240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.779003",
+          "refe_longitude": "-36.104493"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia AL 101, 95, Zona Urbana, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.050960",
+          "refe_longitude": "-35.399521"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "15/09/2023 12:55:01"
+    }
+  ]
+}"

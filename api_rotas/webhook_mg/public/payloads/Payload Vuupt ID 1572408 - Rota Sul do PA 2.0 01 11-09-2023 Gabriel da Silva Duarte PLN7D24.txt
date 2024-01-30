@@ -1,0 +1,206 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLN7D24"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "61782540326"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 01 11/09/2023 Gabriel da Silva Duarte PLN7D24",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-230, KM 01 - Amap\u00e1, Marab\u00e1 - PA, 68502-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.366919",
+          "refe_longitude": "-49.127735"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. dos Pioneiros, Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.538934",
+          "refe_longitude": "-49.856604"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av: weyner Cavalcante N\u00b0940 Em frente a nossa casa - materiais de costru\u00e7\u00e3o, Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.537339",
+          "refe_longitude": "-49.850021"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Fl. 21 Quadra 9 lote 20 - Nova Marab\u00e1, Marab\u00e1 - PA, 68505-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.340592",
+          "refe_longitude": "-49.093829"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Leandro Polastrini, Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.539130",
+          "refe_longitude": "-49.855989"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Tv. Santo Ant\u00f4nio, 1349 - Barcarena, PA, 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.509598",
+          "refe_longitude": "-48.616246"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Tv. 7 de Setembro - Barcarena, PA, 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.510895",
+          "refe_longitude": "-48.619825"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Justo Chermont, 1388, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724542",
+          "refe_longitude": "-48.891634"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dom Pedro II, 692, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724196",
+          "refe_longitude": "-48.885107"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Justo Chermont, 1388, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724542",
+          "refe_longitude": "-48.891634"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia PA 409, SN, Cristo Redentor, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.704531",
+          "refe_longitude": "-48.805619"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Belem, 134, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948168",
+          "refe_longitude": "-48.954001"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Natal, 135, Novo, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.944831",
+          "refe_longitude": "-48.949767"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Muniz Lopes, 199, Liberdade, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.770929",
+          "refe_longitude": "-49.565751"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Travessa Sao Felix, 04, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.946113",
+          "refe_longitude": "-48.954535"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Natal, 93, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.945268",
+          "refe_longitude": "-48.949552"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Benjamin Constant, 615 - Moju, PA, 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.882783",
+          "refe_longitude": "-48.765505"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Belem, SN, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.938845",
+          "refe_longitude": "-48.955703"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Travessa Raimundo Martins de Lima, SN, Cidade Nova, Igarape-Miri - PA 68430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.977258",
+          "refe_longitude": "-48.966967"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Cristo Rei, 322, Centro, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.451476",
+          "refe_longitude": "-49.116553"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Francisco Magno, 12, Novo Horizonte, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.844846",
+          "refe_longitude": "-49.104957"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Minas Gerais, 346, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.775475",
+          "refe_longitude": "-49.568290"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Cristo Rei, 80, Cidade Nova, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.449547",
+          "refe_longitude": "-49.116137"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "11/09/2023 08:00:00",
+      "viag_previsao_fim": "13/09/2023 14:35:58"
+    }
+  ]
+}"

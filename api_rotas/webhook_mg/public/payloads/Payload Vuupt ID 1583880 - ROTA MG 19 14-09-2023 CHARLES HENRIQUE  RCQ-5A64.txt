@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ5A64"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 19 14/09/2023 CHARLES HENRIQUE  RCQ-5A64",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Carlos Ant\u00f4nio Giordane, 1711 - Cana\u00e3, Sete Lagoas - MG, 35700-750, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.470367",
+          "refe_longitude": "-44.264602"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Carlos Antonio Giordani, 1741, Nery, Sete Lagoas - MG 35700-214, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.470409",
+          "refe_longitude": "-44.265266"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Secret\u00e1rio Divino Padr\u00e3o, 1620 - S\u00e3o Jorge, Sete Lagoas - MG, 35702-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.473366",
+          "refe_longitude": "-44.259876"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Coronel Antonio Andrade, 1142, Sao Geraldo, Sete Lagoas - MG 35700-193, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.469267",
+          "refe_longitude": "-44.243496"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Senador Salgado Filho, 384, Canaan, Sete Lagoas - MG 35700-286, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.467725",
+          "refe_longitude": "-44.250622"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Goi\u00e1s, 1672 - Boa Vista, Sete Lagoas - MG, 35700-825, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.450212",
+          "refe_longitude": "-44.243692"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Mucio Jose Reis, 669, Nossa Senhora das Gracas, Sete Lagoas - MG 35700-481, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.459137",
+          "refe_longitude": "-44.242515"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Santa Juliana, 3628, Emilia, Sete Lagoas - MG 35701-004, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.440623",
+          "refe_longitude": "-44.220000"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia MG 238, SN, Distrito Industrial Norte, Sete Lagoas - MG 35703-138, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.457467",
+          "refe_longitude": "-44.247017"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia MG 238, SN, Jardim Primavera II, Sete Lagoas - MG 35703-106, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.381335",
+          "refe_longitude": "-44.207077"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Coronel Randolfo Simoes, 1025, Boa Vista, Sete Lagoas - MG 35700-102, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.453023",
+          "refe_longitude": "-44.236165"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Brasilia, 22, Centro, Prudente de Morais - MG 35738-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.483178",
+          "refe_longitude": "-44.149711"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Santa Juliana, 1831, Braz Filizola, Sete Lagoas - MG 35701-004, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.449195",
+          "refe_longitude": "-44.230104"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Mucio Jose Reis, 1650, Esperanca, Sete Lagoas - MG 35701-708, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.438539",
+          "refe_longitude": "-44.240407"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Argemiro Cardoso, 800 - Distrito Industrial, Matozinhos - MG, 35720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.583238",
+          "refe_longitude": "-44.053441"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 17:25:25"
+    }
+  ]
+}"

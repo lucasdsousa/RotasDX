@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU2J26"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91810574587"
+        }
+      ],
+      "rota_descricao": "ROTA SE 02  13/09/2023  EDUARDO GAMA  RCU-2J26",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Camilo Calazans, 786, Est\u00e2ncia - SE, 49200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.235954",
+          "refe_longitude": "-37.426953"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Jo\u00e3o Lima da Silveira, 3295 - Alagoas, Est\u00e2ncia - SE, 49200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.257285",
+          "refe_longitude": "-37.439910"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Benjamin Constant, 146 - Centro, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.277010",
+          "refe_longitude": "-37.785568"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Zacarias Alves, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.278176",
+          "refe_longitude": "-37.787345"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rod. Ant\u00f4nio Carlos Valadares, 3500 - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.166756",
+          "refe_longitude": "-38.008561"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. C\u00f4nego Filadelfo Ma\u00e7edo, 377, Sim\u00e3o Dias - SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.738622",
+          "refe_longitude": "-37.806540"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Sim\u00e3o Dias, SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.739792",
+          "refe_longitude": "-37.809338"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Cont\u00f4rno, 4164 - Centro, Lagarto - SE, 49400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.921572",
+          "refe_longitude": "-37.670910"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Construtor Jo\u00e3o Ant\u00f4nio de Santana, Sim\u00e3o Dias - SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.738548",
+          "refe_longitude": "-37.804741"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Povoado Triunfo, Sim\u00e3o Dias - SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.776852",
+          "refe_longitude": "-37.910645"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Frei Paulo, SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.549740",
+          "refe_longitude": "-37.533596"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Frei Paulo, SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.549740",
+          "refe_longitude": "-37.533596"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Esperidi\u00e3o Noronha, 922 - Centro, Itabaiana - SE, 49500-193, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.682769",
+          "refe_longitude": "-37.428176"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "13/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 00:23:50"
+    }
+  ]
+}"

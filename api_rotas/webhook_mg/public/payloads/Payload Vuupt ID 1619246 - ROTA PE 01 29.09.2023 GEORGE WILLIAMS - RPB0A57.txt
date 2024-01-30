@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 29.09.2023 GEORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Ayrton Senna da Silva, 1522 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54420-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.166321",
+          "refe_longitude": "-34.916151"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Ayrton Senna da Silva, 1522 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54420-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.166321",
+          "refe_longitude": "-34.916151"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Francisco de Assis da Silva Teixeira, 400, Cohab, Cabo de Santo Agostinho - PE 54515-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286781",
+          "refe_longitude": "-35.028298"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Recife, 1290, Ipsep, Recife - PE 51350-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119744",
+          "refe_longitude": "-34.920723"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia Empresario Joao Santos Filho, 270, Muribeca, Jaboatao dos Guararapes - PE 54355-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.157237",
+          "refe_longitude": "-34.969711"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dr Belmino Correia, 2569, Timbi, Camaragibe - PE 54768-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.023330",
+          "refe_longitude": "-34.993761"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 2657, Imbiribeira, Recife - PE 51150-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.107842",
+          "refe_longitude": "-34.911291"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Itamarac\u00e1, 210 - Imbiribeira, Recife - PE, 51200-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.107743",
+          "refe_longitude": "-34.914315"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua da Palma, 392, Santo Antonio, Recife - PE 50010-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.066362",
+          "refe_longitude": "-34.881213"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Dr Jose Rufino, 151, Estancia, Recife - PE 50771-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.084336",
+          "refe_longitude": "-34.926736"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia PE 075, S/N, Centro, Goiana - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.563148",
+          "refe_longitude": "-35.013143"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Nelson Ferreira, 253 - Maranguape I, Paulista - PE, 53441-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.947756",
+          "refe_longitude": "-34.856446"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Piracicaba, 06, Jardim Sao Paulo, Recife - PE 50790-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.077482",
+          "refe_longitude": "-34.941814"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Senador Nilo de Souza Coelho, 28, Ouro Preto, Olinda - PE 53370-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.982575",
+          "refe_longitude": "-34.857120"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Dezessete de Agosto, 1209, Poco, Recife - PE 52060-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.037434",
+          "refe_longitude": "-34.919671"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "29/09/2023 05:00:00",
+      "viag_previsao_fim": "30/09/2023 12:29:17"
+    }
+  ]
+}"

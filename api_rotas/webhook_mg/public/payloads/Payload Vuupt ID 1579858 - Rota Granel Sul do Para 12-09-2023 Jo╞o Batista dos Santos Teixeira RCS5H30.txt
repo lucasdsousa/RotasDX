@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS5H30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36560049353"
+        }
+      ],
+      "rota_descricao": "Rota Granel Sul do Para 12/09/2023 Jo\u00e3o Batista dos Santos Teixeira RCS5H30",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.454156",
+          "refe_longitude": "-50.208343"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Araguaia, 89-165, Reden\u00e7\u00e3o - PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.038743",
+          "refe_longitude": "-50.047359"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Juscelino Kubitscheck, 4480 - Capelinha, Concei\u00e7\u00e3o do Araguaia - PA, 68540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.271592",
+          "refe_longitude": "-49.264843"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "68515-000, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.199187",
+          "refe_longitude": "-49.859569"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Um S/N Quadra 24 Lote 12 Loteamento Novo Progresso - II, Marab\u00e1 - PA, 68513-702, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.289936",
+          "refe_longitude": "-49.077092"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "12/09/2023 13:00:00",
+      "viag_previsao_fim": "15/09/2023 13:16:33"
+    }
+  ]
+}"

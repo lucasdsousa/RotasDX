@@ -1,0 +1,213 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 02 18/09/2023 LUCAS ALVES RCY0I35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 010 KM 12 - Posto Roda Viva - Nova Conquista, Paragominas - PA, 68625-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.985617",
+          "refe_longitude": "-47.454330"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Dionisio Bentes, 955, Quatro Bocas, Tome-Acu - PA 68682-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.418973",
+          "refe_longitude": "-48.238463"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia PA 140, SN, Interior, Tome-Acu - PA 68682-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.417176",
+          "refe_longitude": "-48.235600"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 316, SN, Moema, Santa Isabel do Para - PA 68790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.281278",
+          "refe_longitude": "-48.130840"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Dionisio Bentes, 955, Quatro Bocas, Tome-Acu - PA 68682-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.418973",
+          "refe_longitude": "-48.238463"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rod. PA 140, 12562, Tom\u00e9-A\u00e7u - PA, 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.419802",
+          "refe_longitude": "-48.241726"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Tancredo Neves, SN, Centro, Sao Miguel do Guama - PA 68660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.616683",
+          "refe_longitude": "-47.480760"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rod. PA 140, 12987-13081, Tom\u00e9-A\u00e7u - PA, 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.421037",
+          "refe_longitude": "-48.246085"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Dionisio Bentes, 955, Quatro Bocas, Tome-Acu - PA 68682-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.418973",
+          "refe_longitude": "-48.238463"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia Dos Pioneiros, SN, Acaizal, Paragominas - PA 68625-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.999626",
+          "refe_longitude": "-47.371312"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Praca Da Bandeira, 1051, Centro, Santa Isabel do Para - PA 68790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.298000",
+          "refe_longitude": "-48.164266"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Kazuma Oyama, 491, Estrela, Castanhal - PA 68743-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.280081",
+          "refe_longitude": "-47.934879"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Travessa Nossa Senhora do Perpetuo Socorro, 252, Ponto Certo, Sao Domingos do Capim - PA 68635-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.675983",
+          "refe_longitude": "-47.772796"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "BR-316, KM-36 SANTA RITA DE C\u00c1SSIA - Aratanha, Santa Izabel do Par\u00e1 - PA, 68790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.291710",
+          "refe_longitude": "-48.168721"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Presidente Getulio Vargas, 1447, Centro, Castanhal - PA 68740-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.296979",
+          "refe_longitude": "-47.934548"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Tancredo Neves, SN, Centro, Sao Miguel do Guama - PA 68660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.616683",
+          "refe_longitude": "-47.480760"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Presidente Vargas, 4367, Ianetama, Castanhal - PA 68745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.295269",
+          "refe_longitude": "-47.907639"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia Dos Pioneiros, S/N, Jaderlandia, Paragominas - PA 68625-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.999626",
+          "refe_longitude": "-47.371312"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Bernardo Sayao, 651, Silas Freitas, Mae do Rio - PA 68675-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.046952",
+          "refe_longitude": "-47.550079"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Quatro, 212, Tom\u00e9-A\u00e7u - PA, 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.417429",
+          "refe_longitude": "-48.255114"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Teresina, 22, Cidade Nova, Paragominas - PA 68625-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.000629",
+          "refe_longitude": "-47.351040"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Presidente Vargas, 4367, Ianetama, Castanhal - PA 68745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.295269",
+          "refe_longitude": "-47.907639"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Princesa Isabel, SN, Centro, Concordia do Para - PA 68685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.000810",
+          "refe_longitude": "-47.947064"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Pres. Costa e Silva, 338, Conc\u00f3rdia do Par\u00e1 - PA, 68685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.997094",
+          "refe_longitude": "-47.942774"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Benigno Goes Filho, 1, Centro, Tome-Acu - PA 68680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.416955",
+          "refe_longitude": "-48.145608"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "18/09/2023 12:00:00",
+      "viag_previsao_fim": "22/09/2023 11:50:08"
+    }
+  ]
+}"

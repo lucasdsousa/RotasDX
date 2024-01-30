@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 27/09/23 JULIO CESAR RPB5D63",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Monte Castelo, 138 - Centro, Santa B\u00e1rbara d'Oeste - SP, 13450-032, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.754919",
+          "refe_longitude": "-47.418177"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Euclides de Figueiredo, 956 - Santa Terezinha, Piracicaba - SP, 13408-021, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.672675",
+          "refe_longitude": "-47.696395"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Ant\u00f4nio Fl\u00e1vio Sim\u00f5es, 430, Borborema - SP, 14955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.618416",
+          "refe_longitude": "-49.065868"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Ant\u00f4nio Corsato, 4 - Jardim Maria Antonia (Nova Veneza), Sumar\u00e9 - SP, 13178-411, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.811971",
+          "refe_longitude": "-47.199926"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Henrique Cabral de Vasconcelos, 1659 - Jardim Sao Nicolau, S\u00e3o Jo\u00e3o da Boa Vista - SP, 13876-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.988760",
+          "refe_longitude": "-46.785852"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Romualdo Ferreira da Silva, 15 - Ch\u00e1caras Acaray, Hortol\u00e2ndia - SP, 13187-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.897315",
+          "refe_longitude": "-47.229886"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "\u00c1guas da Prata, SP, 13890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.944914",
+          "refe_longitude": "-46.716821"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Quintino Bocai\u00fava, 5015 - Centro, Borborema - SP, 14955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.624035",
+          "refe_longitude": "-49.075555"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Rui Barbosa, 900 - Centro, Monte Alto - SP, 15910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.266103",
+          "refe_longitude": "-48.497569"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Jos\u00e9 de Barros Ribeiro, 1580 - Jardim Res. Italia, It\u00e1polis - SP, 14900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.600861",
+          "refe_longitude": "-48.822496"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "27/09/2023 13:40:00",
+      "viag_previsao_fim": "30/09/2023 02:31:12"
+    }
+  ]
+}"

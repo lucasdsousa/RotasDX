@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6J02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00048824232"
+        }
+      ],
+      "rota_descricao": "ROTA PA 01 18/09/2023 JAMIL ALVES RPB6J02",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 31 de Marco, 89, Pedreira, Moju - PA 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.884218",
+          "refe_longitude": "-48.763861"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Justo Chermont, 1357, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.726773",
+          "refe_longitude": "-48.892598"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Travessa Da Matriz, 844, Centro, Barcarena - PA 68445-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.504874",
+          "refe_longitude": "-48.626080"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dom Pedro II, 1236, Centro, Abaetetuba - PA 68440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.724835",
+          "refe_longitude": "-48.881534"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Padre Casemiro de Souza, SN, Vila dos Cabanos, Barcarena - PA 68447-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.525916",
+          "refe_longitude": "-48.703609"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Belem, 87, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.948276",
+          "refe_longitude": "-48.953957"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Lauro Sodre, SN, Sao Jose, Tucurui - PA 68456-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766423",
+          "refe_longitude": "-49.674748"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "PA-252 - Acar\u00e1, PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.960302",
+          "refe_longitude": "-48.204630"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Coronel Raimundo Leao, 1353, Brasilia, Cameta - PA 68400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.247777",
+          "refe_longitude": "-49.500916"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Tancredo Neves, SN, Floresta, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.839554",
+          "refe_longitude": "-49.100739"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Natal, 179, Novo, Tailandia - PA 68699-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.944400",
+          "refe_longitude": "-48.949661"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Bel\u00e9m, 171, Tail\u00e2ndia - PA, 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.947779",
+          "refe_longitude": "-48.954194"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia PA 150, SN, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.693277",
+          "refe_longitude": "-48.869750"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia uepa - PA-150 - Moju, PA, 68450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.904394",
+          "refe_longitude": "-48.769210"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Travessa Eneas Martins, 75, Central, Cameta - PA 68400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.244962",
+          "refe_longitude": "-49.502423"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "18/09/2023 11:00:00",
+      "viag_previsao_fim": "21/09/2023 17:59:16"
+    }
+  ]
+}"

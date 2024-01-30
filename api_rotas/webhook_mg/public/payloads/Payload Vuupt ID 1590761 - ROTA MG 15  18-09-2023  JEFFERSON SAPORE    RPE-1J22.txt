@@ -1,0 +1,199 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPE1J22"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07303146695"
+        }
+      ],
+      "rota_descricao": "ROTA MG 15  18/09/2023  JEFFERSON SAPORE    RPE-1J22",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Euclides Sabino dos Santos, 74 - S\u00e3o Jos\u00e9, Gov. Valadares - MG, 35050-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.885912",
+          "refe_longitude": "-41.966052"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua De acesso 2, 11, Loteamento canaa, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.199142",
+          "refe_longitude": "-42.046760"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Travessa Rio/Bahia, 1500, Vila Isa, Governador Valadares - MG 35044-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.893984",
+          "refe_longitude": "-41.947766"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Euclides Sabino dos Santos, 74 - S\u00e3o Jos\u00e9, Gov. Valadares - MG, 35050-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.885912",
+          "refe_longitude": "-41.966052"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 116, SN, Zona Rural, Engenheiro Caldas - MG 35130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.125163",
+          "refe_longitude": "-42.012016"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Brasil, 4436, Santa Terezinha, Governador Valadares - MG 35030-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.866774",
+          "refe_longitude": "-41.952778"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Bom Jesus, 26 - Central de Minas, MG, 35260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.760943",
+          "refe_longitude": "-41.308115"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Bom Jesus, 26 - Central de Minas, MG, 35260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.760943",
+          "refe_longitude": "-41.308115"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Coronel Faria, 1554, Centro, Galileia - MG 35250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.006188",
+          "refe_longitude": "-41.538383"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 452, SN, Distrito Industrial, Santana do Paraiso - MG 35179-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.448838",
+          "refe_longitude": "-42.516630"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Moreira Sales, 1020, Vila Bretas, Governador Valadares - MG 35030-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.874679",
+          "refe_longitude": "-41.960627"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Getulio Vargas, 1075, Centro, Aimores - MG 35200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.495349",
+          "refe_longitude": "-41.074010"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Jk 1265, 767, Vila Bretas, Governador Valadares - MG 35030-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.872380",
+          "refe_longitude": "-41.957605"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Santa Rita do Itueto, MG, 35225-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.359975",
+          "refe_longitude": "-41.380070"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. S\u00e3o Francisco, 421 - Mantena, MG, 35290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.783534",
+          "refe_longitude": "-40.981450"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Brasil, 4436, Santa Terezinha, Governador Valadares - MG 35030-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.866774",
+          "refe_longitude": "-41.952778"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rod. BR-259, Galil\u00e9ia - MG, 35250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.917472",
+          "refe_longitude": "-41.616724"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Minas Gerais, 625 - Cana\u00e3, Ipatinga - MG, 35162-094, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.463557",
+          "refe_longitude": "-42.551314"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Jose Viana, 11, Senhor dos Passos, Sao Joao do Manteninha - MG 35277-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.724767",
+          "refe_longitude": "-41.171507"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Floresta, 429 - Central de Minas, MG, 35260-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.768637",
+          "refe_longitude": "-41.303852"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rio-Bahia, 6355 - Santa Paula, Gov. Valadares - MG, 35054, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.830783",
+          "refe_longitude": "-41.989436"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Cabo Jos\u00e9 Dias, 13, S\u00e3o Jo\u00e3o do Manteninha - MG, 35277-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.722755",
+          "refe_longitude": "-41.160783"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Euzebio Cabral, 5265, Santa Rita, Governador Valadares - MG 35040-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.899596",
+          "refe_longitude": "-41.984436"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 11:27:04"
+    }
+  ]
+}"

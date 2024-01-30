@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 09 14/09/2023 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Pres. Costa e Silva, 64 - Benevides, PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.362657",
+          "refe_longitude": "-48.251600"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Augusto Meira Filho, 09, Centro, Santa Barbara do Para - PA 68798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.278893",
+          "refe_longitude": "-48.254952"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Joaquim Pereira de Queiroz, 1138, Centro, Benevides - PA 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.344014",
+          "refe_longitude": "-48.232754"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Cl\u00e1udio Barbosa da Silva, 1340 - Bairro Mirizal, Marituba - PA, 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366862",
+          "refe_longitude": "-48.336795"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "RODOVIA BR 316, KM 09, 1839 em Frente ao Assai Atacadista - Centro - Pato Macho, Ananindeua - PA, 67030-007, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.366066",
+          "refe_longitude": "-48.368973"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Uriboca, 466, Uriboca, Marituba - PA 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.369992",
+          "refe_longitude": "-48.352757"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Travessa WE-37\u00a0, 01, Coqueiros, Ananindeua - PA 67133-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.358685",
+          "refe_longitude": "-48.404615"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Rodolfo Chermont, 762, Marambaia, Belem - PA 66615-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.402523",
+          "refe_longitude": "-48.453098"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rod. Bernardo Say\u00e3o, 5118 - \u00c1guas Lindas, Ananindeua - PA, 67200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.382503",
+          "refe_longitude": "-48.400949"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Travessa WE - 75, 361, Cidade Nova, Ananindeua - PA 67140-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.371816",
+          "refe_longitude": "-48.408243"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Do Arsenal, 207, Cidade Velha, Belem - PA 66023-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.465275",
+          "refe_longitude": "-48.502588"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Joao Paulo II, 880, Marco, Belem - PA 66095-492, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.441052",
+          "refe_longitude": "-48.457550"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4320 - Guam\u00e1, Bel\u00e9m - PA, 66065-155, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475244",
+          "refe_longitude": "-48.468368"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 4504 - Guam\u00e1, Bel\u00e9m - PA, 66075-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.475212",
+          "refe_longitude": "-48.466711"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "14/09/2023 13:00:00",
+      "viag_previsao_fim": "15/09/2023 14:55:32"
+    }
+  ]
+}"

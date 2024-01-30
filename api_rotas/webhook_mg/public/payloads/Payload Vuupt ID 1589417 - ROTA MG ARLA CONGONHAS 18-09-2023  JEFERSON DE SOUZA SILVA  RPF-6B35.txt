@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPF6B35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "13045479650"
+        }
+      ],
+      "rota_descricao": "ROTA MG ARLA CONGONHAS 18/09/2023  JEFERSON DE SOUZA SILVA  RPF-6B35",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "11/09/2023 07:00:00",
+      "viag_previsao_fim": "12/09/2023 20:29:14"
+    }
+  ]
+}"

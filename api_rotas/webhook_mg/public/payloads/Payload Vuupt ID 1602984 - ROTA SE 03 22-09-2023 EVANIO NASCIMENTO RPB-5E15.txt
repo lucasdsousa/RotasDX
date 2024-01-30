@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5E15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67286313568"
+        }
+      ],
+      "rota_descricao": "ROTA SE 03 22/09/2023 EVANIO NASCIMENTO RPB-5E15",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Monte Alegre, 504 - Sebasti\u00e3o Lopes da Silva, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.211787",
+          "refe_longitude": "-37.426291"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Ananias Fernandes dos Santos, Canind\u00e9 de S\u00e3o Francisco - SE, 49820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.660363",
+          "refe_longitude": "-37.790713"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "SE-339, 13602-13630 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.478758",
+          "refe_longitude": "-36.950365"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.424170",
+          "refe_longitude": "-36.956912"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Jo\u00e3o B\u00f4sco Machado, 140 - Carira, SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.357373",
+          "refe_longitude": "-37.700902"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Po\u00e7o Redondo, SE, 49810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.806242",
+          "refe_longitude": "-37.685739"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Muribeca - SE, 49780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.424170",
+          "refe_longitude": "-36.956912"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Siriri, SE, 49630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.605468",
+          "refe_longitude": "-37.113467"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Estr. p/ Capela, 356, Nossa Sra. das Dores - SE, 49600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.481471",
+          "refe_longitude": "-37.188919"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Nossa Sra. de Lourdes, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.215641",
+          "refe_longitude": "-37.434786"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "BR-235, 1200, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.673892",
+          "refe_longitude": "-37.444946"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Eucl\u00eddes Paes Mendo\u00e7a, 57, Moita Bonita - SE, 49560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.580476",
+          "refe_longitude": "-37.342788"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Nossa Sra. da Gl\u00f3ria, 1701, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.031675",
+          "refe_longitude": "-37.559134"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Jo\u00e3o B\u00f4sco Machado, 113 - 101, Carira - SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.356978",
+          "refe_longitude": "-37.701322"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Ant\u00f4nio Dutra, 804 - Centro, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.684109",
+          "refe_longitude": "-37.429052"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Carira, SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.356104",
+          "refe_longitude": "-37.702238"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "22/09/2023 07:00:00",
+      "viag_previsao_fim": "23/09/2023 01:35:44"
+    }
+  ]
+}"

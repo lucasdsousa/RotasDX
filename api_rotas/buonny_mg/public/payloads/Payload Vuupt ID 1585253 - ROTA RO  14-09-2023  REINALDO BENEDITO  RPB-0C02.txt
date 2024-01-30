@@ -1,0 +1,259 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1585253,
+  "numero_liberacao": 1585253,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "REINALDO BENEDITO DA SILVA",
+    "cpf": "83095900406",
+    "telefone": "+556999356534",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RPB0C02"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0021-18",
+    "descricao": "Dunax Lubrificantes LTDA  - RO"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 22:45:00",
+  "data_previsao_fim": "15/09/2023 01:46:08",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "04.869.638/0001-14",
+        "descricao": "SANTOS E PIMENTA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:11:33",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2170.8",
+              "volume": "9",
+              "peso": "117.265"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "20.142.300/0001-12",
+        "descricao": "MACIEL COMERCIO DE FILTROS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:35:31",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2232",
+              "volume": "6",
+              "peso": "109.767"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "01.482.942/0001-16",
+        "descricao": "JOAO DA SILVA FILGUEIRA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:41:46",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4972.2",
+              "volume": "22",
+              "peso": "495.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.402.860/0001-97",
+        "descricao": "PARCERIA CENTER DIESEL PECAS E SERVICOS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:43:54",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1569.5",
+              "volume": "5",
+              "peso": "93.289"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.269.577/0001-57",
+        "descricao": "SOUZA E MANSO AUTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 04:48:17",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1111",
+              "volume": "4",
+              "peso": "56.969"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "45.493.870/0001-88",
+        "descricao": "QUEIROZ AUTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:36:59",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "675.36",
+              "volume": "2",
+              "peso": "46.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "50.278.874/0001-83",
+        "descricao": "D S DA SILVA DISTRIBUIDORA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 06:20:13",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "8316",
+              "volume": "30",
+              "peso": "681"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.229.224/0001-02",
+        "descricao": "GOIACAR AUTOPECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:05:56",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4630.8",
+              "volume": "17",
+              "peso": "262.603"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "20.248.975/0001-40",
+        "descricao": "LEO CAR CENTRO AUTOMOTIVO LTDA  ME",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:55:10",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1355.52",
+              "volume": "6",
+              "peso": "90.246"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "26.942.663/0001-19",
+        "descricao": "WESLEY VIEIRA DA SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 08:27:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1266.46",
+              "volume": "4",
+              "peso": "90.801"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "46.344.019/0001-56",
+        "descricao": "C W L TOLEDO LUBRIFICANTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:08:41",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "733",
+              "volume": "2",
+              "peso": "45.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "50.469.761/0001-65",
+        "descricao": "RM COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:54:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1507.2",
+              "volume": "6",
+              "peso": "88.646"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301846","erros":[]}

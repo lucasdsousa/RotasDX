@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2J65"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "ROTA RIO  - JO\u00c3O LUIZ MARQUES DE BRITO - RPB2J65 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Gilberto Carvalho, 476, Calaboca, Marica - RJ 24944-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.906447",
+          "refe_longitude": "-42.944182"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Loteamento Residencial 13, SN, Travessao de Campos, Campos dos Goytacazes - RJ 28175-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.614068",
+          "refe_longitude": "-41.313016"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "08/09/2023 09:30:00",
+      "viag_previsao_fim": "08/09/2023 22:22:12"
+    }
+  ]
+}"

@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW6E96"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03819079378"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 28/09/2023 ANTONIO LINDEBERG RCW-6E96",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Via Estruturante, 3050 - Cabatan, Caucaia - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.718603",
+          "refe_longitude": "-38.672459"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Jose Guilherme, 229, Pavuna, Pacatuba - CE 61800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.915963",
+          "refe_longitude": "-38.603710"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Nereu Ramos, 816 - Parangaba, Fortaleza - CE, 60721-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.784021",
+          "refe_longitude": "-38.573822"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Um, 500 - Novo Maracana\u00fa, Maracana\u00fa - CE, 61905-430, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.857998",
+          "refe_longitude": "-38.617861"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Dom Almeida Lustosa, 2113, Parque Guadalajara, Caucaia - CE 61650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.762165",
+          "refe_longitude": "-38.617266"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Padre Jos\u00e9 Holanda do Vale, 130 - Jereissati I, Maracana\u00fa - CE, 61910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.852527",
+          "refe_longitude": "-38.643838"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Professor Virg\u00edlio de Morais, 724 - Autran Nunes, Fortaleza - CE, 60526-720, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.754738",
+          "refe_longitude": "-38.597448"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 222, SN, Boqueirao do Arara, Caucaia - CE 61600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.717641",
+          "refe_longitude": "-38.800300"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Luiz Vieira, 650 - Parque S\u00e3o Jos\u00e9, Fortaleza - CE, 60541-672, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.792546",
+          "refe_longitude": "-38.587797"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Carneiro de Mendon\u00e7a, 366 - Dem\u00f3crito Rocha, Fortaleza - CE, 60440-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.765835",
+          "refe_longitude": "-38.562833"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Senador Fernandes Tavora, 1240, Henrique Jorge, Fortaleza - CE 60510-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.761128",
+          "refe_longitude": "-38.583662"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "28/09/2023 07:00:00",
+      "viag_previsao_fim": "28/09/2023 16:23:47"
+    }
+  ]
+}"

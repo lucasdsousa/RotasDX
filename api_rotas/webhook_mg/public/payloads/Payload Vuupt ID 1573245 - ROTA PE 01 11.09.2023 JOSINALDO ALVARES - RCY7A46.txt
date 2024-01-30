@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7A46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "28352823434"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 11.09.2023 JOSINALDO ALVARES - RCY7A46",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Gamela de Ouro, 18, Bela Vista, Vitoria de Santo Antao - PE 55608-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.111969",
+          "refe_longitude": "-35.294103"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-232, 2100A - Jardim Ipiranga, Vit\u00f3ria de Santo Ant\u00e3o - PE, 55614, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.133070",
+          "refe_longitude": "-35.289190"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Henrique de Holanda, 1800, Livramento, Vitoria de Santo Antao - PE 55600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.117653",
+          "refe_longitude": "-35.299849"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Nova Maues, 41, Sao Vicente de Paulo, Vitoria de Santo Antao - PE 55606-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119293",
+          "refe_longitude": "-35.317056"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Primitivo de Miranda, 386 - Matriz, Vit\u00f3ria de Santo Ant\u00e3o - PE, 55602-225, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119446",
+          "refe_longitude": "-35.292995"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua 11, 230, Vila Brasil, Pombos - PE 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.145536",
+          "refe_longitude": "-35.393659"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 232, S/N, Zona Rural, Pombos - PE 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.140521",
+          "refe_longitude": "-35.380741"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "11/09/2023 05:00:00",
+      "viag_previsao_fim": "11/09/2023 12:39:30"
+    }
+  ]
+}"

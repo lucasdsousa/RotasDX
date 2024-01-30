@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 08 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Natal, 135, Novo, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.944831",
+          "refe_longitude": "-48.949767"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia PA 150, SN, Centro, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.693277",
+          "refe_longitude": "-48.869750"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Belem, 140, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.947937",
+          "refe_longitude": "-48.953962"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Murici, Tail\u00e2ndia - PA, 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.880387",
+          "refe_longitude": "-48.561929"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Sebasti\u00e3o Camargo, 102 - Novo Horizonte, Breu Branco - PA, 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Sebastiao Camargo, 196, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766109",
+          "refe_longitude": "-49.560758"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Tancredo Neves, SN, Floresta, Goianesia do Para - PA 68639-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.839554",
+          "refe_longitude": "-49.100739"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Minas Gerais, 308, Centro, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.775121",
+          "refe_longitude": "-49.568190"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Lauro Sodre, 2000, Jardim Colorado, Tucurui - PA 68456-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.767286",
+          "refe_longitude": "-49.669681"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Lauro Sodre, 2000, Jardim Colorado, Tucurui - PA 68456-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.767286",
+          "refe_longitude": "-49.669681"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Raimundo Veridiano Cardoso, 416, Bela Santa Monica, Tucurui - PA 68456-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.777291",
+          "refe_longitude": "-49.676542"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia Diego Kolling, SN, Industrial, Breu Branco - PA 68488-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.786337",
+          "refe_longitude": "-49.570899"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Cristo Rei, 631, Santa Helena, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.443978",
+          "refe_longitude": "-49.114749"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Cristo Rei, 780, Novo Horizonte, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444419",
+          "refe_longitude": "-49.115157"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "28/09/2023 11:30:00",
+      "viag_previsao_fim": "01/10/2023 03:01:36"
+    }
+  ]
+}"

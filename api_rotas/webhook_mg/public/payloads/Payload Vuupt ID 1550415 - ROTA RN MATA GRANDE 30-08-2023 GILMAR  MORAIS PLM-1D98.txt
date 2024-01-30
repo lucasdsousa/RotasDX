@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN MATA GRANDE 30/08/2023 GILMAR  MORAIS PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "30/08/2023 05:00:00",
+      "viag_previsao_fim": "31/08/2023 09:04:26"
+    }
+  ]
+}

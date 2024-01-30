@@ -1,0 +1,66 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 12.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua T, 1040, Cidade Universitaria, Maceio - AL 57073-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.563647",
+          "refe_longitude": "-35.752978"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Cabo Reis, 576 - Ponta Grossa, Macei\u00f3 - AL, 57014-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.661706",
+          "refe_longitude": "-35.756977"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 8855, Tabuleiro do Martins, Maceio - AL 57061-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.586240",
+          "refe_longitude": "-35.763739"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Tenente John Richardson Cordeiro, 633, Feitosa, Maceio - AL 57042-620, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.625417",
+          "refe_longitude": "-35.719115"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "12/09/2023 05:00:00",
+      "viag_previsao_fim": "12/09/2023 08:46:42"
+    }
+  ]
+}"

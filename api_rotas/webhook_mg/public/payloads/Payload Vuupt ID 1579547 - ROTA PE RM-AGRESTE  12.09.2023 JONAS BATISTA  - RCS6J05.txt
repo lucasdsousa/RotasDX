@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS6J05"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "80196217415"
+        }
+      ],
+      "rota_descricao": "ROTA PE RM-AGRESTE  12.09.2023 JONAS BATISTA  - RCS6J05",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Caruaru - Caruaru - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293217",
+          "refe_longitude": "-35.983502"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Paudalho - Paudalho - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.899098",
+          "refe_longitude": "-35.173183"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Pombos - Pombos - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.141469",
+          "refe_longitude": "-35.396371"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Taquaritinga do Norte - Taquaritinga do Norte - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.902388",
+          "refe_longitude": "-36.047830"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Carpina - Carpina - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.843504",
+          "refe_longitude": "-35.250274"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Abreu e Lima - Abreu e Lima - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.905479",
+          "refe_longitude": "-34.904950"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Vit\u00f3ria de Santo Ant\u00e3o - Vit\u00f3ria de Santo Ant\u00e3o - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.117325",
+          "refe_longitude": "-35.297635"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Palmares - Palmares - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.678840",
+          "refe_longitude": "-35.583879"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Jaboat\u00e3o dos Guararapes - Jaboat\u00e3o dos Guararapes - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.168813",
+          "refe_longitude": "-34.920874"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Recife - Recife - PERNAMBUCO",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.057838",
+          "refe_longitude": "-34.882897"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "12/09/2023 05:00:00",
+      "viag_previsao_fim": "12/09/2023 21:01:06"
+    }
+  ]
+}"

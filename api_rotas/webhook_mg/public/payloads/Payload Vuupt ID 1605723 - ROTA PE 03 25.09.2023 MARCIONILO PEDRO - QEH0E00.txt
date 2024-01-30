@@ -1,0 +1,542 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QEH0E00"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "89969197487"
+        }
+      ],
+      "rota_descricao": "ROTA PE 03 25.09.2023 MARCIONILO PEDRO - QEH0E00",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Dom Malan, 110, Isabel Gomes, Afranio - PE 56360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.517274",
+          "refe_longitude": "-41.008491"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. da Pol\u00f4nia, 41 - Areia Branca, Petrolina - PE, 56328-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.384285",
+          "refe_longitude": "-40.492291"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-116, Cabrob\u00f3 - PE, 56180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.390815",
+          "refe_longitude": "-39.159565"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Maria Honorina Novais Granja, 12, Barra do Noronha, Dormentes - PE 56355-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.444034",
+          "refe_longitude": "-40.765903"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Nilo Coelho, 53 - Gercino Coelho, Petrolina - PE, 56306-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.385819",
+          "refe_longitude": "-40.511581"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Dom Malan, 110, Isabel Gomes, Afranio - PE 56360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.517274",
+          "refe_longitude": "-41.008491"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dioscoro de Sa Gonzaga, 365, Centro, Santa Maria da Boa Vista - PE 56380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.805878",
+          "refe_longitude": "-39.824987"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Nilo Coelho, 53 - Gercino Coelho, Petrolina - PE, 56306-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.385819",
+          "refe_longitude": "-40.511581"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Franco Gondin - Vila da Fabrica, Camaragibe - PE, 54789-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.988049",
+          "refe_longitude": "-34.993305"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-408 - S\u00e3o Louren\u00e7o da Mata, PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.011198",
+          "refe_longitude": "-35.042571"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "PE-009, Ipojuca - PE, 55590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.408201",
+          "refe_longitude": "-35.011823"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Jos\u00e9 \u00c1lvaro de Melo, 407 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54400-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.151862",
+          "refe_longitude": "-34.916052"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Eraldo Barros de Souza, 82 - Cohab, Cabo de Santo Agostinho - PE, 54515-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.290482",
+          "refe_longitude": "-35.028099"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Pra\u00e7a Ven\u00e2ncio de Rezende, 10 - Afogados, Recife - PE, 50770-830, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.080074",
+          "refe_longitude": "-34.910720"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Joaquim Tavora, 49, Encruzilhada, Recife - PE 52041-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.031843",
+          "refe_longitude": "-34.892898"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Projetada, 1, Loteamento Granja Eldorado, Goiana - PE 55900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.674645",
+          "refe_longitude": "-34.914330"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua da Regeneracao, 1133, Arruda, Recife - PE 52120-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.022157",
+          "refe_longitude": "-34.883997"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Osvaldo Cruz, 4160, Coronel Siqueira Campos, Arcoverde - PE 56511-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.433126",
+          "refe_longitude": "-37.066911"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Osvaldo Cruz, 4000, Sao Cristovao, Arcoverde - PE 56512-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.430329",
+          "refe_longitude": "-37.062657"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Gerson Goncalves de Lima, 1159, Redencao, Custodia - PE 56640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.085822",
+          "refe_longitude": "-37.639980"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Osvaldo Cruz, 3605, Sao Cristovao, Arcoverde - PE 56512-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.433150",
+          "refe_longitude": "-37.066706"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Da Central, 04, PE 285, Santa Terezinha - PE 56750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.535326",
+          "refe_longitude": "-37.377213"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "S\u00e3o Jos\u00e9 do Egito, PE, 56700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.472175",
+          "refe_longitude": "-37.276172"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Fazenda Saco Roca, SN, Zona Rural, Serra Talhada - PE 56900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.978008",
+          "refe_longitude": "-38.288904"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Joao Gomes de Lucena, 3316, Sao Cristovao, Serra Talhada - PE 56909-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.982567",
+          "refe_longitude": "-38.287943"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Vinte e Cinco de Agosto, 850, Planalto, Sao Jose do Egito - PE 56700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.466891",
+          "refe_longitude": "-37.274220"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Antonio Pereira Amorim, 2319, Centro, Tabira - PE 56780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.584691",
+          "refe_longitude": "-37.538161"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Joao Gomes de Lucena, 2892, Sao Cristovao, Serra Talhada - PE 56912-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.981839",
+          "refe_longitude": "-38.291874"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Joao Gomes de Lucena, 2892, Sao Cristovao, Serra Talhada - PE 56912-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.981839",
+          "refe_longitude": "-38.291874"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua 25 de Abril, 30, Centro, Trindade - PE 56250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.758978",
+          "refe_longitude": "-40.265994"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 316, SN, Zona Rural, Trindade - PE 56250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.774262",
+          "refe_longitude": "-40.251235"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Jose Joaquim Lopes, 189, Centro, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.579545",
+          "refe_longitude": "-40.507434"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Do Comercio, 292, Serrolandia, Ipubi - PE 56260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.492977",
+          "refe_longitude": "-40.272456"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia 316, SN, Zona Rural, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.578339",
+          "refe_longitude": "-40.513067"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Praca Castelo Branco, 35 A, Centro, Exu - PE 56230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.511799",
+          "refe_longitude": "-39.723754"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Corinto Matos, 580, Serrania, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.442129",
+          "refe_longitude": "-40.665602"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Praca Castelo Branco, 35 A, Centro, Exu - PE 56230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.511799",
+          "refe_longitude": "-39.723754"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Governador Muniz Falcao, 770, Bomba, Araripina - PE 56280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.580970",
+          "refe_longitude": "-40.503971"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Floriano Peixoto, 90, Centro, Trindade - PE 56250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.762243",
+          "refe_longitude": "-40.265336"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Perimetral, 168 - Vila Santa Rita, Belo Horizonte - MG, 30670-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.995119",
+          "refe_longitude": "-44.030951"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Padre Machado, 58 - Jardim Industrial, Contagem - MG, 32215-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.967317",
+          "refe_longitude": "-44.014009"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Ilmenita, 220, Sport Club, Belo Horizonte - MG 30520-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.945984",
+          "refe_longitude": "-44.010508"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. S\u00e3o Paulo (Rod MG 040 URB), 3996 - Vila Ros\u00e1rio, Ibirit\u00e9 - MG, 32412-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.015790",
+          "refe_longitude": "-44.084546"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Padre Eustaquio, 20, Santo Antonio, Brumadinho - MG 35460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.139825",
+          "refe_longitude": "-44.200945"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Rio Madeira, 120, Santa Cruz, Betim - MG 32667-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.958553",
+          "refe_longitude": "-44.137636"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Waldyr Soeiro Emrich, 110 - Novo das Ind\u00fastrias, Belo Horizonte - MG, 30610-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.989115",
+          "refe_longitude": "-44.011483"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Rio Paranagu\u00e1, 1382 - Novo Riacho, Contagem - MG, 32280-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.955936",
+          "refe_longitude": "-44.059196"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Cel. Jove Soares Nogueira, 135 - Riacho das Pedras, Contagem - MG, 32260-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.959670",
+          "refe_longitude": "-44.034838"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Jose Faria da Rocha, 298, Eldorado, Contagem - MG 32315-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.946072",
+          "refe_longitude": "-44.032534"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Sacadura Cabral, 638 - Vila Oeste, Belo Horizonte - MG, 30532-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.937650",
+          "refe_longitude": "-44.006410"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Violeta, 310 - Jardim das Alterosas - 2\u00aa Se\u00e7\u00e3o, Betim - MG, 32673-032, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.949990",
+          "refe_longitude": "-44.167380"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Desembargador Reis Alves, 318, Das Industrias, Belo Horizonte - MG 30610-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.961634",
+          "refe_longitude": "-44.000321"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Monteiro, PB, 58500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.891560",
+          "refe_longitude": "-37.123897"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Hugo Santa Cruz, 64, Varzea Redonda, Sume - PB 58540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.670369",
+          "refe_longitude": "-36.887220"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Monteiro - PB, 58500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.903200",
+          "refe_longitude": "-37.120870"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Monteiro, PB, 58500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.891560",
+          "refe_longitude": "-37.123897"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Cel Manoel Rafael, 282, Centro, Monteiro - PB 58500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.890137",
+          "refe_longitude": "-37.119402"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida do Parque, 111, Centro, Congo - PB 58535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.811477",
+          "refe_longitude": "-36.630984"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida 1. de Abril, 802, Centro, Sume - PB 58540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.670176",
+          "refe_longitude": "-36.875991"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida 1. de Abril, 802, Centro, Sume - PB 58540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.670176",
+          "refe_longitude": "-36.875991"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Coronel Joao Santa Cruz, 416, Centro, Monteiro - PB 58500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.889188",
+          "refe_longitude": "-37.118687"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Carreiros, SN, Jardim Magnolia, Patos - PB 58700-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.006654",
+          "refe_longitude": "-37.291568"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Projetada III, 11, Centro, Congo - PB 58535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.811477",
+          "refe_longitude": "-36.630984"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Joaquim Felix de Medeiros, 715, Centro, Paulista - PB 58860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.597067",
+          "refe_longitude": "-37.624401"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Projetada, S/N, Centro, Camalau - PB 58530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.888152",
+          "refe_longitude": "-36.824459"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia Margem da BR 230, SN, Distrito Industrial, Cajazeiras - PB 58900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.896163",
+          "refe_longitude": "-38.533818"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Ananiano Ramos Galvao, 286, Centro, Prata - PB 58550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.693910",
+          "refe_longitude": "-37.083566"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Antonio Virgolino, 107, Centro, Itaporanga - PB 58780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.304754",
+          "refe_longitude": "-38.155941"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia Margem da BR 230, SN, Zona Rural, Cajazeiras - PB 58900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.900910",
+          "refe_longitude": "-38.556812"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia PB 306, SN, Sao Sebastiao, Tavares - PB 58753-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.643352",
+          "refe_longitude": "-37.876401"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Antonio Virgolino, 107, Centro, Itaporanga - PB 58780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.304754",
+          "refe_longitude": "-38.155941"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "25/09/2023 05:00:00",
+      "viag_previsao_fim": "26/09/2023 23:26:32"
+    }
+  ]
+}"

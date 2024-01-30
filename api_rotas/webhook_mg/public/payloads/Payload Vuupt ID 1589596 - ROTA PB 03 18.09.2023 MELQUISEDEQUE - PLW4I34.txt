@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW4I34"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05633177444"
+        }
+      ],
+      "rota_descricao": "ROTA PB 03 18.09.2023 MELQUISEDEQUE - PLW4I34",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Dep Americo Maia, 1000, Noel Veras, Catole do Rocha - PB 58884-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.350740",
+          "refe_longitude": "-37.746534"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Nicolau Franca, 97, Centro, Conceicao - PB 58970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.560096",
+          "refe_longitude": "-38.508115"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Prefeito Pedro Eulampio da Silva, 755, Centro, Sao Bento - PB 58865-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.472069",
+          "refe_longitude": "-37.445800"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 230, S/N, Zona Rural, Sao Mamede - PB 58625-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.937268",
+          "refe_longitude": "-37.094761"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Sitio Sucesso, S/N, Zona Rural, Varzea - PB 58620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.774458",
+          "refe_longitude": "-37.018562"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Projetada, S/N, Centro, Camalau - PB 58530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.888152",
+          "refe_longitude": "-36.824459"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Santa Cruz, PB, 58824-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.533301",
+          "refe_longitude": "-38.059008"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Do Padro, SN, Maternidade, Patos - PB 58701-418, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.031220",
+          "refe_longitude": "-37.290408"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia BR 230, S/N, Remedios, Cajazeiras - PB 58900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.899117",
+          "refe_longitude": "-38.515149"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 14:23:23"
+    }
+  ]
+}"

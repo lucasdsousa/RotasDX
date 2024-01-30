@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW7G98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "18919472491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 19.09.2023 JOSE ALMIR - RCW7G98",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Da Recuperacao, 250, Apipucos, Recife - PE 52091-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.019116",
+          "refe_longitude": "-34.942195"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. C\u00f3rrego da Prata, 170 - Guabiraba, Recife - PE, 52291-510, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.974811",
+          "refe_longitude": "-34.925643"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Piracicaba, 931, Jardim Sao Paulo, Recife - PE 50790-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.077978",
+          "refe_longitude": "-34.950652"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida General Manoel Rabelo, 18, Sucupira, Jaboatao dos Guararapes - PE 54280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.108305",
+          "refe_longitude": "-34.991750"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rod. Arm\u00ednio Guilherme, 6927 - Ros\u00e1rio, Cabo de Santo Agostinho - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.347983",
+          "refe_longitude": "-35.017109"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Recife, 2981, Ipsep, Recife - PE 51350-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.113783",
+          "refe_longitude": "-34.925660"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Doutor Tavares Correia, 77, Imbiribeira, Recife - PE 51200-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.115703",
+          "refe_longitude": "-34.914005"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Joaquim Bandeira, 58, Imbiribeira, Recife - PE 51150-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.110453",
+          "refe_longitude": "-34.909828"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Vinte e Quatro, 163, Sao Jose, Recife - PE 50020-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067603",
+          "refe_longitude": "-34.880854"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Do Marco, 140, Aguazinha, Olinda - PE 53270-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.001194",
+          "refe_longitude": "-34.884371"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Engenheiro Abdias de Carvalho, 90, Prado, Recife - PE 50750-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062206",
+          "refe_longitude": "-34.913811"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "19/09/2023 09:00:00",
+      "viag_previsao_fim": "19/09/2023 17:37:02"
+    }
+  ]
+}"

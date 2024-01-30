@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG8H73"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91669480372"
+        }
+      ],
+      "rota_descricao": "ROTA PI 02  25/09/2023  RODRIGO GUILHERME  RPG-8H73",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Antonio Cornelio Siqueira, 33, Centro, Agua Branca - PI 64460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.887911",
+          "refe_longitude": "-42.632633"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Transamazonica, 736, Centro, Oeiras - PI 64500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.007867",
+          "refe_longitude": "-42.123127"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Da Integracao, 2080, Sambaiba Nova, Floriano - PI 64804-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.769860",
+          "refe_longitude": "-43.008324"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida David  Campos, 942, Centro, Cristino Castro - PI 64920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.815964",
+          "refe_longitude": "-44.221246"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Dom Avelar Brandao Vilela, 3301, Centro, Colonia do Gurgueia - PI 64885-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.188065",
+          "refe_longitude": "-43.792056"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Miramar, 530 - Miramar, Bom Jesus - PI, 64900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.075074",
+          "refe_longitude": "-44.349484"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 343, SN, Zona Rural, Floriano - PI 64800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.785771",
+          "refe_longitude": "-43.041810"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Curimata, SN, Centro, Curimata - PI 64960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.033439",
+          "refe_longitude": "-44.311799"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Tiradentes, 743, Sao Pedro, Bom Jesus - PI 64900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.076224",
+          "refe_longitude": "-44.363133"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Praca Cel Orlando Carvalho, 280, Centro, Oeiras - PI 64500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.014765",
+          "refe_longitude": "-42.131118"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "25/09/2023 07:30:00",
+      "viag_previsao_fim": "27/09/2023 05:39:39"
+    }
+  ]
+}"

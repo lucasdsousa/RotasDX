@@ -1,0 +1,452 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580132,
+  "numero_liberacao": 1580132,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JULIO CESAR RODRIGUES DA SILVA",
+    "cpf": "21288236840",
+    "telefone": "+5516991369390"
+  },
+  "veiculos": {
+    "placa": "RPB5D63"
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "Dunax Lubrificantes LTDA -  SP",
+    "latitude": -21.041428,
+    "longitude": -47.812349
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 10:30:00",
+  "data_previsao_fim": "14/09/2023 19:35:45",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07777690000139",
+            "descricao": "FEBER AUTO POSTO LTDA",
+            "latitude": "-21.326055",
+            "longitude": "-48.631875",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:06:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "617.6",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10742552000129",
+            "descricao": "AUTO POSTO CREMA LTDA",
+            "latitude": "-21.326570",
+            "longitude": "-48.633733",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:20:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "672.44",
+                  "volume": "2",
+                  "peso": "46.601"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11117346000190",
+            "descricao": "LUBRISETE COMER LUBRIF AUTOM E  INDUSTRIAIS LTDA",
+            "latitude": "-21.799239",
+            "longitude": "-48.179926",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:05:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "619.2",
+                  "volume": "2",
+                  "peso": "45.4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11117346000190",
+            "descricao": "LUBRISETE COMER LUBRIF AUTOM E  INDUSTRIAIS LTDA",
+            "latitude": "-21.799239",
+            "longitude": "-48.179926",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:10:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3120.91",
+                  "volume": "13",
+                  "peso": "203.04"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04725702000193",
+            "descricao": "BARALDI E BARALDI FERNANDO PRESTES LTDA",
+            "latitude": "-21.368746",
+            "longitude": "-48.744848",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:11:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "605.76",
+                  "volume": "2",
+                  "peso": "36.59"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07847730000171",
+            "descricao": "ROTA CERTA AUTO CENTER PECAS PARA VEICULOS AUTOMOTORES LTDA",
+            "latitude": "-21.408246",
+            "longitude": "-48.496787",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 18:10:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1797.36",
+                  "volume": "8",
+                  "peso": "89.149"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03914236000121",
+            "descricao": "RALLY AUTO POSTO DE TAQUARITINGA LTDA",
+            "latitude": "-21.424314",
+            "longitude": "-48.511573",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:04:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1544.5",
+                  "volume": "5",
+                  "peso": "113.503"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07247814000174",
+            "descricao": "AUTO POSTO DE SERVICOS BOUGANVILLE LTDA",
+            "latitude": "-22.843262",
+            "longitude": "-47.613885",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 20:33:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1209.6",
+                  "volume": "5",
+                  "peso": "78.959"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20001089000118",
+            "descricao": "EDMILSON DA ROCHA DE OLIVEIRA",
+            "latitude": "-22.816280",
+            "longitude": "-47.170640",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 21:06:20",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1723.2",
+                  "volume": "7",
+                  "peso": "114.147"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43715429000178",
+            "descricao": "ADRIEL LUIS LOPES",
+            "latitude": "-21.746946",
+            "longitude": "-48.141098",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 21:52:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "363.8",
+                  "volume": "1",
+                  "peso": "23.9"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "43715429000178",
+            "descricao": "ADRIEL LUIS LOPES",
+            "latitude": "-21.746946",
+            "longitude": "-48.141098",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 21:58:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "617.3",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03133699000156",
+            "descricao": "AUTO POSTO LUIZ DE QUEIROZ LTDA",
+            "latitude": "-22.736316",
+            "longitude": "-47.531716",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 22:04:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1136",
+                  "volume": "4",
+                  "peso": "72.884"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01511136000129",
+            "descricao": "ALALUB LUBRIFICANTES LTDA",
+            "latitude": "-22.747256",
+            "longitude": "-47.364785",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 14:01:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3798",
+                  "volume": "20",
+                  "peso": "371"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "56925605000148",
+            "descricao": "MOREL E MOREL LTDA",
+            "latitude": "-21.716246",
+            "longitude": "-47.476644",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 15:01:06",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1257.48",
+                  "volume": "7",
+                  "peso": "159.901"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "25031747000138",
+            "descricao": "JNC MOTO PECAS LTDA",
+            "latitude": "-21.797368",
+            "longitude": "-48.173500",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 15:41:15",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3397.4",
+                  "volume": "13",
+                  "peso": "238.33"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "49534287000129",
+            "descricao": "CONFIANCA SUPER TROCA DE OLEO LTDA",
+            "latitude": "-22.811971",
+            "longitude": "-47.199926",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 16:20:09",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1003.2",
+                  "volume": "4",
+                  "peso": "67.824"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19299919000156",
+            "descricao": "AUTO POSTO DE PAULA SANTA RITA DO PASSA QUATRO LTDA",
+            "latitude": "-21.696061",
+            "longitude": "-47.483485",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 16:26:09",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "379.2",
+                  "volume": "2",
+                  "peso": "22.423"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 17 Incompletos&#10;Informe o destino da SM&#10;"]}

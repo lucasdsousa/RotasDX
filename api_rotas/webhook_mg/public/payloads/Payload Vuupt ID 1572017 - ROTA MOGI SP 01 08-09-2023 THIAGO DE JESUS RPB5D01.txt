@@ -1,0 +1,45 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D01"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "35034689863"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 08/09/2023 THIAGO DE JESUS RPB5D01",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Idalino Pines (Rua do Adubo), 212 - Jardim Boa Esperanca (Vicente de Carvalho), Guaruj\u00e1 - SP, 11470-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.964170",
+          "refe_longitude": "-46.280770"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "08/09/2023 09:00:00",
+      "viag_previsao_fim": "08/09/2023 18:12:18"
+    }
+  ]
+}"

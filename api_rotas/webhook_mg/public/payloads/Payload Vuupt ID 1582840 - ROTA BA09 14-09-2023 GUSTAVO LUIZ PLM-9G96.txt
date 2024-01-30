@@ -1,0 +1,150 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM9G96"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "87235293500"
+        }
+      ],
+      "rota_descricao": "ROTA BA09 14/09/2023 GUSTAVO LUIZ PLM-9G96",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 02 De Julho, 114, Centro, Varzea da Roca - BA 44635-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.606211",
+          "refe_longitude": "-40.137059"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Praca Campo Salles, 366, Vicente Ferreira, Capim Grosso - BA 44695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.377224",
+          "refe_longitude": "-40.011221"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Lomanto Junior, SN, Sede, Riachao do Jacuipe - BA 44640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.807363",
+          "refe_longitude": "-39.380915"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida ACM, 217, Centro, Capim Grosso - BA, 44695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.380536",
+          "refe_longitude": "-40.008694"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Severino Ribeiro Granja, SN, Centro, Umburanas - BA, 44798-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.729717",
+          "refe_longitude": "-41.322313"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Sao Joao, 45, Missao, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.179882",
+          "refe_longitude": "-40.516703"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Ayrton Senna, 81, Planaltino, Capim Grosso - BA 44695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.372594",
+          "refe_longitude": "-40.010355"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Praca Canabrava, 238, Centro, Miguel Calmon - BA 44720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.424167",
+          "refe_longitude": "-40.594448"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Estrada Jacobina Miguel Calmon, S/N, Catuaba, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.193315",
+          "refe_longitude": "-40.574014"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Sao Joao, 45, Missao, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.179882",
+          "refe_longitude": "-40.516703"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Leonicio Ferreira Santos, S/N, Centro, Capim Grosso - BA 44695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.376647",
+          "refe_longitude": "-40.011836"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Praca Canabrava, 238, Centro, Miguel Calmon - BA 44720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.424167",
+          "refe_longitude": "-40.594448"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Centenario, 1600, Nazare, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184061",
+          "refe_longitude": "-40.531485"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia Lomanto Junior, 1441, Bela Vista, Riachao do Jacuipe - BA 44640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.804932",
+          "refe_longitude": "-39.391263"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Orlando Oliveira Pires, 1430, Centro, Jacobina - BA 44700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.179121",
+          "refe_longitude": "-40.521974"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Do Campo, 411, Povoado de Alagadico, Ourolandia - BA 44718-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.681923",
+          "refe_longitude": "-41.286970"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "16/09/2023 04:07:51"
+    }
+  ]
+}"

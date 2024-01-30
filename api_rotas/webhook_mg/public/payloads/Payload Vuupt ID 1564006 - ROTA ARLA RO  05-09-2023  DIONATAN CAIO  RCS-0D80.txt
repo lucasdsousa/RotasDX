@@ -1,0 +1,58 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCS0D80"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "52886239291"
+        }
+      ],
+      "rota_descricao": "ROTA ARLA RO  05/09/2023  DIONATAN CAIO  RCS-0D80",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 6120, Jardim Petropolis, Maceio - AL 57080-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.603098",
+          "refe_longitude": "-35.745743"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Doutor Durval de Goes Monteiro, 6120, Jardim Petropolis, Maceio - AL 57080-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.603098",
+          "refe_longitude": "-35.745743"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Lot. Vila Rica, Rio Largo - AL, 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.478255",
+          "refe_longitude": "-35.839759"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "05/09/2023 07:30:00",
+      "viag_previsao_fim": "07/09/2023 03:59:30"
+    }
+  ]
+}

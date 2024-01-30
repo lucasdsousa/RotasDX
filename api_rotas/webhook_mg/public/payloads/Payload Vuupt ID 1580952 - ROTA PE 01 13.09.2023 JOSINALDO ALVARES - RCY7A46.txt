@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7A46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "28352823434"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 13.09.2023 JOSINALDO ALVARES - RCY7A46",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 232, KM 22 S/N, Manassu, Jaboatao dos Guararapes - PE 54130-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida General Manoel Rabelo, 5117, Cavaleiro, Jaboatao dos Guararapes - PE 54210-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.098822",
+          "refe_longitude": "-34.968852"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 101 Sul, SN, Prazeres, Jaboatao dos Guararapes - PE 54345-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.181949",
+          "refe_longitude": "-34.951170"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Jos\u00e9 \u00c1lvaro de Melo, 407 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54400-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.151862",
+          "refe_longitude": "-34.916052"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Dois Rios, 601, Ibura, Recife - PE 51230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.113130",
+          "refe_longitude": "-34.938517"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 101 Sul, SN, Prazeres, Jaboatao dos Guararapes - PE 54345-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.181949",
+          "refe_longitude": "-34.951170"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Jos\u00e9 \u00c1lvaro de Melo, 407 - Piedade, Jaboat\u00e3o dos Guararapes - PE, 54400-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.151862",
+          "refe_longitude": "-34.916052"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Queluz, 45, Jardim Sao Paulo, Recife - PE 50790-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.079715",
+          "refe_longitude": "-34.943477"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Guarulhos, 156, Jardim Sao Paulo, Recife - PE 50910-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.085347",
+          "refe_longitude": "-34.940213"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua da Palma, 556, Sao Jose, Recife - PE 50020-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.067736",
+          "refe_longitude": "-34.881609"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "13/09/2023 05:00:00",
+      "viag_previsao_fim": "13/09/2023 14:59:58"
+    }
+  ]
+}"

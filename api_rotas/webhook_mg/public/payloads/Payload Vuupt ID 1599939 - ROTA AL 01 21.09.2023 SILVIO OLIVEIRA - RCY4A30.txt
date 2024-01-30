@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 21.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Fazenda Manimbu, S/N, Zona Rural, Rio Largo - AL 57100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.477905",
+          "refe_longitude": "-35.835510"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Gunther Frans Oliveira, 15645, Ipioca, Maceio - AL 57039-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.503519",
+          "refe_longitude": "-35.593140"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Dep Serzedelo de Barros Correia, 450, Santos Dumont, Maceio - AL 57075-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.567165",
+          "refe_longitude": "-35.793216"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "21/09/2023 10:14:10"
+    }
+  ]
+}"

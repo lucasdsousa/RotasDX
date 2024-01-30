@@ -1,0 +1,48 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 01 04/09/2023 LUCAS ALVES RCY0I35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Praca Da Bandeira, 1051, Centro, Santa Isabel do Para - PA 68790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.298000",
+          "refe_longitude": "-48.164266"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-316, KM-36 SANTA RITA DE C\u00c1SSIA - Aratanha, Santa Izabel do Par\u00e1 - PA, 68790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.291710",
+          "refe_longitude": "-48.168721"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "04/09/2023 10:00:00",
+      "viag_previsao_fim": "05/09/2023 15:17:08"
+    }
+  ]
+}

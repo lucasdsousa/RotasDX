@@ -1,0 +1,423 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D15"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "45515151836"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 19/09/2023 JOEL APARECIDO RPB5D15",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Silvio Carneiro Braga, 171, Jacupiranga - SP, 11940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.695844",
+          "refe_longitude": "-48.001769"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Don\u00e1 Evarista de Castro Ferreira, 54 - Miracatu, SP, 11850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.284520",
+          "refe_longitude": "-47.458811"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Alameda Dr. Jos\u00e9 Cardeal, 386 - Jardim Pedroso, Indaiatuba - SP, 13343-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.094420",
+          "refe_longitude": "-47.207741"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Jose Ferreira Franco, 20, Centro, Itariri - SP 11760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.290048",
+          "refe_longitude": "-47.176908"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Cap. Joaquim Floriano de Toledo, 633 - Centro, Porto Feliz - SP, 18540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.209127",
+          "refe_longitude": "-47.520648"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Jo\u00e3o Soares da Silva, 253 - Jardim Nova Alvorada, Monte Mor - SP, 13190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.933042",
+          "refe_longitude": "-47.256411"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Alameda Faustina Franchi Anichino, Capivari - SP, 13360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.997889",
+          "refe_longitude": "-47.491544"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Acesso Adolfo Muniz, 160, Vila Vitoria, Cajati - SP 11950-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.730373",
+          "refe_longitude": "-48.100204"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Manoel Foga\u00e7a, 483 - Centro, S\u00e3o Miguel Arcanjo - SP, 18230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.877669",
+          "refe_longitude": "-47.995087"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Visc. de Ouro Preto, 56 - Jardim Santa Cruz, Salto - SP, 13323-615, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.225574",
+          "refe_longitude": "-47.267211"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Pres. Vargas, 563 - Vila Vitoria II, Indaiatuba - SP, 13334-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.087115",
+          "refe_longitude": "-47.205892"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "19/09/2023 06:00:00",
+      "viag_previsao_fim": "20/09/2023 21:42:31"
+    }
+  ]
+}"

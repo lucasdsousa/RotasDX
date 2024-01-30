@@ -1,0 +1,236 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": [
+    "05092901001227"
+  ],
+  "cnpj_embarcador": [
+    "05092901001227"
+  ],
+  "cnpj_transportador": [
+    "05092901001227"
+  ],
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1558021,
+  "numero_liberacao": 1558021,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "Nenhuma",
+  "motorista": {
+    "nome": "FRANCISCO OLAVO DE ASSIS DO VALE",
+    "cpf": "05173433396",
+    "telefone": null
+  },
+  "veiculos": {
+    "placa": [
+      "RPC9D25"
+    ]
+  },
+  "origem": {
+    "codigo_externo": [
+      "05092901001227"
+    ],
+    "descricao": [
+      "R. Jos\u00e9 Abreu Pita Pinheiro",
+      " 573",
+      " Itaitinga ",
+      "CE",
+      " 61880000",
+      " Brasil"
+    ],
+    "logradouro": "R. Jos\u00e9 Abreu Pita Pinheiro",
+    "numero": " 573",
+    "complemento": "Nenhum",
+    "bairro": " Itaitinga ",
+    "cidade": "CE",
+    "estado": " ",
+    "latitude": -3.910781,
+    "longitude": -38.529128,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": true,
+  "data_previsao_inicio": "01/09/2023 10:50:00",
+  "data_previsao_fim": "01/09/2023 16:55:27",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09455725000149",
+            "descricao": "AB COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+            "logradouro": "Rua Valparaiso",
+            "numero": " 700",
+            "CEP": "60870440",
+            "complemento": "0",
+            "bairro": " Jangurussu",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.848821",
+            "longitude": "-38.511003",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 14:52:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4524",
+                  "volume": "12",
+                  "peso": "279.603"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07130206000185",
+            "descricao": "CHAVES E PEREIRA LTDA",
+            "logradouro": "Avenida Visconde do Rio Branco",
+            "numero": " 6363",
+            "CEP": "60871201",
+            "complemento": "0",
+            "bairro": " Alto da Balanca",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.757969",
+            "longitude": "-38.519317",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 16:56:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "8750",
+                  "volume": "50",
+                  "peso": "940"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "15814588000194",
+            "descricao": "RECAUTEC PRODUTOS PNEUMATICOS LTDA ME",
+            "logradouro": "Avenida Radialista Joao Ramos",
+            "numero": " 2728",
+            "CEP": "60766710",
+            "complemento": "0",
+            "bairro": " Planalto Airton Senna",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.839636",
+            "longitude": "-38.580976",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 17:17:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5245",
+                  "volume": "15",
+                  "peso": "409.076"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07130206000185",
+            "descricao": "CHAVES E PEREIRA LTDA",
+            "logradouro": "Avenida Visconde do Rio Branco",
+            "numero": " 6363",
+            "CEP": "60871201",
+            "complemento": "0",
+            "bairro": " Alto da Balanca",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.757969",
+            "longitude": "-38.519317",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 18:13:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4480",
+                  "volume": "13",
+                  "peso": "275"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07221070001000",
+            "descricao": "BEZERRA & OLIVEIRA COM DE AUTOPECAS LTDA- Filial 10",
+            "logradouro": "Avenida Coronel Carvalho",
+            "numero": " 1700",
+            "CEP": "60347114",
+            "complemento": "0",
+            "bairro": " Vila Velha",
+            "cidade": " Fortaleza ",
+            "estado": "CE ",
+            "latitude": "-3.717807",
+            "longitude": "-38.588083",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 18:43:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "16800",
+                  "volume": "300",
+                  "peso": "6870"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 5 Incompletos&#10;Informe o destino da SM&#10;"]}

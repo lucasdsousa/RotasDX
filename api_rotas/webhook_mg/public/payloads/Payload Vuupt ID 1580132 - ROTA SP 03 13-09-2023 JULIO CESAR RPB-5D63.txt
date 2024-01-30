@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 13/09/2023 JULIO CESAR RPB-5D63",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Cel. Juvencio, 315 - Agulha, Fernando Prestes - SP, 15940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.368746",
+          "refe_longitude": "-48.744848"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. 7 de Setembro, 951 - Jardim Artico, Araraquara - SP, 14800-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.799239",
+          "refe_longitude": "-48.179926"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Pedro Carletto, 500 - Jardim Sesquicentenario, Taquaritinga - SP, 15906-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.424314",
+          "refe_longitude": "-48.511573"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Amazonas, C\u00e2ndido Rodrigues - SP, 15930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.326570",
+          "refe_longitude": "-48.633733"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. 7 de Setembro, 951 - Jardim Artico, Araraquara - SP, 14800-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.799239",
+          "refe_longitude": "-48.179926"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Vicente Jos\u00e9 Parise, 1420 - Jardim Alvorada, Taquaritinga - SP, 15901-032, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.408246",
+          "refe_longitude": "-48.496787"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Paran\u00e1, 36 - Centro, C\u00e2ndido Rodrigues - SP, 15930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.326055",
+          "refe_longitude": "-48.631875"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Severino Meirelles, 383, Botafogo, Santa Rita do Passa Quatro - SP 13670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.716246",
+          "refe_longitude": "-47.476644"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Ant\u00f4nio Gomes, 56 - Lot. Santa Maria, Rio das Pedras - SP, 13390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.843262",
+          "refe_longitude": "-47.613885"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. L\u00e1zaro Mendes Ferreira, 659 - Jardim Indaia, Araraquara - SP, 14806-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.746946",
+          "refe_longitude": "-48.141098"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. Luiz de Queiroz - Tupi, Piracicaba - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.736316",
+          "refe_longitude": "-47.531716"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua da Prata, 39, Mollon, Santa Barbara d'Oeste - SP 13456-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.747256",
+          "refe_longitude": "-47.364785"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. L\u00e1zaro Mendes Ferreira, 659 - Jardim Indaia, Araraquara - SP, 14806-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.746946",
+          "refe_longitude": "-48.141098"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Em\u00edlio B\u00f4sco, 795 - Lot. Jardim das Est\u00e2ncias, Sumar\u00e9 - SP, 13180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.816280",
+          "refe_longitude": "-47.170640"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Ant\u00f4nio Corsato, 4 - Jardim Maria Antonia (Nova Veneza), Sumar\u00e9 - SP, 13178-411, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.811971",
+          "refe_longitude": "-47.199926"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. 7 de Setembro, 267 - Vila Suconasa, Araraquara - SP, 14800-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.797368",
+          "refe_longitude": "-48.173500"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Jos\u00e9 Ribeiro de Oliveira, 980 - Jardim do Lago, Santa Rita do Passa Quatro - SP, 13670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.696061",
+          "refe_longitude": "-47.483485"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "13/09/2023 10:30:00",
+      "viag_previsao_fim": "14/09/2023 19:35:45"
+    }
+  ]
+}"

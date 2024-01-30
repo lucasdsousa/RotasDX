@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana gyn - 22/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Afonso Pena, SN, Sao Joao, Anapolis - GO 75133-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.382547",
+          "refe_longitude": "-48.958309"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Jose Rodrigues Naves, SN, Vila Padre Pelagio, Goianira - GO 75360-129, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.506360",
+          "refe_longitude": "-49.427555"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Fernando Costa, SN, Las Palmas, Anapolis - GO 75066-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.275110",
+          "refe_longitude": "-48.976009"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "22/09/2023 09:00:00",
+      "viag_previsao_fim": "22/09/2023 17:06:14"
+    }
+  ]
+}"

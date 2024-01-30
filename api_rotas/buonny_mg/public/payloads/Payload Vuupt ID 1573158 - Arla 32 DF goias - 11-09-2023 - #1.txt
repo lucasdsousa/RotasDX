@@ -1,0 +1,43 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001812",
+  "cnpj_embarcador": "05092901001812",
+  "cnpj_transportador": "05092901001812",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573158,
+  "numero_liberacao": 1573158,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ROMARIO DOS SANTOS MACEDO",
+    "cpf": "02747957101",
+    "telefone": "+5562998694677"
+  },
+  "veiculos": {
+    "placa": "RPB2D47"
+  },
+  "origem": {
+    "codigo_externo": "05092901001812",
+    "descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+    "latitude": -16.34282,
+    "longitude": -48.96797
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 08:05:00",
+  "data_previsao_fim": "11/09/2023 16:33:18",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

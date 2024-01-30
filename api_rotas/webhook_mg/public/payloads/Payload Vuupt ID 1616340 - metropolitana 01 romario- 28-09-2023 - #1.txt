@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana 01 romario- 28/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Universitaria, 1264, Vila Santa Isabel, Anapolis - GO 75083-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.311007",
+          "refe_longitude": "-48.949582"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Praca Conego Trindade, 110, Vila Gois, Anapolis - GO 75120-040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.339935",
+          "refe_longitude": "-48.959337"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Brasil, 1455, Vila Dona Maria, Anapolis - GO 75140-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.342730",
+          "refe_longitude": "-48.954355"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Pedro Ludovico, SN, Viviam Parque, Anapolis - GO 75135-490, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.380456",
+          "refe_longitude": "-48.976702"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua 32, 1479, Setor Pai Eterno, Trindade - GO 75387-082, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.646014",
+          "refe_longitude": "-49.492495"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Bom Jardim, 961, Setor Maysa, Trindade - GO 75380-316, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.635874",
+          "refe_longitude": "-49.388737"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Anhanguera, 3121 - Setor Leste Universit\u00e1rio, Goi\u00e2nia - GO, 74610-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.669796",
+          "refe_longitude": "-49.240058"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Sao Francisco, 365, Santa Genoveva, Goiania - GO 74672-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.638210",
+          "refe_longitude": "-49.239622"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Gabriel Henrique de Ara\u00fajo, 1023 - Araguaia Park, Goi\u00e2nia - GO, 74484-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.697599",
+          "refe_longitude": "-49.351953"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. S\u00e3o Jo\u00e3o - Jardim Luz, Aparecida de Goi\u00e2nia - GO, 74916-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.752139",
+          "refe_longitude": "-49.279626"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "GO-040, Goi\u00e1s, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.852150",
+          "refe_longitude": "-49.410820"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Juvenal Oliveira da Silva, 25, Lucia Alice, Bela Vista de Goias - GO 75240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.974507",
+          "refe_longitude": "-48.959070"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Do Comercio, SN, Setor Sul, Silvania - GO 75180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.631348",
+          "refe_longitude": "-48.598804"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Tamoio, 1480, Vila Ferreira dos Santos, Vianopolis - GO 75265-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.748865",
+          "refe_longitude": "-48.513510"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Dona Carolina, 95 - Vian\u00f3polis, GO, 75260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.746233",
+          "refe_longitude": "-48.515456"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Gabriel Henrique de Araujo, 354, Residencial Goiania Viva, Goiania - GO 74484-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.701730",
+          "refe_longitude": "-49.344948"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Das Magnolias, 631, Parque Oeste Industrial, Goiania - GO 74375-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.695371",
+          "refe_longitude": "-49.324695"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Gercival Jose de Moura, SN, Setor Oeste, Bela Vista de Goias - GO 75240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.972685",
+          "refe_longitude": "-48.951803"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Rio Branco, 524, Setor Urias Magalhaes, Goiania - GO 74565-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.643363",
+          "refe_longitude": "-49.274133"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Bellini, 315, Jardim Europa, Goiania - GO 74325-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.706579",
+          "refe_longitude": "-49.315675"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "R. Piracanjuba, 0, Bela Vista de Goi\u00e1s - GO, 75240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.979397",
+          "refe_longitude": "-48.950874"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "28/09/2023 08:00:00",
+      "viag_previsao_fim": "29/09/2023 14:39:32"
+    }
+  ]
+}"

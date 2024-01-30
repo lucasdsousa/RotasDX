@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 08/09/2023 JULIO CESAR RPB-5D63",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Louren\u00e7o Bueno de Camargo Filho, 133 - Ja Calif\u00f3rnia, Morro Agudo - SP, 14640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.724442",
+          "refe_longitude": "-48.048636"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. \u00c1lvaro Rodrigues, 56 - Guar\u00e1, SP, 14580-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.449554",
+          "refe_longitude": "-47.836826"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "XHRX+42, Altin\u00f3polis - SP, 14350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.009690",
+          "refe_longitude": "-47.402440"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "08/09/2023 08:50:00",
+      "viag_previsao_fim": "08/09/2023 17:29:43"
+    }
+  ]
+}"

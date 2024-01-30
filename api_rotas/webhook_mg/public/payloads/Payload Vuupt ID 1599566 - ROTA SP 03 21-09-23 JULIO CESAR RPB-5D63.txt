@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D63"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "21288236840"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 21/09/23 JULIO CESAR RPB-5D63",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Miguel Joao Jorge, 315, Jardim Sao Jose, Campinas - SP 13051-172, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.962746",
+          "refe_longitude": "-47.095397"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Santa Rosa de Viterbo, SP, 14270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.485989",
+          "refe_longitude": "-47.365949"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Santa Rosa de Viterbo, SP, 14270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.485989",
+          "refe_longitude": "-47.365949"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Joao Puche, 812, Jardim Santa Madalena, Sumare - SP 13172-455, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.814508",
+          "refe_longitude": "-47.286639"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Quinze de Novembro, 1350 - Vila Linopolis, Santa B\u00e1rbara d'Oeste - SP, 13450-044, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.760788",
+          "refe_longitude": "-47.417239"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. XV de Novembro, 53 - Centro Hist\u00f3rico de S\u00e3o Paulo, Mombuca - SP, 13380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.931189",
+          "refe_longitude": "-47.562749"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Igarat\u00e1, 369 - Jardim Ipiranga, Americana - SP, 13468-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.745697",
+          "refe_longitude": "-47.357749"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Ant\u00f4nio Gomes, 56 - Lot. Santa Maria, Rio das Pedras - SP, 13390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.843262",
+          "refe_longitude": "-47.613885"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Orlando Geraldelli, 122, Jardim Santa Isabel, Hortolandia - SP 13185-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.894532",
+          "refe_longitude": "-47.178738"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ant\u00f4nio da Costa Santos, 590 - Jardim Santa Clara do Lago I, Hortol\u00e2ndia - SP, 13185-624, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.882563",
+          "refe_longitude": "-47.166624"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. 31 de Mar\u00e7o, 1620 - Paulic\u00e9ia, Piracicaba - SP, 13424-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.748896",
+          "refe_longitude": "-47.644402"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Prudente de Moraes, 1013 - Centro, Piracicaba - SP, 13400-315, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.724578",
+          "refe_longitude": "-47.645797"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Ricardo Melotto, 303 - Santa Terezinha, Piracicaba - SP, 13411-068, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.677214",
+          "refe_longitude": "-47.684237"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Descalvado, 371, Am\u00e9rico Brasiliense - SP, 14820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.748943",
+          "refe_longitude": "-48.119736"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Maur\u00edcio Galli, 3789 - Jardim Imperador, Araraquara - SP, 14806-245, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.742781",
+          "refe_longitude": "-48.155408"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Trolesi, 2979 - Jardim Buscardi, Mat\u00e3o - SP, 15991-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.616691",
+          "refe_longitude": "-48.354448"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. \u00cdtalo Ferreira, 515 - Centro, Mat\u00e3o - SP, 15990-670, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.608122",
+          "refe_longitude": "-48.369780"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Major Dario Alves De Carvalho, 1106 - Vila Xavier (Vila Xavier), Araraquara - SP, 14810-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.788746",
+          "refe_longitude": "-48.160746"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Jo\u00e3o Martinez Filho, 927 - Parque Imperial, Tabatinga - SP, 14910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.750518",
+          "refe_longitude": "-48.689543"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Jap\u00e3o, 352 - Jardim Paulista, Ibitinga - SP, 14940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.753786",
+          "refe_longitude": "-48.835134"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Fioravante Magro, 792 - Ulisses Guimar\u00e3es, Sert\u00e3ozinho - SP, 14177-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.123720",
+          "refe_longitude": "-48.022510"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "21/09/2023 08:00:00",
+      "viag_previsao_fim": "22/09/2023 08:41:31"
+    }
+  ]
+}"

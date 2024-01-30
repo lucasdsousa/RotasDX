@@ -1,0 +1,51 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI CAPITAL  05/09/2023  FRANCIMAR LIMA  RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 13 de Maio, 3935, Tabuleta, Teresina - PI 64019-708, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.122917",
+          "refe_longitude": "-42.799439"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Henry Wall de Carvalho, 6834, Distrito Industrial, Teresina - PI 64027-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.148595",
+          "refe_longitude": "-42.795769"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "05/09/2023 08:59:01"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580465,
+  "numero_liberacao": 1580465,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "THIAGO DE JESUS SANTOS SANTANA",
+    "cpf": "35034689863",
+    "telefone": "+5511995533590"
+  },
+  "veiculos": {
+    "placa": "RPB5D01"
+  },
+  "origem": {
+    "codigo_externo": "05092901002894",
+    "descricao": "Dunax Lubrificantes LTDA - SP MOGI",
+    "latitude": -23.423712,
+    "longitude": -46.206623
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 09:00:00",
+  "data_previsao_fim": "13/09/2023 17:28:39",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09657878000179",
+            "descricao": "RICARDO SILVA DE JESUS PECAS",
+            "latitude": "-23.971731",
+            "longitude": "-46.397402",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:18:57",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "11880",
+                  "volume": "66",
+                  "peso": "740.181"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11235954000108",
+            "descricao": "MARCELO MOREIRA",
+            "latitude": "-23.948389",
+            "longitude": "-46.464105",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:51:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2577.57",
+                  "volume": "9",
+                  "peso": "172.16"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28155665000193",
+            "descricao": "JBS MANUTENCAO DE EQUIPAMENTOS HIDRAULICOS LTDA",
+            "latitude": "-23.880919",
+            "longitude": "-46.420873",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:17:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2745",
+                  "volume": "15",
+                  "peso": "282"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28155665000193",
+            "descricao": "JBS MANUTENCAO DE EQUIPAMENTOS HIDRAULICOS LTDA",
+            "latitude": "-23.880919",
+            "longitude": "-46.420873",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:58:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5529",
+                  "volume": "30",
+                  "peso": "564"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08461035000130",
+            "descricao": "HELIO MARCELINO",
+            "latitude": "-23.997085",
+            "longitude": "-46.291332",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:03:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "14232.1",
+                  "volume": "70",
+                  "peso": "1184.3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02857825000152",
+            "descricao": "AGN - LUBRIFICANTES E COMERCIO LTDA",
+            "latitude": "-23.928170",
+            "longitude": "-46.398483",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:18:03",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1830",
+                  "volume": "10",
+                  "peso": "188"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12016253000132",
+            "descricao": "ROQUE DE SOUZA DA CONCEICAO",
+            "latitude": "-23.851547",
+            "longitude": "-46.378756",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:09:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1555.05",
+                  "volume": "6",
+                  "peso": "113.163"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 7 Incompletos&#10;Informe o destino da SM&#10;"]}

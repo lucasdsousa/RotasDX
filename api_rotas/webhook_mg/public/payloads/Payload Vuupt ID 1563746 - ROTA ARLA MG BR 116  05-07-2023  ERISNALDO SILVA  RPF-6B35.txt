@@ -1,0 +1,331 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPF6B35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06600752530"
+        }
+      ],
+      "rota_descricao": "ROTA ARLA MG BR 116  05/07/2023  ERISNALDO SILVA  RPF-6B35",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Sabar\u00e1, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.894850",
+          "refe_longitude": "-43.814810"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-381 - Borba Gato, Sabar\u00e1 - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.830841",
+          "refe_longitude": "-43.844599"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-262, Nova Uni\u00e3o - MG, 34990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.725602",
+          "refe_longitude": "-43.585797"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Rio Bahia, 295, Divisa Alegre - MG, 39995-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.728587",
+          "refe_longitude": "-41.345022"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "BR-262, 70, S\u00e3o Gon\u00e7alo do Rio Abaixo - MG, 35935-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.831620",
+          "refe_longitude": "-43.353340"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "ROD. BR 116, SN, CENTRO, PONTO DOS VOLANTES - MINAS GERAIS 39615-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.839515",
+          "refe_longitude": "-41.480892"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR-116, Medina - MG, 39620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.311021",
+          "refe_longitude": "-41.473124"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Primeiro de Junho, 1887 - CENTRO, S\u00e3o Jo\u00e3o Evangelista - MG, 39705-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.554197",
+          "refe_longitude": "-42.766301"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Cachoeira de Paje\u00fa, MG, 39980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-15.993476",
+          "refe_longitude": "-41.408106"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. PRIMEIRO DE MAR?O R. PRIMEIRO DE MAR?O, 5, VILA ASSIS, BELO ORIENTE - MINAS GERAIS 35195-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.224172",
+          "refe_longitude": "-42.489167"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "AV. PRIMEIRO DE JUNHO, 12, CENTRO, S\u00c3O JO\u00c3O EVANGELISTA - MINAS GERAIS 39705-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.547745",
+          "refe_longitude": "-42.764807"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "BR-381, Periquito - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.097426",
+          "refe_longitude": "-42.197123"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "BR-381, 223 - Recreio, S\u00e3o Gon\u00e7alo do Rio Abaixo - MG, 35935-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.835624",
+          "refe_longitude": "-43.348136"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Beg\u00f4nias, 168 - S\u00e3o Pedro, Itabira - MG, 35900-131, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.620533",
+          "refe_longitude": "-43.215018"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Javaes, 215 - Jardim Panorama, Ipatinga - MG, 35162-078, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.469858",
+          "refe_longitude": "-42.547041"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "ROD. BR 458 ROD. BR 458, SN, VALE VERDE, CARATINGA - MINAS GERAIS 35310-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.440377",
+          "refe_longitude": "-42.262685"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "05/09/2023 07:00:00",
+      "viag_previsao_fim": "08/09/2023 14:26:45"
+    }
+  ]
+}

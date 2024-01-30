@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83095900406"
+        }
+      ],
+      "rota_descricao": "ROTA RO 01/09/2023 REINALDO BENEDITO RPB-0C02",
+      "origem": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-364, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.505562",
+          "refe_longitude": "-64.807274"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "viag_previsao_inicio": "01/09/2023 14:30:00",
+      "viag_previsao_fim": "02/09/2023 03:36:20"
+    }
+  ]
+}

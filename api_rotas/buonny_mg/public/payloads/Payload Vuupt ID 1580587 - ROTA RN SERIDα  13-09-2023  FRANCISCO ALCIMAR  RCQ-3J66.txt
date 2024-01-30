@@ -1,0 +1,188 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580587,
+  "numero_liberacao": 1580587,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "FRANCISCO ALCIMAR DE SOUZA",
+    "cpf": "04061219405",
+    "telefone": "+5584996512171"
+  },
+  "veiculos": {
+    "placa": "RCQ3J66"
+  },
+  "origem": {
+    "codigo_externo": "05092901000417",
+    "descricao": "Dunax Lubrificantes LTDA- RN",
+    "latitude": -5.578033,
+    "longitude": -36.918305
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 05:00:00",
+  "data_previsao_fim": "13/09/2023 21:51:37",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "27189966000175",
+            "descricao": "3N COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-6.459048",
+            "longitude": "-37.098572",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 09:34:14",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2020",
+                  "volume": "1",
+                  "peso": "182.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00789655000190",
+            "descricao": "JOAO ALVES DUTRA EIRELI",
+            "latitude": "-6.460323",
+            "longitude": "-37.108707",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 10:58:56",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5456",
+                  "volume": "16",
+                  "peso": "296.363"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "47835998000108",
+            "descricao": "WELL COMERCIO E SERVICOS LTDA",
+            "latitude": "-6.277749",
+            "longitude": "-36.527510",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 11:31:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3716",
+                  "volume": "54",
+                  "peso": "1193"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10641461000105",
+            "descricao": "S E A AUTO POSTO LTDA",
+            "latitude": "-6.146945",
+            "longitude": "-36.718299",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 12:03:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "319.94",
+                  "volume": "2",
+                  "peso": "20.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12015759000127",
+            "descricao": "JOSE GERONIMO FERNANDES DE MORAIS",
+            "latitude": "-6.721096",
+            "longitude": "-37.205791",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 12:34:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1866",
+                  "volume": "6",
+                  "peso": "136.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10641461000105",
+            "descricao": "S E A AUTO POSTO LTDA",
+            "latitude": "-6.146945",
+            "longitude": "-36.718299",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 13:04:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5069.4",
+                  "volume": "26",
+                  "peso": "586.93"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 6 Incompletos&#10;Informe o destino da SM&#10;"]}

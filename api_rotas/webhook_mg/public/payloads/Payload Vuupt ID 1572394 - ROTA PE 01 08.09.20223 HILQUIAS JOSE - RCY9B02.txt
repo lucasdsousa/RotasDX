@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 08.09.20223 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia Br-101 Norte, 258 A - Timb\u00f3, Abreu e Lima - PE, 53520-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.888425",
+          "refe_longitude": "-34.904511"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Br-101 Norte, 258 A - Timb\u00f3, Abreu e Lima - PE, 53520-015, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.888425",
+          "refe_longitude": "-34.904511"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "08/09/2023 05:00:00",
+      "viag_previsao_fim": "08/09/2023 09:16:03"
+    }
+  ]
+}"

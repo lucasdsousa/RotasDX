@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY7E17"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "36388190359"
+        }
+      ],
+      "rota_descricao": "Rota MA 03 Balsas 11/09/2023 Ant\u00f4nio Em\u00eddio Pessoa de Matos  11/09/2023",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.516365",
+          "refe_longitude": "-46.034685"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Pastos Bons - MA, 65870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.611285",
+          "refe_longitude": "-44.098021"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.516365",
+          "refe_longitude": "-46.034685"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Ver. Jos\u00e9 Ferreira - Bairro A\u00e7ucena Velha, Balsas - MA, 65800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.530403",
+          "refe_longitude": "-46.049840"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Quinze de Novembro, 601, Fortuna - MA, 65695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.733546",
+          "refe_longitude": "-44.152230"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Domingos Sert\u00e3o, 1316 - Pastos Bons, MA, 65870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.597719",
+          "refe_longitude": "-44.085170"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Cel. Trajano Brand\u00e3o, 232 - Centro, Colinas - MA, 65690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.022449",
+          "refe_longitude": "-44.247641"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR-135, 30, S\u00e3o Domingos do Maranh\u00e3o - MA, 65790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.591894",
+          "refe_longitude": "-44.374932"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Domingos Sert\u00e3o, 4422 - Pastos Bons, MA, 65870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.591724",
+          "refe_longitude": "-44.078283"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Gon\u00e7alves Dias, MA, 65775-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.155475",
+          "refe_longitude": "-44.299028"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Cel. Trajano Brand\u00e3o, 619 - Centro, Colinas - MA, 65690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.027174",
+          "refe_longitude": "-44.244150"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Do Mara - BR-135, Sn - Km 374 - Brasilinha, S\u00e3o Domingos do Maranh\u00e3o - MA, 65790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.625958",
+          "refe_longitude": "-44.366667"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Adonias Lucas de Lacerda, 455, Sucupira do Norte - MA, 65860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.475703",
+          "refe_longitude": "-44.191655"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "AV. GOVERNADOR NEWTON BELLO, 135, CENTRO, FORTUNA - MARANH\u00c3O 65695-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.735107",
+          "refe_longitude": "-44.156540"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "11/09/2023 08:50:00",
+      "viag_previsao_fim": "15/09/2023 08:00:51"
+    }
+  ]
+}"

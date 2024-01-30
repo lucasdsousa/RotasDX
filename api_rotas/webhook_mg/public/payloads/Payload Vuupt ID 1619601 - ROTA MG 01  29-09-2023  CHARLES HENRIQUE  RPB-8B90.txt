@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB8B90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  29/09/2023  CHARLES HENRIQUE  RPB-8B90",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Americo Vespucio, 1016, Aparecida, Belo Horizonte - MG 31230-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892678",
+          "refe_longitude": "-43.958932"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Lambari, 39, Bonfim, Belo Horizonte - MG 31210-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.907144",
+          "refe_longitude": "-43.951907"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Espinosa, 64 - Santo Andre, Belo Horizonte - MG, 31210-525, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.906710",
+          "refe_longitude": "-43.957720"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Leopoldino de Oliveira, 653 - Santo Andre, Belo Horizonte - MG, 31230-552, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.898346",
+          "refe_longitude": "-43.957107"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Alabandina, 755, Caicaras, Belo Horizonte - MG 30775-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.891047",
+          "refe_longitude": "-43.969098"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Lazurita, 61 - Bonfim, Belo Horizonte - MG, 31210-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.911980",
+          "refe_longitude": "-43.954350"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Begonia, 509, Esplanada, Belo Horizonte - MG 30280-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.903465",
+          "refe_longitude": "-43.902766"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Dom Pedro II, 2163, Carlos Prates, Belo Horizonte - MG 30710-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.908228",
+          "refe_longitude": "-43.961683"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Dona Andica, 33, Jardim Vitoria, Belo Horizonte - MG 31970-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.855581",
+          "refe_longitude": "-43.888386"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Frimisa, 1300, Carreira Comprida, Santa Luzia - MG 33010-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.772973",
+          "refe_longitude": "-43.894164"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Major Delfino de Paula, 2396, Sao Francisco, Belo Horizonte - MG 31255-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.879531",
+          "refe_longitude": "-43.958224"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Moura Lima, 636, Jardim da Gloria, Vespasiano - MG 33200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.749778",
+          "refe_longitude": "-43.952079"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Brasilia, 5833, Duquesa I, Santa Luzia - MG 33170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.777547",
+          "refe_longitude": "-43.900053"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Maria Gertrudes Santos, 272, Ceu Azul, Belo Horizonte - MG 31578-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.817714",
+          "refe_longitude": "-44.000021"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia BR 381, SN, Borba Gato, Sabara - MG 34730-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.835171",
+          "refe_longitude": "-43.850839"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Vilarinho, 2010, Sao Pedro, Belo Horizonte - MG 31610-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.812178",
+          "refe_longitude": "-43.959265"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Sao Miguel, 517, Itapoa, Belo Horizonte - MG 31710-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.842102",
+          "refe_longitude": "-43.960422"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "29/09/2023 07:00:00",
+      "viag_previsao_fim": "29/09/2023 14:09:03"
+    }
+  ]
+}"

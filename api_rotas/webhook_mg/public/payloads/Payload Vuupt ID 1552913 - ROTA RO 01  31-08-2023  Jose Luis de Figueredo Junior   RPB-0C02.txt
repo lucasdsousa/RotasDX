@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "86885529249"
+        }
+      ],
+      "rota_descricao": "ROTA RO 01  31/08/2023  Jose Luis de Figueredo Junior   RPB-0C02",
+      "origem": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "BR-364, 9280 - Aeroclube, Porto Velho - RO, Brasil",
+        "refe_latitude": -8.787411,
+        "refe_longitude": -63.855378
+      },
+      "viag_previsao_inicio": "31/08/2023 07:30:00",
+      "viag_previsao_fim": "31/08/2023 12:07:06"
+    }
+  ]
+}

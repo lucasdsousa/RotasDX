@@ -1,0 +1,157 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU0E90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "60640740510"
+        }
+      ],
+      "rota_descricao": "ROTA BA08 18/09/2023 CLAUDIO REGIS RCU-0E90",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Centro de Abastecimento, 168 - Centro, Morro do Chapeu - BA, 44850000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.547996",
+          "refe_longitude": "-41.160082"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BA 052, SN, Vale Ouro, Morro do Chapeu - BA 44850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.520907",
+          "refe_longitude": "-41.263195"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Morro do Chapeu, 18, Nova America, America Dourada - BA 44910-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.442821",
+          "refe_longitude": "-41.424338"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Santos Lopes, 419, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.298474",
+          "refe_longitude": "-41.854079"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Santos Lopes, 58, Centro, Irece - BA 44900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.301890",
+          "refe_longitude": "-41.855540"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BA 052, SN, Vale Ouro, Morro do Chapeu - BA 44850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.520907",
+          "refe_longitude": "-41.263195"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BA 233, SN, Itaberaba, Ipira - BA 44600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.271247",
+          "refe_longitude": "-39.847021"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Joaquim Augusto, SN, Centro, Joao Dourado - BA 44920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.343817",
+          "refe_longitude": "-41.662845"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Egito, 108, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.288721",
+          "refe_longitude": "-41.172337"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Nova Vida, 87, Centro, Utinga - BA 46810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.079736",
+          "refe_longitude": "-41.097971"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Do Planalto, 341, Salobro, Canarana - BA 44890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.859341",
+          "refe_longitude": "-41.750440"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Getulio Vargas, SN, Centro, Bonito - BA 46820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.963081",
+          "refe_longitude": "-41.266664"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Cleriston Andrade, 04, Centro, Wagner - BA 46970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.277115",
+          "refe_longitude": "-41.167540"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Erotides Nogueira, 300 - Centro, Xique-Xique - BA, 47400000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.827739",
+          "refe_longitude": "-42.730120"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Getulio Vargas, 52, Centro, Bonito - BA 46820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.963412",
+          "refe_longitude": "-41.267406"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Sao Gabriel, 261, Centro, Presidente Dutra - BA 44930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.293864",
+          "refe_longitude": "-41.985847"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Sao Gabriel, 261, Centro, Presidente Dutra - BA 44930-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.293864",
+          "refe_longitude": "-41.985847"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "20/09/2023 16:24:08"
+    }
+  ]
+}"

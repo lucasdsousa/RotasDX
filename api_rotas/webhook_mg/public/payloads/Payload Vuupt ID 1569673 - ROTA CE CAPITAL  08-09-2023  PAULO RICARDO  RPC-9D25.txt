@@ -1,0 +1,122 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC9D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "67147216334"
+        }
+      ],
+      "rota_descricao": "ROTA CE CAPITAL  08/09/2023  PAULO RICARDO  RPC-9D25",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Augusto dos Anjos, 1912, Bom Sucesso, Fortaleza - CE 60542-164, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.782605",
+          "refe_longitude": "-38.581448"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Sao Vicente de Paula, 108, Araturi, Caucaia - CE 61652-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.773201",
+          "refe_longitude": "-38.628335"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. C\u00f4nego de Castro, 2283 - Vila Peri, Fortaleza - CE, 60730-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.789773",
+          "refe_longitude": "-38.577826"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Cel Fabriciano, 850, Granja Portugal, Fortaleza - CE 60540-835, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.785080",
+          "refe_longitude": "-38.599320"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Godofredo Maciel, 392, Parangaba, Fortaleza - CE 60710-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.779683",
+          "refe_longitude": "-38.564951"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Francisco Glic\u00e9rio, 403 - Maraponga, Fortaleza - CE, 60711-055, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.797444",
+          "refe_longitude": "-38.565249"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Cel. Carvalho, 841 - Barra do Cear\u00e1, Fortaleza - CE, 60330-778, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.709942",
+          "refe_longitude": "-38.589724"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Olavo Bilac, 2597 - Parque Albano (Jurema), Caucaia - CE, 61645-340, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.752890",
+          "refe_longitude": "-38.612163"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Augusto dos Anjos, 1893 - Bonsucesso, Fortaleza - CE, 60730-125, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.782454",
+          "refe_longitude": "-38.580900"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Rosinha Sampaio, 2076 - Quintino Cunha, Fortaleza - CE, 60345-662, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.724154",
+          "refe_longitude": "-38.596949"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Francisco Almeida, 871 - Parque Santa Rosa (Apolo XI), Fortaleza - CE, 60762-845, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.821722",
+          "refe_longitude": "-38.593760"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Eduardo Perdig\u00e3o, 135 - Parangaba, Fortaleza - CE, 60720-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.775685",
+          "refe_longitude": "-38.564595"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "08/09/2023 07:00:00",
+      "viag_previsao_fim": "08/09/2023 15:48:37"
+    }
+  ]
+}"

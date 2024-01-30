@@ -1,0 +1,79 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 05.09.2023 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Nossa Sra. do Bom Conselho, 1084 - Bom Conselho, Cabo de Santo Agostinho - PE, 54580-430, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.236966",
+          "refe_longitude": "-34.982017"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Governador Miguel Arraes de Alencar, 1380, Ponte dos Carvalhos, Cabo de Santo Agostinho - PE 54580-773, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.289051",
+          "refe_longitude": "-35.019080"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-232 - Manassu, Jaboat\u00e3o dos Guararapes - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.093916",
+          "refe_longitude": "-35.034298"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Joao Pereira de Oliveira, 825, Janga, Paulista - PE 53437-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.927206",
+          "refe_longitude": "-34.828585"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rod. PE-60, 1459 - Santo Inacio, Cabo de Santo Agostinho - PE, 54518-235, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.295806",
+          "refe_longitude": "-35.025276"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Doutor Claudio Jose Gueiros Leite, 3339, Janga, Paulista - PE 53437-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.928482",
+          "refe_longitude": "-34.822799"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "05/09/2023 05:00:00",
+      "viag_previsao_fim": "05/09/2023 14:16:41"
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583888,
+  "numero_liberacao": 1583888,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "LUIZ HENRIQUE RIBEIRO GARAJAU",
+    "cpf": "07647607693",
+    "telefone": "+5531995925420",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY2H89"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0012-27",
+    "descricao": "Dunax Lubrificantes LTDA - MG"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 21:00:00",
+  "data_previsao_fim": "16/09/2023 05:59:19",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "23.076.530/0001-19",
+        "descricao": "S. M. DE LIMA MOTOS EIRELI EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 19:09:09",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "705",
+              "volume": "3",
+              "peso": "56.4"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.789.980/0001-07",
+        "descricao": "LACA COMERCIO E REPRESENTACOES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:30:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "23935",
+              "volume": "75",
+              "peso": "2528"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "47.659.732/0001-51",
+        "descricao": "CRISTIANE MARIA DA SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:45:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1272",
+              "volume": "4",
+              "peso": "90.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "23.076.530/0001-19",
+        "descricao": "S. M. DE LIMA MOTOS EIRELI EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:07:09",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2770",
+              "volume": "10",
+              "peso": "169.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "38.381.772/0001-93",
+        "descricao": "M M DA SILVA SANTOS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:40:02",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2034",
+              "volume": "8",
+              "peso": "112.438"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "32.359.350/0001-35",
+        "descricao": "BUARQUE MOTOS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:56:53",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "470",
+              "volume": "2",
+              "peso": "37.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "27.807.263/0001-63",
+        "descricao": "I B LIRA NETO MOTOS - EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:14:30",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2770",
+              "volume": "10",
+              "peso": "169.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "26.737.000/0002-43",
+        "descricao": "NRD - NORDESTE DISTRIBUIDORA DE PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:29:30",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "32108.5",
+              "volume": "151",
+              "peso": "3035.325"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "20.598.400/0001-58",
+        "descricao": "M C DE FARIAS DOS SANTOS EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:51:53",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1231",
+              "volume": "3",
+              "peso": "49.701"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "32.359.350/0001-35",
+        "descricao": "BUARQUE MOTOS EIRELI",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:31:06",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1662",
+              "volume": "6",
+              "peso": "101.76"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "47.097.152/0001-18",
+        "descricao": "CAMPOS E GALDINO AUTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:41:06",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1050",
+              "volume": "3",
+              "peso": "54.884"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "27.807.263/0001-63",
+        "descricao": "I B LIRA NETO MOTOS - EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:55:29",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "705",
+              "volume": "3",
+              "peso": "56.4"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "40.518.611/0001-40",
+        "descricao": "TRATOR FORTE PECAS E MAQUINAS AGRICOLAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:00:08",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1830",
+              "volume": "5",
+              "peso": "91.45"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "31.462.087/0001-42",
+        "descricao": "LAAF DISTRIBUIDORA DE PRODUTOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 19:15:02",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5800",
+              "volume": "100",
+              "peso": "2290"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "14.547.859/0001-20",
+        "descricao": "PLANALTO COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:42:39",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3124.2",
+              "volume": "8",
+              "peso": "185.2"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "10.822.927/0001-60",
+        "descricao": "LEON CARLOS MIRANDA DE ALBUQUERQUE",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:17:54",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2604.15",
+              "volume": "1",
+              "peso": "187.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "11.804.319/0001-96",
+        "descricao": "AUTO POSTO DE COMBUSTIVEIS LITORAL NORTE LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:59:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1787",
+              "volume": "6",
+              "peso": "95.17"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "09.352.634/0002-69",
+        "descricao": "JAIME T MOURA E CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:40:04",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2750",
+              "volume": "50",
+              "peso": "1145"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "50.777.723/0001-70",
+        "descricao": "LEANDRO DA SILVA OLIVEIRA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:12:36",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1350.35",
+              "volume": "5",
+              "peso": "67.237"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "70.098.470/0004-68",
+        "descricao": "W A BARRETO E CIA LTDA FILIAL 4",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:23:18",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5600",
+              "volume": "100",
+              "peso": "2290"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "08.808.826/0001-93",
+        "descricao": "S VELOSO COMERCIO DE COMBUSTIVEIS LTDA - EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:03:04",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "825",
+              "volume": "15",
+              "peso": "343.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.617.461/0002-38",
+        "descricao": "INVESTGAS LOCACAO E INVESTIMENTO LIMITADA - FILIAL 02",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 04:12:33",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1060",
+              "volume": "20",
+              "peso": "458"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "06.298.431/0001-62",
+        "descricao": "CLEDIVALDO ANTONIO DE ARAUJO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:15:05",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "987.6",
+              "volume": "4",
+              "peso": "44.536"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "21.157.615/0001-04",
+        "descricao": "AUTO PECAS PADRE LIBERIO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:07:54",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "957.59",
+              "volume": "3",
+              "peso": "68.102"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "12.791.807/0001-79",
+        "descricao": "RETENTORES ROLAMENTOS E CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:40:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1613.19",
+              "volume": "5",
+              "peso": "101.209"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "19.583.522/0001-91",
+        "descricao": "RAMON JOSE DE CARVALHO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:49:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "429.6",
+              "volume": "2",
+              "peso": "22.268"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.991.055/0001-46",
+        "descricao": "VIVIANE APARECIDA CAMPOS DE FARIA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:25:45",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "688.19",
+              "volume": "2",
+              "peso": "41.9"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "32.521.071/0001-26",
+        "descricao": "MAQUIPEU DISTRIBUIDORA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:49:27",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2605.44",
+              "volume": "10",
+              "peso": "176.559"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "45.302.298/0001-22",
+        "descricao": "ELOA LOPES FOUREAUX FREITAS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:08:14",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1137.59",
+              "volume": "4",
+              "peso": "90.8"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "16.505.554/0013-14",
+        "descricao": "COOPERATIVA DOS PRODUTORES RURAIS DE ABAETE E REGIAO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:49:14",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1647.5",
+              "volume": "25",
+              "peso": "572.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "19.998.654/0001-84",
+        "descricao": "TRATOR CENTER PECAS E IMPLEMENTOS AGRICOLAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:33:28",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4824.06",
+              "volume": "12",
+              "peso": "272.407"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "30.066.425/0001-64",
+        "descricao": "AUTO POSTO FERNANDES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:18:33",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1869.99",
+              "volume": "1",
+              "peso": "182.6"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.245.221/0001-43",
+        "descricao": "SLATE DIAS COM IND EXP E IMP DE PROD E PEDRAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:58:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5093.25",
+              "volume": "16",
+              "peso": "317.672"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.282.159/0001-89",
+        "descricao": "POSTO SBT 5 MOEMA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 06:56:32",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "988.64",
+              "volume": "3",
+              "peso": "68.101"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "26.389.673/0001-79",
+        "descricao": "LUZ COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 08:42:08",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1365.96",
+              "volume": "5",
+              "peso": "91.105"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "37.544.859/0001-71",
+        "descricao": "AUTENTICA AUTO CENTER SERVICOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:07:02",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2979.65",
+              "volume": "15",
+              "peso": "276.973"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "30.066.425/0001-64",
+        "descricao": "AUTO POSTO FERNANDES LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:30:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2647.99",
+              "volume": "8",
+              "peso": "146.32"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.499.242/0001-04",
+        "descricao": "AUTO PECAS PERIQUITO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 23:34:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2610.5",
+              "volume": "10",
+              "peso": "170.76"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "86.501.434/0001-90",
+        "descricao": "POSTO IRMAOS LIMA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 00:23:15",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "572.39",
+              "volume": "2",
+              "peso": "34.55"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "37.544.859/0001-71",
+        "descricao": "AUTENTICA AUTO CENTER SERVICOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 01:51:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "866.72",
+              "volume": "3",
+              "peso": "54.87"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "86.501.434/0001-90",
+        "descricao": "POSTO IRMAOS LIMA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 02:03:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1126.77",
+              "volume": "4",
+              "peso": "67.83"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "43.714.332/0001-40",
+        "descricao": "ELIZABETH VIANA DE OLIVEIRA ANDRADE LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 02:43:39",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1300",
+              "volume": "20",
+              "peso": "458"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "37.115.852/0001-34",
+        "descricao": "POSTO CAFE IGARATINGA COMERCIO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 03:27:28",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3218.7",
+              "volume": "13",
+              "peso": "203.774"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "14.552.512/0001-75",
+        "descricao": "AGORA AUTO POSTO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "16/09/2023 04:09:46",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2223.26",
+              "volume": "9",
+              "peso": "125.078"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Data de previs\u00e3o menor que a data de inicio"]}

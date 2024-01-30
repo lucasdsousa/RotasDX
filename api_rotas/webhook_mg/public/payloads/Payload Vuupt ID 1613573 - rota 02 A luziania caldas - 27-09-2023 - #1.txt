@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0G59"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "56529414134"
+        }
+      ],
+      "rota_descricao": "rota 02 A luziania caldas - 27/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 060, 1100, Jardim Alvorada, Anapolis - GO 75000-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.201103",
+          "refe_longitude": "-48.737454"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Brasil, 5786, Parque Sao Joao, Anapolis - GO 75126-207, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.375925",
+          "refe_longitude": "-48.963827"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Cristian\u00f3polis, GO, 75230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.199281",
+          "refe_longitude": "-48.705908"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. 29 - Parque Jk, Luzi\u00e2nia - GO, 72815-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.241034",
+          "refe_longitude": "-47.936041"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Um, 12 - Das Pedrinhas, Silv\u00e2nia - GO, 75180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.665100",
+          "refe_longitude": "-48.615947"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. D, Caldas Novas - GO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.761913",
+          "refe_longitude": "-48.613432"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Joaquim Firmino dos Reis, SN, Santa Efigenia, Caldas Novas - GO 75689-222, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.746052",
+          "refe_longitude": "-48.597153"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "GO-139, Goi\u00e1s, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-17.549321",
+          "refe_longitude": "-48.720992"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "27/09/2023 08:20:00",
+      "viag_previsao_fim": "28/09/2023 14:14:02"
+    }
+  ]
+}"

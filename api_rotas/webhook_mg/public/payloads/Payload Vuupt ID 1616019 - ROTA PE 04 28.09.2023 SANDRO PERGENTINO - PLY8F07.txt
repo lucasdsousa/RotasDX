@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLY8F07"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06106721424"
+        }
+      ],
+      "rota_descricao": "ROTA PE 04 28.09.2023 SANDRO PERGENTINO - PLY8F07",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Etelvino Lins, 17, Centro, Cupira - PE 55460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.612929",
+          "refe_longitude": "-35.949179"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Jos\u00e9 Mariano, 22 - Gameleira, PE, 55530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.577750",
+          "refe_longitude": "-35.383250"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua JoaoTimoteo de Andrade, 93, Centro, Panelas - PE 55470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.667675",
+          "refe_longitude": "-36.011057"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Etelvino Lins, 17, Centro, Cupira - PE 55460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.612929",
+          "refe_longitude": "-35.949179"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 101, 185, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.685061",
+          "refe_longitude": "-35.584418"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Rio Branco, 490, Centro, Quipapa - PE 55415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.826487",
+          "refe_longitude": "-36.009042"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "28/09/2023 17:49:03"
+    }
+  ]
+}"

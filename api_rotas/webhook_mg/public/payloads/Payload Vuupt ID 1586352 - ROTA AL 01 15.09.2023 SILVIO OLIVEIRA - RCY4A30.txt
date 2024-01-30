@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 15.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Deputado Serzedelo de Barros Correia, 761, Clima Bom, Maceio - AL 57071-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.568752",
+          "refe_longitude": "-35.795582"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Professor Jose da Silveira Camerino, 526, Pinheiro, Maceio - AL 57055-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.632229",
+          "refe_longitude": "-35.740240"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Dep Sezerdelo de Barros Correia, 1351, Clima Bom, Maceio - AL 57071-230, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.565459",
+          "refe_longitude": "-35.789421"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia Edval Lemos, 1000, Povoado Cabreira, Marechal Deodoro - AL 57160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.761009",
+          "refe_longitude": "-35.865057"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Fernandes Lima, 1362, Pitanguinha, Maceio - AL 57052-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.638537",
+          "refe_longitude": "-35.735512"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "15/09/2023 05:00:00",
+      "viag_previsao_fim": "15/09/2023 11:15:04"
+    }
+  ]
+}"

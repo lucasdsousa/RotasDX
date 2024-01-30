@@ -1,0 +1,206 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000930,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2B14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07749579567"
+        }
+      ],
+      "rota_descricao": "ROTA SP 03 11/09/2023 ODAIR DE ANDRADE RPB-2B14",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Luiz Pilla, 1082 - Martim Francisco, Mogi Mirim - SP, 13817-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.522073",
+          "refe_longitude": "-46.956427"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Mogiana, 1815, Vila Mariana, Ribeirao Preto - SP 14075-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.147698",
+          "refe_longitude": "-47.787235"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Valins, 190 - Jardim Primavera, Agua\u00ed - SP, 13860-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.053279",
+          "refe_longitude": "-46.979732"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Prefeito Oswaldo Lopes, 1658 - Centro, Divinol\u00e2ndia - SP, 13780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.661763",
+          "refe_longitude": "-46.739387"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Amazonas, 463, Santa Rosa de Viterbo - SP, 14270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.482175",
+          "refe_longitude": "-47.355730"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Mogiana, 1815, Vila Mariana, Ribeirao Preto - SP 14075-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.147698",
+          "refe_longitude": "-47.787235"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Ernesto Bassi, 35 - Jardim Amelia, S\u00e3o Jo\u00e3o da Boa Vista - SP, 13876-439, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.989644",
+          "refe_longitude": "-46.778858"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Vinte e Cinco de Janeiro, 97 - Vila Santa Luzia, Mogi Mirim - SP, 13807-063, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.417540",
+          "refe_longitude": "-46.959388"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. 15 de Agosto, 246 - Vila Santa Luzia, Mogi Mirim - SP, 13807-065, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.416859",
+          "refe_longitude": "-46.956737"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Jos\u00e9 Ribeiro de Oliveira, 980 - Jardim do Lago, Santa Rita do Passa Quatro - SP, 13670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.696061",
+          "refe_longitude": "-47.483485"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Estr. Antonio Abdalla, 3003 - Jardim California, Piracicaba - SP, 13424-583, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.778605",
+          "refe_longitude": "-47.647361"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "SP-360, Km 177 - Jardim Europa, \u00c1guas de Lind\u00f3ia - SP, 13940-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.446634",
+          "refe_longitude": "-46.581202"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Am\u00e9rico Brasiliense - SP, 14820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.730082",
+          "refe_longitude": "-48.060511"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Vicente Jos\u00e9 Parise, 492 - Centro, Taquaritinga - SP, 15901-032, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.414091",
+          "refe_longitude": "-48.502419"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Santo Ant\u00f4nio, 463 - Vila Xavier (Vila Xavier), Araraquara - SP, 14810-115, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.792108",
+          "refe_longitude": "-48.166747"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. das Rosas, 967 - Cidade Jardim, Birigui - SP, 16203-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.296592",
+          "refe_longitude": "-50.315593"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Tiradentes, 1737 - Novo Umuarama, Ara\u00e7atuba - SP, 16011-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.206155",
+          "refe_longitude": "-50.423842"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rod. Assis Chateaubriand, 1033 - Martin\u00f3polis, SP, 19500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.122224",
+          "refe_longitude": "-51.174518"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Dr. Pedro de Tol\u00eado, 334 - CENTRO, Piquerobi - SP, 19410-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.888473",
+          "refe_longitude": "-51.729728"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Via De Acesso Joao Cazerta (Ate 2399 e Rua Aguapei), SN, Chacaras California, Aracatuba - SP 16026-680, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.212274",
+          "refe_longitude": "-50.467376"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Euclides Miragaia, 2226 - Jardim Jussara Maria, Birigui - SP, 16204-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.302167",
+          "refe_longitude": "-50.348466"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Rangel Pestana, 66, Sao Joaquim, Aracatuba - SP 16050-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.204824",
+          "refe_longitude": "-50.441390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Tiradentes, 1737 - Novo Umuarama, Ara\u00e7atuba - SP, 16011-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.206155",
+          "refe_longitude": "-50.423842"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Gov. Mario Covas, 3898 - Jardim America, Ara\u00e7atuba - SP, 16071-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.210251",
+          "refe_longitude": "-50.460236"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "11/09/2023 07:45:00",
+      "viag_previsao_fim": "14/09/2023 08:26:12"
+    }
+  ]
+}"

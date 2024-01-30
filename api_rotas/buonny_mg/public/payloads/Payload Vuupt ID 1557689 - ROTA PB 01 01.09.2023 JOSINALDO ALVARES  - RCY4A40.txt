@@ -1,0 +1,269 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": [
+    "05092901001227"
+  ],
+  "cnpj_embarcador": [
+    "05092901001227"
+  ],
+  "cnpj_transportador": [
+    "05092901001227"
+  ],
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1557689,
+  "numero_liberacao": 1557689,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "Nenhuma",
+  "motorista": {
+    "nome": "JOSINALDO ALVARES FERREIRA",
+    "cpf": "28352823434",
+    "telefone": "+5585981123297"
+  },
+  "veiculos": {
+    "placa": [
+      "RCY4A40"
+    ]
+  },
+  "origem": {
+    "codigo_externo": [
+      "05092901001227"
+    ],
+    "descricao": [
+      "R. Maria Presotto Pucci ",
+      "Distrito Industrial",
+      " Jo\u00e3o Pessoa ",
+      "PB",
+      " 58082011",
+      " Brasil"
+    ],
+    "logradouro": "R. Maria Presotto Pucci ",
+    "numero": "Distrito Industrial",
+    "complemento": "Nenhum",
+    "bairro": " Jo\u00e3o Pessoa ",
+    "cidade": "PB",
+    "estado": " ",
+    "latitude": -7.175301,
+    "longitude": -34.902875,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": true,
+  "data_previsao_inicio": "01/09/2023 08:00:00",
+  "data_previsao_fim": "01/09/2023 12:43:10",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38197933000193",
+            "descricao": "TAPEROA TRANSPORTES LTDA",
+            "logradouro": "Rua Comerciante Alfredo Ferreira da Rocha",
+            "numero": " 181 ",
+            "CEP": "Mangabeira",
+            "complemento": "",
+            "bairro": " Jo\u00e3o Pessoa ",
+            "cidade": "PB",
+            "estado": " 58055540",
+            "latitude": "-7.163999",
+            "longitude": "-34.842052",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 11:16:14",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1650",
+                  "volume": "30",
+                  "peso": "687"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09126822000198",
+            "descricao": "E MEDEIROS COMERCIO EIRELI",
+            "logradouro": "Rua Maciel Pinheiro",
+            "numero": " 449",
+            "CEP": " Varadouro",
+            "complemento": "",
+            "bairro": " Joao Pessoa ",
+            "cidade": "PB ",
+            "estado": " Brasil",
+            "latitude": "-7.117857",
+            "longitude": "-34.888960",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 11:46:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "56683.18",
+                  "volume": "210",
+                  "peso": "3559.784"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11601184000242",
+            "descricao": "ARLINDO DA FONSECA LINS E CIA LTDA  FILIAL 02",
+            "logradouro": "Rodovia BR 101",
+            "numero": " S/N",
+            "CEP": " Distrito Industrial",
+            "complemento": "",
+            "bairro": " Joao Pessoa ",
+            "cidade": "PB ",
+            "estado": " Brasil",
+            "latitude": "-7.174932",
+            "longitude": "-34.898479",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 12:43:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "538",
+                  "volume": "2",
+                  "peso": "37.4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39334645000104",
+            "descricao": "FRANCISCO DE SOUSA COSTA",
+            "logradouro": "Rua Ilustrador Noe Vieira de Almeida",
+            "numero": " 252",
+            "CEP": " Mangabeira",
+            "complemento": "",
+            "bairro": " Joao Pessoa ",
+            "cidade": "PB ",
+            "estado": " Brasil",
+            "latitude": "-7.178296",
+            "longitude": "-34.841904",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 13:49:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4630.2",
+                  "volume": "21",
+                  "peso": "252.903"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11804319000196",
+            "descricao": "AUTO POSTO DE COMBUSTIVEIS LITORAL NORTE LTDA",
+            "logradouro": "Rodovia BR 230",
+            "numero": " S/N",
+            "CEP": " Poco",
+            "complemento": "",
+            "bairro": " Cabedelo ",
+            "cidade": "PB ",
+            "estado": " Brasil",
+            "latitude": "-7.016095",
+            "longitude": "-34.833872",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 14:23:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1541.46",
+                  "volume": "4",
+                  "peso": "93.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35437714000146",
+            "descricao": "COPAM COMERCIO DE PECAS ACESS P MOTOS LTDA ME",
+            "logradouro": "Rua Maciel Pinheiro",
+            "numero": " 376",
+            "CEP": " Varadouro",
+            "complemento": "",
+            "bairro": " Joao Pessoa ",
+            "cidade": "PB ",
+            "estado": " Brasil",
+            "latitude": "-7.117178",
+            "longitude": "-34.889073",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-01 15:07:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1071.3",
+                  "volume": "3",
+                  "peso": "68.101"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 6 Incompletos&#10;Informe o destino da SM&#10;"]}

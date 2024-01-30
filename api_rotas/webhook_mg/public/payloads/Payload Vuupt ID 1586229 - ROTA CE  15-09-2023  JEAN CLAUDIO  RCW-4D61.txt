@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE  15/09/2023  JEAN CLAUDIO  RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua BR 116, 9801, Messejana, Fortaleza - CE 60842-395, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.830343",
+          "refe_longitude": "-38.504620"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6363, Alto da Balanca, Fortaleza - CE 60871-201, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 6359, Alto da Balanca, Fortaleza - CE 60120-065, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757969",
+          "refe_longitude": "-38.519317"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Nunes Valente, 2770 - Dion\u00edsio Torres, Fortaleza - CE, 60125-071, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.748744",
+          "refe_longitude": "-38.507717"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Dr. Joaquim Bento, 548 - Messejana, Fortaleza - CE, 60840-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.828479",
+          "refe_longitude": "-38.486727"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Visconde do Rio Branco, 1617, Centro, Fortaleza - CE 60055-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.734990",
+          "refe_longitude": "-38.524213"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Meton de Alencar, 1411, Centro, Fortaleza - CE 60035-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731926",
+          "refe_longitude": "-38.536276"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Meton de Alencar, 1483 - Centro, Fortaleza - CE, 60035-161, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.731760",
+          "refe_longitude": "-38.536729"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Professor Gomes de Matos, 63 - Jardim Am\u00e9rica, Fortaleza - CE, 60410-423, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.755254",
+          "refe_longitude": "-38.540357"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Professor Gomes de Matos, 63 - Jardim Am\u00e9rica, Fortaleza - CE, 60410-423, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.755254",
+          "refe_longitude": "-38.540357"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua 13, 85, Parque dois Irmaos, Fortaleza - CE 60761-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.809906",
+          "refe_longitude": "-38.553677"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Barao do Rio Branco, 2375, Centro, Fortaleza - CE 60025-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.738984",
+          "refe_longitude": "-38.531729"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Santos Dumont, 7600 - Manuel Dias Branco, Fortaleza - CE, 60191-156, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.747504",
+          "refe_longitude": "-38.465034"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "15/09/2023 07:00:00",
+      "viag_previsao_fim": "15/09/2023 17:21:00"
+    }
+  ]
+}"

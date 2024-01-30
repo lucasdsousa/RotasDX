@@ -1,0 +1,297 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM9D71"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05721805439"
+        }
+      ],
+      "rota_descricao": "ROTA AL 03 18.09.2023 ERIVAN GOMES - PLM9D71",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia AL 110, 259, Boa Vista, Arapiraca - AL 57300-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.643092",
+          "refe_longitude": "-36.484144"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Francisco Firmino de Oliveira, 60, Nova Esperanca, Arapiraca - AL 57316-355, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.765727",
+          "refe_longitude": "-36.640818"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Governador Antonio Semeao Lamenha Filho, 452, Jardim Tropical, Arapiraca - AL 57316-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.759340",
+          "refe_longitude": "-36.643229"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Pedro Rosa, 140, Centro, Taquarana - AL 57640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.648156",
+          "refe_longitude": "-36.494969"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia AL 220, 7486, Bom Sucesso, Arapiraca - AL 57309-035, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.721378",
+          "refe_longitude": "-36.687288"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Muniz Falcao, 934, Sao Luiz II, Arapiraca - AL 57301-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.769885",
+          "refe_longitude": "-36.652213"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Manoel Jo\u00e3o Neto, 179, Girau do Ponciano - AL, 57360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.882409",
+          "refe_longitude": "-36.828970"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia AL 115, 800, Distrito Industrial, Girau do Ponciano - AL 57360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.882259",
+          "refe_longitude": "-36.818616"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Vereador Joao Saturnino de Almeida, 643, Nova Esperanca, Arapiraca - AL 57316-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.775830",
+          "refe_longitude": "-36.644918"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Jo\u00e3o Ivo, Santana do Ipanema - AL, 57500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.369983",
+          "refe_longitude": "-37.246097"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Cajueiro, 218, Planalto, Arapiraca - AL 57308-490, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.726366",
+          "refe_longitude": "-36.663783"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. do Com\u00e9rcio, 220, Palestina - AL, 57410-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.673063",
+          "refe_longitude": "-37.327347"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia AL 110, SN, Canafistula, Arapiraca - AL 57304-820, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.774712",
+          "refe_longitude": "-36.635430"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua 02 de Dezembro, 777, Centro, Olho d'Agua das Flores - AL 57442-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.533668",
+          "refe_longitude": "-37.295032"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Expedicion\u00e1rio Brasileiro, 11 - Centro, Arapiraca - AL, 57300-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.748759",
+          "refe_longitude": "-36.663929"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Delmiro Gouveia, 123, Nossa Senhora da Saude, Piranhas - AL 57460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.608891",
+          "refe_longitude": "-37.760452"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Muniz Falcao, 225, Centro, Batalha - AL 57420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.673185",
+          "refe_longitude": "-37.133763"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Sao Francisco, 1297, Centro, Arapiraca - AL 57301-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.759388",
+          "refe_longitude": "-36.656872"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Dom Jonas Batingas, 74, Ouro Preto, Arapiraca - AL 57301-130, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.759267",
+          "refe_longitude": "-36.657389"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rodovia AL 220, 3790, Planalto, Arapiraca - AL 57308-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.728745",
+          "refe_longitude": "-36.664456"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rodovia BR 316, S/N, Centro, Poco das Trincheiras - AL 57510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.328807",
+          "refe_longitude": "-37.301453"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Rua Graciliano Ramos, 622, Centro, Minador do Negrao - AL 57615-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.308260",
+          "refe_longitude": "-36.866569"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Po\u00e7o das Trincheiras, AL, 57510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.306171",
+          "refe_longitude": "-37.285505"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rua Pedro Brandao, 202, Camoxinga, Santana do Ipanema - AL 57500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.369330",
+          "refe_longitude": "-37.247703"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Avenida Vieira de Brito, 998, Vila Maria, Palmeira dos Indios - AL 57607-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.418287",
+          "refe_longitude": "-36.635552"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rua Pedro Brandao, 370, Camoxinga, Santana do Ipanema - AL 57500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.367890",
+          "refe_longitude": "-37.248271"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rodovia AL 115, SN, Zona Rural, Palmeira dos Indios - AL 57613-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.425563",
+          "refe_longitude": "-36.636317"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rua Pedro Soares da Mota, 482, Sao Cristovao, Palmeira dos Indios - AL 57601-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.408434",
+          "refe_longitude": "-36.637905"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Marechal Castelo Branco, 42, Centro, Minador do Negrao - AL 57615-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.305436",
+          "refe_longitude": "-36.864773"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rodovia Povoado Minador do Lucio, S/N, Zona Rural, Cacimbinhas - AL 57570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.400083",
+          "refe_longitude": "-36.924261"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rua Vereador Manoel Barbosa Alcantara, 15, Centro, Maravilha - AL 57520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.231093",
+          "refe_longitude": "-37.349774"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Rodovia AL 110, 88, Pai Joao, Taquarana - AL 57640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.648308",
+          "refe_longitude": "-36.492357"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Muniz Falcao, 1160, Juca Sampaio, Palmeira dos Indios - AL 57603-145, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.418408",
+          "refe_longitude": "-36.625666"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rua Pedro Barbosa, S/N, Centro, Palmeira dos Indios - AL 57601-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.409205",
+          "refe_longitude": "-36.634427"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rua Genesio Moreira, 765, Sao Francisco, Palmeira dos Indios - AL 57602-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.416753",
+          "refe_longitude": "-36.626238"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Governador Muniz Falcao, 180, Sao Cristovao, Palmeira dos Indios - AL 57607-280, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.411748",
+          "refe_longitude": "-36.630933"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rua Pedro Soares da Mota, 482, Sao Cristovao, Palmeira dos Indios - AL 57601-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.408434",
+          "refe_longitude": "-36.637905"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "20/09/2023 19:06:49"
+    }
+  ]
+}"

@@ -1,0 +1,48 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB7G28"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "68558007691"
+        }
+      ],
+      "rota_descricao": "ROTA 01 31/08/2023 CLAYTON MARQUES  RPB-7G28",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Sao Joao, 317, Bandeirantes, Contagem - MG 32240-520, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.964758",
+          "refe_longitude": "-44.051577"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Niobio, 142, Glalija, Belo Horizonte - MG 30520-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.945133",
+          "refe_longitude": "-44.011053"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "31/08/2023 07:00:00",
+      "viag_previsao_fim": "31/08/2023 10:06:41"
+    }
+  ]
+}

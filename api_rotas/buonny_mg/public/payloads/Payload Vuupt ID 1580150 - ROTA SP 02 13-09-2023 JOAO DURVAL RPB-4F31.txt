@@ -1,0 +1,380 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1580150,
+  "numero_liberacao": 1580150,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO DURVAL DOS SANTOS",
+    "cpf": "34764656833",
+    "telefone": "+5516996330283"
+  },
+  "veiculos": {
+    "placa": "RPB2B14"
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "Dunax Lubrificantes LTDA -  SP",
+    "latitude": -21.041428,
+    "longitude": -47.812349
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "13/09/2023 11:00:00",
+  "data_previsao_fim": "14/09/2023 15:27:34",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46249565000108",
+            "descricao": "LUBRISHOW LUBRIFICANTES LTDA",
+            "latitude": "-21.147698",
+            "longitude": "-47.787235",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:26:50",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "935.4",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "68032473000104",
+            "descricao": "POSTO J L MARTINEZ EIRELI",
+            "latitude": "-21.162026",
+            "longitude": "-47.788229",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 14:37:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1176.48",
+                  "volume": "6",
+                  "peso": "65.781"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "55968424000136",
+            "descricao": "AUTO PECAS FREDERICO LTDA",
+            "latitude": "-21.161264",
+            "longitude": "-47.807817",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 15:07:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3226.4",
+                  "volume": "10",
+                  "peso": "191.538"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "14793549000195",
+            "descricao": "AUTO POSTO SAO PAULO RP LTDA",
+            "latitude": "-21.168657",
+            "longitude": "-47.805363",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:11:08",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "679.6",
+                  "volume": "3",
+                  "peso": "45.124"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13085950000299",
+            "descricao": "DIEGO LUIZ GOMES LUBRIFICANTE LTDA",
+            "latitude": "-21.154726",
+            "longitude": "-47.829977",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:21:42",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2581.6",
+                  "volume": "12",
+                  "peso": "180.492"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "57483",
+            "descricao": "LUBRISHOW LUBRIFICANTES LTDA",
+            "latitude": "-21.147698",
+            "longitude": "-47.787235",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 16:55:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "928.8",
+                  "volume": "3",
+                  "peso": "68.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19129434000114",
+            "descricao": "SOLUCAO MANGUEIRAS CONEXOES E EQUIP HIDRAUL IMP E EXP LTDA",
+            "latitude": "-21.136540",
+            "longitude": "-47.796392",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:03:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3722",
+                  "volume": "20",
+                  "peso": "376"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "30524309000141",
+            "descricao": "LUIZ FERNANDO GARCEZ DA SILVA",
+            "latitude": "-21.994259",
+            "longitude": "-46.780446",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:38:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "690",
+                  "volume": "3",
+                  "peso": "45.14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "72861099000127",
+            "descricao": "IRMAOS LONGUINI LTDA",
+            "latitude": "-21.834509",
+            "longitude": "-46.895221",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 17:59:13",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2510.04",
+                  "volume": "9",
+                  "peso": "169.838"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12292693000112",
+            "descricao": "AGRIMIX INDUSTRIA E COMERCIO DE PECAS LTDA",
+            "latitude": "-21.182236",
+            "longitude": "-47.758324",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 18:13:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2059.4",
+                  "volume": "6",
+                  "peso": "109.767"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03702672000137",
+            "descricao": "SKINAO MOTOS LTDA",
+            "latitude": "-21.988760",
+            "longitude": "-46.785852",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 18:56:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "336.9",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33740278000154",
+            "descricao": "GILBERTO LUIZ NASCIMENTO MASSARO",
+            "latitude": "-22.439336",
+            "longitude": "-46.825568",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-13 19:26:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1154",
+                  "volume": "4",
+                  "peso": "79.32"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23057521000180",
+            "descricao": "RODRIGO LEANDRO BATISTON",
+            "latitude": "-21.194622",
+            "longitude": "-47.735262",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 10:54:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2686",
+                  "volume": "10",
+                  "peso": "227"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26061075000176",
+            "descricao": "AUTO POSTO COLORADO COM VAREJ DE COMBUS EIRELI",
+            "latitude": "-21.200622",
+            "longitude": "-47.613808",
+            "tipo_pagrada": "3",
+            "previsao_de_chegada": "2023-09-14 11:58:39",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5457.6",
+                  "volume": "21",
+                  "peso": "361.821"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Dados do Alvo 14 Incompletos&#10;Informe o destino da SM&#10;"]}

@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4I46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "39666444879"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 01 22/09/2023 JEFFERSON TOMAZ RPB4I46",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Brasil, 820 - S\u00edtio Paredao, Ferraz de Vasconcelos - SP, 08501-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.537501",
+          "refe_longitude": "-46.362975"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Sorocaba, 686 - Vila Monte Belo, Itaquaquecetuba - SP, 08577-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.487450",
+          "refe_longitude": "-46.364149"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Sabbado D'\u00c2ngelo, 1877 - Itaquera, S\u00e3o Paulo - SP, 08210-791, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.549198",
+          "refe_longitude": "-46.444766"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Miguel Ferreira de Melo, 100 - Jardim Santo Andre, S\u00e3o Paulo - SP, 08390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.629227",
+          "refe_longitude": "-46.444767"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Piraporinha, 21 - Vila Nogueira, Diadema - SP, 09891-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.680266",
+          "refe_longitude": "-46.595726"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Brasil, 820 - S\u00edtio Paredao, Ferraz de Vasconcelos - SP, 08501-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.537501",
+          "refe_longitude": "-46.362975"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Claudio Augusto Fernandes, 516, Sao Mateus, Sao Paulo - SP 03962-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.609412",
+          "refe_longitude": "-46.480869"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Tales, 42 - Vila Nova, S\u00e3o Paulo - SP, 03288-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.592166",
+          "refe_longitude": "-46.530009"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Jaboticabeira, 22 - Vila Itaquassu, Itaquaquecetuba - SP, 08588-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.440184",
+          "refe_longitude": "-46.321291"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Estrada De Santa Isabel, 6312, Una, Itaquaquecetuba - SP 08588-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.439245",
+          "refe_longitude": "-46.325013"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Maria Augusta Fagundes Gomes, 364 - Res. Sao Paulo, Jacare\u00ed - SP, 12322-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.311744",
+          "refe_longitude": "-45.987859"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Miguel Badra, 2525 - Cidade Miguel Badra, Suzano - SP, 08690-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.494754",
+          "refe_longitude": "-46.322648"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "21/09/2023 14:40:00",
+      "viag_previsao_fim": "22/09/2023 00:18:25"
+    }
+  ]
+}"

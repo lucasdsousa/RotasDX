@@ -1,0 +1,269 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C13"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11180487680"
+        }
+      ],
+      "rota_descricao": "ROTA MG 23  18/09/2023  ALAX SOUZA  RPB-0C13",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Clemente Araujo, 239, Centro, Sacramento - MG 38190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.867967",
+          "refe_longitude": "-47.438888"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Gustavo Augusto De Carvalho, 62 - Tapira, MG, 38185-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.925340",
+          "refe_longitude": "-46.822640"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Pedro Barbassa, 478 - Recreio dos Bandeirantes, Uberaba - MG, 38040-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.775970",
+          "refe_longitude": "-47.931735"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Tonico dos Santos, 655, Jardim Induberaba, Uberaba - MG 38040-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.776283",
+          "refe_longitude": "-47.944627"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Ramid Mauad, 904, Residencial Morumbi, Uberaba - MG 38051-131, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.763121",
+          "refe_longitude": "-47.990185"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Filomena Cartafina, 22031 - Distrito Industrial III, Uberaba - MG, 38040-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962040",
+          "refe_longitude": "-47.892220"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Bras\u00edlia, 317 - Edna, Prata - MG, 38140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.299540",
+          "refe_longitude": "-48.910346"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Nossa Senhora do Desterro, 638, Oneida Mendes, Uberaba - MG 38082-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.753305",
+          "refe_longitude": "-47.900743"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Jose Bonifacio, 200, Leblon, Uberaba - MG 38030-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.771446",
+          "refe_longitude": "-47.938693"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Tonico Martins, 24, Centro, Conquista - MG 38195-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.938464",
+          "refe_longitude": "-47.545270"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Bras\u00edlia, 317 - Edna, Prata - MG, 38140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.299540",
+          "refe_longitude": "-48.910346"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Edilson Lamartine Mendes, 999, Parque das Americas, Uberaba - MG 38045-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.770626",
+          "refe_longitude": "-47.954580"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Filomena Cartafina, 22450 - Distrito Industrial lll, Uberaba - MG, 38044-750, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.965062",
+          "refe_longitude": "-47.892573"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Filomena Cartafina, 22031 - Distrito Industrial III, Uberaba - MG, 38040-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962040",
+          "refe_longitude": "-47.892220"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Apolonio Sales, 351, Sao Benedito, Uberaba - MG 38020-430, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.766583",
+          "refe_longitude": "-47.945931"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua H, 397, Tiradentes, Iturama - MG 38280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.725405",
+          "refe_longitude": "-50.183996"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Avenida Deputado Jose Marcus Cherem, 158, Vila Sao Cristovao, Uberaba - MG 38040-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.771038",
+          "refe_longitude": "-47.943738"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "ROD BR 50 KM 151 200 MTS ZONA RURAL, Uberaba - MG, 38017-305, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.583850",
+          "refe_longitude": "-48.030340"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Jose de Alencar, 858, Alto Boa Vista, Frutal - MG 38202-087, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.014208",
+          "refe_longitude": "-48.935515"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Filomena Cartafina, 22031 - Distrito Industrial III, Uberaba - MG, 38040-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962040",
+          "refe_longitude": "-47.892220"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Filomena Cartafina, 22031 - Distrito Industrial III, Uberaba - MG, 38040-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962040",
+          "refe_longitude": "-47.892220"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Dep. Jos\u00e9 Marcus Cherem, 1376 - Vila Sao Cristovao, Uberaba - MG, 38040-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.774550",
+          "refe_longitude": "-47.933121"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Paula Favaro, 815, Centro, Conceicao das Alagoas - MG 38120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.923240",
+          "refe_longitude": "-48.375486"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Itapagipe, MG, 38240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.901814",
+          "refe_longitude": "-49.370109"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Av. Jo\u00e3o XXIII, 2282 - Parque das Americas, Uberaba - MG, 38045-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.773046",
+          "refe_longitude": "-47.964995"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Avenida Edilson Lamartine Mendes, 999, Parque das Americas, Uberaba - MG 38045-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.770626",
+          "refe_longitude": "-47.954580"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Rua Candida Mendonca Bilharinho, 260, Merces, Uberaba - MG 38060-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.741124",
+          "refe_longitude": "-47.945690"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Deolindo de Freitas Paixao, 170, Centro, Conceicao das Alagoas - MG 38120-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.925923",
+          "refe_longitude": "-48.378412"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Avenida Nossa Senhora do Desterro, 734, Oneida Mendes, Uberaba - MG 38082-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.752534",
+          "refe_longitude": "-47.900279"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Clemente Araujo, 239, Centro, Sacramento - MG 38190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.867967",
+          "refe_longitude": "-47.438888"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Avenida Deputado Jose Marcus Cherem, 531, Vila Sao Cristovao, Uberaba - MG 38040-500, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.771982",
+          "refe_longitude": "-47.940339"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Rua Tenente Wenceslau Oliveira, 985, Nossa Senhora da Abadia, Uberaba - MG 38026-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.760902",
+          "refe_longitude": "-47.926146"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Av. Jo\u00e3o XXIII, 2282 - Parque das Americas, Uberaba - MG, 38045-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.773046",
+          "refe_longitude": "-47.964995"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "21/09/2023 19:42:02"
+    }
+  ]
+}"

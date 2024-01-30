@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB6B70"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00725768711"
+        }
+      ],
+      "rota_descricao": "ROTA RIO - JOAO LUIZ MARQUES DE BRITO - RPB6B70 - 26/09/23 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Antonio Manoel, 348, Parque Turf Club, Campos dos Goytacazes - RJ 28024-102, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.773926",
+          "refe_longitude": "-41.318548"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Domingos Francisco Farias  Mota, 10, Palmital, Rio das Ostras - RJ 28891-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.530753",
+          "refe_longitude": "-41.983999"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Estrada Doutor Lourival Martins Beda, 1167, Parque Varanda do Visconde, Campos dos Goytacazes - RJ 28110-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.804676",
+          "refe_longitude": "-41.297267"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Estrada do Acucar, SN, Goitacazes, Campos dos Goytacazes - RJ 28110-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.838793",
+          "refe_longitude": "-41.256381"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Roberto Silveira, 714 - Centro, Maric\u00e1 - RJ, 24903-485, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.917523",
+          "refe_longitude": "-42.810314"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Carlos Mariguella - Jardim Atl\u00e2ntico Oeste, Maric\u00e1 - RJ, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.949378",
+          "refe_longitude": "-42.970635"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Maysa - Zacarias, Maric\u00e1 - RJ, 24915-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.959455",
+          "refe_longitude": "-42.835273"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia Amaral Peixoto, 01, Sambura, Cabo Frio - RJ 28927-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.629052",
+          "refe_longitude": "-42.001159"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rodovia Amaral Peixoto, 128, Florestinha I, Cabo Frio - RJ 28929-476, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.602455",
+          "refe_longitude": "-41.998904"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Cassorotiba - Santa Paula, Maric\u00e1 - RJ, 24900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.890051",
+          "refe_longitude": "-42.925031"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Cassorotiba - Santa Paula, Maric\u00e1 - RJ, 24900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.890051",
+          "refe_longitude": "-42.925031"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Estrada De Sao Vicente, SN, Fazendinha, Araruama - RJ 28970-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.847379",
+          "refe_longitude": "-42.318581"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Carlos Alberto Chebabe, 2487 - Parque Santos Dumont, Campos dos Goytacazes - RJ, 28073-560, Brasil",
+        "refe_latitude": -21.683746,
+        "refe_longitude": -41.311186
+      },
+      "viag_previsao_inicio": "26/09/2023 10:30:00",
+      "viag_previsao_fim": "27/09/2023 04:47:54"
+    }
+  ]
+}"

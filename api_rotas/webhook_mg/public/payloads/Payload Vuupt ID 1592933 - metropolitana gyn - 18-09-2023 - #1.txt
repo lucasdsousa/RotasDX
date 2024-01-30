@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D47"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02747957101"
+        }
+      ],
+      "rota_descricao": "metropolitana gyn - 18/09/2023 - #1",
+      "origem": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Cesar Lattes, 141, Setor Novo Horizonte, Goiania - GO 74363-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.714779",
+          "refe_longitude": "-49.318701"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Muiraquita, SN, Parque Amazonia, Goiania - GO 74840-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.732994",
+          "refe_longitude": "-49.267364"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Gercina Borges Teixeira, 1559, Conjunto Vera Cruz, Goiania - GO 74493-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.674622",
+          "refe_longitude": "-49.385575"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Eucl\u00eddes da Cunha - Conjunto Residencial Storil, Aparecida de Goi\u00e2nia - GO, 74917-195, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.763350",
+          "refe_longitude": "-49.270625"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "BR-060, 3688 - J\u00f3quei Club, An\u00e1polis - GO, 75104, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.352993",
+          "refe_longitude": "-48.920619"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua 32, 894, Setor Pai Eterno, Trindade - GO 75387-082, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.645279",
+          "refe_longitude": "-49.489105"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Perimetral Norte, 3973 - Jardim Gramado, Goi\u00e2nia - GO, 74465-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.642833",
+          "refe_longitude": "-49.305965"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Anhanguera, 3885, Setor Leste Universitario, Goiania - GO 74610-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.671881",
+          "refe_longitude": "-49.247202"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua 1037, 47, Setor Pedro Ludovico, Goiania - GO 74823-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.715824",
+          "refe_longitude": "-49.256037"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Anhanguera, 862, Jardim Novo Mundo, Goiania - GO 74705-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.669139",
+          "refe_longitude": "-49.219470"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Anhanguera, 2075, Setor Leste Universitario, Goiania - GO 74610-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.670891",
+          "refe_longitude": "-49.230318"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Perimetral Norte, 7354, Jardim Diamantina, Goiania - GO 74573-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-16.634731",
+          "refe_longitude": "-49.282101"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Pres. Jos\u00e9 Sarney - Parque das Na\u00e7\u00f5es, An\u00e1polis - GO, 75143-420, Brasil",
+        "refe_latitude": -16.34282,
+        "refe_longitude": -48.96797
+      },
+      "viag_previsao_inicio": "18/09/2023 10:00:00",
+      "viag_previsao_fim": "19/09/2023 11:29:39"
+    }
+  ]
+}"

@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY1H48"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04330691558"
+        }
+      ],
+      "rota_descricao": "ROTA BA 02  13/09/2023  PAULO ROBSON  RCY-1H48",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Silveira Martins, 231, Cabula, Salvador - BA 41150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.958328",
+          "refe_longitude": "-38.467263"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Sao Cristovao, 22, Sao Cristovao, Salvador - BA 41510-333, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.913601",
+          "refe_longitude": "-38.351222"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Estrada Das Barreiras, 429 - Barreiras, Salvador - BA, 41195001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.949649",
+          "refe_longitude": "-38.460903"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Ulysses Guimaraes, 4270, Sussuarana, Salvador - BA, 41213-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.934258",
+          "refe_longitude": "-38.443022"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Clarindo Santos, 78, Malemba, Candeias - BA 43805-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.676699",
+          "refe_longitude": "-38.544775"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Das Malvinas, S/N, Barra do Pojuca, Camacari - BA 42825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.594501",
+          "refe_longitude": "-38.043943"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Ernani de Oliveira Rocha, 217, Centro, Sao Sebastiao do Passe - BA 43850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.516778",
+          "refe_longitude": "-38.492478"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BA 093, 08/10, Futurama, Dias d'Avila - BA 42850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.688264",
+          "refe_longitude": "-38.384045"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Cardeal Avelar Brandao Vilela, 04, Jardim Santo Inacio, Salvador - BA 41231-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.937569",
+          "refe_longitude": "-38.454126"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Ayrton Senna, 190, Parque Petropolis, Dias d'Avila - BA 42850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.621999",
+          "refe_longitude": "-38.294172"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Regional, 61 - Castelo Branco, Salvador - BA, 41321650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.900070",
+          "refe_longitude": "-38.428307"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Doutor Jorge Costa Andrade, 83, Aguas Claras, Salvador - BA 41310-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.889401",
+          "refe_longitude": "-38.436192"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida General San Martin, 95, Iapi, Salvador - BA, 40323-245, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.951795",
+          "refe_longitude": "-38.477169"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Raul Seixas, 2516 - Santa Helena, Dias d'Avila - BA, 42850000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.603592",
+          "refe_longitude": "-38.320812"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida General San Martin, 205, Fazenda Grande do Retiro, Salvador - BA 40355-025, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.946801",
+          "refe_longitude": "-38.482662"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Via Parafuso, 1251, Areia Branca, Lauro de Freitas - BA 42700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.828294",
+          "refe_longitude": "-38.350846"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Itajubara, 90000, Nova Candeias, Candeias - BA, 43815-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.665912",
+          "refe_longitude": "-38.534415"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Cardeal Avelar Brandao Villela, 2813, Mata Escura, Salvador - BA, 41219-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.920219",
+          "refe_longitude": "-38.461628"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Cardeal Avelar Brandao Villela, 2813, Mata Escura, Salvador - BA, 41219-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.920219",
+          "refe_longitude": "-38.461628"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Estrada Campinas Piraja, 4673, Campinas de Piraja, Salvador - BA 41270-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.912999",
+          "refe_longitude": "-38.464759"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Da Bolivia, 01, Granjas Rurais Presidente Vargas, Salvador - BA 41230-195, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.911603",
+          "refe_longitude": "-38.464945"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "13/09/2023 07:00:00",
+      "viag_previsao_fim": "18/09/2023 11:39:22"
+    }
+  ]
+}"

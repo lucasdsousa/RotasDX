@@ -1,0 +1,48 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C89"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00211359246"
+        }
+      ],
+      "rota_descricao": "ROTA 08 31/08/2023 DAYKSON BRUNO RPB4C89",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Pres. Get\u00falio Vargas, 2204 - Centro, Castanhal - PA, 68740-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.296700",
+          "refe_longitude": "-47.923980"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Vinte e Oito de Janeiro, 1657, Cristo Redentor, Castanhal - PA 68742-770, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.295152",
+          "refe_longitude": "-47.933009"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "31/08/2023 12:00:00",
+      "viag_previsao_fim": "04/09/2023 17:04:22"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC2H98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "54996333391"
+        }
+      ],
+      "rota_descricao": "ROTA MA 02 BAIXADA 18/09/2023 Joab Farias Pinho RPC2H98",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "BR-222, 1057, Santa Luzia - MA, 65390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.157013",
+          "refe_longitude": "-46.005897"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "AV. TABAJARA, 154, CENTRO, SANTA LUZIA - MARANH\u00c3O 65390-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.972221",
+          "refe_longitude": "-45.666865"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Nova, 525, Alto Alegre do Pindar\u00e9 - MA, 65398-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.669520",
+          "refe_longitude": "-45.849061"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "BR-222, 48, Santa Luzia - MA, 65390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.959522",
+          "refe_longitude": "-45.663100"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Marechal - Av. Castelo Branco - Vila Militar, Santa In\u00eas - MA, 65306-240, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.665488",
+          "refe_longitude": "-45.381322"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Castelo Branco, 3429 - Vila Militar, Santa In\u00eas - MA, 65300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.665612",
+          "refe_longitude": "-45.378475"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Castelo Branco, 2317 - Santo Antonio, Santa In\u00eas - MA, 65300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.662833",
+          "refe_longitude": "-45.388232"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Castelo Branco, 3181 - Centro, Santa In\u00eas - MA, 65306-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.665080",
+          "refe_longitude": "-45.380630"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Stanley Fortes Batista, 117, Z\u00e9 Doca - MA, 65365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.280299",
+          "refe_longitude": "-45.656578"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "BR-316, SN - Centro, Maraca\u00e7um\u00e9 - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.040627",
+          "refe_longitude": "-45.965658"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "BR-316, 225, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.123161",
+          "refe_longitude": "-45.891708"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "BR-316, 225, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.123161",
+          "refe_longitude": "-45.891708"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Deyse de Souza, 805, Maraca\u00e7um\u00e9 - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.048782",
+          "refe_longitude": "-45.960505"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Z\u00e9 Doca - MA, 65365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.261357",
+          "refe_longitude": "-45.655305"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. do Com\u00e9rcio, 1932 - centro, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.125826",
+          "refe_longitude": "-45.889184"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "66, BR-316, 1221 - Centro, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.132010",
+          "refe_longitude": "-45.885501"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "povoado Chega Tudo - Rua do com\u00e9rcio, Centro Novo do Maranh\u00e3o - MA, 65299-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.296354",
+          "refe_longitude": "-46.293809"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. LUIS DOMINGUES, 445, CENTRO, PINHEIRO - MARANH\u00c3O 65200-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.519979",
+          "refe_longitude": "-45.080083"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "BR-316, Junco do Maranh\u00e3o - MA, 65294-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.880575",
+          "refe_longitude": "-46.069933"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Juscelino Kubitschek, 147, Centro Novo do Maranh\u00e3o - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.142264",
+          "refe_longitude": "-46.126241"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Paulo Ramos, 106, Pinheiro - MA, 65200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.515262",
+          "refe_longitude": "-45.083655"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Castro Alves, 48, Bela Vista do Maranh\u00e3o - MA, 65335-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.737683",
+          "refe_longitude": "-45.251510"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Castro Alves, 48, Bela Vista do Maranh\u00e3o - MA, 65335-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.737683",
+          "refe_longitude": "-45.251510"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Juscelino Kubitschek, 147, Centro Novo do Maranh\u00e3o - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.142264",
+          "refe_longitude": "-46.126241"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "18/09/2023 13:00:00",
+      "viag_previsao_fim": "22/09/2023 16:18:04"
+    }
+  ]
+}"

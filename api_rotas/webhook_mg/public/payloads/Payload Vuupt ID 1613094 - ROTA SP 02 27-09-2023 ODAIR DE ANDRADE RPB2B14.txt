@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2B14"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07749579567"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02 27/09/2023 ODAIR DE ANDRADE RPB2B14",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Maximilliam Maggioni, 436 - Cristo Redentor, Ribeir\u00e3o Preto - SP, 14063-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.114460",
+          "refe_longitude": "-47.830150"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. do Caf\u00e9, 306 - Vila Tiberio, Ribeir\u00e3o Preto - SP, 14050-220, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.174409",
+          "refe_longitude": "-47.820757"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. S\u00e3o Sebasti\u00e3o, 75 - Jardim Nove de Julho, Jardin\u00f3polis - SP, 14680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.021237",
+          "refe_longitude": "-47.770963"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. P\u00f4rto Uni\u00e3o, 252 - Ipiranga, Ribeir\u00e3o Preto - SP, 14055-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.154763",
+          "refe_longitude": "-47.830932"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Treze de Maio, 955 - Jardim Paulistano, Ribeir\u00e3o Preto - SP, 14090-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.179733",
+          "refe_longitude": "-47.787209"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Jo\u00e3o Perticarrari, 98 - Alvorada, Sert\u00e3ozinho - SP, 14170-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.146085",
+          "refe_longitude": "-47.997607"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Belarmino P Oliveira, 488, Santa Luzia, Jardinopolis - SP 14680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.027007",
+          "refe_longitude": "-47.774143"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Jaime Tellini, 4750 - Res. Ana Dorothea, Franca - SP, 14412-248, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.552316",
+          "refe_longitude": "-47.360091"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "9Q4G+VPF, Itirapu\u00e3 - SP, 14420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.642810",
+          "refe_longitude": "-47.223200"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Treze de Maio, 1434, Patroc\u00ednio Paulista - SP, 14415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.641908",
+          "refe_longitude": "-47.283130"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Amap\u00e1, 1172 - Vila Santa Rita, Franca - SP, 14403-380, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.549427",
+          "refe_longitude": "-47.395234"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Dr. Ant\u00f4nio Alves Passig, 239 - Res. e Comercial Palmares, Ribeir\u00e3o Preto - SP, 14092-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.179925",
+          "refe_longitude": "-47.757958"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Dr. Willian Azzuz, 600 - Franca, SP, 14409-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.499753",
+          "refe_longitude": "-47.398250"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "X629+WQ, Igarapava - SP, 14540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.047687",
+          "refe_longitude": "-47.780562"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Bernardino de Campos, 356 - Jardim Paraiso, Igarapava - SP, 14540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.040593",
+          "refe_longitude": "-47.750252"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Adhemar Pereira de Barros, 1271 - Jardim Brasilandia, Franca - SP, 14402-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.526497",
+          "refe_longitude": "-47.369208"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Francisco Ferreira Ramos, 220 - Bela Vista, Pedregulho - SP, 14470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.250977",
+          "refe_longitude": "-47.480148"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. Seis, 1182 - Jardim Paraiso, Orl\u00e2ndia - SP, 14620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.719163",
+          "refe_longitude": "-47.893843"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Francisco Ant\u00f4nio de Freitas, 892 - Centro, Miguel\u00f3polis - SP, 14530-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.180430",
+          "refe_longitude": "-48.029154"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Jos\u00e9 Cavenaghe, 1541, Gua\u00edra - SP, 14790-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.332904",
+          "refe_longitude": "-48.307558"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "27/09/2023 10:30:00",
+      "viag_previsao_fim": "29/09/2023 07:41:23"
+    }
+  ]
+}"

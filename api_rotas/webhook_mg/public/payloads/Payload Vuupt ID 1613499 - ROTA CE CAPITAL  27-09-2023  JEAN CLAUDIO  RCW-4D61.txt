@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE CAPITAL  27/09/2023  JEAN CLAUDIO  RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua BR 116, 9801, Messejana, Fortaleza - CE 60842-395, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.830343",
+          "refe_longitude": "-38.504620"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Bar\u00e3o do Rio Branco, 2266 - Jos\u00e9 Bonifacio, Fortaleza - CE, 60025-061, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.737686",
+          "refe_longitude": "-38.532029"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Professor Gomes de Matos, 1776, Montese, Fortaleza - CE 60420-432, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.766808",
+          "refe_longitude": "-38.550660"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Cel. Virg\u00edlio Nogueira, 930 - Granja Lisboa, Fortaleza - CE, 60540-446, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.791470",
+          "refe_longitude": "-38.609920"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Doutor Silas Munguba, 1555, Itaperi, Fortaleza - CE 60741-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.784140",
+          "refe_longitude": "-38.553569"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Guilherme Rocha, 937, Centro, Fortaleza - CE 60030-141, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.725064",
+          "refe_longitude": "-38.534510"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Edite Braga, 819, Montese, Fortaleza - CE 60435-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757840",
+          "refe_longitude": "-38.544724"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Pedro I, 646 - Centro, Fortaleza - CE, 60035-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.730571",
+          "refe_longitude": "-38.530457"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Maria J\u00falia, 48 - Granja Portugal, Fortaleza - CE, 60545-255, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.785978",
+          "refe_longitude": "-38.598070"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Padre Jose Holanda do Vale, 1769, Piratininga, Maracanau - CE 61900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.873207",
+          "refe_longitude": "-38.627708"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Central, 180, Jenipapeiro, Maracanau - CE 61906-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.867978",
+          "refe_longitude": "-38.610586"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia Doutor Mendel Steinbruch, 5251, Pajucara, Maracanau - CE 61932-005, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.876465",
+          "refe_longitude": "-38.594896"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida I, 1150, Jose Walter, Fortaleza - CE 60750-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.834208",
+          "refe_longitude": "-38.553639"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "27/09/2023 07:00:00",
+      "viag_previsao_fim": "27/09/2023 16:33:45"
+    }
+  ]
+}"

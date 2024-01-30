@@ -1,0 +1,200 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1569891,
+  "numero_liberacao": 1569891,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "WENDERSON TIAGO INACIO",
+    "cpf": "01957173688",
+    "telefone": "+5531972515233"
+  },
+  "veiculos": {
+    "placa": "RCV3G47"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 07:00:00",
+  "data_previsao_fim": "08/09/2023 20:27:06",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "06322518000128",
+            "descricao": "LUBRIFIT LUBRIFICANTES LTDA",
+            "logradouro": "Rua Moacir Jose da Silva",
+            "numero": "0",
+            "latitude": "-19.629388",
+            "longitude": "-44.034233",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 11:27:28",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2733.92",
+                  "volume": "10",
+                  "peso": "184"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "41235255000110",
+            "descricao": "CRS COMBUSTIVEIS - EIRELI",
+            "logradouro": "Avenida Gil Antonio Pereira",
+            "numero": "0",
+            "latitude": "-19.589516",
+            "longitude": "-44.034717",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-09 02:53:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "767.53",
+                  "volume": "4",
+                  "peso": "44.846"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48460698000154",
+            "descricao": "ALPES LUBRI PREST SERVICO E COME VARE DE PECAS E ACESSO LTDA",
+            "logradouro": "Avenida Brasilia",
+            "numero": "0",
+            "latitude": "-19.483178",
+            "longitude": "-44.149711",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-09 11:23:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1710.19",
+                  "volume": "6",
+                  "peso": "100.249"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00496058000178",
+            "descricao": "MAQUINE PECAS E ACESSORIOS LTDA",
+            "logradouro": "Av. Padre Jo\u00e3o",
+            "numero": "0",
+            "latitude": "-19.121975",
+            "longitude": "-44.321521",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-09 12:02:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1777.48",
+                  "volume": "6",
+                  "peso": "118.643"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12554801000269",
+            "descricao": "GM PNEUS LTDA",
+            "logradouro": "Rua Carlos Antonio Giordani",
+            "numero": "0",
+            "latitude": "-19.470483",
+            "longitude": "-44.264816",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-09 12:38:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3779.79",
+                  "volume": "2",
+                  "peso": "365.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23220759000347",
+            "descricao": "COOPERATIVA AGROPECUARIA, INDUSTRIAL E DE CONSUMO",
+            "logradouro": "Praca Coronel Bernardino",
+            "numero": "0",
+            "latitude": "-19.279049",
+            "longitude": "-44.399767",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-09 13:19:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "373.48",
+                  "volume": "2",
+                  "peso": "36.878"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

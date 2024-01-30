@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QEH0E00"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "89969197487"
+        }
+      ],
+      "rota_descricao": "ROTA PB 02 14.09.2023 MARCIONILO PEDRO - QEH0E00",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua 11, 230, Vila Brasil, Pombos - PE 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.145536",
+          "refe_longitude": "-35.393659"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Padre Galdino, 42, Centro, Pombos - PE 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.142750",
+          "refe_longitude": "-35.397868"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 232, SN, Insurreicao, Saire - PE 55695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.216024",
+          "refe_longitude": "-35.682706"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Santa Maria da Boa Vista, 500, Boa Vista, Recife - PE 55038-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.274031",
+          "refe_longitude": "-35.991279"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 104, 2500, Caiuca, Caruaru - PE 55034-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.311313",
+          "refe_longitude": "-35.990499"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Francisco de Paula Batista, 1 - Jardim Boa Vista, Caruaru - PE, 55038-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.276171",
+          "refe_longitude": "-35.995896"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Presidente Castelo Branco, 12, Cidade Alta, Caruaru - PE 55016-080, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.304720",
+          "refe_longitude": "-35.975570"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Carneiro Vilela, 53, Salgado, Caruaru - PE 55020-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.281063",
+          "refe_longitude": "-35.960672"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Leao Dourado, 1330, Kennedy, Caruaru - PE 55036-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286543",
+          "refe_longitude": "-35.993212"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Encruzilhada de S\u00e3o Jo\u00e3o, Caruaru - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293310",
+          "refe_longitude": "-35.883890"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia BR 232, SN, Zona Urbana, Tacaimbo - PE 55140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.333289",
+          "refe_longitude": "-36.279410"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BR 232, SN, Alto do Rosario, Sao Caitano - PE 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328654",
+          "refe_longitude": "-36.148746"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rodovia BR 232, 20, Centenario, Pesqueira - PE 55200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.366103",
+          "refe_longitude": "-36.692901"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Petronio Tenorio Moura, 4, Vila Anapolis, Pesqueira - PE 55200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.366399",
+          "refe_longitude": "-36.693153"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "14/09/2023 16:10:37"
+    }
+  ]
+}"

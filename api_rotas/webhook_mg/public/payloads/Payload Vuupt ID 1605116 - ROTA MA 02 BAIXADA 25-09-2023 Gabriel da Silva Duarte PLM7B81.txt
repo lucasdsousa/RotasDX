@@ -1,0 +1,255 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM7B81"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "61782540326"
+        }
+      ],
+      "rota_descricao": "ROTA MA 02 BAIXADA 25/09/2023 Gabriel da Silva Duarte PLM7B81",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Centro Novo do Maranh\u00e3o - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.276038",
+          "refe_longitude": "-46.295300"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "MA-106 - Centro, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.134577",
+          "refe_longitude": "-45.884716"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Pedro Cunha Mendes, 3733, Centro, Pedro do Rosario - MA 65206-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.975539",
+          "refe_longitude": "-45.354221"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Gov. Nunes Freire, MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.124232",
+          "refe_longitude": "-45.891063"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Do Comercio, 1695, Centro, Governador Nunes Freire - MA 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.128168",
+          "refe_longitude": "-45.888944"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Contorno - BR-316, 3717 - S\u00e3o Crist\u00f3v\u00e3o, Santa In\u00eas - MA, 65304-770, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.674712",
+          "refe_longitude": "-45.370962"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. da Cemar, 1, Pindar\u00e9-Mirim - MA, 65370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.622372",
+          "refe_longitude": "-45.355372"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Airton Senna, 8, Centro Novo do Maranh\u00e3o - MA, 65289-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.136222",
+          "refe_longitude": "-46.122787"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Sete de Setembro, 147, Gov. Nunes Freire - MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.129446",
+          "refe_longitude": "-45.887933"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Z\u00e9 Doca - MA, 65365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.261357",
+          "refe_longitude": "-45.655305"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "BR-222, 1057, Santa Luzia - MA, 65390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.157273",
+          "refe_longitude": "-46.005927"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Coronel Estanley Forte Batista, 819, Centro, Ze Doca - MA 65365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.274511",
+          "refe_longitude": "-45.656072"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Castelo Branco, 3146, Laranjeiras, Santa Ines - MA 65300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.667585",
+          "refe_longitude": "-45.374128"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 316, 1221, Centro, Governador Nunes Freire - MA 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.132016",
+          "refe_longitude": "-45.885516"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Castelo Branco, 3636 - Vila Militar, Santa In\u00eas - MA, 65300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.666870",
+          "refe_longitude": "-45.376996"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Pedro Cunha Mendes, 3733, Centro, Pedro do Rosario - MA 65206-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.975539",
+          "refe_longitude": "-45.354221"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Rita de Oliveira Pimentel, 3707, Centro, Santa Ines - MA 65300-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.668122",
+          "refe_longitude": "-45.367612"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Z\u00e9 Doca - MA, 65365-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.261357",
+          "refe_longitude": "-45.655305"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Gov. Nunes Freire, MA, 65284-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.124232",
+          "refe_longitude": "-45.891063"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Jos\u00e9 Burnet, 569, Santa Luzia - MA, 65390-000",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.963341",
+          "refe_longitude": "-45.667099"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Professor Joao Morais de Sousa, 1262, Centro, Santa Luzia do Parua - MA 65272-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.541490",
+          "refe_longitude": "-45.776110"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Castelo Branco, 2317, Bom Preco, Santa Ines - MA 65300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.662855",
+          "refe_longitude": "-45.388227"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Avenida Duque de Caxias, SN, Centro, Santa Helena - MA 65208-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.235346",
+          "refe_longitude": "-45.299797"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "R. S\u00e3o Pedro, Boa Vista do Gurupi - MA, 65292-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.796090",
+          "refe_longitude": "-46.307894"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Av Santos dumont Can\u00e1rio, Turia\u00e7u - MA, 65278-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.666121",
+          "refe_longitude": "-45.390818"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rodovia BR 222, 10, Centro, Vitoria do Mearim - MA 65350-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.464051",
+          "refe_longitude": "-44.872863"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Tv. 4, Boa Vista do Gurupi - MA, 65292-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.790757",
+          "refe_longitude": "-46.306476"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Paulo Ramos, 37, Santa Luzia, Pinheiro - MA 65200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.515511",
+          "refe_longitude": "-45.084200"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Rua Juscelino Kubitschek, 455, Rogagem, Candido Mendes - MA 65280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.453527",
+          "refe_longitude": "-45.731707"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Pinheiro - MA, 65200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.516172",
+          "refe_longitude": "-45.081806"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Av Santos dumont Can\u00e1rio, Turia\u00e7u - MA, 65278-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.666121",
+          "refe_longitude": "-45.390818"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "25/09/2023 09:30:00",
+      "viag_previsao_fim": "30/09/2023 18:28:39"
+    }
+  ]
+}"

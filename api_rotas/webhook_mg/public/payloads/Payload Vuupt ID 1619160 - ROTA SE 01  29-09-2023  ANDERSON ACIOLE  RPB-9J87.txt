@@ -1,0 +1,59 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE 01  29/09/2023  ANDERSON ACIOLE  RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Coelho e Campos, 182 - Santo Ant\u00f4nio, Aracaju - SE, 49060-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.905552",
+          "refe_longitude": "-37.051019"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Marechal Rondon, 1320 - Capucho, Aracaju - SE, 49080-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.921213",
+          "refe_longitude": "-37.093603"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Marechal Rondon, 1320 - Capucho, Aracaju - SE, 49080-470, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.921213",
+          "refe_longitude": "-37.093603"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "29/09/2023 07:00:00",
+      "viag_previsao_fim": "29/09/2023 10:12:25"
+    }
+  ]
+}"

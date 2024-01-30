@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPC1H03"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11291412417"
+        }
+      ],
+      "rota_descricao": "ROTA AL 02 08.09.2023 ALECIO LINS - RPC1A03",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Jose Buarque Sampaio, 171, Patum, Maragogi - AL 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.012325",
+          "refe_longitude": "-35.224445"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia Al 413, SN, Centro, Sao Luis do Quitunde - AL 57920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.308731",
+          "refe_longitude": "-35.569447"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia Al 101 Norte, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.694230",
+          "refe_longitude": "-35.790158"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia Al 101 Norte, SN, Centro, Porto Calvo - AL 57900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.052623",
+          "refe_longitude": "-35.401460"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Firmino Queiroz, 170, Cidade Alta, Murici - AL 57820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.310654",
+          "refe_longitude": "-35.943991"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Dr Antonio Gomes de Barros, 299, Centro, Uniao dos Palmares - AL 57800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.161494",
+          "refe_longitude": "-36.028801"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dr Antonio Gomes de Barros, 380, Centro, Uniao dos Palmares - AL 57800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.162177",
+          "refe_longitude": "-36.028589"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Fernando Bezerra Leite, 708, Centro, Ibateguara - AL 57890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.968160",
+          "refe_longitude": "-35.923572"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Firmino Queiroz, 103, Centro, Murici - AL 57820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.309635",
+          "refe_longitude": "-35.942476"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Orlando Bugarim, 25, Centro, Uniao dos Palmares - AL 57800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.155945",
+          "refe_longitude": "-36.034668"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Jose Buarque Sampaio, 171, Patum, Maragogi - AL 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.012325",
+          "refe_longitude": "-35.224445"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia AL 101, S/N, Lot Canto do Mar, Maragogi - AL 57955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.012773",
+          "refe_longitude": "-35.225231"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Dra Janete de Araujo, 617, Centro, Ibateguara - AL 57890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.967944",
+          "refe_longitude": "-35.923708"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Sitio Santa Maria, 27, Zona Rural, Joaquim Gomes - AL 57980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.077673",
+          "refe_longitude": "-35.762524"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "08/09/2023 05:00:00",
+      "viag_previsao_fim": "09/09/2023 13:58:08"
+    }
+  ]
+}"

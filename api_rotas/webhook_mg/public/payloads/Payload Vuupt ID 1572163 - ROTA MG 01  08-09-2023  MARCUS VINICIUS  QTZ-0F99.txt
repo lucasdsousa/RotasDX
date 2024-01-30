@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QTZ0F99"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09897004610"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  08/09/2023  MARCUS VINICIUS  QTZ-0F99",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Lagoa da Prata, 415, Nova Suica, Belo Horizonte - MG 30550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.939162",
+          "refe_longitude": "-43.982464"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Ituiutaba, 459 - Prado, Belo Horizonte - MG, 30411-023, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.919354",
+          "refe_longitude": "-43.961462"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Amazonas, 8285, Gameleira, Belo Horizonte - MG 30510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.941388",
+          "refe_longitude": "-44.002021"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Lazurita, 61 - Bonfim, Belo Horizonte - MG, 31210-450, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.911980",
+          "refe_longitude": "-43.954350"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Tamoios, 980, Centro, Belo Horizonte - MG 30120-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.918545",
+          "refe_longitude": "-43.945504"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Espinosa, 64 - Santo Andre, Belo Horizonte - MG, 31210-525, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.906710",
+          "refe_longitude": "-43.957720"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Dom Pedro II, 930, Bonfim, Belo Horizonte - MG 31210-242, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.913837",
+          "refe_longitude": "-43.952545"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Arceburgo, 417, Bonfim, Belo Horizonte - MG 31210-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.910622",
+          "refe_longitude": "-43.950291"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Itapecerica, 719, Lagoinha, Belo Horizonte - MG 31210-030, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.907576",
+          "refe_longitude": "-43.945523"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Itapetinga, 1424, Cachoeirinha, Belo Horizonte - MG 31130-192, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.887454",
+          "refe_longitude": "-43.950323"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Jacu\u00ed, 3641 - Ipiranga, Belo Horizonte - MG, 31160-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.882182",
+          "refe_longitude": "-43.933746"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Itapetinga, 1424, Cachoeirinha, Belo Horizonte - MG 31130-192, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.887454",
+          "refe_longitude": "-43.950323"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Prefeito Vitor Fantini, 971, Centro, Sabara - MG 34505-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.892394",
+          "refe_longitude": "-43.808955"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rod. Anel Rodovi\u00e1rio Celso Mello Azevedo, 24700 - Goi\u00e2nia, Belo Horizonte - MG, 31910-585, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.857281",
+          "refe_longitude": "-43.900485"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Um, 1234, Nossa Senhora de Fatima, Sabara - MG 34600-404, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.865058",
+          "refe_longitude": "-43.864934"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "08/09/2023 09:00:00",
+      "viag_previsao_fim": "08/09/2023 16:43:25"
+    }
+  ]
+}"

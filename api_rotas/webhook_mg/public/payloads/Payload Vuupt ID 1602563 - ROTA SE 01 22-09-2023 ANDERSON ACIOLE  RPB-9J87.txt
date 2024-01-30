@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE 01 22/09/2023 ANDERSON ACIOLE  RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Joao Bezerra, 1439, Conjunto Metropolitano, Caucaia - CE 61604-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.761941",
+          "refe_longitude": "-38.656267"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Mozart Pinheiro de Lucena, 2400 - Vila Velha, Fortaleza - CE, 60352-642, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.725152",
+          "refe_longitude": "-38.598009"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Governador Faustino de Albuquerque, 15633, Alto Sao Joao, Pacatuba - CE 61800-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.009479",
+          "refe_longitude": "-38.622738"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Coronel Matos Dourados, 574, Dom Lustosa, Fortaleza - CE 60510-692, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.757871",
+          "refe_longitude": "-38.584882"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Mister Hull, 5322, Antonio Bezerra, Fortaleza - CE 60365-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.739377",
+          "refe_longitude": "-38.592026"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Padre Jose Holanda do Vale, 1769, Piratininga, Maracanau - CE 61900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.873207",
+          "refe_longitude": "-38.627708"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Domingos Fa\u00e7anha, 2 - Centro, Maranguape - CE, 61940-140, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.891183",
+          "refe_longitude": "-38.684170"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Cel Carvalho, 2726, Jardim Guanabara, Fortaleza - CE 60346-164, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.727100",
+          "refe_longitude": "-38.585497"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Coronel Nunes de Melo, 326, Parque Araxa, Fortaleza - CE 60430-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.742050",
+          "refe_longitude": "-38.547081"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Miguel Afonso Silva, 1361, Siqueira, Fortaleza - CE 60732-552, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.813330",
+          "refe_longitude": "-38.619021"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Senador Fernandes Tavora, 2551, Autran Nunes, Fortaleza - CE 60526-641, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.755693",
+          "refe_longitude": "-38.596157"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Carneiro de Mendonca, 1301, Joquei Clube, Fortaleza - CE 60440-231, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.762066",
+          "refe_longitude": "-38.570782"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Americo Barreira, 835, Democrito Rocha, Fortaleza - CE 60440-093, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.763508",
+          "refe_longitude": "-38.566136"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. 733, 341 - Conj. Cear\u00e1 II, Fortaleza - CE, 60531-780, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.772947",
+          "refe_longitude": "-38.604040"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "22/09/2023 07:00:00",
+      "viag_previsao_fim": "22/09/2023 15:26:36"
+    }
+  ]
+}"

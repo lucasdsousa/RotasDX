@@ -1,0 +1,55 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY9B02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02666678482"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 01.09.2023 HILQUIAS JOSE - RCY9B02",
+      "origem": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Da Recuperacao, 116, Guabiraba, Recife - PE 52091-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.998295",
+          "refe_longitude": "-34.939273"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rodovia BR 101, SN, Prazeres, Jaboatao dos Guararapes - PE 54335-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.166666",
+          "refe_longitude": "-34.938446"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Doutor Julio Maranhao, 348, Guararapes, Jaboatao dos Guararapes - PE 54325-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.161545",
+          "refe_longitude": "-34.929955"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "01/09/2023 05:00:00",
+      "viag_previsao_fim": "02/09/2023 13:12:47"
+    }
+  ]
+}

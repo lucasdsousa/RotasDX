@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN MOSSORO  27/09/2023  GILMAR DE MORAIS  PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. N\u00edsia Floresta, 180 - Boa Vista, Mossor\u00f3 - RN, 59600-270, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.196334",
+          "refe_longitude": "-37.348566"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Maria Ortiga Rosado, 92 - Monsenhor Am\u00e9rico, Mossor\u00f3 - RN, 59613-705, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.163937",
+          "refe_longitude": "-37.353536"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Angelina Clementino, 37, Tibau - RN, 59678-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.840585",
+          "refe_longitude": "-37.254067"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jos\u00e9 de Alencar, 301 - Centro, Mossor\u00f3 - RN, 59600-190, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.196622",
+          "refe_longitude": "-37.345760"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Jorge Caminha, 154 - Centro, Areia Branca - RN, 59655-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.953978",
+          "refe_longitude": "-37.128685"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Cunha da Mota, 445 - Centro, Mossor\u00f3 - RN, 59600-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.197408",
+          "refe_longitude": "-37.344737"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Cunha da Mota, 445 - Centro, Mossor\u00f3 - RN, 59600-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.197408",
+          "refe_longitude": "-37.344737"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Jorge Caminha, 180, Areia Branca - RN, 59655-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.953530",
+          "refe_longitude": "-37.128613"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Ant\u00f4nio Queir\u00f3s, 47, Bara\u00fana - RN, 59695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.079157",
+          "refe_longitude": "-37.616573"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ant\u00f4nio Queir\u00f3s, 47, Bara\u00fana - RN, 59695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.079157",
+          "refe_longitude": "-37.616573"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Miguel Erasmo da Silva, Grossos - RN, 59675-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.984342",
+          "refe_longitude": "-37.155948"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Alberto Maranh\u00e3o, 1363 - Centro, Mossor\u00f3 - RN, 59600-295, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.194870",
+          "refe_longitude": "-37.346403"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Jorge Caminha, 156 - Areia Branca, RN, 59655-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.953985",
+          "refe_longitude": "-37.128896"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Centro, Mossor\u00f3 - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.192354",
+          "refe_longitude": "-37.341518"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "27/09/2023 05:00:00",
+      "viag_previsao_fim": "27/09/2023 22:07:04"
+    }
+  ]
+}"

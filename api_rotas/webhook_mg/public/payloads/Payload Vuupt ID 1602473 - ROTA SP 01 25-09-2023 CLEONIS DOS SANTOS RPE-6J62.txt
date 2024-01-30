@@ -1,0 +1,241 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPE6J62"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06846525521"
+        }
+      ],
+      "rota_descricao": "ROTA SP 01 25/09/2023 CLEONIS DOS SANTOS RPE-6J62",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "SP-127, S\u00e3o Paulo, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.253415",
+          "refe_longitude": "-47.798832"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Cel. Queir\u00f3s, 57 - Centro, Itapeva - SP, 18400-465, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.979949",
+          "refe_longitude": "-48.872565"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Sebasti\u00e3o Ferraz de Camargo Penteado, 1450 - \u00c1rea Industrial, Apia\u00ed - SP, 18320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.517722",
+          "refe_longitude": "-48.859441"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Alt\u00edno Arantes, 566 - Centro, Cap\u00e3o Bonito - SP, 18300-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.005454",
+          "refe_longitude": "-48.344846"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Rui Barbosa, 76 - Centro, Itapeva - SP, 18410-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.980492",
+          "refe_longitude": "-48.872729"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Rocha Miranda, 430 - Centro, Campina do Monte Alegre - SP, 18245-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.592532",
+          "refe_longitude": "-48.478998"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Avelino Domingues Menk, 82 - Centro, Guapiara - SP, 18310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.188225",
+          "refe_longitude": "-48.536499"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua 1\u00ba de Maio, 446 - Vila Osorio, Itarar\u00e9 - SP, 18460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.110663",
+          "refe_longitude": "-49.325721"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Apia\u00ed, SP, 18320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.509049",
+          "refe_longitude": "-48.846390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Cel. Macedo - Centro, Bom Sucesso de Itarar\u00e9 - SP, 18475-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.318551",
+          "refe_longitude": "-49.143273"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua 1\u00ba de Maio, 446 - Vila Osorio, Itarar\u00e9 - SP, 18460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.110663",
+          "refe_longitude": "-49.325721"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Guido Tomasoni, 400, Distrito Industrial, Itapeva - SP 18410-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.975786",
+          "refe_longitude": "-48.895553"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. S\u00e3o Pedro, 2680 - Vila Tonico Adolfo, Itarar\u00e9 - SP, 18460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.111587",
+          "refe_longitude": "-49.321168"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Projetada - Campina de Fora, Ribeir\u00e3o Branco - SP, 18430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.306695",
+          "refe_longitude": "-48.953871"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Frei Caneca, 2455 - Centro, Itarar\u00e9 - SP, 18460-164, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.110696",
+          "refe_longitude": "-49.327654"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua 1\u00ba de Maio, 767 - Centro, Itarar\u00e9 - SP, 18460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.108244",
+          "refe_longitude": "-49.326637"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Bom Jesus, 609 - Itab\u00f4a, Ribeir\u00e3o Branco - SP, 18430-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.260655",
+          "refe_longitude": "-48.892053"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Santa Cruz, 724 - Vila Alvorada, Itaporanga - SP, 18480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.708308",
+          "refe_longitude": "-49.495549"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Elizaro Pereira de Melo, 56, Paranapanema - SP, 18720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.383128",
+          "refe_longitude": "-48.729980"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Jos\u00e9 Deocleciano Ribeiro, 829 - Centro, Tagua\u00ed - SP, 18890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.455031",
+          "refe_longitude": "-49.411868"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Sevilhano Silva, 723 - Centro, Itaber\u00e1 - SP, 18440-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.860141",
+          "refe_longitude": "-49.133356"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Valdelina Rodrigues Pena, 303 - Jardim Dona Carmelia, Taquarituba - SP, 18740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.541817",
+          "refe_longitude": "-49.248625"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Fernando Gobbo, 640 - Vila dos Martins, Tagua\u00ed - SP, 18890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.449377",
+          "refe_longitude": "-49.406698"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "R. Jos\u00e9 Casemiro, 11, Fartura - SP, 18870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.391373",
+          "refe_longitude": "-49.515028"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "R. Bar\u00e3o do Rio Branco, 629 - Centro, Fartura - SP, 18870-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.386504",
+          "refe_longitude": "-49.516026"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "R. Pedro Foga\u00e7a Filho, 73 - CDHU, Paranapanema - SP, 18720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.373831",
+          "refe_longitude": "-48.726316"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Av. Andr\u00e9 Dalcin, 274 - Centro, Tagua\u00ed - SP, 18890-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.450319",
+          "refe_longitude": "-49.410076"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "24VM+3HR, Avar\u00e9 - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.957260",
+          "refe_longitude": "-48.866110"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Av. Joselyr Moura Bastos, 51 - Jardim Paineiras, Avar\u00e9 - SP, 18705-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.105406",
+          "refe_longitude": "-48.939260"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "25/09/2023 07:45:00",
+      "viag_previsao_fim": "29/09/2023 12:20:11"
+    }
+  ]
+}"

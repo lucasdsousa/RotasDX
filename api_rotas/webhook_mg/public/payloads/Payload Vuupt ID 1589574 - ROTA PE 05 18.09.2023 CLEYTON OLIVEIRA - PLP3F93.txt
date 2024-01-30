@@ -1,0 +1,94 @@
+Response: "<Response [422]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Erro Viagem" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLP3F93"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02813765490"
+        }
+      ],
+      "rota_descricao": "ROTA PE 05 18.09.2023 CLEYTON OLIVEIRA - PLP3F93",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Antonio Soares, 350 - Centro, Toritama - PE, 55125-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.008969",
+          "refe_longitude": "-36.057969"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Prefeito Braz Lira, 146, Malaquias Cardoso, Santa Cruz do Capibaribe - PE 55190-356, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.955249",
+          "refe_longitude": "-36.196716"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Pref. Braz de L\u00edra, 65 - Centro, Santa Cruz do Capibaribe - PE, 55190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.953150",
+          "refe_longitude": "-36.200180"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Loteamento PE 90, 30, Loteamento Recreio, Lagoa do Carro - PE 55820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.843476",
+          "refe_longitude": "-35.299550"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 408, 2, Zona Rural, Paudalho - PE 55825-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.908952",
+          "refe_longitude": "-35.170521"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Antonio Soares, 350 - Centro, Toritama - PE, 55125-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.008969",
+          "refe_longitude": "-36.057969"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia PE 095, SN, Santa Terezinha, Limoeiro - PE 55700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.892487",
+          "refe_longitude": "-35.453547"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Joaquim Nabuco, 112, Centro, Itambe - PE 55920-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.405112",
+          "refe_longitude": "-35.117457"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "18/09/2023 05:00:00",
+      "viag_previsao_fim": "19/09/2023 01:30:00"
+    }
+  ]
+}"

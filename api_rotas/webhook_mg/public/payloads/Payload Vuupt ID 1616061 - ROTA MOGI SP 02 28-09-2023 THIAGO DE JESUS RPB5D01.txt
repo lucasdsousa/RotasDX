@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5D01"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "35034689863"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 02 28/09/2023 THIAGO DE JESUS RPB5D01",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Alexandre Kadunc, 292, Tingidor, Embu das Artes - SP 06803-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.652782",
+          "refe_longitude": "-46.848608"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Cap. Casa, 1507 - Bairro dos Casa, S\u00e3o Bernardo do Campo - SP, 09812-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.729864",
+          "refe_longitude": "-46.567244"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Cap. Casa, 540 - Demarchi, S\u00e3o Bernardo do Campo - SP, 09811-251, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.725991",
+          "refe_longitude": "-46.558286"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. da Aldeia, 563 - Jardim Timbauhy, Barueri - SP, 06440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.511988",
+          "refe_longitude": "-46.859099"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Cap. Casa, 540 - Demarchi, S\u00e3o Bernardo do Campo - SP, 09811-251, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.725991",
+          "refe_longitude": "-46.558286"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Tamba\u00fa, 1280 - Vila Elisa, Ribeir\u00e3o Preto - SP, 14075-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.142968",
+          "refe_longitude": "-47.785703"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Get\u00falio Vargas, 884 - Baeta Neves, S\u00e3o Bernardo do Campo - SP, 09751-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.692469",
+          "refe_longitude": "-46.544757"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. do Cursino, 3191 - Vila Brasilina, S\u00e3o Paulo - SP, 04133-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.629568",
+          "refe_longitude": "-46.618156"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Min. Petr\u00f4nio Portela, 595 - Moinho Velho, S\u00e3o Paulo - SP, 02959-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.494078",
+          "refe_longitude": "-46.701442"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Alexandre Kadunc, 292, Tingidor, Embu das Artes - SP 06803-045, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.652782",
+          "refe_longitude": "-46.848608"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Estr. Tabo\u00e3o do Parate\u00ed, 100 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.433254",
+          "refe_longitude": "-46.266629"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "28/09/2023 07:30:00",
+      "viag_previsao_fim": "28/09/2023 18:51:04"
+    }
+  ]
+}"

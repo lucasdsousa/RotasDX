@@ -1,0 +1,73 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 22.09.2023 GEORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Joao Cordeiro, Vila Flor - RN, 59192-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.318558",
+          "refe_longitude": "-35.077252"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Canguaretama, RN, 59190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.379173",
+          "refe_longitude": "-35.130647"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Piloto Pereira Tim, 182 - Centro, Parnamirim - RN, 59146-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.915915",
+          "refe_longitude": "-35.263005"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Canguaretama, RN, 59190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.379173",
+          "refe_longitude": "-35.130647"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "RN-313 - Pium (Distrito Litoral), Parnamirim - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.954690",
+          "refe_longitude": "-35.162730"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "22/09/2023 05:00:00",
+      "viag_previsao_fim": "22/09/2023 18:41:08"
+    }
+  ]
+}"

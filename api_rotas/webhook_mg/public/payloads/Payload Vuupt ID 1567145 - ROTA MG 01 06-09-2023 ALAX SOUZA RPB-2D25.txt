@@ -1,0 +1,122 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11180487680"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01 06/09/2023 ALAX SOUZA RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Belo Horizonte, 785, Niteroi, Betim - MG 32672-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.949404",
+          "refe_longitude": "-44.177401"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Espirito Santo, 173, Decamao, Betim - MG 32603-064, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.966627",
+          "refe_longitude": "-44.211428"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Aroeiras, Betim - MG",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.984890",
+          "refe_longitude": "-44.234100"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua dos Rodoviarios, 322, Sarzedo Central Park, Sarzedo - MG 32450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.038908",
+          "refe_longitude": "-44.140935"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua 5 331 Distrito industrial - Bandeirinhas, Betim - MG, 32654-816, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.995010",
+          "refe_longitude": "-44.177690"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Noraldino de Lima, 33, Jatoba, Ibirite - MG 32400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.995861",
+          "refe_longitude": "-44.055260"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Toronto, 1490, Jardim Canada, Nova Lima - MG 34007-658, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.071801",
+          "refe_longitude": "-43.984439"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia MG 040, 586, Cinira de Freitas, Sarzedo - MG 32450-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.040994",
+          "refe_longitude": "-44.142354"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Republica do Peru, 10, Santo Antonio, Brumadinho - MG 35460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.138219",
+          "refe_longitude": "-44.202456"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Jose da Silva Fernanndes, 157, Loudes, Brumadinho - MG 35460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.145832",
+          "refe_longitude": "-44.203180"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Tito Fulgencio, 734, Jardim Industrial, Contagem - MG 32215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.963244",
+          "refe_longitude": "-44.016363"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Tito Fulgencio, 1370, Jardim Industrial, Contagem - MG 32215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.967641",
+          "refe_longitude": "-44.014670"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "06/09/2023 07:00:00",
+      "viag_previsao_fim": "06/09/2023 17:11:19"
+    }
+  ]
+}"

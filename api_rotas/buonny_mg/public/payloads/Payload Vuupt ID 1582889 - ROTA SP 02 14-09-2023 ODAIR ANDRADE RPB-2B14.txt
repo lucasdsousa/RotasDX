@@ -1,0 +1,241 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1582889,
+  "numero_liberacao": 1582889,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ODAIR DE ANDRADE MOURA",
+    "cpf": "07749579567",
+    "telefone": "+5516988333833",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RPB2B14"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0027-03",
+    "descricao": "Dunax Lubrificantes LTDA -  SP"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 21:30:00",
+  "data_previsao_fim": "15/09/2023 08:04:12",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "13.673.699/0001-00",
+        "descricao": "JULIO CESAR BERGAMASCO",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:09:32",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1558.8",
+              "volume": "5",
+              "peso": "113.5"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "39.239.973/0001-13",
+        "descricao": "REGINALDO FERREIRA DA SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:23:17",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1007.28",
+              "volume": "3",
+              "peso": "68.1"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "37.826.952/0001-79",
+        "descricao": "DANIEL KILL",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:27:28",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "777",
+              "volume": "3",
+              "peso": "54.884"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "41.145.291/0001-93",
+        "descricao": "FERNANDO ROSSIN",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:32:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1869.4",
+              "volume": "6",
+              "peso": "109.768"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "24.890.716/0001-70",
+        "descricao": "JOICE HELEN SANTOS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:02:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "981.36",
+              "volume": "4",
+              "peso": "56.336"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "11.265.114/0001-80",
+        "descricao": "PETROVERCI COMERCIO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 04:57:48",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1891.85",
+              "volume": "8",
+              "peso": "106.131"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "65.586.760/0001-78",
+        "descricao": "SERT PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 06:20:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2175.6",
+              "volume": "12",
+              "peso": "238.978"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "28.496.279/0001-65",
+        "descricao": "BENEDITO FRANCISCO SOARES",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:42:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1078.32",
+              "volume": "4",
+              "peso": "67.84"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "62.943.048/0001-90",
+        "descricao": "POSTO JATAI LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:46:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "987",
+              "volume": "3",
+              "peso": "54.884"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "41.316.751/0001-07",
+        "descricao": "FERNANDO NOGUEIRA MARGARIDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 20:56:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3117.6",
+              "volume": "10",
+              "peso": "227.006"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "05.687.071/0001-28",
+        "descricao": "FRANPETRO COMERCIO DE COMBUSTIVEIS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 21:08:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "946.32",
+              "volume": "4",
+              "peso": "56.344"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301783","erros":[]}

@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 03 18/09/2023 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Senador Lemos, 375, Ponta da Agulha, Salinopolis - PA 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.623525",
+          "refe_longitude": "-47.348636"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Qd 35, 23, Residencial Goiania, Capitao Poco - PA 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.742133",
+          "refe_longitude": "-47.074814"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rodovia BR 308, SN, Vila Fatima, Tracuateua - PA 68647-971, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.157318",
+          "refe_longitude": "-46.981715"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Travessa 25 De Marco, 520, Tatajuba, Capitao Poco - PA 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.744148",
+          "refe_longitude": "-47.065190"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Praca Da Bandeira, 1018, Centro, Nova Timboteua - PA 68730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.206458",
+          "refe_longitude": "-47.387940"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Polidorio Coelho, 521, Taira, Braganca - PA 68600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.058648",
+          "refe_longitude": "-46.773065"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Moura Carvalho, S/N, Tatajuba, Capitao Poco - PA 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.746561",
+          "refe_longitude": "-47.064542"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Moura Carvalho, 1409, Tatajuba, Capitao Poco - PA 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.740788",
+          "refe_longitude": "-47.064778"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Travessa Duque de Caxias, 3819, Centro, Igarape-Acu - PA 68725-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.128579",
+          "refe_longitude": "-47.622070"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rod - PA-124, Our\u00e9m - PA, 68640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.543918",
+          "refe_longitude": "-47.119228"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Manoel Miranda, 796-910, Salin\u00f3polis - PA, 68721-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-0.634177",
+          "refe_longitude": "-47.331478"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Barao de Capanema, 1320, Oliveira Brito, Capanema - PA 68700-970, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.191482",
+          "refe_longitude": "-47.170655"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Barao do Rio Branco, SN, Sao Sebastiao, Igarape-Acu - PA 68725-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.128213",
+          "refe_longitude": "-47.620912"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 316, SN, Zona Rural, Nova Timboteua - PA 68730-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.303227",
+          "refe_longitude": "-47.383527"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Vinte e Sete de Dezembro, SN, Centro, Nova Esperanca do Piria - PA 68618-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.264088",
+          "refe_longitude": "-46.966110"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "RUA SANTO DUMONT S/N, Garraf\u00e3o do Norte - PA, 68665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.924326",
+          "refe_longitude": "-47.048517"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. S\u00e3o Pedro, Nova Esperan\u00e7a do Piri\u00e1 - PA, 68618-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.269979",
+          "refe_longitude": "-46.965987"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Jo\u00e3o Moura da Costa - RODOVIARIO, Cap. Po\u00e7o - PA, 68650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.753798",
+          "refe_longitude": "-47.069991"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Nossa Senhora do Livramento, SN, Vila Nova, Garrafao do Norte - PA 68665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.930460",
+          "refe_longitude": "-47.053042"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Sete de Setembro, SN, Pedrinhas, Garrafao do Norte - PA 68665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.933298",
+          "refe_longitude": "-47.052806"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "18/09/2023 14:30:00",
+      "viag_previsao_fim": "21/09/2023 17:41:51"
+    }
+  ]
+}"

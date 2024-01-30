@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB2D25"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "11180487680"
+        }
+      ],
+      "rota_descricao": "ROTA MG 01  08/09/2023  ALAX SOUZA  RPB-2D25",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Waldomiro Lobo, 830, Guarani, Belo Horizonte - MG 31814-620, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.844169",
+          "refe_longitude": "-43.926575"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Anapurus, 21, Sao Gabriel, Belo Horizonte - MG 31980-210, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.856554",
+          "refe_longitude": "-43.920743"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Cristiano Machado, 9505, Dona Clara, Belo Horizonte - MG 31760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.847666",
+          "refe_longitude": "-43.933042"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua 3, 750, Nova Pampulha, Vespasiano - MG 33200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.774634",
+          "refe_longitude": "-43.960366"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Jos\u00e9 Lopes Muradas, 351 - Floramar, Belo Horizonte - MG, 31742-084, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.836238",
+          "refe_longitude": "-43.934072"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Um, 315 - Serra Azul, Vespasiano - MG, 33200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.762905",
+          "refe_longitude": "-43.969429"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. dos Bicudos, 38 - Santa Clara II, Vespasiano - MG, 33200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.756654",
+          "refe_longitude": "-43.954068"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Rio Retiro, 25, Retiro, Contagem - MG 32050-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.842101",
+          "refe_longitude": "-44.150146"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Denise Cristina Rocha, 1367, Sao Januario, Ribeirao das Neves - MG 33900-375, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.800277",
+          "refe_longitude": "-44.009943"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Vilarinho, 2380, Venda Nova, Belo Horizonte - MG 31615-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.811818",
+          "refe_longitude": "-43.961672"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Maria Gertrudes Santos, 272, Ceu Azul, Belo Horizonte - MG 31578-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.817714",
+          "refe_longitude": "-44.000021"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "08/09/2023 09:00:00",
+      "viag_previsao_fim": "08/09/2023 15:25:30"
+    }
+  ]
+}"

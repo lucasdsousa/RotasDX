@@ -1,0 +1,80 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY0I35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "03014968200"
+        }
+      ],
+      "rota_descricao": "ROTA PA 06 27/09/2023",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Belem, 140, Santa Maria, Tailandia - PA 68695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.947937",
+          "refe_longitude": "-48.953962"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Cristo Rei, 780, Novo Horizonte, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444419",
+          "refe_longitude": "-49.115157"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua 10 de Julho, 19, Santa Helena, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.441276",
+          "refe_longitude": "-49.116060"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Jose Soares, 38, Centro, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444562",
+          "refe_longitude": "-49.116380"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Cristo Rei, 780, Novo Horizonte, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.444419",
+          "refe_longitude": "-49.115157"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Cristo Rei, 80, Cidade Nova, Jacunda - PA 68590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.449547",
+          "refe_longitude": "-49.116137"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "28/09/2023 08:00:00",
+      "viag_previsao_fim": "29/09/2023 19:24:45"
+    }
+  ]
+}"

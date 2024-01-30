@@ -1,0 +1,115 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4I46"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "39666444879"
+        }
+      ],
+      "rota_descricao": "ROTA MOGI SP 02 15/09/2023 JEFFERSON TOMAZ RPB4I46",
+      "origem": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida General Ataliba Leonel, 94, Santana, Sao Paulo - SP 02033-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.507887",
+          "refe_longitude": "-46.625474"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. C\u00f4nego Valad\u00e3o, 1667 - Gopouva, Guarulhos - SP, 07040-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.478391",
+          "refe_longitude": "-46.544976"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Maria C\u00e2ndida, 2140 - Vila Guilherme, S\u00e3o Paulo - SP, 02071-003, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.509525",
+          "refe_longitude": "-46.595632"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Roland Garros, 2246, Parque Edu Chaves, Sao Paulo - SP 02235-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.476319",
+          "refe_longitude": "-46.567147"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. J\u00falio Buono, 2268 - Vila Gustavo, S\u00e3o Paulo - SP, 02201-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.481617",
+          "refe_longitude": "-46.587810"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 Artur Nova, 626 - Parque Paulistano, S\u00e3o Paulo - SP, 08090-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.487909",
+          "refe_longitude": "-46.436325"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. J\u00falio Buono, 2268 - Vila Gustavo, S\u00e3o Paulo - SP, 02201-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.481617",
+          "refe_longitude": "-46.587810"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Cl\u00e1udio Augusto Fernandes, 542 - Cidade S\u00e3o Mateus, S\u00e3o Paulo - SP, 03962-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.609602",
+          "refe_longitude": "-46.480747"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Sapopemba, 5397 - Vila Guarani(Zona Leste), S\u00e3o Paulo - SP, 03374-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.580679",
+          "refe_longitude": "-46.538473"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Pedro Eug\u00eanio Pereira, 435 - Jardim Sao Judas, Mau\u00e1 - SP, 09361-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.693314",
+          "refe_longitude": "-46.459843"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Raimundo Pereira de Magalh\u00e3es, 11682 - Parada De Taipas, S\u00e3o Paulo - SP, 02984-035, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.440455",
+          "refe_longitude": "-46.720900"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+        "refe_latitude": -23.423712,
+        "refe_longitude": -46.206623
+      },
+      "viag_previsao_inicio": "15/09/2023 07:30:00",
+      "viag_previsao_fim": "15/09/2023 15:29:55"
+    }
+  ]
+}"

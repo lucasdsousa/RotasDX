@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB9J87"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01644452502"
+        }
+      ],
+      "rota_descricao": "ROTA SE03 05/09/2023 ANDERSON ACIOLE RPB-9J87",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 451, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.022536",
+          "refe_longitude": "-37.560074"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 770, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.025647",
+          "refe_longitude": "-37.560543"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 200, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.020538",
+          "refe_longitude": "-37.559977"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jos\u00e9 Gotardo de Lima, 78 - Carira, SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.357192",
+          "refe_longitude": "-37.703655"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 770, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.025647",
+          "refe_longitude": "-37.560543"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, 200, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.020538",
+          "refe_longitude": "-37.559977"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Eucl\u00eddes Paes Mendo\u00e7a, 57, Moita Bonita - SE, 49560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.580476",
+          "refe_longitude": "-37.342788"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Monte Alegre, 504 - Sebasti\u00e3o Lopes da Silva, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.211787",
+          "refe_longitude": "-37.426291"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Ananias Fernandes dos Santos, Canind\u00e9 de S\u00e3o Francisco - SE, 49820-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.660363",
+          "refe_longitude": "-37.790713"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Monte Alegre, 504 - Sebasti\u00e3o Lopes da Silva, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.211787",
+          "refe_longitude": "-37.426291"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Manoel El\u00edgio da Mota, Monte Alegre de Sergipe - SE, 49690-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.023152",
+          "refe_longitude": "-37.560295"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Monte Alegre, 504 - Sebasti\u00e3o Lopes da Silva, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.211787",
+          "refe_longitude": "-37.426291"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Eucl\u00eddes Paes Mendo\u00e7a, 57, Moita Bonita - SE, 49560-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.580476",
+          "refe_longitude": "-37.342788"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Carira, SE, 49550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.356104",
+          "refe_longitude": "-37.702238"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "SE-339, 13602-13630 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.478758",
+          "refe_longitude": "-36.950365"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Sobradinho, 672 - Capela, SE, 49700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.507471",
+          "refe_longitude": "-37.061609"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Nossa Sra. de Lourdes, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.215641",
+          "refe_longitude": "-37.434786"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Padre Jos\u00e9 de Anchieta, Nossa Sra. da Gl\u00f3ria - SE, 49680-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.225005",
+          "refe_longitude": "-37.416008"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "05/09/2023 11:30:00",
+      "viag_previsao_fim": "06/09/2023 09:08:31"
+    }
+  ]
+}"

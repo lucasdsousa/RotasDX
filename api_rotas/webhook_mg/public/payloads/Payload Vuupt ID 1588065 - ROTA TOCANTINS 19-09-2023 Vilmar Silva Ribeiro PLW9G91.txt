@@ -1,0 +1,248 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW9G91"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "00855865369"
+        }
+      ],
+      "rota_descricao": "ROTA TOCANTINS 19/09/2023 Vilmar Silva Ribeiro PLW9G91",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "AV. BRASIL, SN, TREVO DE CHAPADA, CHAPADA DA NATIVIDADE - TOCANTINS 77378-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.619004",
+          "refe_longitude": "-47.861745"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Q. 712 Sul Avenida LO 19, 19 - lt 48 - Plano Diretor Sul, Palmas - TO, 77023-126, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.229730",
+          "refe_longitude": "-48.317465"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Q. 812 Sul Alameda 1, 07 - Lt 03 - Plano Diretor Sul, Palmas - TO, 77023-118, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.230420",
+          "refe_longitude": "-48.314210"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua mestre bento, 2400 - zacarias campelo, Pedro Afonso - TO, 77710-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.986906",
+          "refe_longitude": "-48.170288"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. C\u00f4nego Jo\u00e3o Lima, 380 - Parque Sonhos Dourados, Aragua\u00edna - TO, 77818-842, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.182149",
+          "refe_longitude": "-48.220710"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Tib\u00farcio Jos\u00e9 Dantas, 214 - Lot. Manoel Gomes da Cunha, Aragua\u00edna - TO, 77818-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.184772",
+          "refe_longitude": "-48.221136"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. An\u00edsio Alves Costa, 1271 - Jardim Brasilia, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.714710",
+          "refe_longitude": "-48.412579"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Q. 712 Sul Avenida LO 19, 19 - lt 48 - Plano Diretor Sul, Palmas - TO, 77023-126, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.229730",
+          "refe_longitude": "-48.317465"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Q. 812 Sul Alameda 6, 85 - Plano Diretor Sul, Palmas - TO, 77023-116, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.231019",
+          "refe_longitude": "-48.316701"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Tr\u00eas de Julho, 610 - Porto Imperial, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.734587",
+          "refe_longitude": "-48.407758"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233716",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Q. 712 Sul Avenida LO 19, 19 - lt 48 - Plano Diretor Sul, Palmas - TO, 77023-126, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.229730",
+          "refe_longitude": "-48.317465"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Treze de Mar\u00e7o, 81 - Vila Rosario, Aragua\u00edna - TO, 77823-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.187950",
+          "refe_longitude": "-48.215303"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Q. 212 Sul Rua SR 11, 23 - Lote 13 - Plano Diretor Sul, Palmas - TO, 77020-616, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.194179",
+          "refe_longitude": "-48.302726"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Murilo Braga, N\u00ba 1862 - Centro, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.708140",
+          "refe_longitude": "-48.411574"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av Amazilio Correa C.Neto, Quadra 01, Lote 01 - Res. Camargo, Aragua\u00edna - TO, 77808-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.203994",
+          "refe_longitude": "-48.182382"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Q. 812 Sul Alameda 4, 26 - Arse, Palmas - TO, 77023-136, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.233716",
+          "refe_longitude": "-48.317560"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Tocantins, 10, Pres. Kennedy - TO, 77745-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.528767",
+          "refe_longitude": "-48.509062"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Piau\u00ed, 661-747, Barrol\u00e2ndia - TO, 77665-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.839897",
+          "refe_longitude": "-48.722864"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Bernardo Say\u00e3o, 351 - Vila Cearense, Aragua\u00edna - TO, 77823-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.178847",
+          "refe_longitude": "-48.221512"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "AV. TRANSBRASILIANA AV. TRANSBRASILIANA, 1607, INTERLAGOS, PARA?SO DO TOCANTINS - TOCANTINS 77600-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.164293",
+          "refe_longitude": "-48.881459"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Dois Irm\u00e3os do Tocantins, TO, 77685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.256183",
+          "refe_longitude": "-49.066010"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Cristal\u00e2ndia - TO, 77490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.600977",
+          "refe_longitude": "-49.194349"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Av. Vit\u00f3rino Panta, 1 - Sub Urbano, Lagoa da Confus\u00e3o - TO, 77493-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.796692",
+          "refe_longitude": "-49.630127"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Dois Irm\u00e3os do Tocantins - TO, 77685-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.256891",
+          "refe_longitude": "-49.063059"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Via Anel Vi\u00e1rio, 3543-3575 - Porto Imperial, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.735364",
+          "refe_longitude": "-48.406124"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "R. Dezessete, Peixe - TO, 77460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.038318",
+          "refe_longitude": "-48.540460"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Via Anel Vi\u00e1rio, 3543-3575 - Porto Imperial, Porto Nacional - TO, 77500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.735364",
+          "refe_longitude": "-48.406124"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "AV. JOANA MEDEIROS, 197, CENTRO, PONTE ALTA DO TOCANTINS - TOCANTINS 77590-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.741810",
+          "refe_longitude": "-47.537328"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Av Perimetral, km-35 qd-25 lt-2 Setor Aeroporto CEP: 77490-000, Cristal\u00e2ndia - TO, 77490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.606967",
+          "refe_longitude": "-49.204386"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "19/09/2023 07:00:00",
+      "viag_previsao_fim": "25/09/2023 15:12:22"
+    }
+  ]
+}"

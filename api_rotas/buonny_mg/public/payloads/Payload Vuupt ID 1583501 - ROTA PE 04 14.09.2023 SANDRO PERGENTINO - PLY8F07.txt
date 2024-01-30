@@ -1,0 +1,241 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583501,
+  "numero_liberacao": 1583501,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "SANDRO PERGENTINO BELMIRO",
+    "cpf": "06106721424",
+    "telefone": "+5585981758639",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "PLY8F07"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0025-41",
+    "descricao": "Dunax Lubrificantes LTDA - PE"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "15/09/2023 11:11:08",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "45.505.372/0001-08",
+        "descricao": "E FELIPE CAVALCANTI SILVA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 21:54:21",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2831",
+              "volume": "8",
+              "peso": "161.302"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "09.517.564/0001-70",
+        "descricao": "J R DA SILVA COMERCIO E DISTRIBUICAO DE AUTOPECAS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:57:34",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "11005",
+              "volume": "35",
+              "peso": "717.12"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "30.492.502/0001-48",
+        "descricao": "TOP DIESEL AUTO PECAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:31:48",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3147",
+              "volume": "9",
+              "peso": "164.333"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "20.800.842/0001-35",
+        "descricao": "POSTO SAO JOAO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:37:17",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1200",
+              "volume": "20",
+              "peso": "458"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "14.246.589/0001-17",
+        "descricao": "VENEZA DIESEL CAMINHOES E ONIBUS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:14:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "6899",
+              "volume": "20",
+              "peso": "365.891"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "46.348.545/0002-75",
+        "descricao": "TENORIO TRATORES E SOLUCOES AGRICOLAS LTDA FILIAL 2",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:24:22",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1850",
+              "volume": "5",
+              "peso": "108.981"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "47.361.502/0001-01",
+        "descricao": "FRANCIELE HAYANE OLIVEIRA TORRES",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:25:00",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "749",
+              "volume": "3",
+              "peso": "55.95"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "31.373.494/0001-83",
+        "descricao": "J R DE MIRANDA FERREIRA COMBUSTIVEIS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 05:05:16",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1935",
+              "volume": "5",
+              "peso": "104.001"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "46.364.886/0001-53",
+        "descricao": "AUTO POSTO BIGODAO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 06:43:24",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "824",
+              "volume": "2",
+              "peso": "40.996"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "04.350.598/0001-08",
+        "descricao": "COMBUSTIVEIS RODRIGUES DE FREITAS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 08:32:35",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1985.9",
+              "volume": "5",
+              "peso": "95.861"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "07.535.138/0001-34",
+        "descricao": "L C COMBUSTIVEIS LTDA EPP",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 22:32:01",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "6000",
+              "volume": "100",
+              "peso": "2290"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":"31301810","erros":[]}

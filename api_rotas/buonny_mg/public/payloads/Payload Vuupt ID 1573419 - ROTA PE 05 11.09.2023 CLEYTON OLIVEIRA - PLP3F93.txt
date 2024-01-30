@@ -1,0 +1,260 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002541",
+  "cnpj_embarcador": "05092901002541",
+  "cnpj_transportador": "05092901002541",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573419,
+  "numero_liberacao": 1573419,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Cleyton Oliveira",
+    "cpf": "02813765490",
+    "telefone": null
+  },
+  "veiculos": {
+    "placa": "PLP3F93"
+  },
+  "origem": {
+    "codigo_externo": "05092901002541",
+    "descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+    "latitude": -7.972634,
+    "longitude": -34.922637
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 05:00:00",
+  "data_previsao_fim": "12/09/2023 12:04:44",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10630474000170",
+            "descricao": "JN COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-7.955249",
+            "longitude": "-36.196716",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "13025.6",
+                  "volume": "38",
+                  "peso": "817.004"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "14310670000119",
+            "descricao": "AUTO POSTO CUMARU COMBUSTIVEIS LTDA",
+            "latitude": "-8.056229",
+            "longitude": "-35.707340",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5768.1",
+                  "volume": "16",
+                  "peso": "330.703"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03560941000178",
+            "descricao": "JORGE GOMES MIRANDA DE ARAUJO COMERCIO",
+            "latitude": "-7.950147",
+            "longitude": "-36.209994",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "65090",
+                  "volume": "210",
+                  "peso": "4779.017"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "17312999000107",
+            "descricao": "G. P. DE OLIVEIRA JUNIOR - COMBUSTVEIS",
+            "latitude": "-7.975557",
+            "longitude": "-35.580764",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1167",
+                  "volume": "3",
+                  "peso": "68.102"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35693605000190",
+            "descricao": "OSAEL INACIO DA SILVA LTDA",
+            "latitude": "-7.983468",
+            "longitude": "-36.499793",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2154",
+                  "volume": "6",
+                  "peso": "136.202"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02307838000158",
+            "descricao": "AUTO POSTO PASSIRA LTDA",
+            "latitude": "-7.980019",
+            "longitude": "-35.580935",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1905",
+                  "volume": "5",
+                  "peso": "113.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10630474000170",
+            "descricao": "JN COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-7.955249",
+            "longitude": "-36.196716",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:38:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1366",
+                  "volume": "4",
+                  "peso": "73.57"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09612056000171",
+            "descricao": "COMERCIAL NOSSA SENHORA DE LOURDES GAS LTDA",
+            "latitude": "-8.138378",
+            "longitude": "-35.858975",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:51:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1545",
+                  "volume": "5",
+                  "peso": "113.503"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07343514000199",
+            "descricao": "POSTO NOBERTO LTDA",
+            "latitude": "-7.697285",
+            "longitude": "-35.663479",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:57:48",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2868",
+                  "volume": "12",
+                  "peso": "230.901"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

@@ -1,0 +1,404 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002894",
+  "cnpj_embarcador": "05092901002894",
+  "cnpj_transportador": "05092901002894",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1577265,
+  "numero_liberacao": 1577265,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOEL APARECIDO DA SILVA",
+    "cpf": "45515151836",
+    "telefone": "+5516997048660"
+  },
+  "veiculos": {
+    "placa": "RPB5D15"
+  },
+  "origem": {
+    "codigo_externo": "05092901002894",
+    "descricao": "Estr. Mauro Auricchio, 1505 - Tabo\u00e3o, Mogi das Cruzes - SP, 08772-010, Brasil",
+    "latitude": -23.423712,
+    "longitude": -46.206623
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 06:00:00",
+  "data_previsao_fim": "13/09/2023 12:28:12",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "67226530000123",
+            "descricao": "AUTO POSTO CAJATI LTDA",
+            "latitude": "-24.735138",
+            "longitude": "-48.119090",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:19:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2298.27",
+                  "volume": "8",
+                  "peso": "168.078"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09429412000116",
+            "descricao": "MARIO RIBEIRO GALVAO FILHO",
+            "latitude": "-23.640288",
+            "longitude": "-47.577607",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:32:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "631.8",
+                  "volume": "2",
+                  "peso": "36.355"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "42926198000189",
+            "descricao": "MARIA IZABEL VIANA DIAS",
+            "latitude": "-24.521671",
+            "longitude": "-48.106236",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:22:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1724.1",
+                  "volume": "6",
+                  "peso": "114.424"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "71888309000108",
+            "descricao": "BALILLA DISTRIB DE VEICULOS LTDA",
+            "latitude": "-23.085556",
+            "longitude": "-47.181271",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:43:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3476",
+                  "volume": "1",
+                  "peso": "183.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33253106000156",
+            "descricao": "COPA S.A. COMPANHIA DE OBRAS PARIQUERA ACU",
+            "latitude": "-24.706041",
+            "longitude": "-47.890574",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:28:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5885.8",
+                  "volume": "22",
+                  "peso": "404.82"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44551227000109",
+            "descricao": "RP AUTO CENTER E PECAS LTDA",
+            "latitude": "-22.929121",
+            "longitude": "-47.262783",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:00:44",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "761.76",
+                  "volume": "3",
+                  "peso": "44.969"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21212936000156",
+            "descricao": "AUTO MECANICA E GUINCHOS MILTAO LTDA",
+            "latitude": "-24.493492",
+            "longitude": "-47.838271",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 16:39:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2717.9",
+                  "volume": "11",
+                  "peso": "203.223"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21233195000190",
+            "descricao": "CLEBER VIEIRA TELES",
+            "latitude": "-23.205770",
+            "longitude": "-47.525874",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 20:31:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "737.38",
+                  "volume": "3",
+                  "peso": "47.728"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "41667458000186",
+            "descricao": "ALEJO DISTRIBUIDORA DE PECAS AUTOMOTIVAS LTDA",
+            "latitude": "-23.254704",
+            "longitude": "-47.317389",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:29:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "676.9",
+                  "volume": "3",
+                  "peso": "45.141"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "57202269000178",
+            "descricao": "GF COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
+            "latitude": "-24.391860",
+            "longitude": "-47.927531",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 22:33:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1749.57",
+                  "volume": "7",
+                  "peso": "112.947"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "29277840000188",
+            "descricao": "RAFAEL ESPOSITO PALATA",
+            "latitude": "-23.166028",
+            "longitude": "-47.038624",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 23:52:05",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1162.8",
+                  "volume": "6",
+                  "peso": "111.3"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22969244000110",
+            "descricao": "OZIEL MOTO PECAS LTDA",
+            "latitude": "-23.104158",
+            "longitude": "-47.217044",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 00:38:33",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1578.56",
+                  "volume": "6",
+                  "peso": "113.24"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03683035000160",
+            "descricao": "G E L ICHIHASHI AUTO PECAS E SERVICOS LTDA",
+            "latitude": "-24.290048",
+            "longitude": "-47.176908",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 02:11:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03706187000212",
+            "descricao": "AUTO POSTO POSTAL DE IGUAPE LTDA",
+            "latitude": "-24.741108",
+            "longitude": "-47.538322",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 04:28:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2162.67",
+                  "volume": "11",
+                  "peso": "237.472"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01662846000150",
+            "descricao": "LUIZ ANTONIO DA SILVA PEDRO DE TOLEDO",
+            "latitude": "-24.278950",
+            "longitude": "-47.230510",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 04:45:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4118.9",
+                  "volume": "18",
+                  "peso": "281.316"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

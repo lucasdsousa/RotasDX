@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY2E35"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83944540204"
+        }
+      ],
+      "rota_descricao": "ROTA PA 08 14/09/2023 ANDERSON LEAL RCY2E35",
+      "origem": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Bairro Mirizal, Marituba - PA, 67105-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.365698",
+          "refe_longitude": "-48.335054"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR316, esquina com Rua - Av. D\u00e9bora Calandrine - \u00c1guas Lindas, Ananindeua - PA, 67020-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.381668",
+          "refe_longitude": "-48.399431"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. H, 632 - Conj. Parque Dom Pedro, Itaitinga - CE, 61880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.905589",
+          "refe_longitude": "-38.514209"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Joaquim Dos Anjos, 655 - Planalto Ayrton Senna, Fortaleza - CE, 60760-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.831553",
+          "refe_longitude": "-38.567981"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Senador Fernandes Tavora, 2435, Henrique Jorge, Fortaleza - CE 60510-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.756064",
+          "refe_longitude": "-38.594417"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida A, 1728, Conjunto Ceara, Fortaleza - CE 60533-590, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.776186",
+          "refe_longitude": "-38.606429"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Cel. Virg\u00edlio Nogueira, 930 - Granja Lisboa, Fortaleza - CE, 60540-446, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.791470",
+          "refe_longitude": "-38.609920"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Presidente Costa e Silva, 681 - Mondubim, Fortaleza - CE, 60761-505, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.811963",
+          "refe_longitude": "-38.573480"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Radialista Joao Ramos, 2586, Planalto Airton Senna, Fortaleza - CE 60766-710, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.840111",
+          "refe_longitude": "-38.579252"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Radialista Joao Ramos, 2728, Planalto Airton Senna, Fortaleza - CE 60766-710, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.839636",
+          "refe_longitude": "-38.580976"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Espirito Santo, 117, Pan Americano, Fortaleza - CE 60440-775, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.749902",
+          "refe_longitude": "-38.566176"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Americo Barreira, 835, Democrito Rocha, Fortaleza - CE 60440-093, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.763508",
+          "refe_longitude": "-38.566136"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Vicente Ferrete, 2026 - Canindezinho, Fortaleza - CE, 60346-196, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.824561",
+          "refe_longitude": "-38.610224"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Tabapu\u00e1, Caucaia - CE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.739980",
+          "refe_longitude": "-38.613650"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Coronel Correia, 9, Parque Soledade, Caucaia - CE 61620-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.743342",
+          "refe_longitude": "-38.618248"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. Leticia Marques Cavalcante, 1706 - Capuan, Caucaia - CE, 61615-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.732783",
+          "refe_longitude": "-38.694989"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "BR-116, 9800 - Jangurussu, Fortaleza - CE, 60873-815, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.833792",
+          "refe_longitude": "-38.504137"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Joaquim Pereira de Queir\u00f3s Ou Rodovia Pa-406, 1820, Benevides - PA, 68795-000, Brasil",
+        "refe_latitude": -1.364404,
+        "refe_longitude": -48.271913
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 09:28:07"
+    }
+  ]
+}"

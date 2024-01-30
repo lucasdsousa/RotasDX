@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07246512411"
+        }
+      ],
+      "rota_descricao": "ROTA PB 01 21.09.2023 ANDERSON SOUZA - RCY4A40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Presidente Ranieri Mazilli, 2266, Cristo Redentor, Joao Pessoa - PB 58071-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164969",
+          "refe_longitude": "-34.867465"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Hort\u00eancia Helena Amorim Brito, Cabedelo - PB, 58310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.074827",
+          "refe_longitude": "-34.849284"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Josefa Taveira, 1786 - Mangabeira, Jo\u00e3o Pessoa - PB, 58055-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.177776",
+          "refe_longitude": "-34.840832"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Presidente Ranieri Mazilli, 2266, Cristo Redentor, Joao Pessoa - PB 58071-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.164969",
+          "refe_longitude": "-34.867465"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Getulio Vargas, 398, Centro, Sape - PB 58340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.101240",
+          "refe_longitude": "-35.232827"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Arnobio Maroja, SN, Loteamento Portal do Paraiso, Santa Rita - PB 58300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.149044",
+          "refe_longitude": "-34.970117"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Democrito de Souza Filho, 47, Loteamento Planalto Tibiri II, Santa Rita - PB 58300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.155587",
+          "refe_longitude": "-34.953898"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia PB 073, S/N, Centro, Sape - PB 58340-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.118095",
+          "refe_longitude": "-35.239363"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Feliciano Dourado, 588, Torre, Joao Pessoa - PB 58040-260, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.127118",
+          "refe_longitude": "-34.861494"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Alberto de Brito, 504, Jaguaribe, Joao Pessoa - PB 58015-320, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.129922",
+          "refe_longitude": "-34.875845"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "21/09/2023 16:24:43"
+    }
+  ]
+}"

@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ3E52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09213537409"
+        }
+      ],
+      "rota_descricao": "ROTA PE 06 28.09.2023 MARCIO FELIPE - PLQ3E52",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Nova Maues, 41, Sao Vicente de Paulo, Vitoria de Santo Antao - PE 55606-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119293",
+          "refe_longitude": "-35.317056"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Henrique de Holanda, SN, Maues, Vitoria de Santo Antao - PE 55604-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.121915",
+          "refe_longitude": "-35.332369"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Via Local - Sentido Gravat\u00e1 - Pombos, PE, 55630-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.147238",
+          "refe_longitude": "-35.403005"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 232, SN, Santo Amaro, Bezerros - PE 55660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.248754",
+          "refe_longitude": "-35.760791"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 232, SN, Santo Amaro, Bezerros - PE 55660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.248754",
+          "refe_longitude": "-35.760791"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Encruzilhada de S\u00e3o Jo\u00e3o, Caruaru - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293310",
+          "refe_longitude": "-35.883890"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Encruzilhada de S\u00e3o Jo\u00e3o, Caruaru - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293310",
+          "refe_longitude": "-35.883890"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Jose Faustino Vila Nova, 284, Mauricio de Nassau, Caruaru - PE 55014-725, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.278372",
+          "refe_longitude": "-35.936410"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Le\u00e3o Dourado, 2365 - Caiuca, Caruaru - PE, 55040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286458",
+          "refe_longitude": "-36.001972"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia BR 232, SN, Alto do Rosario, Sao Caitano - PE 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328654",
+          "refe_longitude": "-36.148746"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Professora Esmeralda Barros, 09, Jardim Panorama, Caruaru - PE 55044-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.267766",
+          "refe_longitude": "-35.986510"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Sete de Setembro, 151 - Mani\u00e7oba, S\u00e3o Caetano - PE, 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.249860",
+          "refe_longitude": "-36.087960"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Petronio Tenorio Moura, 4, Vila Anapolis, Pesqueira - PE 55200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.366399",
+          "refe_longitude": "-36.693153"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia BR 232, 02, Distrito Industrial, Sao Caitano - PE 55130-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.332596",
+          "refe_longitude": "-36.139600"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia PE 095, 289, Luiz Gonzaga, Caruaru - PE 55015-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.253947",
+          "refe_longitude": "-35.969315"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia BR 104, SN, Zona Rural, Caruaru - PE 55000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.239472",
+          "refe_longitude": "-35.980700"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia BR 104, SN, Rodovia, Caruaru - PE 55000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.239530",
+          "refe_longitude": "-35.980598"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "R. da Palestina - \u00c1gua Fria, Belo Jardim - PE, 55152-810, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.346720",
+          "refe_longitude": "-36.440000"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida Antonio Paes de Lira, 615, Alto da Boa Vista, Pedra - PE 55280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.502237",
+          "refe_longitude": "-36.934404"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Sitio Estreito, SN, Zona Rural, Tacaimbo - PE 55140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.356301",
+          "refe_longitude": "-36.284775"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rodovia BR 232, S/N, Rodovia, Tacaimbo - PE 55140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.333289",
+          "refe_longitude": "-36.279410"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "28/09/2023 05:00:00",
+      "viag_previsao_fim": "29/09/2023 15:34:00"
+    }
+  ]
+}"

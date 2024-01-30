@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCQ3J66"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "04061219405"
+        }
+      ],
+      "rota_descricao": "ROTA RN CHAPADA DO APODI  21/09/2023  FRANCISCO ALCIMAR  RCQ-3J66",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Jos\u00e9 da Penha, RN, 59980-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.318016",
+          "refe_longitude": "-38.285392"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Carloto Fernandes T\u00e1vora, 1116, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.119129",
+          "refe_longitude": "-38.205877"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Julieta Fernandes - Beira do RIO, Ten. Ananias - RN, 59955-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.468050",
+          "refe_longitude": "-38.178647"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Rodolfo Fernandes, 89 - Cara\u00fabas, RN, 59780-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.793490",
+          "refe_longitude": "-37.558370"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Manoel Alexandre, 933 - Princesinha do Oeste, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.126591",
+          "refe_longitude": "-38.206331"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Ant\u00f4nio de Castro, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.105108",
+          "refe_longitude": "-38.208869"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. da Independ\u00eancia, 1971, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.117819",
+          "refe_longitude": "-38.206549"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Manoel de Freitas, 55 - A Definir, Portalegre - RN, 59810-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.025492",
+          "refe_longitude": "-37.988894"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Maria Henrique da Silva, Patu - RN, 59770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.101255",
+          "refe_longitude": "-37.639084"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Joaquim Teixeira de Moura, 1759, Apodi - RN, 59700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.643068",
+          "refe_longitude": "-37.799954"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Tiburtino Teixeira, 72, Patu - RN, 59770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.108878",
+          "refe_longitude": "-37.636986"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Hip\u00f3lito Cassiano, 743 - Sao Judas Tadeu, Pau dos Ferros - RN, 59900-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.113372",
+          "refe_longitude": "-38.207598"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Tiburtino Teixeira, 72, Patu - RN, 59770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.108878",
+          "refe_longitude": "-37.636986"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "RN-233, Para\u00fa - RN, 59660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.784798",
+          "refe_longitude": "-37.117031"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Lucr\u00e9cia, RN, 59805-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.116246",
+          "refe_longitude": "-37.812694"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "RN-117, 1185 - Bom Jesus, Mossor\u00f3 - RN, 59609, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.228108",
+          "refe_longitude": "-37.369831"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Patu, RN, 59770-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.108550",
+          "refe_longitude": "-37.636264"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "22/09/2023 04:48:57"
+    }
+  ]
+}"

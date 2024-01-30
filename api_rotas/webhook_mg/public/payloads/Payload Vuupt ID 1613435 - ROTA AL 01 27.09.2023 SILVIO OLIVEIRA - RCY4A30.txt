@@ -1,0 +1,136 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10925404403"
+        }
+      ],
+      "rota_descricao": "ROTA AL 01 27.09.2023 SILVIO OLIVEIRA - RCY4A30",
+      "origem": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua General Hermes, 719, Bom Parto, Maceio - AL 57017-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.653651",
+          "refe_longitude": "-35.740944"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Eng Paulo Brandao Nogueira, 13, Jatiuca, Maceio - AL 57036-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.649164",
+          "refe_longitude": "-35.705233"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Dona Constan\u00e7a de G\u00f3es Monteiro, 195 - Jati\u00faca, Macei\u00f3 - AL, 57036-370, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.655934",
+          "refe_longitude": "-35.721598"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Eng Paulo Brandao Nogueira, 13, Jatiuca, Maceio - AL 57036-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.649164",
+          "refe_longitude": "-35.705233"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Sen. Rui Palmeira, 148 - Bom Parto, Macei\u00f3 - AL, 57017-231, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.654795",
+          "refe_longitude": "-35.742304"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Formosa, 1985, Ponta Grossa, Maceio - AL 57014-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.663807",
+          "refe_longitude": "-35.755938"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia Divaldo Suruagy, SN, Distrito Industrial, Marechal Deodoro - AL 57160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.670984",
+          "refe_longitude": "-35.832537"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Santo Antonio, 18, Ponta Grossa, Maceio - AL 57014-680, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.660515",
+          "refe_longitude": "-35.750903"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Juca Sampaio, 92, Jacintinho, Maceio - AL 57040-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.635600",
+          "refe_longitude": "-35.715390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Roberto Simonsen, 956, Gruta de Lourdes, Maceio - AL 57052-606, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.621939",
+          "refe_longitude": "-35.730259"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua T, 961, Cidade Universitaria, Maceio - AL 57081-385, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.563647",
+          "refe_longitude": "-35.752978"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BR 101, SN, Zona Urbana, Messias - AL 57990-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.331410",
+          "refe_longitude": "-35.829031"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Dr Durval Goes Mont, S/N, Tabuleiro dos Martins - Corrigir nao usar, Maceio - AL 57080-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.585309",
+          "refe_longitude": "-35.763793"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Belo Horizonte, 263, Benedito Bentes, Maceio - AL 57084-787, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-9.550886",
+          "refe_longitude": "-35.731416"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Durval de G\u00f3es Monteiro - Tabuleiro do Martins, Macei\u00f3 - AL, 57045-000, Brasil",
+        "refe_latitude": -9.593269,
+        "refe_longitude": -35.755204
+      },
+      "viag_previsao_inicio": "27/09/2023 05:00:00",
+      "viag_previsao_fim": "27/09/2023 16:08:49"
+    }
+  ]
+}"

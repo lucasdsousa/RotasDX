@@ -1,0 +1,860 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1574898,
+  "numero_liberacao": 1574898,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "REGINALDO FERREIRA DE BRITO",
+    "cpf": "03880449694",
+    "telefone": "+5531998114621"
+  },
+  "veiculos": {
+    "placa": "QTZ3F16"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:00:00",
+  "data_previsao_fim": "15/09/2023 15:02:12",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "45386710000130",
+            "descricao": "AUTO POSTO PROCOPIO LTDA",
+            "latitude": "-18.768500",
+            "longitude": "-42.927900",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1025.3",
+                  "volume": "4",
+                  "peso": "67.823"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35039362000170",
+            "descricao": "MAIS REAL AUTOPECAS EIRELI",
+            "latitude": "-17.701514",
+            "longitude": "-42.519654",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "815.76",
+                  "volume": "2",
+                  "peso": "47.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03791171000255",
+            "descricao": "POSTO AGUIAR & AGUIAR LTDA",
+            "latitude": "-18.666636",
+            "longitude": "-43.081148",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "184.85",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33745426000123",
+            "descricao": "MARIA JANETE ALVES RIBEIRO",
+            "latitude": "-16.801893",
+            "longitude": "-42.332454",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "369.68",
+                  "volume": "2",
+                  "peso": "14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20658534000117",
+            "descricao": "PETROJOIA COMBUSTIVEIS LTDA",
+            "latitude": "-17.293423",
+            "longitude": "-42.712368",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:42:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6391",
+                  "volume": "30",
+                  "peso": "561"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09553939000158",
+            "descricao": "RR COMERCIO E PRESTACAO DE SERVICO LTDA",
+            "latitude": "-18.769415",
+            "longitude": "-42.928994",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 21:20:51",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4570.46",
+                  "volume": "22",
+                  "peso": "416.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19388008000103",
+            "descricao": "POSTO FERRENSE LTDA",
+            "latitude": "-19.227610",
+            "longitude": "-43.019110",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:23:17",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1280",
+                  "volume": "20",
+                  "peso": "458"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39767709000152",
+            "descricao": "WILTON FERREIRA PECAS E COMPONENTES AUTOMOTIVOS",
+            "latitude": "-18.237560",
+            "longitude": "-43.595790",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:09:47",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "187.25",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "29559893000191",
+            "descricao": "EDUARDO DOS SANTOS GODINHO",
+            "latitude": "-18.181606",
+            "longitude": "-42.419355",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:35:02",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "168",
+                  "volume": "1",
+                  "peso": "11.22"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11342754000146",
+            "descricao": "BETO PECAS TRATORES LTDA",
+            "latitude": "-17.702159",
+            "longitude": "-42.512675",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:07:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "623.1",
+                  "volume": "2",
+                  "peso": "42.078"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "15703948000180",
+            "descricao": "ADILSON CORDEIRO DE SOUSA OFICINA",
+            "latitude": "-17.703282",
+            "longitude": "-42.516137",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:14:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7353.4",
+                  "volume": "24",
+                  "peso": "443.738"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08647854000257",
+            "descricao": "CELESTINO FERREIRA ANICIO",
+            "latitude": "-18.086855",
+            "longitude": "-42.572398",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:00:30",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3890.98",
+                  "volume": "20",
+                  "peso": "407.191"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07546035000170",
+            "descricao": "IVANIA ROQUE DE OLIVEIRA",
+            "latitude": "-18.794486",
+            "longitude": "-42.613326",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 12:08:22",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1034.16",
+                  "volume": "4",
+                  "peso": "75.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31904403000199",
+            "descricao": "POSTO FENIX SAO JOAO LTDA",
+            "latitude": "-18.547948",
+            "longitude": "-42.765242",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 13:09:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5045.27",
+                  "volume": "18",
+                  "peso": "376.204"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "31898127000101",
+            "descricao": "AURELIANA GONCALVES DA SILVA",
+            "latitude": "-18.826786",
+            "longitude": "-42.717363",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 15:30:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "696.71",
+                  "volume": "2",
+                  "peso": "46.601"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "66342833000149",
+            "descricao": "POSTO PARAGOMINAS LTDA",
+            "latitude": "-18.769378",
+            "longitude": "-42.929073",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 15:38:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "188.16",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21388574000159",
+            "descricao": "POSTO VILA ESPERANCA LTDA",
+            "latitude": "-19.066637",
+            "longitude": "-43.031558",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 16:08:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2104.13",
+                  "volume": "1",
+                  "peso": "182.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22371038000103",
+            "descricao": "RAFAEL RIBEIRO DE SOUZA",
+            "latitude": "-18.241370",
+            "longitude": "-43.595029",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 16:25:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "371.44",
+                  "volume": "2",
+                  "peso": "22.44"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10499946000106",
+            "descricao": "PRL TRANSPORTES E COMERCIO DE MINERAIS LTDA",
+            "latitude": "-18.637930",
+            "longitude": "-44.043070",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 17:53:19",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "0"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38096367000123",
+            "descricao": "ATACAREJO NEW MOTOS LTDA",
+            "latitude": "-18.535650",
+            "longitude": "-42.745892",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 20:45:43",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7647.46",
+                  "volume": "29",
+                  "peso": "626.715"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09589224000155",
+            "descricao": "MARCIO FERREIRA DE ANICIO E CIA LTDA",
+            "latitude": "-18.364190",
+            "longitude": "-42.600980",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 22:07:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3236.35",
+                  "volume": "26",
+                  "peso": "584.18"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19970636000194",
+            "descricao": "COMERCIO DE COMBUSTIVEIS COELHO NEVES LTDA",
+            "latitude": "-18.240827",
+            "longitude": "-43.627802",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 11:03:00",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "157.08",
+                  "volume": "4",
+                  "peso": "48"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "20372734000109",
+            "descricao": "AILTON FERREIRA OLIVEIRA E CIA LTDA",
+            "latitude": "-16.619651",
+            "longitude": "-42.187052",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 11:10:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "215.22",
+                  "volume": "1",
+                  "peso": "18.178"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39767709000152",
+            "descricao": "WILTON FERREIRA PECAS E COMPONENTES AUTOMOTIVOS",
+            "latitude": "-18.237560",
+            "longitude": "-43.595790",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 12:42:40",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "184.85",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08045826000189",
+            "descricao": "ORGANIZACAO BARBOSA ANTUNES LTDA",
+            "latitude": "-16.849243",
+            "longitude": "-42.054618",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 18:12:50",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2040",
+                  "volume": "30",
+                  "peso": "687"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08751930000199",
+            "descricao": "ATILA LUCIANO BORGES DA CRUZ",
+            "latitude": "-18.292994",
+            "longitude": "-43.010002",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 19:59:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "189.65",
+                  "volume": "1",
+                  "peso": "7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04007660000155",
+            "descricao": "EULER COUTO",
+            "latitude": "-16.855641",
+            "longitude": "-42.066130",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 20:11:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1524.78",
+                  "volume": "5",
+                  "peso": "96.176"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05152825000145",
+            "descricao": "VRS AUTO PECAS LTDA",
+            "latitude": "-18.238859",
+            "longitude": "-43.610476",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 20:23:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5381.69",
+                  "volume": "20",
+                  "peso": "365.89"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02994871000101",
+            "descricao": "COMERCIO DE COMBUSTIVEIS COELHO E VALE LTDA.",
+            "latitude": "-18.239462",
+            "longitude": "-43.618721",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 20:37:16",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "501.6",
+                  "volume": "3",
+                  "peso": "29.254"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "35039362000170",
+            "descricao": "MAIS REAL AUTOPECAS EIRELI",
+            "latitude": "-17.701514",
+            "longitude": "-42.519654",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 20:55:34",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2339.82",
+                  "volume": "8",
+                  "peso": "158.624"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "39767709000152",
+            "descricao": "WILTON FERREIRA PECAS E COMPONENTES AUTOMOTIVOS",
+            "latitude": "-18.237560",
+            "longitude": "-43.595790",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-14 21:03:46",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "275.48",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48650202000105",
+            "descricao": "CARMEN MARIA FERREIRA",
+            "latitude": "-18.000944",
+            "longitude": "-43.379291",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 11:06:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2540.86",
+                  "volume": "10",
+                  "peso": "182.413"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "04007660000155",
+            "descricao": "EULER COUTO",
+            "latitude": "-16.855641",
+            "longitude": "-42.066130",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 11:36:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1238.6",
+                  "volume": "5",
+                  "peso": "94.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19970636000194",
+            "descricao": "COMERCIO DE COMBUSTIVEIS COELHO NEVES LTDA",
+            "latitude": "-18.240827",
+            "longitude": "-43.627802",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-15 13:41:41",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "830.21",
+                  "volume": "3",
+                  "peso": "54.663"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

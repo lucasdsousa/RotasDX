@@ -1,0 +1,428 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901000760",
+  "cnpj_embarcador": "05092901000760",
+  "cnpj_transportador": "05092901000760",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1573608,
+  "numero_liberacao": 1573608,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "MELQUISEDEQUE DA FONSECA SILVA",
+    "cpf": "05633177444",
+    "telefone": "+5583998250867"
+  },
+  "veiculos": {
+    "placa": "PLW4I34"
+  },
+  "origem": {
+    "codigo_externo": "05092901000760",
+    "descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+    "latitude": -7.17952,
+    "longitude": -34.902323
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 05:00:00",
+  "data_previsao_fim": "14/09/2023 13:21:38",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09533651000111",
+            "descricao": "VILA ESPERANCA COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-8.093916",
+            "longitude": "-35.034298",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3707",
+                  "volume": "13",
+                  "peso": "241.663"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23635749000100",
+            "descricao": "M R COMERCIO DE PECAS E SERVICOS LTDA",
+            "latitude": "-8.125229",
+            "longitude": "-34.915285",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3570",
+                  "volume": "14",
+                  "peso": "258.678"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08428004000187",
+            "descricao": "LBR LUBRIFICANTES LTDA",
+            "latitude": "-8.030869",
+            "longitude": "-34.923419",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "15550",
+                  "volume": "50",
+                  "peso": "1135.028"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "41070889000160",
+            "descricao": "TRANSPORTES E SERVICOS ASTRO LTDA",
+            "latitude": "-8.084336",
+            "longitude": "-34.926736",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:55:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1526",
+                  "volume": "5",
+                  "peso": "92.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02186341000129",
+            "descricao": "MONTEIRO PECAS COMERCIO E SERVICOS PARA VEICULOS EIRELI",
+            "latitude": "-7.214792",
+            "longitude": "-35.888650",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 14:08:55",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "55500",
+                  "volume": "300",
+                  "peso": "5565"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24291897000118",
+            "descricao": "K F DE ALMEIDA COMERCIO DE PECAS EIRELI ME",
+            "latitude": "-6.597067",
+            "longitude": "-37.624401",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 15:54:12",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4290",
+                  "volume": "14",
+                  "peso": "230.945"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13431553000140",
+            "descricao": "CARREIROS AUTO PECAS LTDA",
+            "latitude": "-6.337683",
+            "longitude": "-37.743786",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 18:58:25",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "8995",
+                  "volume": "25",
+                  "peso": "545.156"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "09351925000151",
+            "descricao": "FRANCISCO DE ASSIS GARCIA DO NASCIMENTO",
+            "latitude": "-7.057589",
+            "longitude": "-36.362571",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 21:35:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "14955",
+                  "volume": "93",
+                  "peso": "1918.604"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "05411068000187",
+            "descricao": "ALMEIDA E LEITE COMBUSTIVEIS LTDA",
+            "latitude": "-7.042506",
+            "longitude": "-37.277047",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:13:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "408",
+                  "volume": "2",
+                  "peso": "14"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24054291000169",
+            "descricao": "CICERO MENDES MEIRA ME",
+            "latitude": "-6.811978",
+            "longitude": "-38.309391",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:59:57",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6500",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03357949000131",
+            "descricao": "ANTONIO BENEVENUTO DE ALENCAR",
+            "latitude": "-6.518414",
+            "longitude": "-38.407018",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 17:39:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6847.5",
+                  "volume": "20",
+                  "peso": "389.807"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24054291000169",
+            "descricao": "CICERO MENDES MEIRA ME",
+            "latitude": "-6.811978",
+            "longitude": "-38.309391",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:17:23",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2150",
+                  "volume": "1",
+                  "peso": "182.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24981560000132",
+            "descricao": "RIVALDO HENRIQUES DA SILVA",
+            "latitude": "-7.737472",
+            "longitude": "-37.993325",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:40:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1049",
+                  "volume": "3",
+                  "peso": "46.701"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "70122734000129",
+            "descricao": "MEGA ENGENHARIA LTDA",
+            "latitude": "-6.896163",
+            "longitude": "-38.533818",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:28:44",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1671",
+                  "volume": "5",
+                  "peso": "91.71"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "13307441000182",
+            "descricao": "POSTO DE COMBUSTVEIS VIP LTDA",
+            "latitude": "-6.891854",
+            "longitude": "-38.574045",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:04:44",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "783",
+                  "volume": "4",
+                  "peso": "40.941"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08797573000108",
+            "descricao": "PATAMUTE COMERCIO DE COMBUSTIVEL LTDA",
+            "latitude": "-6.899117",
+            "longitude": "-38.515149",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-13 17:19:29",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3790",
+                  "volume": "30",
+                  "peso": "643.5"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

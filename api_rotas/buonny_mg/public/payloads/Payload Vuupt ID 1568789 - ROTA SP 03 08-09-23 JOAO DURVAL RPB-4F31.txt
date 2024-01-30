@@ -1,0 +1,148 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002703",
+  "cnpj_embarcador": "05092901002703",
+  "cnpj_transportador": "05092901002703",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1568789,
+  "numero_liberacao": 1568789,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO DURVAL DOS SANTOS",
+    "cpf": "34764656833",
+    "telefone": "+5516996330283"
+  },
+  "veiculos": {
+    "placa": "RPB4F31"
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+    "latitude": -21.041428,
+    "longitude": -47.812349
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 06:00:00",
+  "data_previsao_fim": "08/09/2023 18:56:23",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02718474000107",
+            "descricao": "AUTO POSTO MORAES E MORAES LTDA",
+            "logradouro": "R. Jos\u00e9 Volpato",
+            "numero": "0",
+            "latitude": "-22.751671",
+            "longitude": "-47.259139",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 12:28:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1881.6",
+                  "volume": "7",
+                  "peso": "148.203"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "60369576000152",
+            "descricao": "HORTOPECAS COMERCIO DE PECAS LTDA",
+            "logradouro": "Rua Orlando Geraldelli",
+            "numero": "0",
+            "latitude": "-22.894532",
+            "longitude": "-47.178738",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:13:26",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1281.6",
+                  "volume": "4",
+                  "peso": "92.002"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01896231000198",
+            "descricao": "AUTO POSTO VILA FATIMA LTDA",
+            "logradouro": "Avenida Brasilia",
+            "numero": "0",
+            "latitude": "-22.692572",
+            "longitude": "-47.661660",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 13:49:24",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1257.6",
+                  "volume": "4",
+                  "peso": "90.802"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "28482717000136",
+            "descricao": "AUTO PECAS E ACESSORIOS RRV PIRACICABA LTDA",
+            "logradouro": "Avenida Raposo Tavares",
+            "numero": "0",
+            "latitude": "-22.750656",
+            "longitude": "-47.652534",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 14:34:49",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1656",
+                  "volume": "6",
+                  "peso": "136.2"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

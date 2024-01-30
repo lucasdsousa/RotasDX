@@ -1,0 +1,452 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002703",
+  "cnpj_embarcador": "05092901002703",
+  "cnpj_transportador": "05092901002703",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572884,
+  "numero_liberacao": 1572884,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "JOAO DURVAL DOS SANTOS",
+    "cpf": "34764656833",
+    "telefone": "+5516996330283"
+  },
+  "veiculos": {
+    "placa": "RPB4F31"
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+    "latitude": -21.041428,
+    "longitude": -47.812349
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 07:45:00",
+  "data_previsao_fim": "12/09/2023 04:54:00",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46249565000108",
+            "descricao": "LUBRISHOW LUBRIFICANTES LTDA",
+            "latitude": "-21.147698",
+            "longitude": "-47.787235",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "928.8",
+                  "volume": "3",
+                  "peso": "68.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46249565000108",
+            "descricao": "LUBRISHOW LUBRIFICANTES LTDA",
+            "latitude": "-21.147698",
+            "longitude": "-47.787235",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2723.7",
+                  "volume": "13",
+                  "peso": "171.842"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18663742000162",
+            "descricao": "SOCOPETRO COMBUSTIVEIS LTDA",
+            "latitude": "-22.592707",
+            "longitude": "-46.527439",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "777.64",
+                  "volume": "4",
+                  "peso": "39.29"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07099618000108",
+            "descricao": "LGP TRANSPORTES LTDA",
+            "latitude": "-21.482175",
+            "longitude": "-47.355730",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "599.74",
+                  "volume": "2",
+                  "peso": "37.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03901280000105",
+            "descricao": "EDINALDO MARINHO DOS SANTOS",
+            "latitude": "-8.268392",
+            "longitude": "-35.979122",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "12230",
+                  "volume": "60",
+                  "peso": "1109.275"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "12921718000108",
+            "descricao": "TTT COMERCIO DE PETROLEO LTDA",
+            "latitude": "-8.327561",
+            "longitude": "-35.709431",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1745",
+                  "volume": "5",
+                  "peso": "118.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22200772000371",
+            "descricao": "R L C COMBUSTIVEIS EIRELI FILIAL 3",
+            "latitude": "-8.328654",
+            "longitude": "-36.148746",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4725",
+                  "volume": "13",
+                  "peso": "240.286"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "10928726000142",
+            "descricao": "DOKAPACK INDUSTRIA E COMERCIO DE EMBALAGENS LTDA",
+            "latitude": "-8.298968",
+            "longitude": "-36.010813",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1752",
+                  "volume": "24",
+                  "peso": "549.6"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "40864099001166",
+            "descricao": "TRANSVALE CARUARU COMERCIO DE COMBUSTIVEIS LTDA FILAIL 11",
+            "latitude": "-7.535600",
+            "longitude": "-36.006475",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1347",
+                  "volume": "3",
+                  "peso": "71.7"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "29889582000190",
+            "descricao": "CICERO GOMES DA SILVA EIRELI",
+            "latitude": "-8.502237",
+            "longitude": "-36.934404",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6000",
+                  "volume": "100",
+                  "peso": "2290"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "01935260000111",
+            "descricao": "AUTO PECAS KYARA LTDA",
+            "latitude": "-8.520939",
+            "longitude": "-36.444211",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4573.5",
+                  "volume": "15",
+                  "peso": "340.508"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "32563782000163",
+            "descricao": "WESLEY FELIPE DE ASSIS FERREIRA",
+            "latitude": "-8.346720",
+            "longitude": "-36.440000",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:22:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3288",
+                  "volume": "27",
+                  "peso": "589.897"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "38169956000194",
+            "descricao": "JOSE ADEILDO DA SILVA LTDA",
+            "latitude": "-8.270646",
+            "longitude": "-35.980704",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 20:52:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3210",
+                  "volume": "10",
+                  "peso": "204.653"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19130324000172",
+            "descricao": "AUTO POSTO ARIMATEIA LTDA",
+            "latitude": "-8.356301",
+            "longitude": "-36.284775",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 21:46:58",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1800",
+                  "volume": "30",
+                  "peso": "687"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22200772000371",
+            "descricao": "R L C COMBUSTIVEIS EIRELI FILIAL 3",
+            "latitude": "-8.328654",
+            "longitude": "-36.148746",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:57:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "864",
+                  "volume": "4",
+                  "peso": "74.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "03901280000105",
+            "descricao": "EDINALDO MARINHO DOS SANTOS",
+            "latitude": "-8.268392",
+            "longitude": "-35.979122",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:07:13",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "11880",
+                  "volume": "60",
+                  "peso": "1113"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26605818000121",
+            "descricao": "AVELINO & CINTRA COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-8.362320",
+            "longitude": "-36.560448",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:11:36",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3464",
+                  "volume": "11",
+                  "peso": "204.383"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

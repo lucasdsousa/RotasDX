@@ -1,0 +1,199 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4F31"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "34764656833"
+        }
+      ],
+      "rota_descricao": "ROTA SP 04 28/08/2023 JOAO DURVAL RPB-4F31",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Santos Reis, 281 - Centro, Taciba - SP, 19590-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.386643",
+          "refe_longitude": "-51.285092"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Pres. Vargas, 229 - Vila Nova, Rancharia - SP, 19600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.226824",
+          "refe_longitude": "-50.882527"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Fernando Costa, 107 - Centro, \u00c1lvares Machado - SP, 19160-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.077373",
+          "refe_longitude": "-51.472908"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. Pres. Get\u00falio Vargas, 160 - Jardim Tokio, Pen\u00e1polis - SP, 16300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.415343",
+          "refe_longitude": "-50.093946"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Campestre, 380 - Vila Formosa, Pres. Prudente - SP, 19013-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.146445",
+          "refe_longitude": "-51.391310"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Jardim Bongiovani, Pres. Prudente - SP, 19050-350, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.139796",
+          "refe_longitude": "-51.399555"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. Henrique Dias, 1287 - Conunto Hab. Padre Paulo Carlos Khun, Rancharia - SP, 19600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.231224",
+          "refe_longitude": "-50.894230"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "QGP9+23M, Ara\u00e7atuba - SP, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.214910",
+          "refe_longitude": "-50.482330"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Leonildo Denari, 82 - Pres. Bernardes, SP, 19300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.012708",
+          "refe_longitude": "-51.553066"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ribeiro de Barros, 577 - Centro, Birigui - SP, 16200-071, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.297341",
+          "refe_longitude": "-50.338856"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Ezequiel Barbosa, 20 - Conj. Hab. Dr. Antonio Villela Silva, Ara\u00e7atuba - SP, 16057-675, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.173944",
+          "refe_longitude": "-50.451305"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Cuiaba, 2134, Centro, Teodoro Sampaio - SP 19280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.525831",
+          "refe_longitude": "-52.157123"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Jos\u00e9 Wilibaldo de Freitas, 440 - Centro, Novo Horizonte - SP, 14960-076, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.463685",
+          "refe_longitude": "-49.219244"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Jos\u00e9 Wilibaldo de Freitas, 440 - Centro, Novo Horizonte - SP, 14960-076, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.463685",
+          "refe_longitude": "-49.219244"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Valpara\u00edso - SP, 16880-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.224624",
+          "refe_longitude": "-50.865673"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Jos\u00e9 Masson, 3041 - Res. Atenas, Birigui - SP, 16201-208, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.276995",
+          "refe_longitude": "-50.329670"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Euclides Miragaia, 2226 - Jardim Jussara Maria, Birigui - SP, 16204-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.302167",
+          "refe_longitude": "-50.348466"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Jo\u00e3o Perticarrari, 98 - Alvorada, Sert\u00e3ozinho - SP, 14170-495, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.146085",
+          "refe_longitude": "-47.997607"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Bras\u00edlia, 1358 - Vila Sao Paulo, Ara\u00e7atuba - SP, 16015-645, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.219010",
+          "refe_longitude": "-50.437882"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Dr. Jos\u00e9 Foz, 1916 - Vila Sao Jorge, Pres. Prudente - SP, 19013-011, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.135824",
+          "refe_longitude": "-51.390987"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rua Vivaldo Nogueira de Aguiar, 118, Residencial Santo Expedito I, Presidente Prudente - SP 19029-091, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.073831",
+          "refe_longitude": "-51.406629"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Avenida Raymundo Nonato Lima, 410, Conj Hab Ana Jacinta, Presidente Prudente - SP 19064-245, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-22.155712",
+          "refe_longitude": "-51.453039"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Felipe dos Santos, 501, Piacatu - SP, 16230-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.594829",
+          "refe_longitude": "-50.598821"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "18/09/2023 07:45:00",
+      "viag_previsao_fim": "21/09/2023 13:47:47"
+    }
+  ]
+}"

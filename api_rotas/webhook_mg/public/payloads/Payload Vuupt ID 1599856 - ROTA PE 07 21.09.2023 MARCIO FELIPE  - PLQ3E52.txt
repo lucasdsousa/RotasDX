@@ -1,0 +1,178 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLQ3E52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "09213537409"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 21.09.2023 MARCIO FELIPE  - PLQ3E52",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Gamela de Ouro, 18, Bela Vista, Vitoria de Santo Antao - PE 55608-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.111969",
+          "refe_longitude": "-35.294103"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Princesa Isabel, 352, Sao Sebastiao, Bezerros - PE 55660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.243718",
+          "refe_longitude": "-35.754832"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Henrique de Holanda, 1800, Livramento, Vitoria de Santo Antao - PE 55600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.117653",
+          "refe_longitude": "-35.299849"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Victor Caetano de Deus, 36, Governador Miguel Arraes, Cha Grande - PE 55636-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.237787",
+          "refe_longitude": "-35.460298"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Cachoeirinha, Vit\u00f3ria de Santo Ant\u00e3o - PE",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.225050",
+          "refe_longitude": "-35.276540"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Projetada 01, 77, Loteamento Onaci Souto Andrade, Saire - PE 55695-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.309645",
+          "refe_longitude": "-35.675145"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Major Aprigio da Fonseca, 244, Sao Sebastiao, Bezerros - PE 55660-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.237520",
+          "refe_longitude": "-35.741767"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Encruzilhada de S\u00e3o Jo\u00e3o, Caruaru - PE, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.293310",
+          "refe_longitude": "-35.883890"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Nova Maues, 41, Sao Vicente de Paulo, Vitoria de Santo Antao - PE 55606-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.119293",
+          "refe_longitude": "-35.317056"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Licio Neves, 667, Kennedy, Caruaru - PE 55036-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.269109",
+          "refe_longitude": "-35.990321"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Jose de Alencar, 50, Nossa Senhora das Dores, Caruaru - PE 55002-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.287835",
+          "refe_longitude": "-35.966609"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia BR 104, S/N, Zona Rural, Caruaru - PE 55000-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.162939",
+          "refe_longitude": "-35.980922"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Le\u00e3o Dourado, 2365 - Caiuca, Caruaru - PE, 55040, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.286458",
+          "refe_longitude": "-36.001972"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Campina Grande, 1607, Caiuca, Caruaru - PE 55034-630, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.268392",
+          "refe_longitude": "-35.979122"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Independencia, 1330, Kennedy, Caruaru - PE 55036-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.285672",
+          "refe_longitude": "-35.996227"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Independencia, 1330, Kennedy, Caruaru - PE 55036-180, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.285672",
+          "refe_longitude": "-35.996227"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Conego Julio Cabral, 318, Universitario, Caruaru - PE 55016-585, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.274703",
+          "refe_longitude": "-35.965508"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rodovia PE 180, 11, Rodovia, Sao Bento do Una - PE 55370-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.524231",
+          "refe_longitude": "-36.436418"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "BR-232, 1090 - Caruaru, PE, 55034-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.300129",
+          "refe_longitude": "-35.988589"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rua Barao de Cimbres, 97, Sao Sebastiao, Pesqueira - PE 55200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.358668",
+          "refe_longitude": "-36.696892"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "21/09/2023 05:00:00",
+      "viag_previsao_fim": "22/09/2023 16:50:29"
+    }
+  ]
+}"

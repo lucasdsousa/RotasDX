@@ -1,0 +1,129 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO4F30"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "05585984802"
+        }
+      ],
+      "rota_descricao": "ROTA BA01 06/09/2023 JOAO CUNHA PLO-4F30",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Papa Joao XXIII, 1606, Tomba, Feira de Santana - BA, 44090-652, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.282873",
+          "refe_longitude": "-38.957565"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Praca Da Republica, 100, Centro, Feira de Santana - BA, 44001-784, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.259914",
+          "refe_longitude": "-38.963189"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Governador Joao Durval Carneiro, 416 - Brasilia, Feira de Santana - BA, 44088714, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.269595",
+          "refe_longitude": "-38.954292"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Sao Jose, 132, Centro, Feira de Santana - BA 44002-392, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.248472",
+          "refe_longitude": "-38.965879"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Baneb, 133, Cis, Feira de Santana - BA 44010-820, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.301249",
+          "refe_longitude": "-38.959028"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Praca Da Bandeira, 22 - Centro, Coracao de Maria - BA, 44250000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.249731",
+          "refe_longitude": "-38.749168"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Jose Botelho, 354, Centro, Santo Estevao - BA 44190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.438013",
+          "refe_longitude": "-39.253022"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Luis Eduardo Magalhaes, 1095 - Humildes, Feira de Santana - BA, 44135000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.312850",
+          "refe_longitude": "-38.889535"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Jose Botelho, 354, Centro, Santo Estevao - BA 44190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.438013",
+          "refe_longitude": "-39.253022"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Sao Jose, 465, Barauna, Feira de Santana - BA, 44020-025, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.245697",
+          "refe_longitude": "-38.965135"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Palmeira dos Indios, SN - Lagoa Salgada, Feira de Santana - BA, 44082310, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.261815",
+          "refe_longitude": "-38.925111"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Alcides Fadiga, 475, Queimadinha, Feira de Santana - BA 44050-066, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.245407",
+          "refe_longitude": "-38.960927"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Rua Irara, 29, Centro, Santanopolis - BA 44260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.025482",
+          "refe_longitude": "-38.865328"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "06/09/2023 07:00:00",
+      "viag_previsao_fim": "06/09/2023 17:47:01"
+    }
+  ]
+}"

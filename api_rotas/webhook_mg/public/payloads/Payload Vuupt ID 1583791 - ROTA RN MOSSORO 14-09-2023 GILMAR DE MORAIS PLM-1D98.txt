@@ -1,0 +1,192 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN MOSSORO 14/09/2023 GILMAR DE MORAIS PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Rio Branco, 1520 - Bom Jardim, Mossor\u00f3 - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.174446",
+          "refe_longitude": "-37.342589"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Industrial Dehuel Vieira Diniz - Pres. Costa e Silva, Mossor\u00f3 - RN, 59628, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.223396",
+          "refe_longitude": "-37.307243"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Maria Ortiga Rosado, 92 - Monsenhor Am\u00e9rico, Mossor\u00f3 - RN, 59613-705, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.163937",
+          "refe_longitude": "-37.353536"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Jos\u00e9 de Alencar, 328 - Alto da Concei\u00e7\u00e3o, Mossor\u00f3 - RN, 59600-619, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.196649",
+          "refe_longitude": "-37.346209"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Jos\u00e9 de Alencar, 328 - Alto da Concei\u00e7\u00e3o, Mossor\u00f3 - RN, 59600-619, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.196649",
+          "refe_longitude": "-37.346209"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Sen. Petr\u00f4nio Portela, 1571 - Aboli\u00e7\u00e3o, Mossor\u00f3 - RN, 59614-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.147840",
+          "refe_longitude": "-37.369304"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Industrial Dehuel Vieira Diniz - Pres. Costa e Silva, Mossor\u00f3 - RN, 59628, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.223396",
+          "refe_longitude": "-37.307243"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "R. Jose de Souza - Alto de S\u00e3o Manoel, Mossor\u00f3 - RN, 59625-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.209330",
+          "refe_longitude": "-37.335502"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Cel. Gurgel, 550 - Alto da Concei\u00e7\u00e3o, Mossor\u00f3 - RN, 59600-322, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.196221",
+          "refe_longitude": "-37.345301"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Industrial Dehuel Vieira Diniz - Pres. Costa e Silva, Mossor\u00f3 - RN, 59628, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.223396",
+          "refe_longitude": "-37.307243"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Deon Caenga, Grossos - RN, 59675-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.953359",
+          "refe_longitude": "-37.251241"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Jose de Souza - Alto de S\u00e3o Manoel, Mossor\u00f3 - RN, 59625-150, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.209330",
+          "refe_longitude": "-37.335502"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Dezesseis de Setembro, 145, Upanema - RN, 59670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.642002",
+          "refe_longitude": "-37.258781"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Angicos, RN, 59515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.662934",
+          "refe_longitude": "-36.600895"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Joaquim Teixeira, 235 - Lajes, RN, 59535-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.694173",
+          "refe_longitude": "-36.237299"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Macau - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.113342",
+          "refe_longitude": "-36.635549"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Av. dos Arrecifes, 1030 - Centro, S\u00e3o Miguel do Gostoso - RN, 59085-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123722",
+          "refe_longitude": "-35.627767"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Rad. Tony Nascimento, 761 - 865, Jo\u00e3o C\u00e2mara - RN, 59550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.526614",
+          "refe_longitude": "-35.821017"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. 27 de Mar\u00e7o, 541, Touros - RN, 59584-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.192565",
+          "refe_longitude": "-35.473074"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Baixa do Meio, Guamar\u00e9 - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.253706",
+          "refe_longitude": "-36.355904"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Lu\u00eds Lopes Varela, 374, Cear\u00e1-Mirim - RN, 59570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.638437",
+          "refe_longitude": "-35.420123"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Sao Pedro, 17, Cai\u00e7ara do Norte - RN, 59592-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.061524",
+          "refe_longitude": "-36.048406"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "14/09/2023 05:00:00",
+      "viag_previsao_fim": "14/09/2023 18:03:25"
+    }
+  ]
+}"

@@ -1,0 +1,290 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PHL5B51"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10748575693"
+        }
+      ],
+      "rota_descricao": "ROTA ARLA MG TRIANGULO 25/09/2023 CLEITON DIAS  PHL-5B51",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. CLESIO EUSTAQUIO MIGUELITO, 619, CENTRO, COROMANDEL - MINAS GERAIS 38550-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.472697",
+          "refe_longitude": "-47.201129"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "AV. FARIA PEREIRA AV. FARIA PEREIRA, 95, NACOES, PATROC?NIO - MINAS GERAIS 38740-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.932250",
+          "refe_longitude": "-46.970902"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "AREA. RURAL AREA. RURAL, SN, AREA RURAL DE PATROCINIO, PATROC?NIO - MINAS GERAIS 38748-899, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.938028",
+          "refe_longitude": "-46.994251"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "BR-365, Monte Carmelo - MG, 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.923276",
+          "refe_longitude": "-47.499486"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Jos\u00e9 Caetano Filho, 267 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476570",
+          "refe_longitude": "-47.206150"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "BR-262, Moema - MG, 35604-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.785058",
+          "refe_longitude": "-45.401909"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Presbiteriana Conservadora, 125, Ira\u00ed de Minas - MG, 38510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.985624",
+          "refe_longitude": "-47.467036"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Pte. Firme, Pres. Oleg\u00e1rio - MG, 38750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.092134",
+          "refe_longitude": "-46.485097"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Faria Pereira, 4252 - S Dourada, Patroc\u00ednio - MG, 38740-512, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.946068",
+          "refe_longitude": "-47.010749"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Pres. Vargas, 3024 - S\u00e3o Judas Tadeu, Patroc\u00ednio - MG, 38740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.927674",
+          "refe_longitude": "-46.997005"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Ad\u00e3o Ferreira de Camargos - Brejo Bonito, Cruzeiro da Fortaleza - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.995705",
+          "refe_longitude": "-46.611673"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Rui Barbosa, 2205 - S\u00e3o Benedito, Patroc\u00ednio - MG, 38743-074, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.925286",
+          "refe_longitude": "-46.999689"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "BR-365, Minas Gerais, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.702338",
+          "refe_longitude": "-46.604348"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Pedro Andalecio Neto, 8, Varj\u00e3o de Minas - MG, 38794-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.373901",
+          "refe_longitude": "-46.028214"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Ouro Branco, 299 - Distrito Industrial II, Patos de Minas - MG, 38706-735, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.626057",
+          "refe_longitude": "-46.472045"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. F\u00e1tima Porto, 4235 - Cidade Jardim, Patos de Minas - MG, 38700-203, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.599439",
+          "refe_longitude": "-46.511590"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "BR-365 - Planalto, Patos de Minas - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.640519",
+          "refe_longitude": "-46.494216"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Presbiteriana Conservadora, 125, Ira\u00ed de Minas - MG, 38510-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.985624",
+          "refe_longitude": "-47.467036"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Faria Pereira, 4252 - S Dourada, Patroc\u00ednio - MG, 38740-512, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.946068",
+          "refe_longitude": "-47.010749"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "BR-365, Minas Gerais, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.702338",
+          "refe_longitude": "-46.604348"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "AREA. RURAL AREA. RURAL, SN, AREA RURAL DE PATROCINIO, PATROC?NIO - MINAS GERAIS 38748-899, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.938028",
+          "refe_longitude": "-46.994251"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Pedro Andalecio Neto, 8, Varj\u00e3o de Minas - MG, 38794-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.373901",
+          "refe_longitude": "-46.028214"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Ad\u00e3o Ferreira de Camargos - Brejo Bonito, Cruzeiro da Fortaleza - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.995705",
+          "refe_longitude": "-46.611673"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. CLESIO EUSTAQUIO MIGUELITO, 619, CENTRO, COROMANDEL - MINAS GERAIS 38550-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.472697",
+          "refe_longitude": "-47.201129"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "BR-365, Monte Carmelo - MG, 38500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.923276",
+          "refe_longitude": "-47.499486"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "AV. FARIA PEREIRA AV. FARIA PEREIRA, 95, NACOES, PATROC?NIO - MINAS GERAIS 38740-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.932250",
+          "refe_longitude": "-46.970902"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Pte. Firme, Pres. Oleg\u00e1rio - MG, 38750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.092134",
+          "refe_longitude": "-46.485097"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Jos\u00e9 Caetano Filho, 267 - Centro, Coromandel - MG, 38550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.476570",
+          "refe_longitude": "-47.206150"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Pres. Vargas, 3024 - S\u00e3o Judas Tadeu, Patroc\u00ednio - MG, 38740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.927674",
+          "refe_longitude": "-46.997005"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "BR-365 - Planalto, Patos de Minas - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.640519",
+          "refe_longitude": "-46.494216"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Ouro Branco, 299 - Distrito Industrial II, Patos de Minas - MG, 38706-735, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.626057",
+          "refe_longitude": "-46.472045"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. F\u00e1tima Porto, 4235 - Cidade Jardim, Patos de Minas - MG, 38700-203, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.599439",
+          "refe_longitude": "-46.511590"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. Rui Barbosa, 2205 - S\u00e3o Benedito, Patroc\u00ednio - MG, 38743-074, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-18.925286",
+          "refe_longitude": "-46.999689"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "BR-262, Moema - MG, 35604-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.785058",
+          "refe_longitude": "-45.401909"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "25/09/2023 07:00:00",
+      "viag_previsao_fim": "27/09/2023 11:26:00"
+    }
+  ]
+}"

@@ -1,0 +1,68 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001499",
+  "cnpj_embarcador": "05092901001499",
+  "cnpj_transportador": "05092901001499",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1578028,
+  "numero_liberacao": 1578028,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Sergio da concei\u00e7\u00e3o moura",
+    "cpf": "89636350230",
+    "telefone": "+5599991561355"
+  },
+  "veiculos": {
+    "placa": "QTZ9I45"
+  },
+  "origem": {
+    "codigo_externo": "05092901001499",
+    "descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+    "latitude": -5.4451,
+    "longitude": -47.47358
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 08:00:00",
+  "data_previsao_fim": "12/09/2023 16:44:02",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "07121744000103",
+            "descricao": "POSTO DE COMBUSTIVEIS SANTA MARIA LTDA",
+            "latitude": "-4.489389",
+            "longitude": "-46.856229",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:22:10",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "15900",
+                  "volume": "300",
+                  "peso": "6870"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

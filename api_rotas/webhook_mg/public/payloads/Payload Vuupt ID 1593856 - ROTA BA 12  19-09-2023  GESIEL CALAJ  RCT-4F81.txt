@@ -1,0 +1,388 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCT4F81"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "38509792100"
+        }
+      ],
+      "rota_descricao": "ROTA BA 12  19/09/2023  GESIEL CALAJ  RCT-4F81",
+      "origem": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia BR 116, SN, Entroncamento, Jaguaquara - BA 45345-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.521171",
+          "refe_longitude": "-40.059933"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Ruy Barbosa, 467, Centro, Jaguaquara - BA, 45345-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.527976",
+          "refe_longitude": "-39.973998"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Governador Aurelio Rodrigues Viana, 674, Kennedy, Jequie - BA 45201-475, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.856795",
+          "refe_longitude": "-40.113645"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 116, SN, Vila Sao Geraldo, Itatim - BA 46875-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.695842",
+          "refe_longitude": "-39.702773"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Luiz Sande de Oliveira, 400, Santa Rita, Amargosa - BA 45300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.019705",
+          "refe_longitude": "-39.605348"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Antonio Cajaiba, SN, Distrito Serrana, Brejoes - BA, 45325-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.075642",
+          "refe_longitude": "-39.959306"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 116, SN, Sede, Brejoes - BA, 45325-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.015092",
+          "refe_longitude": "-39.958657"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 030, 286, Vitoria da Conquista, Brumado - BA, 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.216853",
+          "refe_longitude": "-41.654305"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Landulfo Caribe, 40 - Centro, Jequie - BA, 45200160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.863483",
+          "refe_longitude": "-40.079901"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua Ernesto Carneiro, 09, Centro, Brumado - BA, 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.203249",
+          "refe_longitude": "-41.667267"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida Av Dr Luis Sande Oliveria, 141 - Centro, Amargosa - BA, 45300000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.024702",
+          "refe_longitude": "-39.605761"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Avenida Dr Guilherme Dias, 485, Centro, Brumado - BA 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.208052",
+          "refe_longitude": "-41.669604"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Lomanto Junior, 526, Centro, Milagres - BA 45315-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.872430",
+          "refe_longitude": "-39.856854"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Avenida Brasilia, 585, Centro, Maracas - BA, 45360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.434675",
+          "refe_longitude": "-40.427926"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rodovia Amargosa, 50, Catiara, Amargosa - BA, 45300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.032042",
+          "refe_longitude": "-39.590078"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rodovia BR 116, SN, Zona Rural, Itatim - BA 46875-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.740062",
+          "refe_longitude": "-39.786339"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rodovia BR 030, 286, Vitoria da Conquista, Brumado - BA, 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.216853",
+          "refe_longitude": "-41.654305"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Avenida Landulfo Caribe, 30 - Centro, Jequie - BA, 45200160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.863405",
+          "refe_longitude": "-40.079563"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Pedro Afonso Cangucu, 318 - Centro, Aracatu - BA, 46130000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.431562",
+          "refe_longitude": "-41.461756"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Rodovia BR 030, 286, Vitoria da Conquista, Brumado - BA, 46100-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.216853",
+          "refe_longitude": "-41.654305"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Landulfo Caribe, SN, Centro, Jequie - BA, 45200-160, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.864447",
+          "refe_longitude": "-40.077617"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Praca Dely Rocha, 99 - Sucuarana, Tanhacu - BA, 46600000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.119437",
+          "refe_longitude": "-41.160260"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Tanha\u00e7u, BA, 46600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.020110",
+          "refe_longitude": "-41.247650"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Rodovia BA 142, S/N, Sede, Ituacu - BA 46640-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.810430",
+          "refe_longitude": "-41.300579"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Estr. Des. Ant\u00f4nio Carlos Souto - Rio de Contas, BA, 46170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.586230",
+          "refe_longitude": "-41.816250"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Rodovia BA 148, S/N, Centro, Boninal - BA 46740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.847537",
+          "refe_longitude": "-41.826933"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "Avenida Barra da Estiva, SN - Primavera, Ituacu - BA, 46640000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.809840",
+          "refe_longitude": "-41.301251"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Avenida Nathan Aguiar, 464, Centro, Ibicoara - BA, 46760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.415314",
+          "refe_longitude": "-41.281946"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Praca D Isabel Silva Luz, 137, Caraguatai, Jussiape - BA, 46670-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.509679",
+          "refe_longitude": "-41.592718"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Avenida Macaubas, 470, Roseirao, Paramirim - BA, 46190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.383814",
+          "refe_longitude": "-42.525295"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rua Itamar Magalhaes, SN - Cascavel, Ibicoara - BA, 46760000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.415683",
+          "refe_longitude": "-41.421227"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Rua Dr Joao Moises de Oliveira, 84, Centro, Barra da Estiva - BA 46650-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.627104",
+          "refe_longitude": "-41.329047"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "Avenida Lindemberg Cardoso, 370, Taquari, Livramento de Nossa Senhora - BA 46140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.661407",
+          "refe_longitude": "-41.846972"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Rodovia BA 142, 01, Sede, Tanhacu - BA 46600-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.030572",
+          "refe_longitude": "-41.239114"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Rodovia BA 142, S/N, Centro, Mucuge - BA, 46750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.013122",
+          "refe_longitude": "-41.370633"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Avenida Nathan Aguiar, 103, Centro, Ibicoara - BA, 46760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.414101",
+          "refe_longitude": "-41.283425"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rua Do Rosario, 12, Centro, Piata - BA 46765-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.158709",
+          "refe_longitude": "-41.774157"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "Rua Da Serraria, SN, Cascavel, Ibicoara - BA, 46760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.415683",
+          "refe_longitude": "-41.421227"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "Praca Francisco Avelino dos Anjos, 179 - Nossa Senhora do Alivio, Ituacu - BA, 46640000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.814305",
+          "refe_longitude": "-41.297974"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Rua Goes Calmon, 157 - Centro, Barra da Estiva - BA, 46650000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.625683",
+          "refe_longitude": "-41.322219"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Praca Castro Alves, 10 - Sede, Malhada de Pedras - BA, 46110000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.389198",
+          "refe_longitude": "-41.880070"
+        },
+        {
+          "vloc_sequencia": 42,
+          "vloc_descricao": "Rua Plinio de Castro, SN - Nossa Senhora do Alivio, Ituacu - BA, 46640000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.818793",
+          "refe_longitude": "-41.297809"
+        },
+        {
+          "vloc_sequencia": 43,
+          "vloc_descricao": "Rua Antonio da Silva Lula, 149, Centro, Brumado - BA, 46100-067, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-14.199218",
+          "refe_longitude": "-41.670326"
+        },
+        {
+          "vloc_sequencia": 44,
+          "vloc_descricao": "Avenida Lavino Souza Luz, 08 - Canjerana, Ibicoara - BA, 46760000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.440549",
+          "refe_longitude": "-41.284955"
+        },
+        {
+          "vloc_sequencia": 45,
+          "vloc_descricao": "Rua Paratinga, 197 - Centro, Boquira - BA, 46530000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.819499",
+          "refe_longitude": "-42.730834"
+        },
+        {
+          "vloc_sequencia": 46,
+          "vloc_descricao": "Avenida Boquira, 149, Centro, Paramirim - BA 46190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.450651",
+          "refe_longitude": "-42.244042"
+        },
+        {
+          "vloc_sequencia": 47,
+          "vloc_descricao": "Avenida Adelia Ganem Souto, 6, Alto do Ibirapitanga, Andarai - BA 46830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.798465",
+          "refe_longitude": "-41.327028"
+        },
+        {
+          "vloc_sequencia": 48,
+          "vloc_descricao": "Avenida Adelia Ganem Souto, SN, Alto do Ibirapitanga, Andarai - BA, 46830-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.804511",
+          "refe_longitude": "-41.332131"
+        },
+        {
+          "vloc_sequencia": 49,
+          "vloc_descricao": "Rodovia BA 142, SN, Vila Agricola, Mucuge - BA, 46750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-13.008805",
+          "refe_longitude": "-41.371151"
+        },
+        {
+          "vloc_sequencia": 50,
+          "vloc_descricao": "Avenida Cel Felisberto Sa, S/N, Tomba, Lencois - BA, 46960-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-12.385784",
+          "refe_longitude": "-41.320999"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Lote 02 Quadra 03, S/N - N\u00facleo CIS, S\u00e3o Gon\u00e7alo dos Campos - BA, 44330-000, Brasil",
+        "refe_latitude": -12.38638,
+        "refe_longitude": -38.95713
+      },
+      "viag_previsao_inicio": "19/09/2023 07:00:00",
+      "viag_previsao_fim": "25/09/2023 14:12:00"
+    }
+  ]
+}"

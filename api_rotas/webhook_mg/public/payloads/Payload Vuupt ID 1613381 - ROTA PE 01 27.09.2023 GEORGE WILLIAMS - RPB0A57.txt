@@ -1,0 +1,108 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0A57"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "98958364491"
+        }
+      ],
+      "rota_descricao": "ROTA PE 01 27.09.2023 GEORGE WILLIAMS - RPB0A57",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rodovia PE 28, 651, Santo Inacio, Cabo de Santo Agostinho - PE 54515-730, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.283552",
+          "refe_longitude": "-35.024694"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Coracao de Jesus, 24, Mustardinha, Recife - PE 50760-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.074851",
+          "refe_longitude": "-34.919026"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "COHAB, Recife - PE, 50740-540, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.137490",
+          "refe_longitude": "-34.947810"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Moraes, 3110, Imbiribeira, Recife - PE 51150-001, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.112135",
+          "refe_longitude": "-34.913186"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Eng Abadias de Carvalho, 257, Prado, Recife - PE 50750-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.061594",
+          "refe_longitude": "-34.906163"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Sao Miguel, 1805, Afogados, Recife - PE 50850-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.081916",
+          "refe_longitude": "-34.922762"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Engenheiro Abdias de Carvalho, 720, Torroes, Recife - PE 50720-635, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062234",
+          "refe_longitude": "-34.917572"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Recife, 3012, Ipsep, Recife - PE 51190-730, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.104146",
+          "refe_longitude": "-34.927360"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Moraes, 4704, Imbiribeira, Recife - PE 51150-002, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.125229",
+          "refe_longitude": "-34.915285"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Garibaldina, 13 - Jord\u00e3o, Recife - PE, 51260-100, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.136113",
+          "refe_longitude": "-34.943308"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "27/09/2023 05:00:00",
+      "viag_previsao_fim": "27/09/2023 13:35:23"
+    }
+  ]
+}"

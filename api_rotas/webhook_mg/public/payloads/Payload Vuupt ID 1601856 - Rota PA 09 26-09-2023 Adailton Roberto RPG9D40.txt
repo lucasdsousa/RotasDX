@@ -1,0 +1,185 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG9D40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "46775889291"
+        }
+      ],
+      "rota_descricao": "Rota PA 09 26/09/2023 Adailton Roberto RPG9D40",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Para, 616, Centro, Tucuma - PA 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750914",
+          "refe_longitude": "-51.151311"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. F, 5 - Beira Rio, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.074038",
+          "refe_longitude": "-49.879798"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Belem, SN, Das Flores, Tucuma - PA 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.754905",
+          "refe_longitude": "-51.168308"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia Vicinal V 32, SN, Zona Rural, Tucuma - PA 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.860455",
+          "refe_longitude": "-51.430958"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Para, 752, Centro, Tucuma - PA 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.747231",
+          "refe_longitude": "-51.151638"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia PA 160, S/N, Cidade Jardim, Parauapebas - PA 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.071169",
+          "refe_longitude": "-49.866720"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Independ\u00eancia, 1480, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.755563",
+          "refe_longitude": "-51.061771"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. dos Pioneiros, Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.545750",
+          "refe_longitude": "-49.860020"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rodovia PA 279, SN, Setor Industrial, Tucuma - PA 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.746459",
+          "refe_longitude": "-51.150945"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Avenida E, SN, Cidade Jardim, Parauapebas - PA 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.074307",
+          "refe_longitude": "-49.865919"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rodovia PA 160, SN, Loteamento Residencial Cidade, Parauapebas - PA 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.050415",
+          "refe_longitude": "-49.882072"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. do Buritis, S/N - Quadra 323 Lote 02 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.072228",
+          "refe_longitude": "-49.855111"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.081722",
+          "refe_longitude": "-49.867706"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. dos Pioneiros, Cana\u00e3 dos Caraj\u00e1s - PA, 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.545750",
+          "refe_longitude": "-49.860020"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Liberdade, 256, Da Paz, Parauapebas - PA 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.079487",
+          "refe_longitude": "-49.885570"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. F, 5 - Beira Rio, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.074038",
+          "refe_longitude": "-49.879798"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Independ\u00eancia, 1480, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.755563",
+          "refe_longitude": "-51.061771"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Avenida E, SN, Cidade Jardim, Parauapebas - PA 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.074307",
+          "refe_longitude": "-49.865919"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Dos Pioneiros, SN, Novo Paraiso, Canaa dos Carajas - PA 68537-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.540694",
+          "refe_longitude": "-49.857673"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Avenida Goias, 2145, Sao Francisco, Sao Felix do Xingu - PA 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.639858",
+          "refe_longitude": "-51.983610"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "26/09/2023 07:00:00",
+      "viag_previsao_fim": "30/09/2023 14:40:33"
+    }
+  ]
+}"

@@ -1,0 +1,325 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB8B90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 03  19/09/2023  CHARLES HENRIQUE  RPB-8B90",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Pedro Aleixo, 1035 - Cachoeira Do Campo, Ouro Preto - MG, 35410-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.350403",
+          "refe_longitude": "-43.668572"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Padre Rolim, 3000, Sao Cristovao, Ouro Preto - MG 35400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.378962",
+          "refe_longitude": "-43.518755"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Cachoeira do Campo, Ouro Preto - MG, 35400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.349395",
+          "refe_longitude": "-43.672439"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "MG-129, 1 - Ant\u00f4nio Pereira, Ouro Preto - MG, 35400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.299940",
+          "refe_longitude": "-43.480870"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Manoel Ferreira Sp\u00edndola - Dona Eus\u00e9bia, Dona Euz\u00e9bia - MG, 36784-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.319830",
+          "refe_longitude": "-42.809630"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Frei Cornelio, 14, Laurindo de Castro, Uba - MG 36500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.115681",
+          "refe_longitude": "-42.956312"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. do Contorno, 917 - Mariana, MG, 35420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.362210",
+          "refe_longitude": "-43.418910"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Darcy Prata, 1847, Pira\u00faba - MG, 36170-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.267900",
+          "refe_longitude": "-43.026180"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "MG-129, 310 - Colina, Mariana - MG, 35424-285, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.368590",
+          "refe_longitude": "-43.414290"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Avenida Comendador Jacinto Soares de Souza Lima, 546, Centro, Uba - MG 36500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.118629",
+          "refe_longitude": "-42.942198"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia Mariana Samarco, 500, Sao Cristovao, Mariana - MG 35420-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.357521",
+          "refe_longitude": "-43.421895"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Frei Cornelio, 14, Laurindo de Castro, Uba - MG 36500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.115681",
+          "refe_longitude": "-42.956312"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Cap. Geraldo Walter Cunha, 207, Visc. do Rio Branco - MG, 36520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.026130",
+          "refe_longitude": "-42.832810"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 Neves, 660 - Vila Januario Lima, Rio Pomba - MG, 36180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.268357",
+          "refe_longitude": "-43.182681"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Avenida Vereador Joao Evangelista de Almeida, 735, Sagrado Coracao de Jesus, Ponte Nova - MG 35430-096, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.414312",
+          "refe_longitude": "-42.915576"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Avenida Joaquim Nogueira, 225, Centro, Coimbra - MG 36550-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.860043",
+          "refe_longitude": "-42.799416"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "BR-265, 456 - Alto do Chico Lucas, Rio Pomba - MG, 36180-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.266250",
+          "refe_longitude": "-43.178350"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Rua Jose Geraldo de Souza, 140, Jardim, Ponte Nova - MG 35430-238, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.402409",
+          "refe_longitude": "-42.889529"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Rua Jose Geraldo de Souza, 140, Jardim, Ponte Nova - MG 35430-238, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.402409",
+          "refe_longitude": "-42.889529"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Avenida Vereador Joao Evangelista de Almeida, 735, Sagrado Coracao de Jesus, Ponte Nova - MG 35430-096, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.414312",
+          "refe_longitude": "-42.915576"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "R. Cap. Geraldo Walter Cunha, 207, Visc. do Rio Branco - MG, 36520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.026130",
+          "refe_longitude": "-42.832810"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. Paulo Braga, 31, Visc. do Rio Branco - MG, 36520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.014383",
+          "refe_longitude": "-42.849121"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Rua Jose do Grupo, 125, Sebastiao Adolfo, Cataguases - MG 36774-183, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.369334",
+          "refe_longitude": "-42.689287"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Avenida Dos Expedicionarios, 1068, Sao Cristovao, Leopoldina - MG 36702-101, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.515839",
+          "refe_longitude": "-42.633643"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Rua Omar Resende Peres, 645, Sao Cristovao, Leopoldina - MG 36702-026, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.526816",
+          "refe_longitude": "-42.630588"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "R. Valentim Pereira da Rocha, 70 - Centro, Cataguases - MG, 36770-092, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.385411",
+          "refe_longitude": "-42.691713"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "R. Francisco Andrade Bastos, 350 - Da F\u00e1brica, Leopoldina - MG, 36700-318, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.537527",
+          "refe_longitude": "-42.639220"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Rua Doutor Francisco de Barros, 400, Centro, Cataguases - MG 36770-022, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.391626",
+          "refe_longitude": "-42.696061"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Avenida Eudaldo Lessa, 175, Popular, Cataguases - MG 36774-552, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.377922",
+          "refe_longitude": "-42.686663"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Rua Dos Operarios, 38, Vila Minalda, Cataguases - MG 36772-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.390111",
+          "refe_longitude": "-42.705676"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "Rua Idalina Gomes Domingues, 340, Centro, Leopoldina - MG 36700-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.529910",
+          "refe_longitude": "-42.634507"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "R. Nossa Sra. da Concei\u00e7\u00e3o, 468 - Vila Reis, Cataguases - MG, 36770-238, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.391045",
+          "refe_longitude": "-42.681580"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "R. Maur\u00edcio Murgel, 71 - Vila Domingos Lopes, Cataguases - MG, 36774-028, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.382040",
+          "refe_longitude": "-42.690310"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "R. Beatriz Samor, 145 - Recanto das Palmeiras, Cataguases - MG, 36773-481, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.381466",
+          "refe_longitude": "-42.712273"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Av. Jacob Lopes de Castro, 651 - Vale do Sol, Vi\u00e7osa - MG, 36574-192, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.739341",
+          "refe_longitude": "-42.879271"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Av. S\u00e3o Jos\u00e9, 82 - Piranga, MG, 36480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.688467",
+          "refe_longitude": "-43.301263"
+        },
+        {
+          "vloc_sequencia": 37,
+          "vloc_descricao": "Rua Sao Jose, 62, Centro, Presidente Bernardes - MG 36475-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.777598",
+          "refe_longitude": "-43.155339"
+        },
+        {
+          "vloc_sequencia": 38,
+          "vloc_descricao": "MG-285, 8133 - Laranjal, MG, 36760-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.364483",
+          "refe_longitude": "-42.473014"
+        },
+        {
+          "vloc_sequencia": 39,
+          "vloc_descricao": "BR-116 - Tres Cruzes, Leopoldina - MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.522177",
+          "refe_longitude": "-42.617898"
+        },
+        {
+          "vloc_sequencia": 40,
+          "vloc_descricao": "Rua Benedito Valadares, 32, Centro, Piranga - MG 36480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.685519",
+          "refe_longitude": "-43.300623"
+        },
+        {
+          "vloc_sequencia": 41,
+          "vloc_descricao": "Rua Vila Nova, 127, Centro, Lamim - MG 36455-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.796256",
+          "refe_longitude": "-43.472181"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "19/09/2023 07:00:00",
+      "viag_previsao_fim": "21/09/2023 19:23:23"
+    }
+  ]
+}"

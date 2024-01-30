@@ -1,0 +1,155 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901002703",
+  "cnpj_embarcador": "05092901002703",
+  "cnpj_transportador": "05092901002703",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1568591,
+  "numero_liberacao": 1568591,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ODAIR DE ANDRADE MOURA",
+    "cpf": "07749579567",
+    "telefone": "+5516988333833"
+  },
+  "veiculos": {
+    "placa": [
+      "RPB2B14"
+    ]
+  },
+  "origem": {
+    "codigo_externo": "05092901002703",
+    "descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+    "logradouro": "R. C\u00e2ndido P Lima",
+    "numero": " 302 ",
+    "complemento": "0",
+    "bairro": "Jardin\u00f3polis",
+    "cidade": " SP",
+    "estado": " 14680000",
+    "latitude": -21.041428,
+    "longitude": -47.812349,
+    "bandeira": "0",
+    "email": "0",
+    "telefone": "0",
+    "cep": " Brasil"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "06/09/2023 10:00:00",
+  "data_previsao_fim": "06/09/2023 17:01:53",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23057521000180",
+            "descricao": "RODRIGO LEANDRO BATISTON",
+            "logradouro": "Avenida Doutor Marcos Antonio Macario dos Santos",
+            "numero": " 1165",
+            "CEP": "14094060",
+            "complemento": "0",
+            "bairro": " Conjunto Habitacional Jardim das Palmeiras",
+            "cidade": " Ribeirao Preto ",
+            "estado": "SP ",
+            "latitude": "-21.194622",
+            "longitude": "-47.735262",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "4516.8",
+                  "volume": "17",
+                  "peso": "362.923"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46249565000108",
+            "descricao": "LUBRISHOW LUBRIFICANTES LTDA",
+            "logradouro": "Avenida Mogiana",
+            "numero": " 1815",
+            "CEP": "14075270",
+            "complemento": "0",
+            "bairro": " Vila Mariana",
+            "cidade": " Ribeirao Preto ",
+            "estado": "SP ",
+            "latitude": "-21.147698",
+            "longitude": "-47.787235",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "381.6",
+                  "volume": "1",
+                  "peso": "22.701"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00685243000100",
+            "descricao": "VALDECIR JOSE LUNARDELLO",
+            "logradouro": "R. Abel dos R\u00e9is",
+            "numero": " 179",
+            "CEP": "14260000",
+            "complemento": "0",
+            "bairro": " C\u00e1ssia dos Coqueiros ",
+            "cidade": "SP",
+            "estado": " ",
+            "latitude": "-21.283358",
+            "longitude": "-47.169694",
+            "email": "0",
+            "telefone": "0",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "837",
+                  "volume": "3",
+                  "peso": "54.884"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

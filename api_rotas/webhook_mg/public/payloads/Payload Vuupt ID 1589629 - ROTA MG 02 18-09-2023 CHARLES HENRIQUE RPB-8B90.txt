@@ -1,0 +1,157 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB8B90"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "10180323636"
+        }
+      ],
+      "rota_descricao": "ROTA MG 02 18/09/2023 CHARLES HENRIQUE RPB-8B90",
+      "origem": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Dom Joao VI, 1390, Palmeiras, Belo Horizonte - MG 30575-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.968063",
+          "refe_longitude": "-43.981384"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Itanaj\u00e9, 77 - Salgado Filho, Belo Horizonte - MG, 30550-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.936990",
+          "refe_longitude": "-43.982680"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Afonso Pena, 361, Centro, Rio Acima - MG 34300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.087421",
+          "refe_longitude": "-43.792471"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Taber, 409, Jardim Canada, Nova Lima - MG 34007-762, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.068348",
+          "refe_longitude": "-43.983815"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Jose da Silva Fernandes, 69, Lourdes, Brumadinho - MG 35460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.144905",
+          "refe_longitude": "-44.202458"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Maurilio Gomes da Silveira, 15, Milionarios, Belo Horizonte - MG 30620-110, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.988197",
+          "refe_longitude": "-44.008200"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Ursula Paulino, 402, Cinquentenario, Belo Horizonte - MG 30570-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.952737",
+          "refe_longitude": "-43.982667"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Tito Fulgencio, 421, Industrial 1-2 Secao, Contagem - MG 32215-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.960472",
+          "refe_longitude": "-44.016012"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Rua Tomaz Jefferson, 916, Jardim Industrial, Contagem - MG 32215-290, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.965459",
+          "refe_longitude": "-44.016903"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rua das Petunias, 514, Lindeia, Belo Horizonte - MG 30690-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.974056",
+          "refe_longitude": "-44.052704"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rodovia BR 381, 3424, Inconfidentes, Contagem - MG 32260-530, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.962120",
+          "refe_longitude": "-44.040141"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rua Rio Verde, 539, Parque Riacho das Pedras, Contagem - MG 32280-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.951164",
+          "refe_longitude": "-44.049986"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Avenida Waldyr Soeiro Emrich, 110, Santa Helena, Belo Horizonte - MG 30644-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.989115",
+          "refe_longitude": "-44.011483"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rua Ilmenita, 220, Sport Club, Belo Horizonte - MG 30520-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.945984",
+          "refe_longitude": "-44.010508"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Rua Goncalves de Souza, 179, Camargos, Belo Horizonte - MG 30520-390, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.941773",
+          "refe_longitude": "-44.021508"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua Ilmenita, 220, Sport Club, Belo Horizonte - MG 30520-105, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.945984",
+          "refe_longitude": "-44.010508"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Rua Barao do Monte Alto, 36, Urucuia, Belo Horizonte - MG 30626-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-19.997219",
+          "refe_longitude": "-44.006978"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+        "refe_latitude": -19.949286,
+        "refe_longitude": -44.165064
+      },
+      "viag_previsao_inicio": "18/09/2023 07:00:00",
+      "viag_previsao_fim": "18/09/2023 17:37:40"
+    }
+  ]
+}"

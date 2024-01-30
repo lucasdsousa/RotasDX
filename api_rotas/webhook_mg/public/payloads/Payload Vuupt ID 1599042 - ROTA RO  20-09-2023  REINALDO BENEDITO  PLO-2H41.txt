@@ -1,0 +1,52 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLO2H41"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "83095900406"
+        }
+      ],
+      "rota_descricao": "ROTA RO  20/09/2023  REINALDO BENEDITO  PLO-2H41",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. da Beira, 7950 - Eldorado, Porto Velho - RO, 76811-738, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.785355",
+          "refe_longitude": "-63.860315"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "BR-364, KM 6 - 5, Porto Velho - RO, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.798970",
+          "refe_longitude": "-63.834540"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "20/09/2023 10:30:00",
+      "viag_previsao_fim": "20/09/2023 11:47:09"
+    }
+  ]
+}"

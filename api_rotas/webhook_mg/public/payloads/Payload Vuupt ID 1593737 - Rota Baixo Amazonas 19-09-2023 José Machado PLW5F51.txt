@@ -1,0 +1,290 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW5F51"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01808393309"
+        }
+      ],
+      "rota_descricao": "Rota Baixo Amazonas 19/09/2023 Jos\u00e9 Machado PLW5F51",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Via Oeste - Jardim Oriente Independente, Altamira - PA, 68372-062, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.222188",
+          "refe_longitude": "-52.226698"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Tv. Boa Esperan\u00e7a, 8 - quadra 259, Placas - PA, 68138-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.864816",
+          "refe_longitude": "-54.217747"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "AV. PERIMETRAL NORTE, 754, CENTRO, URUAR\u00c1 - PAR\u00c1 68140-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.715800",
+          "refe_longitude": "-53.737612"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Brasil Novo - PA, 68148-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.307829",
+          "refe_longitude": "-52.538244"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Antonio Cavichioli, 728 - Rur\u00f3polis, PA, 68165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.092283",
+          "refe_longitude": "-54.905858"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "R. SILVERIO SIROTHEAU CORREA R. SILVERIO SIROTHEAU CORREA, 2837, LAGUINHO, SANTAR?M - PAR? 68040-020, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.422937",
+          "refe_longitude": "-54.734801"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Magalh\u00e3es Barata, 1722 - Rodagem, Santar\u00e9m - PA, 68030-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.440257",
+          "refe_longitude": "-54.729228"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "BR-163 - Santar\u00e9m, PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.596741",
+          "refe_longitude": "-54.719350"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Cuiab\u00e1, 2759 - Esperan\u00e7a, Santar\u00e9m - PA, 68015-480, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.448038",
+          "refe_longitude": "-54.730016"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Magalh\u00e3es Barata, 1722 - Rodagem, Santar\u00e9m - PA, 68030-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.440257",
+          "refe_longitude": "-54.729228"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Bernardo Say\u00e3o, 61 - Centro, Uruar\u00e1 - PA, 68140-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-3.717005",
+          "refe_longitude": "-53.737276"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Antonio Cavichioli, 728 - Rur\u00f3polis, PA, 68165-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.092283",
+          "refe_longitude": "-54.905858"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "R. NOVA ESPERANCA, SN, NOVA JERUSALEM, JURUTI - PAR\u00c1 68170-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.189341",
+          "refe_longitude": "-52.200334"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Curua-Una, 2430 - Sant\u00edssimo, Santar\u00e9m - PA, 68010-120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.443351",
+          "refe_longitude": "-54.703668"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Sen. Augusto Meira, 1040-1096 - Santana, Santar\u00e9m - PA, 68015-410, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.441666",
+          "refe_longitude": "-54.704201"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "ESQUINA COM TAPAJ\u00d3S - Av. Cuiab\u00e1, 554 - MATINHA, Santar\u00e9m - PA, 68040-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.420819",
+          "refe_longitude": "-54.736663"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "ROD. PA 257, SN, NOVA VITORIA, JURUTI - PAR\u00c1 68170-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.283963",
+          "refe_longitude": "-55.850303"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "TRV. GENERAL OSORIO, 21, CIDADE ALTA, MONTE ALEGRE - PAR\u00c1 68220-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.997722",
+          "refe_longitude": "-54.076893"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Av. Curua-Una, 2252 - Sant\u00edssimo, Santar\u00e9m - PA, 68010-245, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.442020",
+          "refe_longitude": "-54.704056"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Av. Curua-Una, 4239 - Urumari, Santar\u00e9m - PA, 68020-650, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.458455",
+          "refe_longitude": "-54.697717"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "R. JOAO FERREIRA, 127, PLANALTO, ALENQUER - PAR\u00c1 68200-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.939998",
+          "refe_longitude": "-54.747343"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Av. Curua-Una, 2215 - Intervent\u00f3ria, Santar\u00e9m - PA, 68010-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.441843",
+          "refe_longitude": "-54.703816"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Nova Itaituba, Itaituba - PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.253519",
+          "refe_longitude": "-56.003366"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "R. Ricardo Jos\u00e9 Ferreira, 787 - Bom Rem\u00e9dio, Itaituba - PA, 68180-440, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.255856",
+          "refe_longitude": "-55.989580"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Av. Pres. Tancredo Neves - Nova Rep\u00fablica, Santar\u00e9m - PA, 68025-760, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.468169",
+          "refe_longitude": "-54.713976"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "BR-230 - Floresta, Itaituba - PA, 68180-460, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.261492",
+          "refe_longitude": "-55.994238"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "PA-431, 187-219 - Santana, Moju\u00ed dos Campos - PA, 68120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.682721",
+          "refe_longitude": "-54.640786"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "Tv. Ant\u00f4nio Valfredo, Santar\u00e9m - PA, 68120, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.688461",
+          "refe_longitude": "-54.643009"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Comunidade Garraf\u00e3o, Moju\u00ed dos Campos - PA, 68025-170, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-2.682166",
+          "refe_longitude": "-54.642424"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "R. Primeira, 137 - Liberdade, Itaituba - PA, 68180-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.266903",
+          "refe_longitude": "-55.992501"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "Tv. Jo\u00e3o Pessoa, 699 - Bela Vista, Itaituba - PA, 68180-698, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.258829",
+          "refe_longitude": "-55.987807"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "ROD. CUIABA SANTAR\u00c9M, SN, BELA VISTA, TRAIR\u00c3O - PAR\u00c1 68198-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.021882",
+          "refe_longitude": "-56.186946"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "BR-230 - Floresta, Itaituba - PA, 68181-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.261902",
+          "refe_longitude": "-55.993980"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "Moraes Almeida, Itaituba - PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.216503",
+          "refe_longitude": "-55.632649"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Av Dr Isaias Antunes Pinheiro, S/N Quadra138 - Bela Vista, Novo Progresso - PA, 68193-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.027610",
+          "refe_longitude": "-55.419232"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "20/09/2023 14:30:00",
+      "viag_previsao_fim": "30/09/2023 16:35:58"
+    }
+  ]
+}"

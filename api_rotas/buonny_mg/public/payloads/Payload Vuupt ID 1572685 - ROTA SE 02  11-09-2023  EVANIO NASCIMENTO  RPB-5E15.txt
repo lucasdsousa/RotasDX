@@ -1,0 +1,96 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001146",
+  "cnpj_embarcador": "05092901001146",
+  "cnpj_transportador": "05092901001146",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572685,
+  "numero_liberacao": 1572685,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "EVANIO DO NASCIMENTO",
+    "cpf": "67286313568",
+    "telefone": "+5579998973575"
+  },
+  "veiculos": {
+    "placa": "RPB5E15"
+  },
+  "origem": {
+    "codigo_externo": "05092901001146",
+    "descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+    "latitude": -10.921846,
+    "longitude": -37.093091
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "08/09/2023 11:55:00",
+  "data_previsao_fim": "08/09/2023 19:32:33",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "42859486000168",
+            "descricao": "MD PECAS LTDA",
+            "logradouro": "Av. Dr. Jos\u00e9 Airton de Andrade",
+            "numero": "0",
+            "latitude": "-11.182043",
+            "longitude": "-37.997037",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 18:13:09",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "9997.5",
+                  "volume": "50",
+                  "peso": "927.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "11744722000177",
+            "descricao": "AS COMERCIO DE PECAS E ACESSORIOS EIRELI",
+            "logradouro": "Av. Dr. Jos\u00e9 Airton de Andrade",
+            "numero": "0",
+            "latitude": "-11.180066",
+            "longitude": "-37.995254",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-08 18:43:59",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "14352.7",
+                  "volume": "40",
+                  "peso": "900.006"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

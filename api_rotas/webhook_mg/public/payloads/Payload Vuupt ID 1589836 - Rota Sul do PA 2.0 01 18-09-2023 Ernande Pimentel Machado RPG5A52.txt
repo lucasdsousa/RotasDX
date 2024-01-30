@@ -1,0 +1,164 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPG5A52"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02138341380"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 01 18/09/2023 Ernande Pimentel Machado RPG5A52",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Par\u00e1, 398 - Centro, Curion\u00f3polis - PA, 68523-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.104934",
+          "refe_longitude": "-49.602295"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "PA-160, 48 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.080725",
+          "refe_longitude": "-49.867210"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "km 700 - BR-316, 20 - Benfica, Benevides - PA, 68795-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-1.364609",
+          "refe_longitude": "-48.270506"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Qd 125, Lt 21 Atr\u00e1s da Marcopolo - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.075303",
+          "refe_longitude": "-49.865881"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Qd 125, Lt 21 Atr\u00e1s da Marcopolo - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.075303",
+          "refe_longitude": "-49.865881"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.081722",
+          "refe_longitude": "-49.867706"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Independ\u00eancia, 1480, Ouril\u00e2ndia do Norte - PA, 68390-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.755563",
+          "refe_longitude": "-51.061771"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "AV. PARA, 752, CENTRO, TUCUM\u00c3 - PAR\u00c1 68385-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.747231",
+          "refe_longitude": "-51.151638"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "PA-279 - Industrial, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.747893",
+          "refe_longitude": "-51.148057"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Av. Par\u00e1, 247, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.756129",
+          "refe_longitude": "-51.149923"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rod. PA 279 Esq c - R. Salvaterra - Setor Rodoviario, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750201",
+          "refe_longitude": "-51.145027"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "PA-279, 530, Tucum\u00e3 - PA, 68385-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750164",
+          "refe_longitude": "-51.144366"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "AV. PARA, 616, CENTRO, TUCUM\u00c3 - PAR\u00c1 68385-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.750914",
+          "refe_longitude": "-51.151311"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "ROD. PA 155 AV AMAZONAS AV ANTONIO HERMES DANTAS - Xinguara, PA, 68555-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.099060",
+          "refe_longitude": "-49.935161"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "2370 - Av. Ant\u00f4nio Marqu\u00eas Ribeiro, 2254 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.641196",
+          "refe_longitude": "-51.973117"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Av. Goi\u00e1s, 2145 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.640002",
+          "refe_longitude": "-51.983577"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Av. 22 de Mar\u00e7o, 340-450 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.641980",
+          "refe_longitude": "-51.993971"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "2370 - Av. Ant\u00f4nio Marqu\u00eas Ribeiro, 2254 - S\u00e3o F\u00e9lix do Xingu, PA, 68380-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.641196",
+          "refe_longitude": "-51.973117"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "18/09/2023 15:30:00",
+      "viag_previsao_fim": "24/09/2023 15:37:44"
+    }
+  ]
+}"

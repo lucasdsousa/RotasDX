@@ -1,0 +1,308 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1578198,
+  "numero_liberacao": 1578198,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "CHARLES HENRIQUE SANTOS MAGALHAES",
+    "cpf": "10180323636",
+    "telefone": "+5531992884363"
+  },
+  "veiculos": {
+    "placa": "RPB8B90"
+  },
+  "origem": {
+    "codigo_externo": "05092901001227",
+    "descricao": "Av. Juiz Marco T\u00falio Isaac, 4688 - Parque das Industrias, Betim - MG, 32671-072, Brasil",
+    "latitude": -19.949286,
+    "longitude": -44.165064
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "12/09/2023 07:00:00",
+  "data_previsao_fim": "13/09/2023 09:30:28",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "00120415000107",
+            "descricao": "EDELVANE AUTO PECAS LTDA",
+            "latitude": "-19.892678",
+            "longitude": "-43.958932",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 10:36:52",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3333",
+                  "volume": "1",
+                  "peso": "183.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "30945094000132",
+            "descricao": "AUTO PRIME ESTETICA E MANUTENCAO EIRELI",
+            "latitude": "-19.903181",
+            "longitude": "-43.943675",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:20:38",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "195.03",
+                  "volume": "1",
+                  "peso": "11.212"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "37109695000154",
+            "descricao": "WEBER PEREIRA MATHEUS DA SILVA",
+            "latitude": "-19.869824",
+            "longitude": "-43.910567",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:33:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1510.98",
+                  "volume": "7",
+                  "peso": "89.814"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "08229159000194",
+            "descricao": "VIRTUAL COMERCIO DE AUTO PECAS LTDA ME",
+            "latitude": "-19.905190",
+            "longitude": "-43.985600",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 11:52:37",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "7387.98",
+                  "volume": "36",
+                  "peso": "472.549"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "02779154000159",
+            "descricao": "RODAG DISTRIBUIDORA DE AUTO PECAS EIRELI",
+            "latitude": "-19.881059",
+            "longitude": "-43.959938",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 12:30:54",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "145.03",
+                  "volume": "1",
+                  "peso": "12"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "06865744000155",
+            "descricao": "AUTO PECAS STILO LTDA ME",
+            "latitude": "-19.893013",
+            "longitude": "-43.822046",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 13:22:56",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "3546.13",
+                  "volume": "13",
+                  "peso": "226.174"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22144299000190",
+            "descricao": "POSTO DEMETRIOS LTDA",
+            "latitude": "-19.772973",
+            "longitude": "-43.894164",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:13:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "707.99",
+                  "volume": "2",
+                  "peso": "45.401"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22144299000190",
+            "descricao": "POSTO DEMETRIOS LTDA",
+            "latitude": "-19.772973",
+            "longitude": "-43.894164",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 14:43:31",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "680",
+                  "volume": "10",
+                  "peso": "229"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "33057788000121",
+            "descricao": "SA PECAS AUTOMOTIVAS EIRELI",
+            "latitude": "-19.811070",
+            "longitude": "-43.944191",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 15:27:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "481.56",
+                  "volume": "2",
+                  "peso": "33.912"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "26207983000125",
+            "descricao": "ADELSON DA SILVA NEVES",
+            "latitude": "-19.652120",
+            "longitude": "-43.908219",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:04:00",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1738.81",
+                  "volume": "5",
+                  "peso": "114.702"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "18792314000130",
+            "descricao": "POSTO VIA ESMERALDAS LTDA",
+            "latitude": "-19.770146",
+            "longitude": "-44.309660",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:47:18",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "5156.22",
+                  "volume": "20",
+                  "peso": "344.481"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

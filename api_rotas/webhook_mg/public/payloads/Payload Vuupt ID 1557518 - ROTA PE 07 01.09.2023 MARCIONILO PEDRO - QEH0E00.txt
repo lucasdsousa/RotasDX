@@ -1,0 +1,33 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "QEH0E00"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "89969197487"
+        }
+      ],
+      "rota_descricao": "ROTA PE 07 01.09.2023 MARCIONILO PEDRO - QEH0E00",
+      "origem": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [],
+      "destino": {
+        "vloc_descricao": "Av. da Recupera\u00e7\u00e3o, 1 - Guabiraba, Recife - PE, 52390, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "01/09/2023 07:55:00",
+      "viag_previsao_fim": "01/09/2023 17:28:40"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCU2J26"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "91810574587"
+        }
+      ],
+      "rota_descricao": "ROTA SE 02  25/09/2023  EDUARDO ARAUJO  RCU-2J26",
+      "origem": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Alc\u00edno Carvalho Lima, 17 - CENTRO, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.278453",
+          "refe_longitude": "-37.784189"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Jos\u00e9 Freire de Lima, 314, S\u00e3o Domingos - SE, 49525-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.793494",
+          "refe_longitude": "-37.566669"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Frei Paulo, SE, 49514-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.549740",
+          "refe_longitude": "-37.533596"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Miguel dos Anjos, Boquim - SE, 49360-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.139328",
+          "refe_longitude": "-37.600527"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "R. Est\u00e2ncia, 206, Umba\u00faba - SE, 49260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.378866",
+          "refe_longitude": "-37.662787"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Perc\u00edlio Andrade, 2021 - Bananeira, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.681880",
+          "refe_longitude": "-37.419176"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Mal. C\u00e2ndido Rondon, 1120 - Capucho, Aracaju - SE, 49095-000, Brasil",
+        "refe_latitude": -10.921846,
+        "refe_longitude": -37.093091
+      },
+      "viag_previsao_inicio": "25/09/2023 07:00:00",
+      "viag_previsao_fim": "25/09/2023 18:34:04"
+    }
+  ]
+}"

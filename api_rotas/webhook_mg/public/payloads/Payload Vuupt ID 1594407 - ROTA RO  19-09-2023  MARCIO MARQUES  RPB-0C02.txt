@@ -1,0 +1,269 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB0C02"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "63891654200"
+        }
+      ],
+      "rota_descricao": "ROTA RO  19/09/2023  MARCIO MARQUES  RPB-0C02",
+      "origem": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Varginha, MG, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-21.556050",
+          "refe_longitude": "-45.436390"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Dezid\u00e9rio Domingues Lopes, 4184 - Centro, Nova Mamor\u00e9 - RO, 76857-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.411345",
+          "refe_longitude": "-65.331078"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Dezid\u00e9rio Domingues Lopes, 4184 - Centro, Nova Mamor\u00e9 - RO, 76857-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.411345",
+          "refe_longitude": "-65.331078"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Centro, Nova Mamor\u00e9 - RO, 76857-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.410363",
+          "refe_longitude": "-65.331695"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Av. Sim\u00e3o Dias, 106, Po\u00e7o Verde - SE, 49490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.712864",
+          "refe_longitude": "-38.174147"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Po\u00e7o Verde, SE, 49490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.711749",
+          "refe_longitude": "-38.177080"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.185188",
+          "refe_longitude": "-38.000521"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rod. Ant\u00f4nio Martins de Menezes, Lagarto - SE, 49400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.936287",
+          "refe_longitude": "-37.653573"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Construtor Jo\u00e3o Ant\u00f4nio de Santana, Sim\u00e3o Dias - SE, 49480-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.738548",
+          "refe_longitude": "-37.804741"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rod. Ant\u00f4nio Carlos Valadares, 3500 - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.166756",
+          "refe_longitude": "-38.008561"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Sim\u00e3o Dias, 556, Po\u00e7o Verde - SE, 49490-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.715183",
+          "refe_longitude": "-38.171251"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "CENTRAL DE LUBRIFICANTES - Av. Pedro T\u00e9les Barbosa, 2985 - Rotary Club, Itabaiana - SE, 49500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-10.690349",
+          "refe_longitude": "-37.438456"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.185188",
+          "refe_longitude": "-38.000521"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 Airton de Andrade, 1362 - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.182043",
+          "refe_longitude": "-37.997037"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Tv. S\u00e3o Jorge, 135, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.281517",
+          "refe_longitude": "-37.795174"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. Dr. Jos\u00e9 Airton de Andrade, 1362 - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.182043",
+          "refe_longitude": "-37.997037"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. Alc\u00edno Carvalho Lima, 17 - CENTRO, Itabaianinha - SE, 49290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.278453",
+          "refe_longitude": "-37.784189"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Largo do Cruzeiro - Tobias Barreto, SE, 49300-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.184201",
+          "refe_longitude": "-38.000200"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Jo\u00e3o Lima da Silveira, 3295 - Alagoas, Est\u00e2ncia - SE, 49200-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.257285",
+          "refe_longitude": "-37.439910"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Est\u00e2ncia, 968, Umba\u00faba - SE, 49260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.375630",
+          "refe_longitude": "-37.658248"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Est\u00e2ncia, 968, Umba\u00faba - SE, 49260-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-11.375630",
+          "refe_longitude": "-37.658248"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-364, 9370 - Floresta, Porto Velho - RO, 76816-800, Brasil",
+        "refe_latitude": -8.790057,
+        "refe_longitude": -63.851508
+      },
+      "viag_previsao_inicio": "19/09/2023 07:30:00",
+      "viag_previsao_fim": "19/09/2023 21:27:19"
+    }
+  ]
+}"

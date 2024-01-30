@@ -1,0 +1,248 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLM1D98"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07185569419"
+        }
+      ],
+      "rota_descricao": "ROTA RN NATAL 22/09/2023 GILMAR DE MORAIS PLM-1D98",
+      "origem": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Riachuelo - RN, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.813230",
+          "refe_longitude": "-35.823656"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Av. Jundia\u00ed, 335, Maca\u00edba - RN, 59280-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.862766",
+          "refe_longitude": "-35.351488"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Av. Prudente de Morais, 5050 - Lagoa Nova, Natal - RN, 59063-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.825509",
+          "refe_longitude": "-35.216091"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "R. Francisco Simpl\u00edcio, 105 - Vila de Ponta Negra, Natal - RN, 59090-315, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.888454",
+          "refe_longitude": "-35.173490"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Av. Governador Tarc\u00edsio de Vasconcelos Maia, 1450 - Candel\u00e1ria, Natal - RN, 59065, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.842384",
+          "refe_longitude": "-35.220948"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Av. Miguel Castro, 1022 - Lagoa Nova, Natal - RN, 59075-745, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.815256",
+          "refe_longitude": "-35.231330"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "BR-304, 2000, Maca\u00edba - RN, 59146-750, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.868923",
+          "refe_longitude": "-35.326949"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Riachuelo, RN, 59470-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.811103",
+          "refe_longitude": "-35.822501"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "R. Vicente Gomes da Rocha, 245 - Nossa Senhora Aparecida, S\u00e3o Paulo do Potengi - RN, 59460-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.900196",
+          "refe_longitude": "-35.760056"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Dr. Mario Neg\u00f3cio, 1473 - Alecrim, Natal - RN, 59040-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.795860",
+          "refe_longitude": "-35.221039"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Av. Lima e Silva, 227 - Nossa Sra. de Nazar\u00e9, Natal - RN, 59062-070, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.817553",
+          "refe_longitude": "-35.231058"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "R. Rosa Filomena - Jardins, S\u00e3o Gon\u00e7alo do Amarante - RN, 59290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.751274",
+          "refe_longitude": "-35.302765"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Pres. Sarmento, 498 - Alecrim, Natal - RN, 59037-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.797557",
+          "refe_longitude": "-35.222606"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Av. das Fronteiras, 270 - Nossa Sra. da Apresenta\u00e7\u00e3o, Natal - RN, 59108-355, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.763409",
+          "refe_longitude": "-35.265125"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Bela Vista, 1488, S\u00e3o Gon\u00e7alo do Amarante - RN, 59290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.753500",
+          "refe_longitude": "-35.309304"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "R. S\u00e3o Gon\u00e7alo do Amarante, 5, S\u00e3o Gon\u00e7alo do Amarante - RN, 59290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.783616",
+          "refe_longitude": "-35.282114"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "R. Serid\u00f3, 519 - Petr\u00f3polis, Natal - RN, 59020-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.783765",
+          "refe_longitude": "-35.198029"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Bacharel Tomaz Landim, 1210 - Igap\u00f3, Natal - RN, 59104-228, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.774962",
+          "refe_longitude": "-35.255190"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Av. Dr. Jo\u00e3o Medeiros Filho, 501 - Igap\u00f3, Natal - RN, 59104-200, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.771500",
+          "refe_longitude": "-35.255042"
+        },
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Sao Miguel, 532, Afogados, Recife - PE 50770-720, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.080167",
+          "refe_longitude": "-34.911503"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Avenida Piracicaba, 06, Jardim Sao Paulo, Recife - PE 50790-250, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.077482",
+          "refe_longitude": "-34.941814"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Tv. Jundia\u00ed, 29 - Jardim S\u00e3o Paulo, Recife - PE, 50790-011, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.082902",
+          "refe_longitude": "-34.946388"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Avenida Dr Jose Rufino, 151, Estancia, Recife - PE 50771-600, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.084336",
+          "refe_longitude": "-34.926736"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Avenida Marechal Mascarenhas de Morais, 1413, Imbiribeira, Recife - PE 51150-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.094246",
+          "refe_longitude": "-34.908533"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Alvaro Amorim, 63, Imbiribeira, Recife - PE 51170-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.086903",
+          "refe_longitude": "-34.908124"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Av. Eng. Abdias de Carvalho, 50 - Prado, Recife - PE, 50830-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.062734",
+          "refe_longitude": "-34.912745"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Das Ninfas, 414, Boa Vista, Recife - PE 50070-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.056745",
+          "refe_longitude": "-34.890844"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Pra\u00e7a Ven\u00e2ncio de Rezende, 10 - Afogados, Recife - PE, 50770-830, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.080074",
+          "refe_longitude": "-34.910720"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Ambore, 25 - Morro da Concei\u00e7\u00e3o, Recife - PE, 52280-050, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.020969",
+          "refe_longitude": "-34.912644"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Rua Alvaro Amorim, 63, Imbiribeira, Recife - PE 51170-060, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.086903",
+          "refe_longitude": "-34.908124"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Osvaldo Amorim, 742, A\u00e7u - RN, 59650-000, Brasil",
+        "refe_latitude": -5.578033,
+        "refe_longitude": -36.918305
+      },
+      "viag_previsao_inicio": "22/09/2023 05:00:00",
+      "viag_previsao_fim": "23/09/2023 01:43:13"
+    }
+  ]
+}"

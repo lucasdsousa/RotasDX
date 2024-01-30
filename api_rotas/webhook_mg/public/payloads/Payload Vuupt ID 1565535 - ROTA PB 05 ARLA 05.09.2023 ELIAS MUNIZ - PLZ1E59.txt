@@ -1,0 +1,220 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLZ1E59"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "01044071400"
+        }
+      ],
+      "rota_descricao": "ROTA PB 05 ARLA 05.09.2023 ELIAS MUNIZ - PLZ1E59",
+      "origem": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Cabedelo, Cabedelo - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.040294",
+          "refe_longitude": "-34.843021"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Mamanguape, Mamanguape - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.838266",
+          "refe_longitude": "-35.132667"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Bayeux, Bayeux - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.126174",
+          "refe_longitude": "-34.929194"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Conde, Conde - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.260780",
+          "refe_longitude": "-34.907822"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Santa Rita, Santa Rita - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.146148",
+          "refe_longitude": "-34.969205"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Sap\u00e9, Sap\u00e9 - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.098358",
+          "refe_longitude": "-35.230120"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Lagoa Seca, Lagoa Seca - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.156909",
+          "refe_longitude": "-35.853478"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Jo\u00e3o Pessoa, Jo\u00e3o Pessoa - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.118835",
+          "refe_longitude": "-34.881434"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Juazeirinho, Juazeirinho - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.069347",
+          "refe_longitude": "-36.579421"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "S\u00e3o Bento, S\u00e3o Bento - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.489571",
+          "refe_longitude": "-37.449661"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "Campina Grande, Campina Grande - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.220617",
+          "refe_longitude": "-35.888833"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Mariz\u00f3polis, Mariz\u00f3polis - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.844069",
+          "refe_longitude": "-38.347982"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Catol\u00e9 do Rocha, Catol\u00e9 do Rocha - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.347841",
+          "refe_longitude": "-37.745998"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Santa Luzia, Santa Luzia - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.872093",
+          "refe_longitude": "-36.923408"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Queimadas, Queimadas - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.363757",
+          "refe_longitude": "-35.902368"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Sousa, Sousa - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.759912",
+          "refe_longitude": "-38.230476"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Coremas, Coremas - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.016019",
+          "refe_longitude": "-37.946400"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "S\u00e3o Bentinho, S\u00e3o Bentinho - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.890165",
+          "refe_longitude": "-37.726855"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "Riach\u00e3o do Po\u00e7o, Riach\u00e3o do Po\u00e7o - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.146521",
+          "refe_longitude": "-35.263714"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "Pianc\u00f3, Pianc\u00f3 - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.196796",
+          "refe_longitude": "-37.925989"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Princesa Isabel, Princesa Isabel - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.736213",
+          "refe_longitude": "-37.991699"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Caapor\u00e3, Caapor\u00e3 - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.513063",
+          "refe_longitude": "-34.917399"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "Tavares, Tavares - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.635629",
+          "refe_longitude": "-37.879397"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "Itaporanga, Itaporanga - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.305381",
+          "refe_longitude": "-38.153147"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Monteiro, Monteiro - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.891560",
+          "refe_longitude": "-37.123897"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Cachoeira dos \u00cdndios, Cachoeira dos \u00cdndios - PARA\u00cdBA",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.926011",
+          "refe_longitude": "-38.674152"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "Av. Severino Josino Guerra, BR 101 - km 53 - Paratibe, Paulista - PE, 53413-205, Brasil",
+        "refe_latitude": -7.972634,
+        "refe_longitude": -34.922637
+      },
+      "viag_previsao_inicio": "05/09/2023 08:00:00",
+      "viag_previsao_fim": "07/09/2023 10:05:02"
+    }
+  ]
+}"

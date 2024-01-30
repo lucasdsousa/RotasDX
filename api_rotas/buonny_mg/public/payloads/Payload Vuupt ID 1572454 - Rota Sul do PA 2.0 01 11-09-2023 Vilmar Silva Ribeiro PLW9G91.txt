@@ -1,0 +1,452 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001499",
+  "cnpj_embarcador": "05092901001499",
+  "cnpj_transportador": "05092901001499",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1572454,
+  "numero_liberacao": 1572454,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "VILMAR SILVA RIBEIRO",
+    "cpf": "00855865369",
+    "telefone": "+5599991363967"
+  },
+  "veiculos": {
+    "placa": "PLW9G91"
+  },
+  "origem": {
+    "codigo_externo": "05092901001499",
+    "descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+    "latitude": -5.4451,
+    "longitude": -47.47358
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "11/09/2023 08:00:00",
+  "data_previsao_fim": "15/09/2023 09:32:25",
+  "itinerario": {
+    "alvo": [
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21417",
+            "descricao": "POLIDRAU COMERCIO E SERVICOS LTDA",
+            "latitude": "-6.753648",
+            "longitude": "-51.071017",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 14:12:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "54.88"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19481",
+            "descricao": "MODESTO CASTRO E FRIED LTDA",
+            "latitude": "-6.751957",
+            "longitude": "-51.076284",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 14:22:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "4540"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "42951",
+            "descricao": "BENEILTON GOMES FARIAS",
+            "latitude": "-6.755575",
+            "longitude": "-51.073096",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 15:22:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "113.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "44784",
+            "descricao": "CITY POSTO LTDA",
+            "latitude": "-6.747231",
+            "longitude": "-51.151638",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-11 15:52:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "464.04"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22334",
+            "descricao": "C & R COMERCIO DE COMBUSTIVEIS LTDA",
+            "latitude": "-6.750164",
+            "longitude": "-51.144366",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 04:52:04",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1989.86"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "21417",
+            "descricao": "POLIDRAU COMERCIO E SERVICOS LTDA",
+            "latitude": "-6.753648",
+            "longitude": "-51.071017",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:29:07",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "128.8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "49988",
+            "descricao": "DISK PECAS COM DE PECAS EIRELI",
+            "latitude": "-6.756129",
+            "longitude": "-51.149923",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 18:38:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "314.5"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "22367",
+            "descricao": "OURILANDIA COMERCIO DE COMBUSTIVEL LTDA",
+            "latitude": "-6.755563",
+            "longitude": "-51.061771",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:08:45",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "2364.87"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19470",
+            "descricao": "J GOMES VIEIRA FILHO EIRELI",
+            "latitude": "-6.746689",
+            "longitude": "-51.152041",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 19:39:53",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "920"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "49788",
+            "descricao": "ROCHA ROCHA PECAS E SERVICOS LTDA ME",
+            "latitude": "-6.749448",
+            "longitude": "-51.151254",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 20:13:27",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "185.2"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "19470",
+            "descricao": "J GOMES VIEIRA FILHO EIRELI",
+            "latitude": "-6.746689",
+            "longitude": "-51.152041",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 20:31:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "1135"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "23646",
+            "descricao": "ANDRADE E SOUSA COM. DE PECAS E FERRAMENTAS LTDA",
+            "latitude": "-6.640002",
+            "longitude": "-51.983577",
+            "tipo_parada": "3",
+            "previsao_de_chegada": "2023-09-12 21:01:35",
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "0",
+                  "volume": "0",
+                  "peso": "677.33"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "48808908000152",
+            "descricao": "LIV COMERCIO DE PECAS PARA CAMINHOES LTDA",
+            "latitude": "-23.543205",
+            "longitude": "-49.248817",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "2646",
+                  "volume": "9",
+                  "peso": "169.391"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46157011000180",
+            "descricao": "TALA AUTO PECAS LTDA",
+            "latitude": "-23.982546",
+            "longitude": "-48.878892",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "6210",
+                  "volume": "33",
+                  "peso": "620.1"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "24786823000152",
+            "descricao": "AUTO POSTO DO CARLINHOS LTDA",
+            "latitude": "-22.122224",
+            "longitude": "-51.174518",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "1560",
+                  "volume": "5",
+                  "peso": "113.503"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "29745873000105",
+            "descricao": "MARCELO RODRIGUES BLOCOS LTDA",
+            "latitude": "-21.212274",
+            "longitude": "-50.467376",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "327.86",
+                  "volume": "1",
+                  "peso": "18.295"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "alvo": [
+          {
+            "codigo_externo": "46981849000194",
+            "descricao": "EVERTON GABRIEL DA SILVA",
+            "latitude": "-21.204824",
+            "longitude": "-50.441390",
+            "tipo_parada": "3",
+            "previsao_de_chegada": null,
+            "dados_da_carga": {
+              "carga": [
+                {
+                  "NF": "1",
+                  "serie_nf": "001",
+                  "tipo_produto": "431",
+                  "valor_total_nf": "304.9",
+                  "volume": "1",
+                  "peso": "22.7"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}{"sucesso":null,"erros":["Dados incorretos"]}

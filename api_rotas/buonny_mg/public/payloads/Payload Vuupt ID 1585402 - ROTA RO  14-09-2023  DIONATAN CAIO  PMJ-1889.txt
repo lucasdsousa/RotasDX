@@ -1,0 +1,42 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1585402,
+  "numero_liberacao": 1585402,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "DIONATAN CAIO TAVARES DE SOUZA",
+    "cpf": "52886239291",
+    "telefone": "+5569999304580",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "PMJ1889"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0021-18",
+    "descricao": "Dunax Lubrificantes LTDA  - RO"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "15/09/2023 00:30:00",
+  "data_previsao_fim": "15/09/2023 22:43:13",
+  "itinerario": {
+    "alvo": []
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["O Ve\u00edculo PMJ1889 est\u00e1 sem sinal. N\u00e3o \u00e9 poss\u00edvel prosseguir com a viagem. Consulte o <a href=\"https:\/\/ajudaportal.buonny.com.br\/wp-content\/uploads\/2023\/08\/transferencia-de-sinal-2.pdf\">manual<\/a> referente a tecnologia no seu ve\u00edculo.\n                    <br><br>\n                    Voc\u00ea pode: \n                    <br><br>\n                        1 - Verificar se o ve\u00edculo est\u00e1 espelhado para a Buonny;  <br>\n                        2 - Verificar se o <a href=\"https:\/\/portal.buonny.com.br\/portal\/veiculos\/adicionar_veiculo\" target=\"_blank\">cadastro do ve\u00edculo<\/a> est\u00e1 correto; <br>\n                        3 - Orientar o condutor a ligar a igni\u00e7\u00e3o e movimentar o ve\u00edculo; <br>\n                        4 - Enviar uma mensagem livre de teste.\n                    "]}

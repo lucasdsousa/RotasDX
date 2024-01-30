@@ -1,0 +1,41 @@
+Response: "<Response [200]>"{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5C65"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06846525521"
+        }
+      ],
+      "rota_descricao": "ROTA SP 02  31/08/2023 CLEONIS DOS SANTOS RPB-5C65",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Avenida Magistrado Renato Salles Abreu, 714, Prolongamento Jardim Aeroporto I, Franca - SP 14404-090, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-20.573511",
+          "refe_longitude": "-47.376813"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "31/08/2023 09:00:00",
+      "viag_previsao_fim": "01/09/2023 12:08:09"
+    }
+  ]
+}

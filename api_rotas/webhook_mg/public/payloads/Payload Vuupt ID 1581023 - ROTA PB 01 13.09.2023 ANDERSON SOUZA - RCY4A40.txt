@@ -1,0 +1,101 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCY4A40"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "07246512411"
+        }
+      ],
+      "rota_descricao": "ROTA PB 01 13.09.2023 ANDERSON SOUZA - RCY4A40",
+      "origem": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Julia Ribeiro, 11, Cristo Redentor, Joao Pessoa - PB 58070-420, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.153848",
+          "refe_longitude": "-34.873268"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Joao Albino Meireles, 111, Popular, Santa Rita - PB 58301-570, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.137057",
+          "refe_longitude": "-34.983486"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua Inspetora Emilia Mendonca Gomes, 47, Valentina de Figueiredo, Joao Pessoa - PB 58064-360, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.206178",
+          "refe_longitude": "-34.846449"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Luiz Carlos Crispim Pimentel, 631, Costa e Silva, Joao Pessoa - PB 58082-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.174029",
+          "refe_longitude": "-34.897997"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Prefeito Luiz Alberto Moreira Coutinho, 501, Mangabeira, Joao Pessoa - PB 58058-800, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.166541",
+          "refe_longitude": "-34.834097"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rua Hortencio Ribeiro de Luna, 3777, Distrito Industrial, Joao Pessoa - PB 58081-400, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.188838",
+          "refe_longitude": "-34.902963"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Avenida Ministro Jose Americo de Almeida, 1221, Torre, Joao Pessoa - PB 58040-300, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.128252",
+          "refe_longitude": "-34.859291"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rua Coronel Benevenuto Goncalves da Costa, 20, Mangabeira, Joao Pessoa - PB 58056-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.172468",
+          "refe_longitude": "-34.836999"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Liberdade, 3859 - Baralho, Bayeux - PB, 58307-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-7.125962",
+          "refe_longitude": "-34.927533"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Maria Presotto Pucci, 600 - Distrito Industrial, Jo\u00e3o Pessoa - PB, 58082-014, Brasil",
+        "refe_latitude": -7.17952,
+        "refe_longitude": -34.902323
+      },
+      "viag_previsao_inicio": "13/09/2023 05:00:00",
+      "viag_previsao_fim": "13/09/2023 14:12:23"
+    }
+  ]
+}"

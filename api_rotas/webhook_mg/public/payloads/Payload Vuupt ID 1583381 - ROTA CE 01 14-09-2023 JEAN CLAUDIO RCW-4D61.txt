@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000944,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RCW4D61"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "70255776349"
+        }
+      ],
+      "rota_descricao": "ROTA CE 01 14/09/2023 JEAN CLAUDIO RCW-4D61",
+      "origem": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Praca Umbelino Cavalcante, 28, Centro, Quipapa - PE 55415-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.825752",
+          "refe_longitude": "-36.013519"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "S\u00e3o Jos\u00e9 da Coroa Grande - PE, 55565-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.889757",
+          "refe_longitude": "-35.151541"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Rua W 04, SN, Loteamento Cidade Nova, Escada - PE 55500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.371016",
+          "refe_longitude": "-35.226867"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rodovia BR 101, S/N, Canto Escuro, Escada - PE 55500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328900",
+          "refe_longitude": "-35.106843"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rodovia BR 101, S/N, Canto Escuro, Escada - PE 55500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.328900",
+          "refe_longitude": "-35.106843"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Rodovia BR 101, SN, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.678629",
+          "refe_longitude": "-35.580873"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia BR 101, SN, Santa Rosa, Palmares - PE 55540-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.678629",
+          "refe_longitude": "-35.580873"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Rodovia BR 101, S/N, Canavial, Ribeirao - PE 55520-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-8.496721",
+          "refe_longitude": "-35.373967"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. Jos\u00e9 Abreu Pita Pinheiro, 573, Itaitinga - CE, 61880-000, Brasil",
+        "refe_latitude": -3.910781,
+        "refe_longitude": -38.529128
+      },
+      "viag_previsao_inicio": "14/09/2023 07:00:00",
+      "viag_previsao_fim": "14/09/2023 16:42:31"
+    }
+  ]
+}"

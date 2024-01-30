@@ -1,0 +1,133 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583758,
+  "numero_liberacao": 1583758,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "Marcionilo pedro",
+    "cpf": "89969197487",
+    "telefone": "+5585981610390",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "QEH0E00"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0007-60",
+    "descricao": "Dunax Lubrificantes LTDA- PB"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 19:00:00",
+  "data_previsao_fim": "16/09/2023 01:19:45",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "04.898.374/0001-27",
+        "descricao": "JOSE AUGUSTO MARQUES",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 20:48:09",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2788",
+              "volume": "10",
+              "peso": "185.025"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "09.404.971/0001-71",
+        "descricao": "POSTO DE COMBUSTIVEIS RIACHAO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:25:44",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1714.5",
+              "volume": "6",
+              "peso": "119.354"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "21.943.778/0001-04",
+        "descricao": "BARROS COMERCIO DE COMBUSTIVEL E CONVENIENCIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:36:10",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "3455",
+              "volume": "13",
+              "peso": "198.891"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "02.186.341/0002-00",
+        "descricao": "MONTEIRO PECAS COMERCIO E SERVICOS PARA VEICULOS EIRELI FL02",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:18:44",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "14250",
+              "volume": "250",
+              "peso": "5725"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "02.323.033/0002-89",
+        "descricao": "UNIDAS VEICULOS E SERVICOS LTDA FILIAL 02",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:50:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "9000",
+              "volume": "150",
+              "peso": "3435"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["Regra de Aceite \"151148\" do Embarcador - A tecnologia TELEMONITORADOS (SEM TECNOLOGIA) n\u00e3o \u00e9 permitida&#10;"]}

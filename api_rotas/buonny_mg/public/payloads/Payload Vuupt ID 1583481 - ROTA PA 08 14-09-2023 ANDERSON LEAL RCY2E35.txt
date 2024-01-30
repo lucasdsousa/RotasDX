@@ -1,0 +1,223 @@
+Response: "<Response [200]>"{
+  "autenticacao": {
+    "token": "f468c988df609e785bffad98a960d6c9"
+  },
+  "cnpj_cliente": "05092901001227",
+  "cnpj_embarcador": "05092901001227",
+  "cnpj_transportador": "05092901001227",
+  "cnpj_gerenciadora_de_risco": "0",
+  "pedido_cliente": 1583481,
+  "numero_liberacao": 1583481,
+  "tipo_de_transporte": "2",
+  "controle_temperatura": {
+    "de": 0,
+    "Ate": 0
+  },
+  "Observacao": "0",
+  "motorista": {
+    "nome": "ANDERSON LEAL DA SILVA",
+    "cpf": "83944540204",
+    "telefone": "+5591989031274",
+    "radio": "0"
+  },
+  "veiculos": {
+    "placa": "RCY2E35"
+  },
+  "origem": {
+    "codigo_externo": "05.092.901/0008-40",
+    "descricao": "Dunax Lubrificantes LTDA - PA"
+  },
+  "monitorar_retorno": 0,
+  "data_previsao_inicio": "14/09/2023 21:00:00",
+  "data_previsao_fim": "14/09/2023 21:32:38",
+  "itinerario": {
+    "alvo": [
+      {
+        "codigo_externo": "33.090.721/0018-37",
+        "descricao": "MARIANO E GUIMARAES LTDA FILIAL 18",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 21:34:26",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "10600",
+              "volume": "200",
+              "peso": "4580"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "23.671.550/0001-38",
+        "descricao": "H T COMERCIO DE PETROLEO LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:45:05",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "5300",
+              "volume": "100",
+              "peso": "2290"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "11.601.184/0001-61",
+        "descricao": "ARLINDO FONSECA LINS E CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 20:06:53",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1590",
+              "volume": "30",
+              "peso": "687"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "32.479.720/0001-78",
+        "descricao": "M L DE SOUZA COMERCIO DE PECAS",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 22:30:00",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2284",
+              "volume": "6",
+              "peso": "110.978"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "35.404.029/0001-13",
+        "descricao": "POSTO CANAVIAL LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "14/09/2023 23:35:25",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "9914",
+              "volume": "29",
+              "peso": "614.803"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "51.454.459/0001-04",
+        "descricao": "WILSON SOUTO SERIVCOS AUTOMOTIVOS LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 00:37:08",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "2117",
+              "volume": "7",
+              "peso": "140.811"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "11.309.713/0001-58",
+        "descricao": "CARLOS ALBERTO DA SILVA QUIPAPA ME",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 01:30:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1188",
+              "volume": "3",
+              "peso": "69.302"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.870.870/0001-54",
+        "descricao": "AUTO POSTO MD LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 02:00:52",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1400",
+              "volume": "20",
+              "peso": "458"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "22.870.870/0001-54",
+        "descricao": "AUTO POSTO MD LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 03:51:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "4966",
+              "volume": "18",
+              "peso": "332.26"
+            }
+          ]
+        }
+      },
+      {
+        "codigo_externo": "11.601.184/0001-61",
+        "descricao": "ARLINDO FONSECA LINS E CIA LTDA",
+        "tipo_parada": "3",
+        "previsao_de_chegada": "15/09/2023 07:00:19",
+        "dados_da_carga": {
+          "carga": [
+            {
+              "NF": "1",
+              "serie_nf": "001",
+              "tipo_produto": "431",
+              "valor_total_nf": "1590",
+              "volume": "30",
+              "peso": "687"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "iscas": {
+    "isca": []
+  },
+  "operacao_sm": "",
+  "codigo_sm": "",
+  "rota_codigo_externo": ""
+}		{"sucesso":null,"erros":["J\u00e1 existe uma SM com a placa RCY2E35 para este per\u00edodo&#10;"]}

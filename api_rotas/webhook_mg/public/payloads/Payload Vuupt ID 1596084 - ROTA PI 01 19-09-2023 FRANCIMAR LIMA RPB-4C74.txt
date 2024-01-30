@@ -1,0 +1,94 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB4C74"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "69665885391"
+        }
+      ],
+      "rota_descricao": "ROTA PI 01 19/09/2023 FRANCIMAR LIMA RPB-4C74",
+      "origem": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua Vereador Dionisio dos Santos, 1035, Tabuleta, Teresina - PI 64019-870, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123553",
+          "refe_longitude": "-42.799731"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "Rua Vereador Dionisio dos Santos, 1035, Tabuleta, Teresina - PI 64019-870, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123553",
+          "refe_longitude": "-42.799731"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "Avenida Miguel Rosa, 4609, Nossa Senhora das Gracas, Teresina - PI 64018-550, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.099927",
+          "refe_longitude": "-42.803104"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Treze de Maio, 4013 - Vermelha, Teresina - PI, 64018-285, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.123517",
+          "refe_longitude": "-42.799045"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Rua Valenca, 3875, Tabuleta, Teresina - PI 64018-535, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.122789",
+          "refe_longitude": "-42.798229"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "Avenida Maria Antonieta Burlamaqui, 5406-1, Santa Lia, Teresina - PI 64058-720, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.058882",
+          "refe_longitude": "-42.752038"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rua Capitao Wanderley, 1881, Picarreira I, Teresina - PI 64056-640, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.063237",
+          "refe_longitude": "-42.762307"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Avenida Joao XXIII, 812, Dos Noivos, Teresina - PI 64045-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.081025",
+          "refe_longitude": "-42.790715"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. B - Distrito Industrial, Teresina - PI, 64023-638, Brasil",
+        "refe_latitude": -5.144003,
+        "refe_longitude": -42.794986
+      },
+      "viag_previsao_inicio": "19/09/2023 10:30:00",
+      "viag_previsao_fim": "19/09/2023 15:10:10"
+    }
+  ]
+}"

@@ -1,0 +1,290 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000948,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "RPB5C65"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "06846525521"
+        }
+      ],
+      "rota_descricao": "ROTA SP 01 18/09/2023 CLEONIS DOS SANTOS RPB-5C65",
+      "origem": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "R. Onze de Agosto, 2570 - Jardim Lucila, Tatu\u00ed - SP, 18277-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.356213",
+          "refe_longitude": "-47.869730"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "R. Cel. Guilherme Francisco Wincler, 419 - Centro, Capela do Alto - SP, 18195-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.473568",
+          "refe_longitude": "-47.739005"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "R. Quinze de Novembro, 1801 - Jardim Modena, Tatu\u00ed - SP, 18276-010, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.356411",
+          "refe_longitude": "-47.859931"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "Rua Gov.Pedro de Toledo, 228 - Centro, Laranjal Paulista - SP, 18500-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.052556",
+          "refe_longitude": "-47.835263"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "Sarapu\u00ed, SP, 18225-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.640045",
+          "refe_longitude": "-47.826497"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. Lu\u00eds Andriolo, 20 - Vila Camar\u00e3o, Itapetininga - SP, 18205-700, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.605374",
+          "refe_longitude": "-48.055048"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rod. Sebasti\u00e3o Ferraz de Camargo Penteado, Guapiara - SP, 18310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.193996",
+          "refe_longitude": "-48.540814"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. Gov. Lucas Nogueira Garc\u00eas, 154 - Jardim Cruzeiro, Cap\u00e3o Bonito - SP, 18305-505, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.006651",
+          "refe_longitude": "-48.344164"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "Av. Pascoal Spaluto, 2075 - Capelinha, Buri - SP, 18290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.815766",
+          "refe_longitude": "-48.598569"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "R. Nelo Santucci - Buri, SP, 18290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.799222",
+          "refe_longitude": "-48.595070"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "R. Dr. Gabriel Ribeiro dos Santos, 359 - Apia\u00ed, SP, 18320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.515307",
+          "refe_longitude": "-48.847406"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Av. Expedicion\u00e1rios de Itapeva, 880 - Parque Cimentolandia, Itapeva - SP, 18400-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.980750",
+          "refe_longitude": "-48.897156"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "R. Cel. Queir\u00f3s, 57 - Centro, Itapeva - SP, 18400-465, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.979949",
+          "refe_longitude": "-48.872565"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rod. Francisco Alves Negr\u00e3o, 1 - Taquarivai, Taquariva\u00ed - SP, 18460-523, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.922764",
+          "refe_longitude": "-48.685415"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "R. Maria Antunes da Cruz, 30 - Chacara Santa Terezinha, Ara\u00e7oiaba da Serra - SP, 18190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.511523",
+          "refe_longitude": "-47.574919"
+        },
+        {
+          "vloc_sequencia": 16,
+          "vloc_descricao": "Rua 1 - Jardim Canuto, Guapiara - SP, 18310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.189699",
+          "refe_longitude": "-48.530014"
+        },
+        {
+          "vloc_sequencia": 17,
+          "vloc_descricao": "Buri, SP, 18290-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.798587",
+          "refe_longitude": "-48.597285"
+        },
+        {
+          "vloc_sequencia": 18,
+          "vloc_descricao": "Av. Alexandre Chauar, 558 - Per\u00edmetro Urbano, Sarapu\u00ed - SP, 18225-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.632420",
+          "refe_longitude": "-47.825593"
+        },
+        {
+          "vloc_sequencia": 19,
+          "vloc_descricao": "R. Sebasti\u00e3o Ferraz de Camargo Penteado, 1450 - \u00c1rea Industrial, Apia\u00ed - SP, 18320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.517722",
+          "refe_longitude": "-48.859441"
+        },
+        {
+          "vloc_sequencia": 20,
+          "vloc_descricao": "R. Rocha Miranda, 430 - Centro, Campina do Monte Alegre - SP, 18245-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.592532",
+          "refe_longitude": "-48.478998"
+        },
+        {
+          "vloc_sequencia": 21,
+          "vloc_descricao": "Rod. Sebasti\u00e3o Ferraz de Camargo Penteado, Guapiara - SP, 18310-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.193996",
+          "refe_longitude": "-48.540814"
+        },
+        {
+          "vloc_sequencia": 22,
+          "vloc_descricao": "Av. Manoel Vieira, 2142 - toledopolis, Ara\u00e7oiaba da Serra - SP, 18190-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.517422",
+          "refe_longitude": "-47.598422"
+        },
+        {
+          "vloc_sequencia": 23,
+          "vloc_descricao": "R. Maestro Edmundo Caciacarro, 37 - Vila Barth, Itapetininga - SP, 18205-330, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.594753",
+          "refe_longitude": "-48.050186"
+        },
+        {
+          "vloc_sequencia": 24,
+          "vloc_descricao": "R. Dr. Gabriel Ribeiro dos Santos, 299 - Centro, Apia\u00ed - SP, 18320-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.514818",
+          "refe_longitude": "-48.846497"
+        },
+        {
+          "vloc_sequencia": 25,
+          "vloc_descricao": "Unnamed Road, SP",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.109907",
+          "refe_longitude": "-48.806548"
+        },
+        {
+          "vloc_sequencia": 26,
+          "vloc_descricao": "Av. Pl\u00e1cido Batista da Silveira, 117 - Jardim Cruzeiro, Cap\u00e3o Bonito - SP, 18305-475, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-24.009337",
+          "refe_longitude": "-48.341742"
+        },
+        {
+          "vloc_sequencia": 27,
+          "vloc_descricao": "R. Jos\u00e9 Franco de Ara\u00fajo, 921 - Centro, Angatuba - SP, 18240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.494054",
+          "refe_longitude": "-48.412369"
+        },
+        {
+          "vloc_sequencia": 28,
+          "vloc_descricao": "Av. Adalberto Rocha, 546 - Per\u00edmetro Urbano, Guare\u00ed - SP, 18250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.370446",
+          "refe_longitude": "-48.187763"
+        },
+        {
+          "vloc_sequencia": 29,
+          "vloc_descricao": "R. S\u00e3o Paulo, 275 - Per\u00edmetro Urbano, Guare\u00ed - SP, 18250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.369881",
+          "refe_longitude": "-48.184081"
+        },
+        {
+          "vloc_sequencia": 30,
+          "vloc_descricao": "Av. Virg\u00edlio Trindade de \u00c1vila, 632 - Per\u00edmetro Urbano, Guare\u00ed - SP, 18250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.367096",
+          "refe_longitude": "-48.182314"
+        },
+        {
+          "vloc_sequencia": 31,
+          "vloc_descricao": "R. Pedro Foga\u00e7a Filho, 73 - CDHU, Paranapanema - SP, 18720-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.373831",
+          "refe_longitude": "-48.726316"
+        },
+        {
+          "vloc_sequencia": 32,
+          "vloc_descricao": "R. Cel. Lodovico Homem de G\u00f3es, 455 - Portal Novo Horizonte, Angatuba - SP, 18240-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.493992",
+          "refe_longitude": "-48.408158"
+        },
+        {
+          "vloc_sequencia": 33,
+          "vloc_descricao": "R. Jos\u00e9 In\u00e1cio Ribeiro, 1709 - Centro, Tagua\u00ed - SP, 18890-075, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.457804",
+          "refe_longitude": "-49.397066"
+        },
+        {
+          "vloc_sequencia": 34,
+          "vloc_descricao": "Guare\u00ed - SP, 18250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.381520",
+          "refe_longitude": "-48.199559"
+        },
+        {
+          "vloc_sequencia": 35,
+          "vloc_descricao": "R. L\u00e1zaro Bueno de Novaes - Floresta, Guare\u00ed - SP, 18250-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.358158",
+          "refe_longitude": "-48.185261"
+        },
+        {
+          "vloc_sequencia": 36,
+          "vloc_descricao": "Av. Capit\u00e3o Eug\u00eanio Gabriel, 401 - Jardim Dona Carmelia, Taquarituba - SP, 18740-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-23.542516",
+          "refe_longitude": "-49.248062"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "R. C\u00e2ndido P Lima, 302 - Jardin\u00f3polis, SP, 14680-000, Brasil",
+        "refe_latitude": -21.041428,
+        "refe_longitude": -47.812349
+      },
+      "viag_previsao_inicio": "18/09/2023 07:45:00",
+      "viag_previsao_fim": "22/09/2023 16:42:19"
+    }
+  ]
+}"

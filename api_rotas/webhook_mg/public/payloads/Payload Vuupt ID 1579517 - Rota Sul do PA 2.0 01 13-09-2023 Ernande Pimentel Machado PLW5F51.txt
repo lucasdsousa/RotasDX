@@ -1,0 +1,143 @@
+Response: "<Response [200]>" 
+Motorista: "Motorista OK" 
+Carro: "Carro OK" 
+Viagem: "Viagem OK" 
+Payload: "{
+  "viagem": [
+    {
+      "viag_ttra_codigo": 2,
+      "viag_pgpg_codigo": 9000935,
+      "viag_valor_carga": 100000,
+      "veiculos": [
+        {
+          "placa": "PLW5F51"
+        }
+      ],
+      "motoristas": [
+        {
+          "cpf_moto": "02138341380"
+        }
+      ],
+      "rota_descricao": "Rota Sul do PA 2.0 01 13/09/2023 Ernande Pimentel Machado PLW5F51",
+      "origem": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "locais": [
+        {
+          "vloc_sequencia": 1,
+          "vloc_descricao": "Rua A Rod PA 150 Km 07, Lt 22 Norte, Qd 14 - Nova Marab\u00e1, Marab\u00e1 - PA, 68504-034, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.345990",
+          "refe_longitude": "-49.080311"
+        },
+        {
+          "vloc_sequencia": 2,
+          "vloc_descricao": "AV. MARECHAL RONDON AV. MARECHAL RONDON, 1294, CENTRO, RONDON DO PAR? - PAR? 68638-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.774510",
+          "refe_longitude": "-48.070104"
+        },
+        {
+          "vloc_sequencia": 3,
+          "vloc_descricao": "FOLHA 26 QUADRA 03 LOTE 21A NOVA - Vila Militar Pres. Castelo Branco, Marab\u00e1 - PA, 68509-020, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.345767",
+          "refe_longitude": "-49.104333"
+        },
+        {
+          "vloc_sequencia": 4,
+          "vloc_descricao": "AV. ALACID NUNES, 480, CENTRO, ABEL FIGUEIREDO - PAR\u00c1 68527-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.954170",
+          "refe_longitude": "-48.397235"
+        },
+        {
+          "vloc_sequencia": 5,
+          "vloc_descricao": "PA-160, 48 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.080725",
+          "refe_longitude": "-49.867210"
+        },
+        {
+          "vloc_sequencia": 6,
+          "vloc_descricao": "R. V Duzentos e Quatro, 20-276 - Vila Militar Pres. Medice, Marab\u00e1 - PA, 68506, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.341281",
+          "refe_longitude": "-49.092526"
+        },
+        {
+          "vloc_sequencia": 7,
+          "vloc_descricao": "Rodovia PA 160 - Lote 18 E 19 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.078518",
+          "refe_longitude": "-49.866902"
+        },
+        {
+          "vloc_sequencia": 8,
+          "vloc_descricao": "Av. D, Quadra 76 - Lt 09 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.072238",
+          "refe_longitude": "-49.862917"
+        },
+        {
+          "vloc_sequencia": 9,
+          "vloc_descricao": "ROD. BR 222, SN, BELA VISTA, ABEL FIGUEIREDO - PAR\u00c1 68527-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.952503",
+          "refe_longitude": "-48.394598"
+        },
+        {
+          "vloc_sequencia": 10,
+          "vloc_descricao": "Rod. PA 160 Qd. 123 Lt. 13 - Cidade Jardim, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.079231",
+          "refe_longitude": "-49.866963"
+        },
+        {
+          "vloc_sequencia": 11,
+          "vloc_descricao": "AV. JK DE OLIVEIRA, 651, NOVA LUANDA, DOM ELISEU - PAR\u00c1 68633-000, BRASIL",
+          "tipo_parada": 3,
+          "refe_latitude": "-4.292601",
+          "refe_longitude": "-47.556802"
+        },
+        {
+          "vloc_sequencia": 12,
+          "vloc_descricao": "Rod. Gov. Augusto Montenegro, 11925-20377, Marab\u00e1 - PA, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-5.378195",
+          "refe_longitude": "-49.076352"
+        },
+        {
+          "vloc_sequencia": 13,
+          "vloc_descricao": "Av. Liberdade, N264 - Da Paz, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.079537",
+          "refe_longitude": "-49.885410"
+        },
+        {
+          "vloc_sequencia": 14,
+          "vloc_descricao": "Rodovia Faruk Salmen, Quadra 40, Lote 11 - Vila Rica, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.040649",
+          "refe_longitude": "-49.896624"
+        },
+        {
+          "vloc_sequencia": 15,
+          "vloc_descricao": "Av. F, 5 - Beira Rio, Parauapebas - PA, 68515-000, Brasil",
+          "tipo_parada": 3,
+          "refe_latitude": "-6.074038",
+          "refe_longitude": "-49.879798"
+        }
+      ],
+      "destino": {
+        "vloc_descricao": "BR-010, Imperatriz - MA, 65909-170, Brasil",
+        "refe_latitude": -5.4451,
+        "refe_longitude": -47.47358
+      },
+      "viag_previsao_inicio": "13/09/2023 13:30:00",
+      "viag_previsao_fim": "16/09/2023 08:30:14"
+    }
+  ]
+}"
