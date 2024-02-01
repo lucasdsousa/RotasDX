@@ -30,18 +30,18 @@ bases = []
 config = configparser.ConfigParser()
 config.read('config.ini')
 
-user_GR = 'dulub'
-pass_GR = 'dulub2023'
+user_GR = ''
+pass_GR = ''
 
-token_vuupt_BA = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI5MzcxZDcyYi0xZTVjLTQ2OGYtOTRmNi02YjM0Yzk2NDg3N2MiLCJqdGkiOiJjNjYzY2ZlZjI0ZTAyZjQ3MzllYTgzMDczMTAyYWNmYzdkODhhNjMwMWJkNWM2OTU0NWViMjg3YTFkYzE4NzkyNjU3YTRmMmM3NGMyNWI5OCIsImlhdCI6MTY3OTkyODEzMC45MjMwOTIsIm5iZiI6MTY3OTkyODEzMC45MjMwOTUsImV4cCI6NDgzNTYwMTczMC45MDQ2ODgsInN1YiI6IjI0MDE5Iiwic2NvcGVzIjpbXX0.puMJYQySuHDRdA9PB2GRU-EGVXmhWUAgBQ9hD5jrXzNFiGuF8Vdmwoi4sP_y_SE8QzgHpJrjWZ8b7JAuFbMux_hxq6S7J17AYmfhVnB3MhQWnhrn0bmC8OQzL-CWXSHvv00qP_Yv7nPWPz-ULJH38JPY23U_RTg1g_3NNCse6Lzss7qDYB4bJVJ6Tzgtq821M3HKH0I2KsQ__s1-6zVcXuIrtehdCQAQMzdXzPp7jP5VPFqrDAdxTQJ3pGHx-5PfAKV81blrvg92CapJF9umLJpxVIXFCFBkJoAU6WCzNkueLNhBbXQw2oEuBS5C39PJ1cjchY6SKYmDJlj-nRixkpFZDwmZh4EczA6buZGIfZDXp5SqWFKHR-Os8PJcEUr1Ofv9t9mPhDa_ABkYephT3y4fjHD5eiVGwJpfhmXEj6kgpIn8uxhIATKJWz8OttfiRg2wHplGZAdKcTz_CsdIGZXwMdRZ0waZDjYHqlYKFQDSr0NZThT9gaFuTuC2PLHHrFXF9xCHvlmamGOEr2tD4Ln_yB5a9Xa2MGtiMTdLV4aUbIUyIWFSUqqOPaGMYjaDIBpakDOex2NPkThtXP5zKE76_VhwGmhM1D4wxKHMOsB33IFpvK1_BGKSl08uPcKtZPv2B0lWsz1TuCDJntz78v71GW3smaERRpupTCKY3Ao'
+token_vuupt_BA = ''
 
 headers_VPT = {'Authorization': 'Bearer ' +
                token_vuupt_BA, 'Content-Type': 'application/json'}
 
-db_host = 'localhost'
-db_port = '3306'
-db_user = 'dev'
-db_pass = '*dUNAX()1452@'
+db_host = ''
+db_port = ''
+db_user = ''
+db_pass = ''
 
 
 
