@@ -76,10 +76,10 @@ def webhook_ba(request):
                     cursor.execute('select idRota from rotas')
                     rotas = cursor.fetchall()
 
-                    rota_por_ID = 'https://api.vuupt.com/api/v1/routes?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % data.get('payload')['id']
+                    rota_por_ID = 'https:/api/v1/routes?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % data.get('payload')['id']
                     response_rota = requests.get(rota_por_ID, headers=headers_VPT).json()
 
-                    servicos_por_ID = 'https://api.vuupt.com/api/v1/services?filter[0][field]=route_id&filter[0][operator]=eq&filter[0][value]=%s' % data.get('payload')['id']
+                    servicos_por_ID = 'https:/api/v1/services?filter[0][field]=route_id&filter[0][operator]=eq&filter[0][value]=%s' % data.get('payload')['id']
                     response_servicos = requests.get(servicos_por_ID, headers=headers_VPT).json()
 
 
@@ -100,13 +100,13 @@ def webhook_ba(request):
                         hora_inicio = (datetime.strptime(response_rota['data'][0]['start_at'], "%Y-%m-%d %H:%M:%S") - timedelta(hours = 3)).strftime("%d/%m/%Y %H:%M:%S")
                         hora_final = (datetime.strptime(response_rota['data'][0]['prevision_finish_at'], "%Y-%m-%d %H:%M:%S") - timedelta(hours = 3)).strftime("%d/%m/%Y %H:%M:%S")
 
-                        motoristas = 'https://api.vuupt.com/api/v1/users?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['agent_id']
+                        motoristas = 'https://api/v1/users?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['agent_id']
                         response_driver = requests.get(motoristas, headers=headers_VPT).json()
 
-                        veiculos = 'https://api.vuupt.com/api/v1/vehicles?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['vehicle_id']
+                        veiculos = 'https://api/v1/vehicles?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['vehicle_id']
                         response_placa = requests.get(veiculos, headers=headers_VPT).json()
 
-                        base_inicial = 'https://api.vuupt.com/api/v1/operational-bases?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['start_location_base_id']
+                        base_inicial = 'https://api/v1/operational-bases?filter[0][field]=id&filter[0][operator]=eq&filter[0][value]=%s' % response_rota['data'][0]['start_location_base_id']
                         response_base = requests.get(base_inicial, headers=headers_VPT).json()
 
                         cursor.execute('select * from services where idRota = "%s"' % (response_rota['data'][0]['id']))
@@ -270,7 +270,7 @@ def webhook_ba(request):
                             print(status_v) '''
                                     
                         try:
-                            load = open('/home/ubuntu/Documents/Projects/Django/api_rotas/webhook_ba/public/payloads/Payload Vuupt ID %s - %s.txt' % (data.get('payload')['id'], data.get('payload')['name'].replace('/', '-')), 'w')
+                            load = open('./Payload Vuupt ID %s - %s.txt' % (data.get('payload')['id'], data.get('payload')['name'].replace('/', '-')), 'w')
                             payload = File(load)
                             payload.write('Response: "%s"' % (post_Viagens))
                             payload.write('Payload: "%s"' % json.dumps(viagens_GR, indent=2))
